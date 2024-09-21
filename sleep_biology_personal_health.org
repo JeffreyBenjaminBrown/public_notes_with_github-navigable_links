@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2b9e933d-ed88-4792-b80a-a9ff0988a56a
+:END:
+#+title: sleep (biology, personal health)
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_i_feel_when_i_ve_slept_better.org][how I feel when I've slept better]]
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/sleep_jbb.org][sleep \ jbb]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/co_sleeping.org][co-sleeping]]
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/sleep_rules.org][sleep rules]] I try to follow.

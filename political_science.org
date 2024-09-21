@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3570b8e0-1c1b-482c-bbb1-18c0151e2e4f
+:END:
+#+title: political science
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/political_economy.org][political economy]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/charter_cities_in_vr.org][charter cities in VR]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/crazy_things_nations_have_done.org][crazy things nations have done]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nationalism_xenophobia.org][nationalism & xenophobia]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/authoritarianism.org][authoritarianism]]
+* governance
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/civil_service_reform_in_the_us.org][Civil Service reform in the US]]
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/parliamentary_government.org][parliamentary government]]
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/head_of_state_vs_head_of_government.org][head of state vs. head of government]]

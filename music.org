@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       3e92ff4d-195a-4121-aa6c-13b83b303391
+:END:
+#+title: music
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/creativity.org][creativity]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/collect_data_to_adjust_velocity_curve.org][collect data to adjust velocity curve]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/music_and_consciousness.org][music and consciousness]]
+* Ideas for Pianoteq guitar aftertouch and vel curve
+** https://www.facebook.com/share/p/qKJSeBo3f777HnEq/?mibextid=oFDknk
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/todo_improv_music.org][TODO & improv \\ music]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/todo_recording_music.org][TODO & recording \\ music]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/todo_editing_music.org][TODO & editing \\ music]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/pitch_music.org][pitch]]
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/microtonality.org][microtonality]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/music_making_shared.org][music making, shared]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/music_composition_software.org][composition & software]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/music_production_and_electronics.org][production and electronics]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/music_composition_improvisation.org][composition & improvisation]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/songs_some.org][songs, bands and styles (to play)]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/improv_and_composition_music.org][improvised multitrack recording|composition (music)]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/songs_i_m_writing.org][songs I'm writing]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/musical_exercises.org][exercises]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/musical_fundamentals.org][musical fundamentals]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/microtonal_guitar.org][microtonal guitar]]
+* /home/jeff/code/music/jam-quiz
+** includes 24-edo language quiz
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/percussion.org][percussion]] | drums
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/musical_impoverishment.org][musical impoverishment]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/monome.org][monome]]
+* aborted
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/22_edo_guitar_shopping.org][22-edo guitar (shopping)]]
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/expression_pedals_to_usb.org][Expression Pedals to USB]]
+** Cam's challenge
+*** in 46-edo, play 0-17-32
+    because it's pretty harmonic (both are flat)
+    and it has the biggest possible vertical range on the Lumatone
+    (in my 4x7 tuning).

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       acfc9765-2924-4b12-99b0-ad49f676b09f
+:END:
+#+title: Colombian government entities
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/dian/aaa_comite_de_asuntos_aduaneros_y_arancelarios.org][AAA = Comité de Asuntos Aduaneros y Arancelarios]]
+* [[https://github.com/JeffreyBenjaminBrown/ofiscal/knowledge-graph/blob/master/banco_de_la_republica.org][Banco de la República]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/contaduria_general_de_la_nacion_colombian_government_entity.org][Contaduría General de la Nación (Colombian government entity)]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/contraloria.org][Contraloría General de la República (Colombia)]]
+* [[https://github.com/JeffreyBenjaminBrown/ofiscal/knowledge-graph/blob/master/dane_departamento_administrativo_nacional_de_estadistica.org][DANE (Departamento Administrativo Nacional de Estadística)]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/departamento_nacional_de_planeacion.org][Departamento Nacional de Planeacion]]
+* [[https://github.com/JeffreyBenjaminBrown/ofiscal/knowledge-graph/blob/master/dian_index_file_in_ofiscal_repo.org][Dirección de Impuestos y Aduanas Nacional (DIAN)]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/minhacienda.org][MinHacienda]] = Ministerio de Hacienda y Crédito Público = MHCP
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/procuraduria.org][Procuraduría]]

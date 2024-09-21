@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7af66981-1b1f-4861-81f1-5d9f0cbcb00f
+:END:
+#+title: authoritarianism
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hickvision_security_camera_manufacturer_in_china_explicitly_advertises_a_uyghur_detection_function.org][HickVision, security camera manufacturer in China, explicitly advertises a Uyghur detection function.]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8475bbbf-efbb-423e-901c-b464e807784c
+:END:
+#+title: parquet (file format)
+* Each line is a column, rather than a row.
+* It's much smaller than CSV
+  according to someone on HN, at least.
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/pandas_formats.org#pandas-can-export-to-parquet][Pandas can export to parquet.]]

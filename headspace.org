@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a4fdc0d7-8ad9-471c-a559-7bd932b0f486
+:ROAM_ALIASES: cognition
+:END:
+#+title: headspace
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/learning.org][learning, thinking and understanding]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/introspect-and-reprogram.org][introspect & reprogram]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emotion.org][emotion]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/empathy.org][empathy]]
+* Does plumbing my (recent) memory lead to less happy memories?
+** [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/2022_01_12_san_andres_la_piscina_and_a_rondon_dinner_with_boxing.org#the-longer-i-spend-writing-down-these-memories-the-less-happy-those-memories-become-its-like-my-memory-has-prioritized-the-good-stuff][It happened today]].
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/experience.org][experience]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mindfulness.org][mindfulness]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/spirituality.org][spirituality]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/choice.org][choice]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/aesthetics.org][aesthetics]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mental_health.org][mental health and fitness]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/neurologically_seeing_resembles_constrained_dreaming.org][Neurologically, seeing resembles constrained dreaming.]]

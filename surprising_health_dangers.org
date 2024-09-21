@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b5d0332d-c7a5-4f03-bda5-5c1bae785f7d
+:END:
+#+title: surprising health dangers
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/restaurant_dangers.org][restaurant dangers]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/bug_zapper.org#bug-zappers-explode-the-bugs-spread-pathogens][Bug zappers explode the bugs, spread pathogens.]]
+* Don't pee on chlorine!
+  ammonia + chlorine = nerve gas
+* lead poisoning
+** bright yellow turmeric (curcuma)
+** artisanal glazed ceramic cookware
+* to avoid endocrine disruptors
+  https://www.nytimes.com/2021/02/20/opinion/sunday/endocrine-disruptors-sperm.html?referringSource=articleShare
+** TODO Store food in glass containers, not plastic. Above all, don’t microwave foods in plastic or with plastic wrap on top.
+** TODO Prevent dust buildup.
+** Avoid pesticides.
+** Buy organic produce if possible.
+** Avoid tobacco and marijuana.
+** Use a cotton or linen shower curtain, not one made of vinyl.
+** Don’t use air fresheners.
+** Vet consumer products with an online guide like that of the Environmental Working Group.
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/air_quality.org][air quality]]
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_atlantic_says_gas_stoves_are_unhealthy.org][gas stoves]] bad

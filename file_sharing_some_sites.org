@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       43b4da04-7779-4f95-8bc5-371d3b8180f6
+:ROAM_ALIASES: "file sharing" "filesharing"
+:END:
+#+title: file-sharing, some sites
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/libgen.org][Library Genesis]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/scihub.org][SciHub]]
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/piratebay.org][PirateBay]]

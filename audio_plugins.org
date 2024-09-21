@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       31e37165-32fa-4735-add7-433911de7329
+:END:
+#+title: audio plugins
+* some formats
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/vst.org][VST]]
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/lv2.org][LV2]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/pd_can_be_used_as_a_plugin.org][PD can be used as a plugin]]

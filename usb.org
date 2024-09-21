@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d9643a9e-ff85-480c-9f26-902f0c30059a
+:ROAM_ALIASES: "universal serial bus"
+:END:
+#+title: USB
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/a_bad_usb_cable_can_look_like_a_software_problem.org][A bad USB cable can look like a software problem.]]

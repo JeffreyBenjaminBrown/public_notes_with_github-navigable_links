@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e1eda15a-df86-4050-b150-e8034ae49019
+:ROAM_ALIASES: "nixos-rebuild"
+:END:
+#+title: nixos-rebuild (command)
+* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/why_isn_t_nixos_rebuild_building_anything.org][if nixos-rebuild isn't building anything]]
+  it might be that the channel needs updating.
+* nixos-rebuild --keep-failed / -K
+  to avoid re-downloading data the next time I try to rebuild
+* to rebuild but not switch
+  sudo nixos-rebuild test
+* to rebuild NixOS nicely
+:PROPERTIES:
+:ID:       5d575d7a-e417-4807-813b-61bea82e9cff
+:END:
+  sudo nice -n 19 nixos-rebuild switch

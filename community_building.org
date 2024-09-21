@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f514b748-c188-4b71-afcd-48206b62a67e
+:END:
+#+title: community-building
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/a_tactical_guide_to_kickstarting_your_community.org][A tactical guide to kickstarting your community]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6972d099-7ff6-47ba-ac67-1898ef5fd549
+:END:
+#+title: science
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sciences.org][a list of sciences]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/science_and_research_institutions.org][methods and institutions for science and research]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       eba4ebb6-97ef-4750-9da4-63eac262820a
+:END:
+#+title: ear training
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/francois_chagnon_s_online_ear_training_app.org][François Chagnon's online ear training app]]

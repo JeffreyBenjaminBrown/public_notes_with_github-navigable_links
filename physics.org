@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       63f9d861-b563-426f-826a-ba2153429314
+:END:
+#+title: physics
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/acoustics.org][acoustics]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/entropy_is_not_unambiguous.org][Entropy is not unambiguous]].
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/physics_in_vacuum.org][physics // on the moon | in a vacuum]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/astronomy.org][astronomy]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/radiation.org][radiation]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/relativity.org][relativity]]
+** the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/lorentz_transformation.org][Lorentz transformation]]

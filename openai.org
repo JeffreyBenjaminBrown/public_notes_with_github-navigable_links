@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8b580c03-cae2-455a-9135-f9bfd0929599
+:END:
+#+title: OpenAI
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/chatgpt.org][ChatGPT]] (large language model)
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/openai_jukebox.org][Jukebox]] (music generator)

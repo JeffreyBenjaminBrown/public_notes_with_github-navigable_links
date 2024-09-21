@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b6b05dc0-b157-455e-a7b2-3a1959fe1957
+:END:
+#+title: animals
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/animals_and_understanding.org][animals and understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/cool_things_chimps_do.org][cool things chimps do]]

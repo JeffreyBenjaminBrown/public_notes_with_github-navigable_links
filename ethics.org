@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       721b9b4d-63cc-473f-8ccb-bfc8d22240d9
+:END:
+#+title: ethics
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ethical_obligations_to_one_s_other_selves.org][ethical obligations to one's other selves]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/be_fascinated_by_lived_ethical_challenges.org][Be immediately fascinated by (lived) ethical challenges.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/spirituality.org#spirituality--ethics--aesthetics][spirituality = ethics + aesthetics?]]

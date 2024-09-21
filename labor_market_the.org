@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2aafd0d3-96d9-4be2-a2b5-a2dfe15017f7
+:END:
+#+title: labor market, the
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/llms_taking_jobs_washington_post_2023_06_02.org][LLMs taking jobs, Washington Post, 2023-06-02]]

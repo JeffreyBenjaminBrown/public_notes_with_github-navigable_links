@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e7a68f0b-f932-4978-9636-88a4ecbe639c
+:END:
+#+title: art
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/music.org][music]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_constraints_help_art.org][how constraints help \ art]]

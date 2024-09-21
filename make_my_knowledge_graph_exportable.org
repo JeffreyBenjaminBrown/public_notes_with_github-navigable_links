@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c7223b24-b896-45f4-bc1f-40ba0804f76d
+:END:
+#+title: Make my knowledge graph exportable.
+* plan
+** create an export ".md" version of each file,
+   substituting filepaths for the IDs.
+** To link to property drawers internal to a file,
+   I will need [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/anchor_to_create_one_in_github_flavored_markdown.org][anchors in Markdown]].
+* TODO experiment with markdown and headings
+  Before thinking about org stuff,
+  try linking to a heading in a file from within that file,
+  or within another file.
+  What if two headings share the same text?
+* once my notes are linkable online
+  tell Nicole

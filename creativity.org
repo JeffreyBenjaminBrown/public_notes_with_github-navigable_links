@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       23f44ea1-7b89-4cdf-954d-770ca1483264
+:END:
+#+title: creativity
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/tour_of_synonyms.org][tour of synonyms]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/creating_can_take_courage.org][Creating can take courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ai_and_art.org][AI and art]]
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/creative_jbb.org][creative \ jbb]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       13aba0e9-33c1-4f2b-906c-4ab3ab683522
+:END:
+#+title: emotional ambition
+* It seems right to have them.
+  To want, for instance, deeper relationships,
+  or to be moved to tears by art.
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/happiness_must_be_a_priority.org][Happiness must be a priority.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/second_order_awareness_is_enough.org][Second-order awareness.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/wonder.org][wonder]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emotions_can_be_decomposed_into_sensations.org][Emotions can be decomposed into sensations.]]

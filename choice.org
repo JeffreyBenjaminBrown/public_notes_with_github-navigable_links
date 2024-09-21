@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4c25a3eb-4f21-4c20-9fee-2a18275ca089
+:END:
+#+title: choice
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/specialization_graph_search.org][specialization & graph search]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/motivation.org][motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ethics.org][ethics]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/wasted_mental_cycles.org][mental waste]]
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/my_priorities.org][my priorities]]

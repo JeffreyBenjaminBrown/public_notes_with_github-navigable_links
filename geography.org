@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c0650349-d298-4ede-bad2-704bb4f1296f
+:ROAM_ALIASES: geolocation
+:END:
+#+title: geography
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/exiftool_using_it_to_get_a_photo_s_geolocation.org][using exiftool to get a photo's geolocation]]
+* online geography games
+:PROPERTIES:
+:ID:       b9db2e1e-6d06-4b7d-b290-d77eb3e9bf22
+:END:
+  https://geopuzzle.org/puzzle/easy/
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/humanity_appears_to_have_passed_peak_agricultural_land.org][Humanity appears to have passed "peak agricultural land".]]

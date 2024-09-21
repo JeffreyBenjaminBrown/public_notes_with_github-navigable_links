@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       63143900-40d2-42c5-8b76-4f5cb7713333
+:END:
+#+title: hikes around Bogotá
+* The app is called Caminos Cerros Orientales.
+* For the city's (official?) ones, can give someone else's ID.
+* some hikes that PUJ does
+  via Phys ed
+** Musas de agua
+** Entre nubes
+** Cruz Roja
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/hiking_group_on_facebook_via_gina.org][hiking group on Facebook, via Gina]]

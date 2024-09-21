@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       4dbfdf07-f760-403d-9bcf-cddd14154fd1
+:END:
+#+title: types in Nu
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/in_nu_not_every_well_formed_expression_appears_to_have_a_type.org][Not every well-formed expression appears to have a type.]]
+* to show an expression's type: use "describe"
+  42 | describe
+* to cast: use "into"
+  "-5" | into int
+* special number or number-adjacent data types
+** date
+*** convert date to table
+    date now | date to-table
+** duration
+** range
+*** closed [] ranges
+    1..3
+    includes both endpoints.
+*** half-open [) ranges
+    1..<5
+    The reverse (] appears not to be available.
+*** infinite
+    0.. | take 5
+** size (of file)
+** binary
+   > 0x[1F FF]  # Hexadecimal
+   > 0b[1 1010] # Binary
+   > 0o[777]    # Octal
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/strings_in_nu.org][strings in Nu]]
+* durations permit math
+  /home/jeff〉30day / 1sec                          10/12/2022 08:44:52 PM
+  2592000
+* collections
+** "records" are product types
+*** example
+    /home/jeff〉echo {name: sam, rank: 10}            10/12/2022 09:46:40 PM
+    ╭──────┬─────╮
+    │ name │ sam │
+    │ rank │ 10  │
+    ╰──────┴─────╯
+*** nested example
+    /home/jeff〉echo {name: {a:1,b:2}, rank: 10}      10/12/2022 09:48:08 PM
+    ╭──────┬───────────────────╮
+    │ name │ {record 2 fields} │
+    │ rank │ 10                │
+    ╰──────┴───────────────────╯
+*** retrieve a field
+    {a:1} | get a
+** lists
+   [sam fred george]
+** tables
+*** can be input as a list titles plus a list of lists
+    a list of column names + a list of rows (also lists).
+    The semicolon and brackets below are important,
+    but some of the whitespace could be a comma instead.
+
+    > echo [[name1 name2];
+            [1 2] [4 5]]
+*** can be input as a list of (inhomogeneous!) records
+    echo [ {name: sam, rank: 10},
+           {name: bob, a:2, rank: 7} ]
+
+    ╭───┬──────┬──────┬────╮
+    │ # │ name │ rank │ a  │
+    ├───┼──────┼──────┼────┤
+    │ 0 │ sam  │   10 │ ❎ │
+    │ 1 │ bob  │    7 │  2 │
+    ╰───┴──────┴──────┴────╯
+*** retrieve a column
+    ps | get status
+*** sort a table
+    ls | sort-by size | reverse
+*** filter a table
+    ls | where size > 1kb
+* column paths
+** idea
+   Tables can be ("inhomogeneous tensors"?).
+   Column paths point to some linear subspace.
+** example
+   open data.toml | get foo.0.bar
+                        ^^^^^^^^^
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nu_code_blocks.org][Nu (code) blocks]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nu_code_groups.org][Nu (code) groups]]

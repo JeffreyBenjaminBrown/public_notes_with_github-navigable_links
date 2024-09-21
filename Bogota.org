@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       e93ab75c-3c2b-422f-959f-2216de60d4fd
+:END:
+#+title: Bogotá
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/water_rationing_in_bogota.org][water rationing in Bogotá]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/jazz_places_in_bogota.org][jazz places in Bogota]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hikes_around_bogota.org][hikes around Bogotá]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/fun_things_in_bogota.org][fun things in Bogotá]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/restaurants_in_bogota.org][restaurants in Bogotá]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/builders_in_bogota.org][builders in Bogotá]] | contractors (construction, demolition) in Bogotá
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/lawyers_in_bogota.org][lawyers in Bogotá]]
+* hotels in Bogotá
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hotel_suamox.org][Hotel Suamox]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/costureras_in_galerias.org][costureras in Bogotá]]
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/finding_movers_in_bogota_2022_09_12.org][finding movers in Bogotá, 2022-09-12]]
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/instalacion_de_vidrios.org][instalación de vidrios]] en Bogotá
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/health_facilities_in_bogota.org][health facilities in Bogotá]]
+* plant sellers in Bogotá
+** [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/santiago_oruela_sells_plants_in_bogota.org][Santiago Oruela]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/air_quality_map_of_bogota.org][Bogotá air quality map]]
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/moderatto_home_furniture_store_in_bogota.org][Moderatto Home : furniture]]
+  tag muebles
+* tailors in Bogotá
+** [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/disenos_noelia_zuluaga.org][Noelia Zuluaga]]
+* optical | optometry in Bogotá
+** Óptica Barcelona : cra 10 & cl 19
+* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/hospitals_medical_establishments_jbb.org][hospitals & medical establishments]]

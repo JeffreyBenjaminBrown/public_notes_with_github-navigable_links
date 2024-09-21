@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       667bf4ea-d99d-41bb-98a9-368a86877e3e
+:END:
+#+title: why knowledge graphs matter
+* Users control their own views.
+** against The Feed Algorithm
+   Rather than only seeing their opaque algorithmic,
+   often destructive, and usually at least somewhat dumb "feed".
+** Cut through spam.
+   identify bots and (human-powered) comment farms,
+   through a collective identification effort.
+* Users can query to judge sources.
+** The viewer can see what they themselves, or others, have marked as false among a writer's earlier posts, and the evidence for or against.
+* science, how distributed knowledge graphs could help
+** These smell much like the benefits of [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/preregistration.org][preregistration]].
+** some reasons
+*** Quicker publishing (like Twitter or ArXiV)
+*** solves the problem of [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/losing_negative_results_scientific_publishing_problem.org][losing negative results (scientific publishing problem)]]
+*** don't duplicate effort
+    In particular, if crawling bots recognize statement equivalence, this would permit a fact-checker to simultaneously debunk myriad voicings of a false claim. All of them, if the crawling were sufficiently extensive and the equivalence recognition sufficiently robust.
+*** lets you see what kinds of research have proven too hard to finish.

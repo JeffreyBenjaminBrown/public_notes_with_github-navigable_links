@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       de110b55-dcb8-4492-bda9-925f90dc2377
+:END:
+#+title: What *is* good conversation?
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/conversation_starters.org][conversation techniques]]

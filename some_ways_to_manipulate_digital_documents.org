@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       082cfa49-50e3-4332-9072-282b65aad5eb
+:ROAM_ALIASES: "image manipulation" "digital image manipulation"
+:END:
+#+title: some ways to manipulate digital documents
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_ways_to_manipulate_digital_images.org][some ways to manipulate digital images]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_ways_to_manipulate_pdfs.org][some ways to (create and) manipulate PDFs]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_create_an_mp4_from_a_wav_and_a_png.org][how to create an .mp4 from a .wav and a .png]]
+* DONE install these
+  pdftk, gs, gimp
+  and maybe install imagemagick

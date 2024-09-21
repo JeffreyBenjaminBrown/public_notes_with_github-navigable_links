@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9229a918-375c-4e1b-b775-bf5da596a371
+:END:
+#+title: engineering
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/shade_balls_and_resevoirs.org][shade balls and resevoirs]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/a_giant_marble_quarry.org][a giant marble quarry]]

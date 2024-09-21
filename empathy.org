@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e31ef49a-1cc3-417f-b1db-3d9f5c258abd
+:END:
+#+title: empathy
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/refuse_to_feel_something_and_you_are_cut_off_from_the_people_who_do.org][Refuse to feel something and you are cut off from the people who do.]]

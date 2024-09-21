@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9ec55e32-f974-479e-8295-7d9e30156684
+:ROAM_ALIASES: awareness
+:END:
+#+title: mindfulness
+* mindfulness reminders
+** perception
+** mind
+** emotion
+** self
+** love
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/commitment_to_memory_is_somewhat_voluntary.org][Commitment to memory is somewhat voluntary.]]
+* Be aware of the emotional valence that thoughts carry.
+* "Thoughts become like thieves entering an empty house. There's nothing for them to steal."
+** Sam Harris quoting a ?Buddhist text.
+* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/i_want_a_record_of_the_org_roam_files_i_read.org][I want a record of the (org-roam) files I read]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/second_order_awareness_is_enough.org][Second-order awareness seems to be enough.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mindfulness_is_a_good_response_to_mental_waste.org][Mindfulness is a good response to mental waste.]]
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/humming.org][humming]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/meditation_calm_purpose.org][meditation => calm purpose]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/meditation_can_take_bravery.org][Meditation can take courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/awareness_of_pain_feels_better_than_unawareness_of_it.org][Awareness of pain feels better than unawareness of it.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/every_moment_is_amazing.org][Every moment is amazing.]]

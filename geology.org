@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       323360a3-6047-4bcc-845f-9a7534234a63
+:END:
+#+title: geology
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/about_half_of_the_earth_s_internal_heat_originates_from_radioactive_decay.org][About half of the Earth's internal heat originates from radioactive decay.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/plate_tectonics_the_absurd_history_of_the_theory_of.org][plate tectonics, the absurd history of the theory of]]
