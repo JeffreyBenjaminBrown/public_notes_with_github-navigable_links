@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8ab91ced-7ba8-430d-a7dd-809b5395b2e0
+:END:
+#+title: PITFALLs in programming Emacs
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/evaluation_in_emacs.org#pitfall-evaluation-and-mutability-are-hairy-sequence-matters][Evaluation and mutability are hairy. Sequence matters.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/variables_in_emacs.org#pitfall-setq-affects-the-current-binding][`setq` affects the nearest (not shadowed) binding.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/pitfall_avoid_half_initialized_values_emacs.org][Avoid half-initialized values. \ Emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/scoping_rules_seem_complicated_in_emacs.org][Scoping rules seem complicated in Emacs.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/in_emacs_commands_and_functions_are_different.org][In Emacs, commands and functions are different.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/the_current_buffer_is_not_necessarily_displauyed_in_emacs.org][The current buffer is not necessarily displauyed.]]
