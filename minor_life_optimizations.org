@@ -3,6 +3,7 @@
 :ROAM_ALIASES: "efficiency \\ jbb"
 :END:
 #+title: minor life optimizations
+* "Atkinson Hyperlegible" font
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/use_tlp_to_control_laptop_charging.org][Use TLP to control laptop charging.]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/consentomatic_fill_in_consent_forms_automatically.org][Consentomatic: Fill in consent forms automatically.]]
 * Broadcast lists on WhatsApp
