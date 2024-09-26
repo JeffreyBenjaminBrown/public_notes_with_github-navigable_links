@@ -2,8 +2,6 @@
 :ID:       a6704f74-f587-42b9-a01b-f935e77fd506
 :END:
 #+title: crypto info-and-art sharing utopia discussion starters
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/make_my_knowledge_graph_exportable.org][Make my knowledge graph exportable.]]
-  and share notes like this one
 * the problems I feel like it could help
 ** People get misled online.
 ** People can mislead online.
