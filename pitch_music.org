@@ -2,9 +2,9 @@
 :ID:       a7c0c661-120a-4e78-9c55-bd2a718a3503
 :END:
 #+title: pitch \ music
-* u
-** a "substitution sequencer"
-   https://llllllll.co/t/lamination/58652
+* Walking diatonic bass is nice
+* u : a "substitution sequencer"
+  https://llllllll.co/t/lamination/58652
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/microtonality.org][microtonality]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_7_12_tone_scale_families.org]["the" 7 12-tone scale families]]
 * melody

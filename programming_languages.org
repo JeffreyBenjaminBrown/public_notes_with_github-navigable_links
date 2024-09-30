@@ -14,6 +14,7 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_programming_language.org][Go (programming language)]]
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org][Idris (programming language)]]
 ** Prolog
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mercury_programming_language.org][Mercury (programming language)]] - like Prolog but strict & pure
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/datalog.org][Datalog]]
 *** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/cozo_graph_db_with_datalog_query_language.org][Cozo (graph db with Datalog query language)]]
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hamler.org][Hamler (programming language)]]
