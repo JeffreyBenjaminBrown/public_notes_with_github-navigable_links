@@ -4,3 +4,4 @@
 #+title: audio in Linux
 * see also [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/audio_in_nixos.org][audio in NixOS]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/qjackctl.org][qjackctl]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_use_a_windows_only_vst_plugin_in_linux.org][how to use a Windows-only plugin in Linux]]

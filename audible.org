@@ -2,4 +2,4 @@
 :ID:       6a718fda-1b69-4b72-a476-3e15249aeb0b
 :END:
 #+title: Audible (audiobook service)
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/reading.org#todo-audible-spanish-books-most-of-search-in-progress][Spanish books, most of, a search in progress]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/audible_spanish_books_most_of_a_search.org][Audible Spanish books, most of, a search]]

@@ -3,6 +3,7 @@
 :ROAM_ALIASES: Lumatone
 :END:
 #+title: Lumatone (microtonal keyboard)
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/paul_christian_s_webapp_lights_up_enharmonic_notes_on_a_lumatone.org][Paul Christian's webapp lights up enharmonic notes on a Lumatone.]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/collect_data_to_adjust_velocity_curve.org][collect data to adjust velocity curve]]
 * my current Lumatone layout bank settings
   1   : 24-edo

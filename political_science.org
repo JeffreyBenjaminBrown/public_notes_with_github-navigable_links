@@ -11,3 +11,5 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/civil_service_reform_in_the_us.org][Civil Service reform in the US]]
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/parliamentary_government.org][parliamentary government]]
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/head_of_state_vs_head_of_government.org][head of state vs. head of government]]
+* voting
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/there_is_a_synergy_between_ranked_choice_voting_and_nonpartisan_primaries.org][There is a synergy between ranked choice voting and nonpartisan primaries.]]

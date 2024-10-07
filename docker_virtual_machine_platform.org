@@ -29,3 +29,5 @@
    use [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/docker_virtual_machine_platform.org#docker-exec][docker exec]]
 ** if pip install does not work
    it might be because [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/docker_virtual_machine_platform.org#the-source-command-is-not-available-by-default][`source` is not available by default]]
+** To quickly edit a Docker-locked file from the host system
+   https://stackoverflow.com/a/26915343

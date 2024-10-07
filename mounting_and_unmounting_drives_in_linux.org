@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       768c1193-5615-436b-b470-7f0983634b59
-:ROAM_ALIASES: unmounting and mounting drives in Linux
+:ROAM_ALIASES: "unmounting and mounting drives in Linux"
 :END:
 #+title: mounting and unmounting drives in Linux
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/android_phone_to_mount_filesystem_on_linux.org][Android phone, to mount filesystem to Linux]]

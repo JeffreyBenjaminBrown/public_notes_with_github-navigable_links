@@ -4,8 +4,7 @@
 :END:
 #+title: percussive physical modeling software
 ordered by preference
-* MODO Drum 1.5
-  Good rock kit sound.
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/modo_drums_software_synthesizer.org][Modo Drums (software synthesizer)]]
 * Chromaphone 3
   Diverse. Can be very wacky.
   Less convincing at a standard drum kit.

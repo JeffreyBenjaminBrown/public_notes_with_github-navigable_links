@@ -2,6 +2,7 @@
 :ID:       3b1c4800-713a-41a5-9a65-55d83b51d03d
 :END:
 #+title: VST (audio plugin format)
+* VST3 is better than VST
 * how to install a VST plugin in Linux
 ** PITFALL: The extension might be ".so" -- i.e., not obvious.
    Pianoteq's VST plugin, for instance, is called
@@ -11,3 +12,4 @@
    so probably the same procedure works for VST
    as [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/lv2.org#how-to-install-an-lv2-plugin-in-linux][the procedure for LV2]],
    changing each instance of the string VST to the string LV2.
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_use_a_windows_only_vst_plugin_in_linux.org][how to use a Windows-only VST plugin in Linux]]
