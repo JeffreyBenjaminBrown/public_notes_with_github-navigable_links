@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       14970dcf-abd4-47d3-a5d3-b93a090e280d
+:ROAM_ALIASES: "Hode, people interested (or maybe so) in"
 :END:
 #+title: people, communities who are or might be interested in Hode
 Basically, truth-seekers.
@@ -110,5 +111,7 @@ https://www.youtube.com/watch?v=M5YKW6fhlss&list=PL8dPuuaLjXtN07XYqqWSKpPrtNDiCH
 ** Daniel Dewey rec's
 * Ethan Perez
 ** Daniel Dewey rec's
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_ideas_on_networking_minds_from_dynomight.org#these-suggest-dynomights-would-like-hode][the author of Dynomight]]
+* [[:id:edaf398a-06e7-4c52-b14e-09886de45870][the author of Dynomight -- broken link?]]
 * [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/friends_interest_in_hode.org][friends interested in Hode]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/twitter_wanted_to_switch_subscription_emphasis_from_people_to_topics.org][Twitter wanted to switch the weight of subscriptions from people to topics.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/facebook_implemented_an_oversight_board.org][Facebook implemented an oversight board.]]

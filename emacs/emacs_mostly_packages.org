@@ -3,6 +3,7 @@
 :ROAM_ALIASES: Emacs
 :END:
 #+title: Emacs (programamble text editor)
+* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/chatgpt_says_i_can_use_avy_to_jump_to_the_start_of_words.org][ChatGPT says I can use 'avy' to jump to the start of words.]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/making_big_programs_in_emacs.org][making big programs in Emacs]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/outline_mode_for_emacs.org][outline-mode for Emacs]]
 * TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/broken_cannot_rebind_c_c_tab_in_outline_minor_mode.org][BROKEN: Cannot rebind `C-c @ TAB` in outline-minor-mode]]

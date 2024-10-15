@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d6e7b732-8369-4294-8143-6dc3fa5c4612
+:END:
+#+title: do at every doctor's appointment
+ask (them to)
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/in_what_order_should_i_do_what_doctors_prescribe.org][In what order should I do what doctors prescribe?]]
+* Send me the orders electronically, not just as paper.
+* Be sure I can read what they wrote.
+  Even if it's typed out, I might not understand.

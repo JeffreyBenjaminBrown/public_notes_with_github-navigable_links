@@ -3,6 +3,8 @@
 :ROAM_ALIASES: "Bogotá bars and restaurants" "bars and restaurants in Bogotá"
 :END:
 #+title: restaurants and bars in Bogotá
+* near MinCIT
+** DONE [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/solar_del_brevo.org][Solar del Brevo]]: too salty
 * [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/revellion_people_at.org][Revellion (bar in Bogotá)]]
 
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/aprissa_pizza.org][Aprissa Pizza]]

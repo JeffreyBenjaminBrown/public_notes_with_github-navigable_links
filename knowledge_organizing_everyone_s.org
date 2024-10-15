@@ -10,14 +10,9 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/networking_minds.org][networking minds]]
 ** [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/data.org][my data]]
 * TODO \ knowledge graphs
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/khoj_natural_language_search_engine_for_org_mode_notes.org][Khoj - natural language search engine for org-mode notes]]
 ** build [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_with_typedb_and_emacs.org][Hode with TypeDB and Emacs]]
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/build_hash_for_typedb.org][build Hash for TypeDB]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/networking_minds.org][networking minds]]
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/i_want_a_record_of_the_org_roam_files_i_read.org][I want a record of the (org-roam) files I read]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/logseq_query_language.org][logseq-query (query language for logseq-formatted graph data)]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/pitch_the_uber_app.org][pitch the uber-app]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/funding_hode.org][funding Hode]]
 * problems
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_oldies_greatest_hits_problem.org][the oldies greatest-hits problem]]
 * why to map knowledge

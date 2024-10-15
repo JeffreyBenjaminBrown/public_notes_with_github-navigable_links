@@ -2,14 +2,16 @@
 :ID:       ec977e2d-46b9-455f-8be0-fb3eaba4c2ca
 :END:
 #+title: problems Hode might help
-* easier problems
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/collective_emergent_curricula.org][collective, emergent curricula]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/build_your_own_recommendation_algorithm.org][Build your own recommendation algorithm.]]
-* harder problems
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/taming_online_hostility.org][taming online hostility]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/cancel_culture_hode.org][cancel culture & Hode]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/commercial_free_internet_search_engines_suck.org][commercial "free" internet search engines suck]]
+* Taming online misinformation.
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/anonimity_trust_and_hode.org][how to trust an anonymous source]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/build_your_own_recommendation_algorithm.org][Build your own recommendation algorithm.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/publication_in_science_is_too_much_work.org][Scientific publication is too hard and too exclusive.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/taming_online_hostility.org][taming online hostility]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/cancel_culture_hode.org][cancel culture & Hode]]
 * TODO merge these notes
-** collective note taking
+** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_would_be_better_than_using_any_of_those_applications_individually.org][Hode vs. those applications individually.]]
+** collective note taking [dead link]
    https://blogs.agu.org/geoedtrek/2016/12/28/collaborative-note-taking/
 ** google isn't that great
    https://news.ycombinator.com/item?id=21515181

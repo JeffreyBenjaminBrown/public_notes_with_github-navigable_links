@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       29903b27-2b73-4a1b-a8d8-257c219fe70e
+:END:
+#+title: Hode introductory blurb(s)
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_would_resemble_a_mix_of_familiar_applications.org][Hode would resemble a mix of familiar applications.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_would_be_better_than_using_any_of_those_applications_individually.org][Why not just use those apps that already exist?]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/why_hode_is_feasible.org][why Hode is feasible]]
+* The data structure and query language would make it special.
+  It would allow people to easily record not just statements, but statements about other peoples' statements, in a structure that permitted queries more advanced than what search engines enable currently. For instance, "Show me statements made about topic X by authors X and Y that coincide -- that is, X and Y have both said the same thing about it."
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/problems_hode_might_help.org][problems Hode might help]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/things_hode_would_enable.org][things Hode would enable]]
