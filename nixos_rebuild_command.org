@@ -3,6 +3,13 @@
 :ROAM_ALIASES: "nixos-rebuild"
 :END:
 #+title: nixos-rebuild (command)
+* in brief
+  alternatives
+** as a single command (which saves a password entry)
+   sudo bash -c "nix-channel --update nixos && nixos-rebuild switch"
+** as two separate commands
+   sudo nix-channel --update nixos
+   sudo nixos-rebuild switch
 * TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/why_isn_t_nixos_rebuild_building_anything.org][if nixos-rebuild isn't building anything]]
   it might be that the channel needs updating.

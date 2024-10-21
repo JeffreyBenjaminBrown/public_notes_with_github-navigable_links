@@ -3,6 +3,7 @@
 :ROAM_ALIASES: "efficiency \\ jbb"
 :END:
 #+title: minor life optimizations
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/rec_s_for_laptop_security_some_of_chatgpt_s.org][rec's for laptop security, some of ChatGPT's]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/chatgpt_says_i_can_use_avy_to_jump_to_the_start_of_words.org][ChatGPT says I can use 'avy' to jump to the start of words.]]
 * "Atkinson Hyperlegible" font
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/use_tlp_to_control_laptop_charging.org][Use TLP to control laptop charging.]]

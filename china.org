@@ -4,3 +4,4 @@
 #+title: China
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/environmental_degradation_in_20th_century_china.org][environmental degradation in 20th-century China]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hickvision_security_camera_manufacturer_in_china_explicitly_advertises_a_uyghur_detection_function.org][HickVision, security camera manufacturer in China, explicitly advertises a Uyghur detection function.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mao_zedong.org][Mao Zedong]]
