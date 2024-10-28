@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       de60b7a7-d32d-4773-a26d-bf18ae12336b
+:END:
+#+title: Mercatus Center, pitching Hode to the
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_in_under_295_characters_for_the_mercatus_center.org][Hode in under 295 characters, for the Mercatus Center]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mercatus_center_essay_on_Hode_for.org][Mercatus Center, essay on Hode for]]

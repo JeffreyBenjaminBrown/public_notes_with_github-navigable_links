@@ -2,6 +2,8 @@
 :ID:       e93ab75c-3c2b-422f-959f-2216de60d4fd
 :END:
 #+title: Bogotá
+* where to dispose of used cooking oil in Bogotá
+  https://bogota.gov.co/mi-ciudad/habitat/puntos-autorizados-para-llevar-el-aceite-de-cocina-usado-en-bogota
 * [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/water_rationing_in_bogota.org][water rationing in Bogotá]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/jazz_places_in_bogota.org][jazz places in Bogota]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hikes_around_bogota.org][hikes around Bogotá]]

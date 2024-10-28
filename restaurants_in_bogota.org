@@ -5,8 +5,8 @@
 #+title: restaurants and bars in Bogotá
 * near MinCIT
 ** DONE [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/solar_del_brevo.org][Solar del Brevo]]: too salty
+* Yerbamate: carnes, 71 & 11, JC Mendoza rec'd
 * [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/revellion_people_at.org][Revellion (bar in Bogotá)]]
-
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/aprissa_pizza.org][Aprissa Pizza]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/crepes_waffles.org][Crepes & Waffles]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/curry_masala_restaurant_in_parkway_bogota_colombia.org][Curry Masala]]
