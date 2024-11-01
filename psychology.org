@@ -4,8 +4,10 @@
 #+title: psychology
 * [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/psychology_jbb.org][psychology \ jbb]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/attention.org][attention]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/self_awareness.org][self-awareness]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/meditation.org][meditation]]
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/effort_and_observation_are_somewhat_disjunctive.org][Effort and observation are somewhat disjunctive.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/forgiveness.org][forgiveness, inc. self-forgiveness]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/systematic_outreach.org][socializing, systematic]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/courage.org][courage]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/creativity.org][creativity]]

@@ -2,6 +2,7 @@
 :ID:       8582cec9-74e2-4664-a6d7-946c2ba240e0
 :END:
 #+title: meditation
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/enlightenment.org][visions of enlightenment]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mandala_for_meditation_a_text.org][mandala for meditation, a text]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/effort_and_observation_are_somewhat_disjunctive.org][Effort and observation are somewhat disjunctive.]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/breath_is_a_special_focus_because_it_is_semi_voluntary.org][Breath is a special focus, because it is semi-voluntary.]]

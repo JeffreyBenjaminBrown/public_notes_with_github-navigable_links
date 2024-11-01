@@ -4,6 +4,7 @@
 #+title: music
 * see also
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/creativity.org][creativity]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/improv_on_who_or_what_leads.org][Improv on who or what leads.]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/karaoke_songs_i_can_sing.org][karaoke songs I can sing]]
 * TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/collect_data_to_adjust_velocity_curve.org][collect data to adjust velocity curve]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/music_and_consciousness.org][music and consciousness]]

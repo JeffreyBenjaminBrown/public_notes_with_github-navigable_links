@@ -2,6 +2,7 @@
 :ID:       622380e5-1a51-4fc3-81e0-096fac60f020
 :END:
 #+title: TODO & improv \\ music
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/improv_on_who_or_what_leads.org][Improv on who leads.]]
 * alternate two simple motifs in unlike domains
 ** One could be as simple as three ascending pitches, and the other a simple rhythm.
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/use_small_transformations_for_stability_memory_music.org][Use small transformations for stability & memory.]]

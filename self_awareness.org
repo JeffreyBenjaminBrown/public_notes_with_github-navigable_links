@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       cc3f38e2-b1cf-4a76-9abb-eb31daf514de
+:END:
+#+title: self-awareness
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/my_smile_feels_anxious_even_when_it_looks_genuine_to_me.org][My smile feels anxious, even when it looks genuine to me.]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/study_your_pains.org][Study your pains.]]

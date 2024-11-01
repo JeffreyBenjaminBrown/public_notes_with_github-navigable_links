@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       abb4ed18-7bcb-4865-93a1-2591ceb0c8ea
+:ROAM_ALIASES: "enlightenment, visions of"
+:END:
+#+title: enlightenment
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/enlightenment_as_betrayal.org][enlightenment as betrayal]], a pulling-out of the rug from under
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/a_paradise_dependent_on_tacit_knowledge.org][a paradise dependent on tacit knowledge]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/forgiveness.org][forgiveness, inc. self-forgiveness]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/self_awareness.org][self-awareness]]

@@ -8,3 +8,5 @@
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/circles_of_publication_intimacy.org][circles of publication intimacy]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/collective_emergent_curricula.org][collective, emergent curricula]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/better_ai_via_hode.org][better AI]]
+* recognize argument equivalence, argument classes
+  argument classes: A collection of relationships like "[person] witnessed [event]" could be collapsed to a number of witnesses, obviating the need to read a lot of very similar statements.
