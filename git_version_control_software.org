@@ -3,7 +3,7 @@
 :ROAM_ALIASES: git Git
 :END:
 #+title: git (version control software)
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/one_page_introduction_to_git_that_i_wrote_for_a_coworker.org][one-page introduction to Git that I wrote for a coworker]]
+* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/one_page_introduction_to_git_that_i_wrote_for_a_coworker.org][introductions to Git that I wrote]]
 * show all commits by an author
   git log --author="Jeffrey Benjamin Brown"
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/fetch_all_branches_git.org][fetch all branches from all remotes \ git]]
