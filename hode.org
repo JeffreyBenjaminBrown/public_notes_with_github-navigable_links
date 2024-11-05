@@ -7,6 +7,7 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/information_theory.org][information theory]]
 ** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/networking_minds.org][networking minds]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_introductory_blurb_s.org][an introductory sketch of Hode]]
+* Golden Retriever would be a funny name.
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/problems_hode_might_help.org][problems Hode might help]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_usage_and_gameification.org][Hode usage and gameification]]
 * [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/capabilities_hode_could_enable.org][things Hode would enable]]
