@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d1f5961f-225c-4c6d-a4dc-2d0c93a8169d
+:END:
+#+title: My pain tolerance is dangerously high.
+* It's possible to feel only moderately uncomfortable while in fact I am injuring myself.
+* example: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/don_t_lean_my_arm_on_a_sharp_top_of_a_chair.org][Don't lean my arm on a sharp top of a chair.]]
