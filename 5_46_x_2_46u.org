@@ -36,7 +36,7 @@
    -- -- -- -- -- -- -- -- -- -- 9  -- -- -- -- -- --
    -- -- -- 11 -- -- -- -- 2  -- -- 5  -- --
 
-* comparison: very similar to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/6_58_x_5_58.org#dumb-link][6\58 x 5\58]]
+* comparison: very similar to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/6_58_x_5_58.org#dumb-link][6\58 x 5\58]]
   On average they both move up 127c each horizontal step.
   The 46-edo layout has much more convenient 5:4, 3:2 and 9:8.
   Their 11:8s and 2:1s are very slightly different.

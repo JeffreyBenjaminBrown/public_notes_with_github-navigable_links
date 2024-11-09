@@ -3,10 +3,10 @@
 :ROAM_ALIASES: NixOS
 :END:
 #+TITLE: NixOS (operating system)
-* see also [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nix_configuration_language.org][Nix]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_rebuild_command.org][nixos-rebuild (shell command)]]
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nix_configuration_language.org][Nix (configuration language)]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nix_configuration_language.org][Nix]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_rebuild_command.org][nixos-rebuild (shell command)]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nix_configuration_language.org][Nix (configuration language)]]
 * REFERENCES
 ** interactive help
 *** from bash
@@ -27,15 +27,15 @@
    platform.gcc is now gcc
    platform.kernel* is now linux-kernel.*
 * DONE solutions : errors, and how I solved them
-** UNSOLVED: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/list_all_bootable_configurations_nixos.org][list all bootable configurations \ NixOS]]
+** UNSOLVED: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/list_all_bootable_configurations_nixos.org][list all bootable configurations \ NixOS]]
 ** How to figure out which package is at fault for an error?
 *** example problem
     Sometimes  I get the error
       "package ... is marked as broken, refusing to evaluate",
     but my config doesn't mention that package.
-*** solution, i think : [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/debugging_in_nixos.org#nixos-rebuild-show-trace][nixos-rebuild --show-trace]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/error_unit_window_manager_not_found.org][Error: "Unit window-manager not found"]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sign_in_mit_magic_cookie_chpasswd_problem.org][Sign-in / MIT-MAGIC-COOKIE / chpasswd problem]]
+*** solution, i think : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/debugging_in_nixos.org#nixos-rebuild-show-trace][nixos-rebuild --show-trace]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/error_unit_window_manager_not_found.org][Error: "Unit window-manager not found"]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sign_in_mit_magic_cookie_chpasswd_problem.org][Sign-in / MIT-MAGIC-COOKIE / chpasswd problem]]
 ** "unexpected argument 'specialArgs'"
 *** where I got help
     https://discourse.nixos.org/t/cant-upgrade-nixos-unexpected-argument-specialargs/13539
@@ -47,19 +47,19 @@
 *** The solution was to add an ellipsis:
       {config, lib, pkgs, options, modulesPath, ...}:
     "so that unknown arguments are ignored".
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/debugging_in_nixos.org][debugging in NixOS]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_packages_create_build_install_publish.org][NixOS packages: create, build, install, publish]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_my_config.org][NixOS, my config]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_programming_in.org][NixOS, programming in]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_reconfiguring.org][NixOS, reconfiguring]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/audio_in_nixos.org][audio in NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/debugging_in_nixos.org][debugging in NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_packages_create_build_install_publish.org][NixOS packages: create, build, install, publish]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_my_config.org][NixOS, my config]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_programming_in.org][NixOS, programming in]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_reconfiguring.org][NixOS, reconfiguring]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audio_in_nixos.org][audio in NixOS]]
   music, sound
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_reinstalling.org][NixOS, installing]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_how_to_upgrade_channels.org][NixOS, how to upgrade]] from one version of NixOS to another.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_collect_garbage.org][garbage collection in NixOS]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_review_contributions_to_nixpkgs.org][how to review contributions to nixpkgs]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/serving_ssh_on_nixos.org][serving SSH on NixOS]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/python_and_virtualenv_in_nix.org][Python and virtualenv in Nix]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_reinstalling.org][NixOS, installing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_how_to_upgrade_channels.org][NixOS, how to upgrade]] from one version of NixOS to another.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_collect_garbage.org][garbage collection in NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_review_contributions_to_nixpkgs.org][how to review contributions to nixpkgs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/serving_ssh_on_nixos.org][serving SSH on NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/python_and_virtualenv_in_nix.org][Python and virtualenv in Nix]]
 * How to figure out (from within NixOS) which boot config got me here.
   https://www.reddit.com/r/NixOS/comments/lknn4k/how_to_know_which_boot_config_i_am_on_why_is_all/
 ** find the derivation folder
@@ -85,7 +85,7 @@ lrwxrwxrwx 1 root root 88 feb 15 16:57 no_intero_and_musnix_06eaf399-1-link -> /
      nix show-derivation $(pwd)
 * instead of .bashrc or .profile
   use environment.variables to define variables
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_overlays.org][NixOS overlays]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_overlays.org][NixOS overlays]]
 * user ID problems
 ** changing user ID in NixOS is complicated
 *** because it won't let you change the ID of an existing user
@@ -231,5 +231,5 @@ on NixOS it's 1001. This creates permissions problems.
    chapter 15 in NixOS manual.
 ** TaskServer, for todo lists
 ** GitLab
-* how to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/run_a_static_binary_on_nixos.org][run a static binary on NixOS]]: use steam-run
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/building_for_android_on_nixos.org][Android apps, building on NixOS]]
+* how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/run_a_static_binary_on_nixos.org][run a static binary on NixOS]]: use steam-run
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/building_for_android_on_nixos.org][Android apps, building on NixOS]]

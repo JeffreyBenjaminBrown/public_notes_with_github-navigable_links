@@ -4,7 +4,7 @@
 :END:
 #+title: audio in NixOS
 PITFALL: Mostly written while ignorant.
-* see also [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/audio_in_linux.org][audio in Linux]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audio_in_linux.org][audio in Linux]]
 * references
 ** IRC and Discourse ?= the major NixOS communities
 https://nixos.org/nixos/learn.html
@@ -39,7 +39,7 @@ https://www.reddit.com/r/NixOS/comments/enkbus/getting_started_with_audio_progra
   Me asking Reddit why I can't use JACK.
 ** these procedures (not declarative) seem to have helped someone
 https://github.com/NixOS/nixpkgs/issues/74742#issuecomment-570745604
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/latency_computer.org#latencytop-a-linux-latency-monitoring-tool][latencytop: a Linux latency monitoring tool]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/latency_computer.org#latencytop-a-linux-latency-monitoring-tool][latencytop: a Linux latency monitoring tool]]
 * use MusNix
   https://github.com/musnix/musnix
   Alas, cannot install from this; must switch to it.
@@ -186,5 +186,5 @@ b-dell-19.09.1850.5dc4d071ffe.drv': 1 dependencies couldn't be built
 error: build of '/nix/store/nbmvjyrvf2qfa3adwgdbjqx2jaam1fyi-nixos-system-jbb-dell-1
 9.09.1850.5dc4d071ffe.drv' failed
 * SOLVED
-** Stutter, squeals, and silences/dropouts can sometimes be solves by [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/disable_cpu_throttling_for_each_core.org][disabling CPU throttling]].
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/pianoteq_seems_to_be_getting_low_priority.org][A synth plugin seemed to be getting low priority.]]
+** Stutter, squeals, and silences/dropouts can sometimes be solves by [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disable_cpu_throttling_for_each_core.org][disabling CPU throttling]].
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pianoteq_seems_to_be_getting_low_priority.org][A synth plugin seemed to be getting low priority.]]

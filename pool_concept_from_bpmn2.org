@@ -3,9 +3,9 @@
 :END:
 #+title: pool (concept from BPMN2)
 * see also
-  [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/bpmn2.org][BPMN2]]
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bpmn2.org][BPMN2]]
 * what I gather from talking to ChatGPT
   There's a 1-to-1 correspondence between pools and agencies.
   The pool could, I think, simply be called "that agency's data".
   The pools talk to each other.
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/mincit/pools_in_mincit_s_vui.org][pools in MinCIT's VUI]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/mincit/pools_in_mincit_s_vui.org][pools in MinCIT's VUI]]

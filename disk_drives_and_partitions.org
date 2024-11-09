@@ -2,13 +2,13 @@
 :ID:       e9b1996a-67d3-40a6-b971-8c03e54a1724
 :END:
 #+title: disk drives, formats and partitions
-* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/disk_drives_and_partitions.org#supposedly-maximum-compatibility-][Some formats might be slow]].
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disk_drives_and_partitions.org#supposedly-maximum-compatibility-][Some formats might be slow]].
 * PITFALL: HDDs can get hot.
 :PROPERTIES:
 :ID:       51fab985-a4cf-4ca7-8e5a-55a26d224737
 :END:
 ** Enough to break if they're in bubble wrap.
-* check for [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/disk_errors.org][disk errors]]
+* check for [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disk_errors.org][disk errors]]
 * disk drive formats: compatibility, capacity, maybe speed
 :PROPERTIES:
 :ID:       8285b7f2-ce8d-4601-9f0a-5c95a11223e4
@@ -34,7 +34,7 @@
 * show all disks
 ** `lsblk`         : concise
 ** `sudo fdisk -l` : verbose
-* how to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/burn_an_iso_file_to_a_usb_drive_how_to.org][burn an .iso file to a USB drive]]
+* how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/burn_an_iso_file_to_a_usb_drive_how_to.org][burn an .iso file to a USB drive]]
 * format a partition with mkfs
 :PROPERTIES:
 :ID:       4953e1db-1fd6-4b62-b454-617de86117e5
@@ -52,7 +52,7 @@
 *** -f : fast, i.e. without writing a ton of zeroes
 **** PITFALL: Available for NTFS and not ExFAT.
 ** base commands to choose from
-   Choose based on [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/disk_drives_and_partitions.org#disk-drive-formats-compatibility-capacity-maybe-speed][formats: compatibility, capacity, maybe speed]].
+   Choose based on [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disk_drives_and_partitions.org#disk-drive-formats-compatibility-capacity-maybe-speed][formats: compatibility, capacity, maybe speed]].
    sudo mkfs.ext4  /dev/sdxnjjj  # ExFAT is the default for Linux.
      # It doesn't seem to accept the -f option.
    sudo mkfs.vfat  /dev/sdxnjjj # FAT32
@@ -76,10 +76,10 @@
 ** `n` : new partition
 ** follow the prompts
 ** `w` : write changes and exit
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/disk_drives_and_partitions.org#format-a-partition-with-mkfs][format the new partition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disk_drives_and_partitions.org#format-a-partition-with-mkfs][format the new partition]]
 * label a partition
   tag name rename label relabel
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/gnome_disk_utility_application.org#gnome-disk-utility-can-sometimes-be-used-to-relabel][gnome-disk-utility can do it in some cases.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gnome_disk_utility_application.org#gnome-disk-utility-can-sometimes-be-used-to-relabel][gnome-disk-utility can do it in some cases.]]
 ** The way to do it depends on the format.
 *** Labeling an ext4 partition with e2label is easy.
     e.g., this worked
@@ -101,7 +101,7 @@
        where x is probably b, c or d
              n is probably a small digit or maybe missing
              jj should not be there (this prevents copy-paste disaster)
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mounting_and_unmounting_drives_in_linux.org][mounting and unmounting drives in Linux]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/text_files.org][text files]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/binary_files.org][binary files]]
-* Why, and what to do if, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/binary_files.org#pitfall-if-a-file-has-null-values-its-considered-binary][the OS considers a file binary when I don't want it to]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mounting_and_unmounting_drives_in_linux.org][mounting and unmounting drives in Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/text_files.org][text files]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/binary_files.org][binary files]]
+* Why, and what to do if, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/binary_files.org#pitfall-if-a-file-has-null-values-its-considered-binary][the OS considers a file binary when I don't want it to]].

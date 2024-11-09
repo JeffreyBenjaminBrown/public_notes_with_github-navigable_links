@@ -2,14 +2,14 @@
 :ID:       ae8d6109-5878-4c2e-b2b7-a6aacb980687
 :END:
 #+title: transformations (Pattern -> Pattern) in TidalCycles
-* there are also some [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/randomness_in_tidalcycles.org][random ones]]
-* BROKEN: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/flatpat_pattern_of_lists_pattern_of_simultaneous_events.org][flatpat :: pattern of lists -> pattern of simultaneous events]]
-* BROKEN : [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/quantise_n_pat_rond_values_in_pat_to_multiples_of_n.org][quantise n pat : rond values in pat to multiples of n]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/dividing_patterns_in_Tidal.org][dividing patterns in Tidal]]
+* there are also some [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/randomness_in_tidalcycles.org][random ones]]
+* BROKEN: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/flatpat_pattern_of_lists_pattern_of_simultaneous_events.org][flatpat :: pattern of lists -> pattern of simultaneous events]]
+* BROKEN : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/quantise_n_pat_rond_values_in_pat_to_multiples_of_n.org][quantise n pat : rond values in pat to multiples of n]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/dividing_patterns_in_Tidal.org][dividing patterns in Tidal]]
 * hurry is like fast, but with a speed transformation
 * palindrome p = p, then reverse p
   so twice as long as p
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/conjugate_a_palindrome.org][conjugate a palindrome]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/conjugate_a_palindrome.org][conjugate a palindrome]]
 * granular effects
 ** chop n
 #+begin_src haskell

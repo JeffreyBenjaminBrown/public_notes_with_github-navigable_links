@@ -6,7 +6,7 @@
 ** Datalog analyses are arrows
    https://luctielen.com/posts/analyses_are_arrows/
 * some logic programming languages
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/flix_programming_language.org][Flix (programming language)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flix_programming_language.org][Flix (programming language)]]
 ** Prolog
 ** Datalog
 ** Kanren and MiniKanren

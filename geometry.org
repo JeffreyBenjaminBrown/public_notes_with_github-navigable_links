@@ -2,8 +2,8 @@
 :ID:       a82f9347-7e03-4230-b229-beddeb4fea41
 :END:
 #+title: geometry
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/topology_is_global_geoetry_and_curvature_are_local.org][Topology is global. Geoetry and curvature are local.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/triangle.org][triangle]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/topology_is_global_geoetry_and_curvature_are_local.org][Topology is global. Geoetry and curvature are local.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/triangle.org][triangle]]
 * what is a straight line
   If as a vector initially aligned with a curve is
   "parallel transported" along that curve,
@@ -22,4 +22,4 @@
    along their respective curves
    brings them to two more points where they are parallel,
    then the space is flat.
-* the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/lorentz_transformation.org][Lorentz transformation]]
+* the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lorentz_transformation.org][Lorentz transformation]]

@@ -92,7 +92,7 @@
    (Andres?), who I met that day, recommended after watching "Everything Everywhere ..."
 ** Ellen sends how to make a smokeless wood stove
    https://mail.google.com/mail/u/0/#inbox/FMfcgzGpFgqmWWJBrNjjXstgfpLncrhV
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mary_queen_of_scots.org][Mary Queen of Scots]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mary_queen_of_scots.org][Mary Queen of Scots]]
 ** TODO Patria, movie about Mexican revolution
 *** Cliff rec's
 *** There's also a series, probably something else.
@@ -143,9 +143,9 @@
     Grace, who I met that day, recommended after watching "Everything Everywhere ..."
     Sandy didn't like it.
 ** DONE
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/benefits_of_prolonged_48_72_hr_fasting_video_by_dr_eric_berg.org][benefits of prolonged (48-72 hr) fasting]]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/consciousness_in_llms_a_talk_by_david_chalmers.org][consciousness in LLMs: a talk by David Chalmers]]
-*** "[[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_run_a_tech_giant.org][How to run a tech giant]]"
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/benefits_of_prolonged_48_72_hr_fasting_video_by_dr_eric_berg.org][benefits of prolonged (48-72 hr) fasting]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consciousness_in_llms_a_talk_by_david_chalmers.org][consciousness in LLMs: a talk by David Chalmers]]
+*** "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_run_a_tech_giant.org][How to run a tech giant]]"
 *** Love death and robots
     Watched a lot of them. Very hit or miss.
     5-10 minute scifi shorts, very high-quality animttion.

@@ -3,7 +3,7 @@
 :ROAM_ALIASES: BFPIG
 :END:
 #+title: Bogotá Functional Programming Interest Group
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/bfpig_todo.org][BFPIG, todo]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bfpig_todo.org][BFPIG, todo]]
 * the Meetup
   https://www.meetup.com/functional-programming-interest-group-at-puj/
 * papers of interest

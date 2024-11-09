@@ -4,7 +4,7 @@
 :END:
 #+title: 41-edo Chapman Stick tunings
   intended, ideal for these strings, my current compromise, and future
-* PITFALL: Review [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_explore_tunings.org][how to explore tunings]]
+* PITFALL: Review [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_explore_tunings.org][how to explore tunings]]
 * All numerical notes are mod 41, where 0 = C.
 * the code
   jeff@jbb-hp17:gauge-freq$ pwd
@@ -12,7 +12,7 @@
   jeff@jbb-hp17:gauge-freq$ git remote -v
   origin  git@github.com:JeffreyBenjaminBrown/gauge-freq.git (fetch)
 * the data (input and output)
-*** PITFALL: The [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/41_edo_chapman_stick_tunings.org#row-specific-notes][row-specific notes]] include calculations that the code was unable to make, needed for out-of-sample data.
+*** PITFALL: The [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo_chapman_stick_tunings.org#row-specific-notes][row-specific notes]] include calculations that the code was unable to make, needed for out-of-sample data.
 *** the table
 **** notes
 ***** PITFALL: pitches are recorded at the 12th fret!
@@ -108,4 +108,4 @@
 ****** 21u
        The math said I want a 20.5u.
        I have a 20u already.
-*** about [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/kalium_strings.org][Kalium strings]]
+*** about [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kalium_strings.org][Kalium strings]]

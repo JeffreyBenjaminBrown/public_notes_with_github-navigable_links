@@ -16,11 +16,11 @@
    corresponds at least roughly to nixos-unstable.
    nixos-stable corresponds to, IIRC,
    the latest release tag of nixpkgs.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_packages_create_build_install_publish.org#installed-cc-libraries-are-not-ordinarily-available-1][installed C/C++ libraries are not ordinarily available]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_packages_create_build_install_publish.org#installed-cc-libraries-are-not-ordinarily-available-1][installed C/C++ libraries are not ordinarily available]]
 * how to do it
 ** PITFALL: These notes overlap
    and most were written while ignorant.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/writing_and_using_nix_expressions.org][writing and using Nix expressions]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/writing_and_using_nix_expressions.org][writing and using Nix expressions]]
 ** to build
    serial
 *** 1 - write the package

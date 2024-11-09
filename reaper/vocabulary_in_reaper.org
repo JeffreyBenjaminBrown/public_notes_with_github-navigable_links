@@ -24,4 +24,4 @@
 :PROPERTIES:
 :ID:       22a2ae81-2b87-471a-9e4a-62b194039f68
 :END:
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#slip-edit--removing-unwanted-material-at-the-start-or-end-of-an-item][slip edit]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#slip-edit--removing-unwanted-material-at-the-start-or-end-of-an-item][slip edit]]

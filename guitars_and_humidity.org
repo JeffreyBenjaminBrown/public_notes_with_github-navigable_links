@@ -18,4 +18,4 @@
    where the humidity averages around 79%
 * another place I asked
   https://www.reddit.com/r/Luthier/comments/zpcpd0/comment/j0uycbx/?context=3
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/taylor_guitars_on_how_to_fight_humidity_in_a_guitar.org][Taylor Guitars' extreme advice for defending a guitar from humidity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/taylor_guitars_on_how_to_fight_humidity_in_a_guitar.org][Taylor Guitars' extreme advice for defending a guitar from humidity]]

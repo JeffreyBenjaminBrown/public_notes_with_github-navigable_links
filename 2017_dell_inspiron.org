@@ -10,4 +10,4 @@
   More info in the (KDE) "Info Center".
 * BIOS setup, how to access
   Press F12 while booting, when the Dell logo appears.
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/battery_for_laptop_to_buy.org][battery for my 2017 Dell laptop]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/battery_for_laptop_to_buy.org][battery for my 2017 Dell laptop]]

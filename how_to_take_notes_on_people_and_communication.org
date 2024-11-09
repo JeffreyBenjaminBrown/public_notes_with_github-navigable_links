@@ -6,7 +6,7 @@
 ** fields for the file on them
 *** outbox
     Things I'd like to talk to them about.
-**** TODO See also "interests", which [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hypothesis_person_interests_person_outbox.org][might dominate]] this field.
+**** TODO See also "interests", which [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hypothesis_person_interests_person_outbox.org][might dominate]] this field.
 *** contact info
 *** schedule
 *** contact history, most recent at top
@@ -20,7 +20,7 @@
    e.g. groups
 * Review the note before meeting.
 * when to modify the note
-** After interaction, bump their name to the top of my [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/people_i_like_talking_to_find_interesting.org][contacts of interest]].
+** After interaction, bump their name to the top of my [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/people_i_like_talking_to_find_interesting.org][contacts of interest]].
 ** When I receive something from someone, take a note.
    Record that they can provide that,
    because I might need to know that they can provide that.

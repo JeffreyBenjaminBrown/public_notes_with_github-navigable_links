@@ -3,7 +3,7 @@
 :END:
 #+title: media items in Reaper
 * media items views
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/track_and_time_window_views_in_reaper.org][track and time window views in Reaper]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org][track and time window views in Reaper]]
 ** What information media items show can be configured.
 :PROPERTIES:
 :ID:       f78c9054-f324-4509-a98f-e73d5cad5281
@@ -17,7 +17,7 @@
 **** their display          can be configured
 **** their displayed values can be rebuilt
 *** Spectral Peak Display : use color to show the loudest frequency
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#spectrogram-view-and-spectral-editing][Spectrogram View and Spectral Editing]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#spectrogram-view-and-spectral-editing][Spectrogram View and Spectral Editing]]
 ** A "ruler" for time can be shown on an item
 :PROPERTIES:
 :ID:       e8df34e9-f664-4163-a0ed-c1ffd8720bbb
@@ -78,4 +78,4 @@ another. Defaults to project default.
 :ID:       9e92d2ff-f4c5-4cbc-840a-8a7d49af09c1
 :END:
     with or without changing pitch.
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/stereo_and_channels_in_reaper.org][stereo and channels]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/stereo_and_channels_in_reaper.org][stereo and channels]]

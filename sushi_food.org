@@ -8,4 +8,4 @@
   palmito  = heart of palm
   panko    = breadcrumbs
   wakame   = seaweed
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/kiuri_sushi_restaurant_in_la_macarena_bogota.org][Kiuri Sushi (restaurant in La Macarena, Bogotá)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kiuri_sushi_restaurant_in_la_macarena_bogota.org][Kiuri Sushi (restaurant in La Macarena, Bogotá)]]

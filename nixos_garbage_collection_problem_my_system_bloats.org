@@ -2,7 +2,7 @@
 :ID:       e265ce08-8128-4b53-9b8c-5416fed8e0bd
 :END:
 #+title: NixOS garbage collection problem: My system bloats.
-* how my [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/hp_840_g3_laptop_my_2017.org][2017 HP]] system began life in NixOS, 2022 04 08
+* how my [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/hp_840_g3_laptop_my_2017.org][2017 HP]] system began life in NixOS, 2022 04 08
 ** I installed NixOS on this new system two days ago.
 ** /nix/store memory usage
    0       69c92y83ga33ciw45s1si39sspg2pn1r-mdadm.conf

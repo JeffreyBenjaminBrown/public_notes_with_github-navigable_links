@@ -2,8 +2,8 @@
 :ID:       e7c3c0cb-4db7-4a4c-89b9-666e91ec67ae
 :END:
 #+title: networking minds
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/agora_shared_knowledge_base_protocol.org][Agora (shared knowledge base (protocol))]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_ideas_on_networking_minds_from_dynomight.org][Some ideas on networking minds from DynoMight.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_usage_and_gameification.org][Hode usage and gameification]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/spotify_for_the_news.org][Spotify for the news]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/messaging_apps_should_make_it_hard_to_send_to_the_wrong_target.org][Messaging apps should make it hard to send to the wrong target.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/agora_shared_knowledge_base_protocol.org][Agora (shared knowledge base (protocol))]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_ideas_on_networking_minds_from_dynomight.org][Some ideas on networking minds from DynoMight.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_usage_and_gameification.org][Hode usage and gameification]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spotify_for_the_news.org][Spotify for the news]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/messaging_apps_should_make_it_hard_to_send_to_the_wrong_target.org][Messaging apps should make it hard to send to the wrong target.]]

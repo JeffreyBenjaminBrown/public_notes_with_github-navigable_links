@@ -36,13 +36,13 @@
    when applied to operators
 ** equivalents
    [in PC] "the arguments of “≡” (the [material] equivalence sign) are called equivalents"
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/logic_formal.org#material-implication-antecedent-consequence-and-converse-1][(material) implication, antecedent, consequence, and converse]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/logic_formal.org#conjuncts-and-conjunctions-1][conjuncts and conjunctions]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/logic_formal.org#disjuncts-and-disjunctions-1][disjuncts and disjunctions]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_formal.org#material-implication-antecedent-consequence-and-converse-1][(material) implication, antecedent, consequence, and converse]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_formal.org#conjuncts-and-conjunctions-1][conjuncts and conjunctions]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_formal.org#disjuncts-and-disjunctions-1][disjuncts and disjunctions]]
 ** Well-formed formula = WFF
 * PITFALLs
 ** Some texts use different symbols.
-* my notes, ordered like [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/logic_formal.org#ref][the book]]
+* my notes, ordered like [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_formal.org#ref][the book]]
   that is, things higher in this list
   came earlier in the book
 ** earliest notes, ordered like the book and also well-treed in this document
@@ -74,7 +74,7 @@
 :END:
 	"The symbol “⊃” is known as the (material) implication sign, the first argument as the antecedent, and the second as the consequent; q ⊃ p is known as the converse of p ⊃ q."
 ****** ≡ (equivalence)
-***** They are all [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/logic_formal.org#truth-functional-operators][truth-functional]].
+***** They are all [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_formal.org#truth-functional-operators][truth-functional]].
 **** Truth and falsity are said to be the truth values of propositions
 **** It is assumed that every proposition is either true or false and that no proposition is both true and false
 **** variables range over propositions, or that they take propositions as their values.

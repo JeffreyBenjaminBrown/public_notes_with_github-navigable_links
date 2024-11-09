@@ -11,7 +11,7 @@
     That's necessary on my system,
     because sc3-plugins is unable to modify the SC installation
     to let SC know it exists.
-    [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sc3_plugins_supercollider_tools.org#pitfall-on-nixos-using-sc-with-plugins-requires-some-configuration][Details here]].
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sc3_plugins_supercollider_tools.org#pitfall-on-nixos-using-sc-with-plugins-requires-some-configuration][Details here]].
 * use it with Emacs
   alternatives
 ** Use a local Tidal clone from Emacs, without using tidal.el.
@@ -48,7 +48,7 @@
      e.g. a Haskell file like
        [[~/code/music/Tidal/tidal+epic/music/simple.hs]]
      or an org file like
-       [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/TidalCycles/song_attempt_1_tidal.org][song attempt 1 \ Tidal]]
+       [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/TidalCycles/song_attempt_1_tidal.org][song attempt 1 \ Tidal]]
 *** how to send text from a text buffer to GHCI
     Highlight text in any buffer (it doesn't have to end in .tidal)
     and send it to the shell buffer by running
@@ -58,6 +58,6 @@
     This will work, at least, from a file ending in .tidal.
 *** evaluate a line: C-RET
 *** evaluate multiple lines: C-c C-e
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/organizing_tidal_code_hierarchically.org][organize code (in a file) hierarchically]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/organizing_tidal_code_hierarchically.org][organize code (in a file) hierarchically]]
 * to exit (gracefully)
   Close SCIDE before closing QjackCtl.

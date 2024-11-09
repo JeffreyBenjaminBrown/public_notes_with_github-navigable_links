@@ -2,7 +2,7 @@
 :ID:       53153c43-2604-4a0c-b227-e2290bb89ab9
 :END:
 #+title: fasting
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/benefits_of_prolonged_48_72_hr_fasting_video_by_dr_eric_berg.org][benefits of prolonged (48-72 hr) fasting : video by Dr. Eric Berg]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/benefits_of_prolonged_48_72_hr_fasting_video_by_dr_eric_berg.org][benefits of prolonged (48-72 hr) fasting : video by Dr. Eric Berg]]
 * tricks
 ** use green tea when fasting
    Contains polyphenols, which may promote autophagy.

@@ -3,5 +3,5 @@
 :ROAM_ALIASES: Contraloría
 :END:
 #+title: Contraloría (Colombia)
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/contraloria_private_notes.org][more]]
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/dentistry_with_the_contraloria.org][dentistry with the Contraloría]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/contraloria_private_notes.org][more]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dentistry_with_the_contraloria.org][dentistry with the Contraloría]]

@@ -3,7 +3,7 @@
 :ROAM_ALIASES: magit
 :END:
 #+title: magit (Emacs mode)
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/magit_diff_to_change_options.org][magit & diff // to change options]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magit_diff_to_change_options.org][magit & diff // to change options]]
 * to save settings (e.g. diff) persistently
 :PROPERTIES:
 :ID:       e57211a5-3b1c-450e-a7a7-9ed70f235223

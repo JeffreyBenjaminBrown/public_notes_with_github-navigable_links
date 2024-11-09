@@ -2,6 +2,6 @@
 :ID:       492bfe8d-77f0-4aa2-bb33-df9fa984f0ea
 :END:
 #+title: courage
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/surprising_forms_of_courage.org][Surprising forms of courage.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/meditation_can_take_bravery.org][Meditation can take courage.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/creating_can_take_courage.org][Creating can take courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprising_forms_of_courage.org][Surprising forms of courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_can_take_bravery.org][Meditation can take courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creating_can_take_courage.org][Creating can take courage.]]

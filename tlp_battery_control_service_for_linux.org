@@ -2,7 +2,7 @@
 :ID:       5489c6d6-d479-417d-8d51-703cac8675d2
 :END:
 #+title: TLP (battery control service for Linux)
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/use_tlp_to_control_laptop_charging.org][Use TLP to control laptop charging.]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_tlp_to_control_laptop_charging.org][Use TLP to control laptop charging.]]
 * PITFALL: I don't think this will work for my computers.
   It's designed for Thinkpads.
 * TLP in NixOS

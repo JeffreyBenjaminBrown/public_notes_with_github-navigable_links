@@ -3,4 +3,4 @@
 :END:
 #+title: Couplehood (book)
 * NYT bestseller for 40 weeks
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/nicole_nguyen.org][Nicole Nguyen]] recommends
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/nicole_nguyen.org][Nicole Nguyen]] recommends

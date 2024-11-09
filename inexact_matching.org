@@ -2,7 +2,7 @@
 :ID:       a125bfa5-d956-442a-a81f-5a87ea8cfd2d
 :END:
 #+title: Inexact Matching Algorithms (bioinformatics)
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/distance_measures_on_the_space_of_sequences.org][Distance Measures On The Space Of Sequences]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/distance_measures_on_the_space_of_sequences.org][Distance Measures On The Space Of Sequences]]
 * Hamming-measured inexact matching
 = look for matches within a given Hamming radius.
 ** Modifying the naive matching algorithm for Hamming inexactitude is easy.

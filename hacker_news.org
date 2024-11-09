@@ -3,4 +3,4 @@
 :END:
 #+title: Hacker News
 news.ycombinator.com
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hackyournews_ai_summaries_of_the_top_hn_stories.org][HackYourNews - AI summaries of the top HN stories]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hackyournews_ai_summaries_of_the_top_hn_stories.org][HackYourNews - AI summaries of the top HN stories]]

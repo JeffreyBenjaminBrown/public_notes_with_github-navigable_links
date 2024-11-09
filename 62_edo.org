@@ -10,10 +10,10 @@
    both slightly closer to true and playing much better with the others.
 * layouts
 ** good for guitar
-*** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/3_62_x_14_62_isomorphic_pitch_layout.org][3\62 x 14\62 (isomorphic pitch layout)]]
+*** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/3_62_x_14_62_isomorphic_pitch_layout.org][3\62 x 14\62 (isomorphic pitch layout)]]
 ** good for lumatone
-*** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/9_62r_x_1_62u_isomorphic_pitch_layout.org][9\62r x 1\62u (isomorphic pitch layout)]]
-*** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/6_62r_x_7_62d_isomorphic_pitch_layout.org][6\62r x 7\62d (isomorphic pitch layout)]]
-**** *Seems* to dominate [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/7r_62_x_6d_62_isomorphic_pitch_layout.org][7\62r x 6\62d (isomorphic pitch layout)]]
+*** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/9_62r_x_1_62u_isomorphic_pitch_layout.org][9\62r x 1\62u (isomorphic pitch layout)]]
+*** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/6_62r_x_7_62d_isomorphic_pitch_layout.org][6\62r x 7\62d (isomorphic pitch layout)]]
+**** *Seems* to dominate [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7r_62_x_6d_62_isomorphic_pitch_layout.org][7\62r x 6\62d (isomorphic pitch layout)]]
      but I'm not sure -- arguably the 5-limit is easier in this one.
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/7_62_x_2_62_isomorphic_pitch_layout.org][7\62 x 2\62 (isomorphic pitch layout)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_62_x_2_62_isomorphic_pitch_layout.org][7\62 x 2\62 (isomorphic pitch layout)]]

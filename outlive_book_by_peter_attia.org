@@ -33,8 +33,8 @@
    and also impairs the release of fat-stored energy.
 ** Putting fat cells into insulin resistant mice cured their insulin resistance
 *** The new cells soak up the excess glucose
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/diabetes_grew_by_two_orders_of_magnitude_in_less_than_a_century.org][Diabetes grew by almost two orders of magnitude in 82 years.]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/among_animals_fructose_is_uniquely_bad_for_humans.org][Among animals, fructose is uniquely bad for humans.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/diabetes_grew_by_two_orders_of_magnitude_in_less_than_a_century.org][Diabetes grew by almost two orders of magnitude in 82 years.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/among_animals_fructose_is_uniquely_bad_for_humans.org][Among animals, fructose is uniquely bad for humans.]]
 ** The uric acid we produce from fructose (causes?) our body to store lots of fat, and has (other) harmful effects.
 ** Liquid fructose -- even healthy smoothies -- can overwhelm the gut.
    "[T]he excess is shunted to the liver, where many of those calories are likely to end up as fat."
@@ -115,7 +115,7 @@
 ** chemo & collateral damage
 *** some of the earliest chemotherapy agents, some of which are still in use ... attack the replicative cycle of cells, and because cancer cells are rapidly dividing, the chemo agents harm them more severely than normal cells. But many important noncancerous cells are also dividing frequently, such as those in the lining of the mouth and gut, the hair follicles, and the nails,
 ** Metabolic diseases are correlated with cancer.
-*** This is likely related to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/outlive_book_by_peter_attia.org#they-use-glucose-up-to-40-times-faster][cancer's metabolism]].
+*** This is likely related to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outlive_book_by_peter_attia.org#they-use-glucose-up-to-40-times-faster][cancer's metabolism]].
 *** Non-subcutaneous fat is a big cancer risk.
     Dying fat cells secrete inflammatory cytokines,
     which damage DNA. Many other pathways too.
@@ -207,7 +207,7 @@
 ** try lifting barefoot
 ** toe yoga
    Manipulate each toe individually.
-   [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/outlive_book_by_peter_attia.org#toe-yoga-and-other-videos][There are videos]].
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outlive_book_by_peter_attia.org#toe-yoga-and-other-videos][There are videos]].
 ** Cat/Cow
    Inhale on Cow, exhale on Cat.
    Start both motions from the hips, to the neck.

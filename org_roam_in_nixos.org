@@ -17,7 +17,7 @@ I do not understand overlays
 :ID:       a7081bc6-bfdb-49f1-9ae5-17da276cf9ca
 :END:
   https://github.com/nix-community/emacs-overlay#latest-master-each-rebuild
-** see also [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_overlays.org][NixOS overlays]]
+** see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_overlays.org][NixOS overlays]]
 * threads I started or extended
 ** overlays
 https://discourse.nixos.org/t/my-first-overlay-for-emacs/7570/1

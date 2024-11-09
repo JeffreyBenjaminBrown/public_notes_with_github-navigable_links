@@ -18,7 +18,7 @@
    https://learnyousomeerlang.com/content
 *** TODO RESUME in LYSE at
     https://learnyousomeerlang.com/event-handlers#it-s-curling-time
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/org_roam_can_t_follow_new_links.org#org-roam-cant-follow-link-it-makes-to-a-certain-file-other-files-are-fine][concurrent programming]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_can_t_follow_new_links.org#org-roam-cant-follow-link-it-makes-to-a-certain-file-other-files-are-fine][concurrent programming]]
 * TODO in Erlang
 ** TODO "Elixir in Action" is supposedly a good intro to OTP
    https://www.manning.com/books/elixir-in-action-second-edition
@@ -26,13 +26,13 @@
     https://news.ycombinator.com/item?id=31425301
 ** TODO learn about static typing
    https://erlang.org/doc/reference_manual/typespec.html
-   [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#static-typing-some-tools-for][some tools for static typing]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_questions_unresolved.org][questions, unresolved]]
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#static-typing-some-tools-for][some tools for static typing]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_questions_unresolved.org][questions, unresolved]]
 ** SKIPPED chapters in LYSE
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#skipped-arrays-sets-queues-graphs-1][SKIPPED: arrays, sets, queues, graphs]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#skipped-arrays-sets-queues-graphs-1][SKIPPED: arrays, sets, queues, graphs]]
 *** SKIPPED: "Functionally solving problems in Erlang."
     https://learnyousomeerlang.com/functionally-solving-problems
-*** SKIPPED: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#standalone-catch][standalone `catch`]]
+*** SKIPPED: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#standalone-catch][standalone `catch`]]
 *** SKIPPED: Bit syntax and binary comprehensions.
     https://learnyousomeerlang.com/starting-out-for-real#bit-syntax
 * some vocab and notation
@@ -41,14 +41,14 @@
 ** BIF = built-in function
 * using the "shell" (repl)
 ** Start the shell with `erl` or `rebar3 shell`.
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#run-erl--pa-path-to-add-paths-to-user-compiled-beam-files-1][Run `erl -pa <path>` to add paths to (user-compiled) .beam files.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#run-erl--pa-path-to-add-paths-to-user-compiled-beam-files-1][Run `erl -pa <path>` to add paths to (user-compiled) .beam files.]]
 ** Get help: `help().`
    The trailing dot is important.
 ** clear variable definitions in the shell namespace.
    #delete #clean #undefine
 *** Unbind the variable X with `f(X).`.
 *** Unbind all variables with `f().`.
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#undefine-record-types-with-rf0-and-rf1-1][Undefine record types with rf/0 and rf/1.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#undefine-record-types-with-rf0-and-rf1-1][Undefine record types with rf/0 and rf/1.]]
 ** records and the Erlang shell
 :PROPERTIES:
 :ID:       2d70cd42-4d1d-4df9-91f5-8cb324a19da1
@@ -72,18 +72,18 @@
      Good for compiling, loading modules.
 **** pwd/0
 **** ls/0
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#show-and-delete-messages-to-the-repl-with-flush0][Show and delete messages to the shell with flush/0.]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#regs--in-repl-get-more-detailed-info-on-all-registered-processes][regs() -- in repl, get more detailed info on all registered processes.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#show-and-delete-messages-to-the-repl-with-flush0][Show and delete messages to the shell with flush/0.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#regs--in-repl-get-more-detailed-info-on-all-registered-processes][regs() -- in repl, get more detailed info on all registered processes.]]
 ** Compile a big program with an Emakefile: [[id:e8298fc5-84b1-46c8-9d78-32d30e6b9b8a][`make:all([load])`]]
 * using the compiler
-** an alternative: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/rebar3_erlang_build_manager.org#compiling-with-rebar3][compiling with rebar3]]
+** an alternative: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rebar3_erlang_build_manager.org#compiling-with-rebar3][compiling with rebar3]]
 ** PITFALL: "unused function" errors can be confusing.
 *** Will get one if an unexported function is used internally in `spawn` calls.
 :PROPERTIES:
 :ID:       209c4447-0e85-47dd-b77d-1e759faaf10b
 :END:
 **** TODO Why?
-*** Will get one if a module [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#-behaviorconstrainingmodule][adhering to a behavior]] does not export callbacks the behavior-defining module must call.
+*** Will get one if a module [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#-behaviorconstrainingmodule][adhering to a behavior]] does not export callbacks the behavior-defining module must call.
 ** compiling a small program
 *** in the repl
     compile:file ( FileName ).
@@ -115,13 +115,13 @@
 :PROPERTIES:
 :ID:       b352deca-445d-4fa1-b80e-ae2ab06d9c3a
 :END:
-* using [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/rebar3_erlang_build_manager.org][Rebar3 (Erlang build manager)]]
+* using [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rebar3_erlang_build_manager.org][Rebar3 (Erlang build manager)]]
 * erlang and emacs
 :PROPERTIES:
 :ID:       3a230207-47a8-4dde-af88-2c442f5c51aa
 :END:
 ** erlang-indent-current-buffer
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#comments-follow-][Comments should follow %%.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#comments-follow-][Comments should follow %%.]]
 * some basic syntax
 ** "terms"
    an integer, float, atom, string, list, map, or tuple
@@ -238,7 +238,7 @@
    	     [C#cat.name] )
       || C <- Cats ],
     ...
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#example-a-list-comprehension-that-spawns-stuff][example: a list comprehension that spawns stuff]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#example-a-list-comprehension-that-spawns-stuff][example: a list comprehension that spawns stuff]]
 * modules
 ** Module consist entirely of attributes and functions.
 ** name conflicts
@@ -353,7 +353,7 @@
     """ Note: I've compared , and ; in guards to the operators andalso and orelse. They're not exactly the same, though. The former pair will catch exceptions as they happen while the latter won't. What this means is that if there is an error thrown in the first part of the guard X >= N; N >= 0, the second part can still be evaluated and the guard might succeed; if an error was thrown in the first part of X >= N orelse N >= 0, the second part will also be skipped and the whole guard will fail.
 
     However (there is always a 'however'), only andalso and orelse can be nested inside guards. This means (A orelse B) andalso C is a valid guard, while (A; B), C is not. Given their different use, the best strategy is often to mix them as necessary."""
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#pattern-matching-on-records-1][pattern matching on records]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#pattern-matching-on-records-1][pattern matching on records]]
 * macros
 ** user-defined macros
    A 'function' macro could be written as
@@ -468,7 +468,7 @@
   #conditional
 ** They can be avoided entirely.
    Case expressions are more general.
-** They are weird. Here are [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_if_expressions_in_erlang.org][some if expressions in Erlang]].
+** They are weird. Here are [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_if_expressions_in_erlang.org][some if expressions in Erlang]].
 ** They resemble case expressions.
    if <case> -> <result>;
       <case> -> <result>;
@@ -489,7 +489,7 @@
      ...
    end
 *** PITFALL: Trailing period only if it's the last expression!
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#some-branch-should-evaluate][Some branch should evaluate.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#some-branch-should-evaluate][Some branch should evaluate.]]
 ** can include guards ("when" clauses)
    case Temperature of
      {celsius, N} when N >= 20, N =< 45 -> <result>;
@@ -543,14 +543,14 @@
 *** Dialyzer typechecks.
 *** There are more such tools.
 ** some types
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#atoms][Atoms]]
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#pitfall-true-and-false-are-ordinary-atoms][PITFALL: true and false are ordinary atoms.]]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#tuples][Tuples]]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#lists][Lists]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#atoms][Atoms]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#pitfall-true-and-false-are-ordinary-atoms][PITFALL: true and false are ordinary atoms.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#tuples][Tuples]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#lists][Lists]]
 *** records
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#records-and-the-erlang-shell][records and the Erlang shell]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#records-and-the-erlang-shell][records and the Erlang shell]]
 **** Records are just tuples in Erlang.
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/erlang_programming_language.org#make-a-modules-records-print-nicely-rrmodule][to make records print nicely]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#make-a-modules-records-print-nicely-rrmodule][to make records print nicely]]
 **** accessing record fields
 ***** example
       RobTheRobot # module.bestFriend # robot.name.
@@ -615,8 +615,8 @@
 :ID:       62d43b5f-4411-4726-be7e-671a802595d2
 :END:
     https://learnyousomeerlang.com/a-short-visit-to-common-data-structures
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#errors][exceptions]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org][concurrency in Erlang]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#errors][exceptions]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org][concurrency in Erlang]]
 * hot code loading
 ** Erlang's `code server` can maintain two running versions of a module.
 ** `local` vs. `external` calls
@@ -714,4 +714,4 @@
 ** apply/3
    apply (Module, Function, Args)
    seems to run Module:Function against Args.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/http_in_erlang_the_inets_library.org][HTTP in Erlang: the Inets library]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/http_in_erlang_the_inets_library.org][HTTP in Erlang: the Inets library]]

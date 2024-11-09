@@ -2,7 +2,7 @@
 :ID:       801dad54-f3a9-4b27-97f5-3e3ab3b6dbe5
 :END:
 #+title: reading and rewriting my notes
-* TODO merge: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_avoid_losing_notes_in_a_knowledge_graph.org#how-to-read-a-knowledge-graph][consult your notes : why and how]]
+* TODO merge: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_avoid_losing_notes_in_a_knowledge_graph.org#how-to-read-a-knowledge-graph][consult your notes : why and how]]
 * Be clear on the purpose.
   Shuffling mindmaps is not something I do for the mindmap's sake!
   It is how I think.

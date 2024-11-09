@@ -7,12 +7,12 @@
 ** meeting new people
 ** contacting someone I might not remember well
 ** job interview
-   [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_prepare_for_coding_interviews.org][how to prepare for coding interviews]]
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_prepare_for_coding_interviews.org][how to prepare for coding interviews]]
 ** appointments that are brief and hard to follow up on
    doctors, famous or hard-to-reach people
 ** vacations
    for the same reason as doctors
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/moving_and_movers.org][moving and movers]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moving_and_movers.org][moving and movers]]
 ** big purchases
 *** Know the product, the options.
 *** Be ready to indignantly refuse a pushy salesperson.

@@ -19,5 +19,5 @@
 ** listening to music
 ** success (in a project)
 *** I enjoy advancement. I'm not sure about completion.
-    I experience that so rarely I don't remember how much I like it. But simple milestones, even unexpected ones like making a cool sound in [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/tidalcycles_music_software.org][Tidal]], are extremely enjoyable.
+    I experience that so rarely I don't remember how much I like it. But simple milestones, even unexpected ones like making a cool sound in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/tidalcycles_music_software.org][Tidal]], are extremely enjoyable.
 ** insight

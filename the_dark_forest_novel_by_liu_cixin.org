@@ -9,7 +9,7 @@
 * acronyms
 ** PDC = Planetary Defense Council
 * characters, in order of appearance
-  see also [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_three_body_problem_novel.org][The Three-Body Problem]]
+  see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_three_body_problem_novel.org][The Three-Body Problem]]
 ** Chang Weisi
    Was a general in the previous book.
    Now commander of the Political Department of the Armed Forces of China.
@@ -106,7 +106,7 @@
     English, refined.
     Discovered quantum phenomena matter to thought.
     Later in life was president of the EU.
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_dark_forest_novel_by_liu_cixin.org#luo-ji-affectionately-xiao-luo][Luo Ji]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_dark_forest_novel_by_liu_cixin.org#luo-ji-affectionately-xiao-luo][Luo Ji]]
 ** _ Garanin
    Russian. Chair of the PDC when Luo Ji becomes a Wallfacer.
 ** Qin Shi Huang

@@ -3,5 +3,5 @@
 :END:
 #+title: Chrome (web browser)
 * Chrome plugins, some
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/remove_html_elements_chrome_extension.org][Remove HTML Elements]] is a a privacy-respecting HTML element blocker.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/youtube_playback_speed_control.org][Youtube Playback Speed Control]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/remove_html_elements_chrome_extension.org][Remove HTML Elements]] is a a privacy-respecting HTML element blocker.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/youtube_playback_speed_control.org][Youtube Playback Speed Control]]

@@ -19,7 +19,7 @@
   "Solution"s are collections of "Projects",
   which according to MS Copilot (GPT-4 Turbo, I think)
   as of <2024-02-02 Fri>, represent standalone applications.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/a_minimum_viable_vb_project.org][a minimum viable VB project]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_minimum_viable_vb_project.org][a minimum viable VB project]]
 * "building it" appears to mean
   populating bin/ and obj/ folders,
   creating them if necessary.
@@ -31,7 +31,7 @@
 :END:
    Click the name of the project between two triangles at the top
 ** to run
-   Click the rightmost of [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/visual_basic_building_and_running.org#how-to-build-a-project--visual-basic][those two triangles]].
+   Click the rightmost of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/visual_basic_building_and_running.org#how-to-build-a-project--visual-basic][those two triangles]].
 * building and running outside Visual Studio
   cd <project root>
   dotnet build .

@@ -14,7 +14,7 @@
 *** asking Flancian on Twitter
     https://twitter.com/carelogic/status/1507186676078153729
 * refs
-** [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/flancian_the_guy_who_made_agora.org][Flancian, the guy who made Agora]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/flancian_the_guy_who_made_agora.org][Flancian, the guy who made Agora]]
 ** the Git issue I filed
 :PROPERTIES:
 :ID:       304e3d3e-f05f-424d-8eab-34fcfda408c9
@@ -23,11 +23,11 @@
 ** Github: https://github.com/flancian/agora
 ** The introductory node: https://anagora.org/node/agora
 ** YC: https://news.ycombinator.com/item?id=25573523
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/agora_shared_knowledge_base_protocol.org#blocked-libmemcached-error-when-building-natively][Asking NixOS Discourse about libmemcached]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/agora_shared_knowledge_base_protocol.org#blocked-libmemcached-error-when-building-natively][Asking NixOS Discourse about libmemcached]]
 * PITFALLs
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/prevent_git_credential_validators_from_popping_up_whenever_i_deal_with_a_remote_on_github_over_http.org][Prevent git credential validators from popping up whenever I deal with a remote on GitHub over HTTP.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/prevent_git_credential_validators_from_popping_up_whenever_i_deal_with_a_remote_on_github_over_http.org][Prevent git credential validators from popping up whenever I deal with a remote on GitHub over HTTP.]]
 * TODO try it in Docker
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/agora_shared_knowledge_base_protocol.org#the-git-issue-i-filed][the Git issue I filed]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/agora_shared_knowledge_base_protocol.org#the-git-issue-i-filed][the Git issue I filed]]
 ** things that didn't work
 *** connect 8888:8888 rather than 5000:5000
     8888:8888 is what tax.co.web does, and that works when I connect to port 8000.

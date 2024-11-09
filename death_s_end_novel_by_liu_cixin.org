@@ -20,7 +20,7 @@
     A protitue (believes the emperor?).
     Claims to be able to kill the sultan with magic.
 ** Yang Dong
-   notes on [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_three_body_problem_novel.org#yang-dong][Yang Dong from Book 1]]
+   notes on [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_three_body_problem_novel.org#yang-dong][Yang Dong from Book 1]]
 ** Dr. Zhang
    Doctor to Yun Tianming
 ** Yun Tianming
@@ -39,4 +39,4 @@
 ** Cheng Xin
    Tianming's college crush.
 ** _ Say, UN Secretary General
-   notes on [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_dark_forest_novel_by_liu_cixin.org#_-say-un-secretary-general][Secretary General Say from Book 1]]
+   notes on [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_dark_forest_novel_by_liu_cixin.org#_-say-un-secretary-general][Secretary General Say from Book 1]]

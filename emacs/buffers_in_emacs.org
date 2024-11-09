@@ -4,7 +4,7 @@
 #+title: buffers in Emacs
 * Buffer is a type.
 * A buffer is like a string.
-* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/the_current_buffer_is_not_necessarily_displauyed_in_emacs.org][The current buffer is not necessarily displauyed.]]
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/the_current_buffer_is_not_necessarily_displauyed_in_emacs.org][The current buffer is not necessarily displauyed.]]
 * creating buffers
 ** get-buffer-create
    creates a buffer if it finds no existing buffer with the specified name.
@@ -14,4 +14,4 @@
 :END:
    creates a new buffer and gives it a unique name.
 * swapping the text of two buffers : `buffer-swap-text`
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/buffer_local_variables_in_emacs.org][buffer-local variables]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/buffer_local_variables_in_emacs.org][buffer-local variables]]

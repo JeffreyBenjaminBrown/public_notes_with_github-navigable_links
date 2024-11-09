@@ -24,7 +24,7 @@
 :PROPERTIES:
 :ID:       34d44367-542f-4f94-a0ca-a60b3d46290d
 :END:
-   (after pre-shave oil) with a wet [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/shaving_brush.org][shaving brush]].
+   (after pre-shave oil) with a wet [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shaving_brush.org][shaving brush]].
    This exfoliates.
 ** three passes
    with grain, across grain, against grain

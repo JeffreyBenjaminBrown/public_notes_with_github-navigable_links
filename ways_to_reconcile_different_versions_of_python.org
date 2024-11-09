@@ -8,7 +8,7 @@
   I wrote these while building the UI for tax.co.web,
   when Apache and/or Conda and/or Django was
   using the wrong version of some Python library and/or Python itself.
-* things I tried, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ways_to_reconcile_different_versions_of_python.org#done-from-django-use-the-csv-package-rather-than-pandas][the successful one]] of which was an ugly hack
+* things I tried, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ways_to_reconcile_different_versions_of_python.org#done-from-django-use-the-csv-package-rather-than-pandas][the successful one]] of which was an ugly hack
   alternatives
 ** DONE from Django, use the `csv` package rather than pandas
 :PROPERTIES:

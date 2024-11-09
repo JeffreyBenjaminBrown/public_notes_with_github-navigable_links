@@ -4,7 +4,7 @@
 #+title: Lorentz transformation
 * John and I are talking about it here.
   https://mail.google.com/mail/u/0/#inbox/KtbxLxGLhSqCDmJZBjLnqQRQQWHSKMXxRL
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ask_physics_exchange_about_the_lorentz_transformation.org][ask Physics Exchange about the Lorentz transformation]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ask_physics_exchange_about_the_lorentz_transformation.org][ask Physics Exchange about the Lorentz transformation]]
 * It translates between two inertial frames of reference.
 * premises and definitions
 ** The frames are inertial.

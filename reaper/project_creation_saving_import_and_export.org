@@ -11,7 +11,7 @@
 ** "copy media on import"
 ** details within audio format
    e.g. bit depth for WAV files
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/recording_audio_midi_reaper.org#each-track-can-have-a-different-default-recording-format][Each track can have a different default recording format.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/recording_audio_midi_reaper.org#each-track-can-have-a-different-default-recording-format][Each track can have a different default recording format.]]
 * One project can be imported into another.
 ** ref
    section "Importing an Existing Project" in the mnaul

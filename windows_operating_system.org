@@ -4,7 +4,7 @@
 :END:
 #+title: Windows (operating system)
 * The Windows shell app is called 'Powershell'
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/wsl_linux_in_windows.org][WSL = Linux in Windows]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wsl_linux_in_windows.org][WSL = Linux in Windows]]
 * Emacs in WSL
 ** set cursor size in WSL, not Emacs
 * Windows config | making Windows suck less
@@ -30,7 +30,7 @@
 ** Disable "S-Mode" to be able to install things
    requires browsing; complicated
 * solutions
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/windows_operating_system.org#windows-config--making-windows-suck-less][Windows config | making Windows suck less]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/windows_operating_system.org#windows-config--making-windows-suck-less][Windows config | making Windows suck less]]
 ** to invert colors in Windows
    C-M-i
 *** PITFALL: Works it's in Spanish. Might differ in English.
@@ -48,7 +48,7 @@
 **** It's not actually a separate OS; it's a crippled Windows 10.
 **** S-mode can be deactivated, never reactivated.
 *** maybe a helpful story
-    [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/2021_12_24_villavo_xmas_eve_stella_s_new_laptop.org][2021 12 24, Villavo, Xmas eve, Stella's new laptop]]
+    [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/2021_12_24_villavo_xmas_eve_stella_s_new_laptop.org][2021 12 24, Villavo, Xmas eve, Stella's new laptop]]
 ** windows equivalents to Unix commands
 *** `top`
     ps | sort -des cpu | select -f 15
@@ -63,4 +63,4 @@
 :ID:       bbd54726-2e3f-45cc-9940-78079e06347b
 :END:
    It can log keyboard input.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/wine_windows_emulator_for_linux.org][Wine]] (Windows emulator for Linux)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wine_windows_emulator_for_linux.org][Wine]] (Windows emulator for Linux)

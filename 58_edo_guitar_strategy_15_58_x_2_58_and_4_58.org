@@ -2,11 +2,11 @@
 :ID:       ebd9c05f-dd33-4881-8de3-de6c5635f1d1
 :END:
 #+title: 58-edo guitar strategy: 15\58 x {2\58 and 4\58}
-* Use [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/15_58_x_2_58_isomorphic_instrument_layout.org][15\58 x 2\58]] for "the first octave".
+* Use [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/15_58_x_2_58_isomorphic_instrument_layout.org][15\58 x 2\58]] for "the first octave".
   This implies a 29-edo fretboard.
   29-edo is too tight to use everywhere,
   but fine in the first octave.
-* Use [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/15_58_x_4_58_isomorphic_instrument_layout.org][15\58 x 4\58]] in "the second octave".
+* Use [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/15_58_x_4_58_isomorphic_instrument_layout.org][15\58 x 4\58]] in "the second octave".
   This implies a 14.5-edo fretboard (58/4),
   which is easily playable in a guitar's second octave.
 ** The octave at string 2 fret 7 might look awkward

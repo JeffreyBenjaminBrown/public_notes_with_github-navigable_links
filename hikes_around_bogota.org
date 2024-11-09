@@ -9,4 +9,4 @@
 ** Musas de agua
 ** Entre nubes
 ** Cruz Roja
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/hiking_group_on_facebook_via_gina.org][hiking group on Facebook, via Gina]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/hiking_group_on_facebook_via_gina.org][hiking group on Facebook, via Gina]]

@@ -3,7 +3,7 @@
 :ROAM_ALIASES: otorhinolaryngology
 :END:
 #+title: otorrinolaringología
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/otorhinolaryngology_jbb.org][otorinolaringología \ jbb]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/otorhinolaryngology_jbb.org][otorinolaringología \ jbb]]
 * some anatomy
 ** eustachian tube = trompa de eustachio
    goes from the nose to the ear
@@ -12,5 +12,5 @@
    sticking in from the outer side of each nostril
 ** septum = tabique
    divides the nose
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/a_deviated_septum_can_lead_to_sinus_infections.org][A deviated septum can lead to sinus infections.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sinus_problems_can_lead_to_ear_infections.org][Sinus problems can lead to ear infections.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_deviated_septum_can_lead_to_sinus_infections.org][A deviated septum can lead to sinus infections.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sinus_problems_can_lead_to_ear_infections.org][Sinus problems can lead to ear infections.]]

@@ -17,7 +17,7 @@
       go f(x, y, z),
     the evaluation of f, x, y, and z happens in the current goroutine,
     and the execution of f happens in the new goroutine.
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_go.org#if--c-is-an-argument-to-a-function-the-whole-function-evaluates][If (<-ch) is an argument to a function, the whole function evaluates.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_go.org#if--c-is-an-argument-to-a-function-the-whole-function-evaluates][If (<-ch) is an argument to a function, the whole function evaluates.]]
 *** Goroutines do not outlive `main`.
     They should talk to `main` to coordinate shutdown.
 * channels
@@ -40,7 +40,7 @@
    it appears on.
 ** PITFALL: Channels must be made before being used.
 ** PITFALL: Sends and receives block until the other side is ready.
-*** implication: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_go.org#unbuffered-channels-synchronize-processes-1][(Unbuffered) channels synchronize processes.]]
+*** implication: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_go.org#unbuffered-channels-synchronize-processes-1][(Unbuffered) channels synchronize processes.]]
 ** PITFALL: Channels might be better named "transceivers".
    There's no concept of "the sender" and "the receiver".
    Rather, a channel is a thing that can receive values from processes,
@@ -61,7 +61,7 @@
 *** Channels can send channels.
 ** Channels can be buffered.
 *** TODO Buffered channels and sync.
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_go.org#unbuffered-channels-synchronize-processes-1][(Unbuffered) channels synchronize processes.]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_go.org#unbuffered-channels-synchronize-processes-1][(Unbuffered) channels synchronize processes.]]
 **** It's *like* the default buffer depth is 1,
      but at least at 13:25 in this video
        https://www.youtube.com/watch?v=f6kdp27TYZs
@@ -119,7 +119,7 @@
 :PROPERTIES:
 :ID:       c51f5e36-9125-48f5-9fbd-318701336895
 :END:
-**** source: 10:22 in [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/advanced_go_concurrency_patterns_talk_on_video.org][Advanced Go Concurrency Patterns]]
+**** source: 10:22 in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/advanced_go_concurrency_patterns_talk_on_video.org][Advanced Go Concurrency Patterns]]
 * `select` lets a goroutine wait on multiple channels.
 ** syntax
    select {
@@ -139,7 +139,7 @@
      default:
        // receiving from c would block
    }
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#break-statements-in-go-2][`break` statements in Go]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#break-statements-in-go-2][`break` statements in Go]]
 * TODO | SKIPPED: mutexes and locks
   https://go.dev/tour/concurrency/9
 * cleaning up completed goroutines
@@ -179,7 +179,7 @@
 		       // the select statement is.
         ...
 ** wait for something to close before closing
-   17:43 in [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/advanced_go_concurrency_patterns_talk_on_video.org][Advanced Go Concurrency Patterns]]
+   17:43 in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/advanced_go_concurrency_patterns_talk_on_video.org][Advanced Go Concurrency Patterns]]
 
    func (s* sub) Close() error {
      errc := make ( chan error ) // Make a channel to transmit errors.

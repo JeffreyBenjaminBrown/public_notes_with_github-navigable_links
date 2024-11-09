@@ -7,7 +7,7 @@
 * Fez
 * Holonomy
   You're a disk on a cube you can rotate.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/zig_zag_minimal_shape_rotation_game.org][Zig Zag: minimal shape rotation game]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/zig_zag_minimal_shape_rotation_game.org][Zig Zag: minimal shape rotation game]]
 * Noita
   Everything is particles, all 4 states of matter.
   Extremely GPU intensive.

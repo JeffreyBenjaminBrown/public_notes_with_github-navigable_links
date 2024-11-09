@@ -3,10 +3,10 @@
 :ROAM_ALIASES: "machine learning" ML AI
 :END:
 #+title: artificial intelligence
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/compression_superposition_and_interpretability_in_ai.org][compression, superposition and interpretability in AI]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/advanced_ai_podcasts.org][advanced AI podcasts]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/compression_superposition_and_interpretability_in_ai.org][compression, superposition and interpretability in AI]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/advanced_ai_podcasts.org][advanced AI podcasts]]
 * ChatGPT is good at producing metaphors, says Nate Silver.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_try_llama3_w_o_equipment.org][how to try Llama3 w/o equipment]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_try_llama3_w_o_equipment.org][how to try Llama3 w/o equipment]]
 * machine learning, notes from Google's crash course
 ** L2 loss = squared loss = squared error
 ** MSE = average of squared loss
@@ -24,10 +24,10 @@
 ** the best cheap ones on that list
    GTX 1060: $130
    RTX 3050: $175
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/things_ai_can_already_do.org][things AI can already do]]
-* fun idea: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/use_ai_to_give_image_vocabulary_to_the_subconscious.org][Use AI to give image vocabulary to the subconscious.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/llms_taking_jobs_washington_post_2023_06_02.org][LLMs taking jobs, Washington Post, 2023-06-02]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ai_and_understanding.org][AI and understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_ai_can_already_do.org][things AI can already do]]
+* fun idea: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_ai_to_give_image_vocabulary_to_the_subconscious.org][Use AI to give image vocabulary to the subconscious.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/llms_taking_jobs_washington_post_2023_06_02.org][LLMs taking jobs, Washington Post, 2023-06-02]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_understanding.org][AI and understanding]]
 * Current neural networks use far fewer connections and far more data than the human brain.
 * TODO some learning resources
 :PROPERTIES:
@@ -38,9 +38,9 @@
 *** https://builtin.com/artificial-intelligence/transformer-neural-network
 ** some seemingly good ideas on HN
    https://mail.google.com/mail/u/0/#inbox/QgrcJHsThhXQXmMwRbRkMfnllGlPjMlmLGq
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ai_and_art.org][AI and art]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ai_image_generation_prompts_i_ve_used.org][AI image generation prompts I've used]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/chatgpt.org][ChatGPT]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_art.org][AI and art]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_image_generation_prompts_i_ve_used.org][AI image generation prompts I've used]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chatgpt.org][ChatGPT]]
 * tricking an AI into describing its internal experience
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_prompts_designed_to_get_chatgpt_to_describe_its_internal_state.org][some prompts designed to get ChatGPT to describe its internal state]]
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/copilot_ai_for_coding_from_microsoft.org][Copilot \\ Github | Microsoft]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_prompts_designed_to_get_chatgpt_to_describe_its_internal_state.org][some prompts designed to get ChatGPT to describe its internal state]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/copilot_ai_for_coding_from_microsoft.org][Copilot \\ Github | Microsoft]]

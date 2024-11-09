@@ -3,7 +3,7 @@
 :END:
 #+title: unfiled, Hode or adjacent
 * Is it legal to make a free Facebook client?
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/crypto_info_share_utopia_discussion_starters.org][crypto info-and-art sharing utopia discussion starters]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/crypto_info_share_utopia_discussion_starters.org][crypto info-and-art sharing utopia discussion starters]]
 * TODO ? for more propaganda ammo
   find a list of issues that bother the left and the right,
   and see whether Hode addresses any of them.

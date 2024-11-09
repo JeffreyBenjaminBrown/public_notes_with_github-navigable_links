@@ -3,7 +3,7 @@
 :END:
 #+title: grepping folders in Emacs
 * solutions I like
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/deadgrep_emacs_package.org][deadgrep]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/deadgrep_emacs_package.org][deadgrep]]
 ** M-x find-grep
    It's dead simple,
    but the output is not very interactive.
@@ -11,7 +11,7 @@
 *** Deadgrep offers the easiest way.
     It lets you hide all results from the file at point with one keystroke,
     probably tab.
-*** Otherwise, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/programmatically_hide_lines_from_a_file_in_emacs.org][programmatically hide lines from the file]].
+*** Otherwise, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/programmatically_hide_lines_from_a_file_in_emacs.org][programmatically hide lines from the file]].
 * solutions I haven't tried
 ** rg, a ripgrep frontend
    More powerful, but also more complex, than deadgrep.

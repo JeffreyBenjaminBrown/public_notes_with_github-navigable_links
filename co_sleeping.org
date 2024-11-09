@@ -11,4 +11,4 @@
   https://academic.oup.com/sleep/article/43/1/zsz206/5573656?login=true
   https://www.sciencedirect.com/science/article/abs/pii/S2352721819302670
   https://scholar.google.com/scholar?start=20&q=partner+cosleep+-parent+-infant+-baby&hl=en&as_sdt=0,5
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/co_sleeping_sandy.org][co-sleeping & Sandy]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/co_sleeping_sandy.org][co-sleeping & Sandy]]

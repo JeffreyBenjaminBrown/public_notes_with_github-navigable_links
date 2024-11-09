@@ -2,7 +2,7 @@
 :ID:       7863cf17-0940-4663-82b2-2a22b3878f1c
 :END:
 #+title: funding Hode
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mercatus_center_pitching_hode_to_the.org][Mercatus Center, pitching Hode to the]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_pitching_hode_to_the.org][Mercatus Center, pitching Hode to the]]
 * grants | funders for Hode
 ** DARPA
 ** prototype fund: https://prototypefund.de/en/
@@ -24,4 +24,4 @@ Relationships in Hode can have any number of members (not just two, like in a gr
 
 Examples of important and irreducibly higher-order relationships include:
 
-[[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/fun_interesting_relationships_hode.org][relationships for Hode]]
+[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fun_interesting_relationships_hode.org][relationships for Hode]]

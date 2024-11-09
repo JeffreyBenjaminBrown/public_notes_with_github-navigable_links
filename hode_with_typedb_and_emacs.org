@@ -4,22 +4,22 @@
 :END:
 #+title: Hode in TypeDB and Emacs (plans)
 * TODO
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/manipulate_hode_model_from_emacs.org][manipulate Hode model from Emacs]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/try_python_and_typedb_hode.org][try Python and TypeDB]]
-** TODO ? [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/persistent_docker_data_insanity_hode.org][persistent Docker data insanity]]
-** BLOCKED [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/bifurcate_hode_start_to_start_from_scratch_or_not.org][bifurcate hode-start to start from scratch or not]]
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/my_own_copy_of_the_notes_from_80k_hours_s_daniel_dewey.org][notes from meeting Daniel Dewey at 80k Hours]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/manipulate_hode_model_from_emacs.org][manipulate Hode model from Emacs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/try_python_and_typedb_hode.org][try Python and TypeDB]]
+** TODO ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/persistent_docker_data_insanity_hode.org][persistent Docker data insanity]]
+** BLOCKED [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bifurcate_hode_start_to_start_from_scratch_or_not.org][bifurcate hode-start to start from scratch or not]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/my_own_copy_of_the_notes_from_80k_hours_s_daniel_dewey.org][notes from meeting Daniel Dewey at 80k Hours]]
 * to learn, context
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/notes_from_eli_on_fractal_democracy_eos_cardano.org][notes from Eli on "fractal democracy", Eos, Cardano]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notes_from_eli_on_fractal_democracy_eos_cardano.org][notes from Eli on "fractal democracy", Eos, Cardano]]
 ** NVivo
    Stats software for qualitative analysis.
    Ana V says it's popular.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/notes_on_emacs_for_hode.org][notes on Emacs for Hode]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notes_on_emacs_for_hode.org][notes on Emacs for Hode]]
 * u
 ** It would be useful if authors could say of each other's statements things like this made me laugh, this surprised me, this I agree with.
 *** Also this needs evidence, or a conclusion, or suggestions for further reading. I don't know whether those should be private or public.
 ** Let people log their queries globally. The register analyzes what people are trying to know, and uses that to determine what relationships to prompt for
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/making_big_programs_in_emacs.org][making big programs in Emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/making_big_programs_in_emacs.org][making big programs in Emacs]]
 * u - was top of mind
 ** Asking TypeDB: Sort on transitive partially applied rels?
    https://forum.typedb.com/t/can-typedb-sort-on-ideally-multiple-transitive-partially-applied-relationships/521
@@ -56,8 +56,8 @@
    https://github.com/ahyatt/ekg
 ** Authors will want multiple identities
    "Me speaking on behalf of organization", "me speaking only for myself".
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/contribute_a_topological_sort_on_partially_ordered_relations_to_typedb.org][Contribute a topological sort on partially ordered relations to TypeDB]]
-* MEP, easier than the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_with_typedb_and_emacs.org#minimum-viable-extensible-product][MVEP]]: Python queries, print to screen.
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/contribute_a_topological_sort_on_partially_ordered_relations_to_typedb.org][Contribute a topological sort on partially ordered relations to TypeDB]]
+* MEP, easier than the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_with_typedb_and_emacs.org#minimum-viable-extensible-product][MVEP]]: Python queries, print to screen.
 ** How to extend it to involve Emacs
    Emacs reads the file as Python updates it.
    The user does not edit the file directly,
@@ -97,7 +97,7 @@
      https://pypi.org/project/altgraph/
 *** not packaged for NixOS
 **** graphtheory : version 1.0.3, not packaged
-     but see [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_with_typedb_and_emacs.org#altgraph--a-fork-of-graphtheory-version-0174][altgraph]]
+     but see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_with_typedb_and_emacs.org#altgraph--a-fork-of-graphtheory-version-0174][altgraph]]
      https://pypi.org/project/graphtheory/
 * IO
 ** run a TypeDB script in Docker, outputting to a text file

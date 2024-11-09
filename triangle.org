@@ -21,8 +21,8 @@
    = the situation where one knows the lengths of two sides
    and the angle between them.
 * to compute the length of the missing side
-** given the information [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/triangle.org#sas--side-angle-side][SAS]]
-   Solve [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/triangle.org#the-law-of-cosines][the law of cosines]] for a:
+** given the information [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/triangle.org#sas--side-angle-side][SAS]]
+   Solve [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/triangle.org#the-law-of-cosines][the law of cosines]] for a:
      a = sqrt ( b**2 + c**2 -
                 2 * b * c * cos A )
    As Haskell:

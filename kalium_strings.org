@@ -4,7 +4,7 @@
 :END:
 #+title: Kalium strings
   +1 (206) 784-5104
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/41_edo_chapman_stick_tunings.org#kalium-strings-to-buy][Kalium strings to buy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo_chapman_stick_tunings.org#kalium-strings-to-buy][Kalium strings to buy]]
 * The plain strings are all the same --
   hybrid, stainless steel, guitar, bass, all of them --
   except that the balls are bigger on the bass strings.

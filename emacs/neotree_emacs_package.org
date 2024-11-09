@@ -3,9 +3,9 @@
 :END:
 #+title: neotree (Emacs package)
 * PITFALLs
-** It needs [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/neotree_emacs_package.org#g-refresh][refreshing]].
+** It needs [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/neotree_emacs_package.org#g-refresh][refreshing]].
 ** It's not an ordinary window.
-   [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/neotree_emacs_package.org#a-maximizeminimize-the-neotree-window][Toggle its size with A]], from pretty big to pretty small.
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/neotree_emacs_package.org#a-maximizeminimize-the-neotree-window][Toggle its size with A]], from pretty big to pretty small.
    I tried customizing that farther; it's too hard, not worth it.
 * commands
 ** shortcuts

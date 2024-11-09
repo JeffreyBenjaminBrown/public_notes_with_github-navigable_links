@@ -10,8 +10,8 @@
 ** as two separate commands
    sudo nix-channel --update nixos
    sudo nixos-rebuild switch
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/why_isn_t_nixos_rebuild_building_anything.org][if nixos-rebuild isn't building anything]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_isn_t_nixos_rebuild_building_anything.org][if nixos-rebuild isn't building anything]]
   it might be that the channel needs updating.
 * nixos-rebuild --keep-failed / -K
   to avoid re-downloading data the next time I try to rebuild

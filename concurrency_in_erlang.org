@@ -3,7 +3,7 @@
 :END:
 #+title: concurrency in Erlang
 * some vocab
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrent_programming.org#some-vocab][some concurrent programming vocab]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrent_programming.org#some-vocab][some concurrent programming vocab]]
 * errors
 :PROPERTIES:
 :ID:       f68891f2-deaf-47f7-9f8e-ed2ff9f69811
@@ -124,7 +124,7 @@
     https://learnyousomeerlang.com/errors-and-exceptions#try-a-try-in-a-tree
     There's also the code (search for the word "naive") here:
     file://~/code/concurrent-langs/erlang/tree.erl
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#signals-1][signals]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#signals-1][signals]]
 * processes
 ** "process" = "execution thread"
 ** Processes grow and shrink dynamically.
@@ -212,7 +212,7 @@
     erlang:error(Reason)       ->  {Reason,Stack}
     erlang:error(Reason, Args) ->  {Reason,Stack}
 
-    `erlang:error/1-2` [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#can-be-emulated][emulates a runtime crash]].
+    `erlang:error/1-2` [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#can-be-emulated][emulates a runtime crash]].
 *** `exit/2 :: PID -> Reason -> IO ()` lets one process kill another.
 *** Receiving an abnormal, UNHANDLED EXIT SIGNAL TERMINATES THE receiver.
 *** Killing a function kills its subfunctions.
@@ -281,7 +281,7 @@
        If there are messages in the mailbox, it will try to match them.
        If none of them match, it will immediately advance to the `after` clause,
        rather than waiting for something that does.
-****** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#if-caller-has-a-nonempty-mailbox-a-receive-in-a-subfunction-will-immediately-read-it][An example.]]
+****** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#if-caller-has-a-nonempty-mailbox-a-receive-in-a-subfunction-will-immediately-read-it][An example.]]
 **** Message delivery is not automatically confirmed.
      "If you need to have a confirmation of delivery, you have to send a second message as a reply to the original process."
 **** A default match for messages can prevent accumulating garbage.
@@ -364,7 +364,7 @@
     to be automatically generated.
     It is as if the process terminated immediately
     after the link operation.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#the-four-standard-otp-behaviors-1][the four standard OTP behaviors]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#the-four-standard-otp-behaviors-1][the four standard OTP behaviors]]
 * the four standard OTP behaviors
 :PROPERTIES:
 :ID:       81311222-bb74-441c-b4ec-42501e8784b7
@@ -394,7 +394,7 @@
 **** gen_server:call( Server_name, message ).
      Sends `message` to the server.
      Server_name must be what was used in start_link.
-     Triggers [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#handle_call][`handle_call`]] in the server.
+     Triggers [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#handle_call][`handle_call`]] in the server.
      The client blocks (I believe)
      until it gets the server's response.
 **** gen_server:cast/2( Server_name, message )
@@ -454,18 +454,18 @@
         state_functions.
 **** the state callback(s)
      (Plural if callback mode() = state_functions.)
-***** They each get [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#event-types--event-content][Event Type and Event Content]] args.
+***** They each get [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#event-types--event-content][Event Type and Event Content]] args.
 ***** When working normally, should return one of these.
-      {next_state, NextState, NewData, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
+      {next_state, NextState, NewData, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
       {next_state, NextState, NewData}
 ****** Other options are unnecessary but maybe clearer.
-       {keep_state, NewData, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
+       {keep_state, NewData, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
        {keep_state, NewData}
-       {keep_state_and_data, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
+       {keep_state_and_data, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
        keep_state_and_data
-       {repeat_state, NewData, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
+       {repeat_state, NewData, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
        {repeat_state, NewData}
-       {repeat_state_and_data, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
+       {repeat_state_and_data, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]}
        repeat_state_and_data
 ***** When it has to stop, should return one of these.
       {stop, Reason, NewData}
@@ -477,7 +477,7 @@
       {stop_and_reply, Reason, NewData, ReplyActions}
       {stop_and_reply, Reason, ReplyActions}
         Same as the stop values,
-        but first execute the given [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]
+        but first execute the given [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#transition-actions][TransitionActions]]
         that may only be reply actions.
 ***** When the new state differs from the old, more happens.
 ****** It restarts the event queue the oldest postponed event.
@@ -522,7 +522,7 @@
         gen_event:start_link({local, Event_manager_name})
       registers it locally under the name Event_manager_name.
 ***** global registry: Use {global, Name} instead.
-***** Like gen_server, there's also a [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#todo-what-does-gen_serverstart_link-link-to][`start` alternative of `start_link`]].
+***** Like gen_server, there's also a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#todo-what-does-gen_serverstart_link-link-to][`start` alternative of `start_link`]].
 **** to add event handlers to it: gen_event:add_handler
      gen_event:add_handler( manager, handler, HandlerArgs).
      It calls handler:init( HandlerArgs ).
@@ -777,7 +777,7 @@
 :END:
 ****** called by gen_server:cast
 ****** for asynchronous messaging
-****** much like [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#handle_call--request-from-state---response][handle_call]]
+****** much like [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#handle_call--request-from-state---response][handle_call]]
 ****** valid response formats
        {noreply,NewState}
        {noreply,NewState,Timeout}
@@ -785,7 +785,7 @@
        {stop,Reason,NewState}
 ***** handle_info/2 : handle messages outside the interface
 ****** a quote
-       "similar to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#handle_cast--message-state---response][handle_cast/2]] and in fact returns the same tuples. The difference is that this callback is only there for messages that were sent directly with the ! operator and special ones like init/1's timeout, monitors' notifications and 'EXIT' signals."
+       "similar to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#handle_cast--message-state---response][handle_cast/2]] and in fact returns the same tuples. The difference is that this callback is only there for messages that were sent directly with the ! operator and special ones like init/1's timeout, monitors' notifications and 'EXIT' signals."
 ****** Valid response formats include
        but might not be limited to
 ******* {noreply, Cats}
@@ -828,7 +828,7 @@
       The optional (i.e. can be missing entirely)
       third argument is a timeout, defaulting to 5 seconds.
 **** gen_server:reply/2
-     Useful when you'd like to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_erlang.org#noreply-tells-the-server-not-to-reply][handle the reply yourself]],
+     Useful when you'd like to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#noreply-tells-the-server-not-to-reply][handle the reply yourself]],
      rather than using the server.
 **** TODO What do I have to export?
      c.f. ~/code/concurrent-langs/erlang/kitty/v3-otp/kitty_gen_server.erl
@@ -889,8 +889,8 @@
 ***** send_all_state_event/2 and sync_send_all_state_event/2-3
       "Equivalent" to the previous two, but for "global" events.
 ****** TODO "global" events?
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrent_programming.org#when-to-prefer-synchronous-or-asynchronous-comms][synchronous vs. asynchronous communication: when to prefer which]]
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrent_programming.org#designing-asynchronous-protocols][designing asynchronous protocols]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrent_programming.org#when-to-prefer-synchronous-or-asynchronous-comms][synchronous vs. asynchronous communication: when to prefer which]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrent_programming.org#designing-asynchronous-protocols][designing asynchronous protocols]]
 *** gen_event: the Generic Events module|behavior
     https://learnyousomeerlang.com/event-handlers
 **** "event handlers run in the same process as their manager"

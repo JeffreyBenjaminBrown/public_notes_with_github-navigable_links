@@ -9,7 +9,7 @@
    https://forum.djangoproject.com/t/how-to-read-non-django-html-form-data/8864/6
 ** remote-pdb: use pdb from Django
    https://forum.djangoproject.com/t/how-to-read-non-django-html-form-data/8864/9
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/django_in_aws_esp_aws_eb.org][Django in AWS (esp. AWS EB)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django_in_aws_esp_aws_eb.org][Django in AWS (esp. AWS EB)]]
 ** find, display pictures
 *** Substitute folder path into image name.
     See, e.g., how "name_augmented" is passed from polls.views to the silly-form templates.
@@ -33,9 +33,9 @@
      PITFALL: The leading slash is important.
 ** downloads from Django
    See the "download" function in run_make/views.py
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/file_uploads_in_django.org][File Uploads In Django]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/django_security_things_to_do_before_production.org][Django security, things to do before production]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/forms_in_django.org][forms in Django]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/file_uploads_in_django.org][File Uploads In Django]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django_security_things_to_do_before_production.org][Django security, things to do before production]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forms_in_django.org][forms in Django]]
 * PITFALLs
 ** Django won't complain if a template is missing context.
    For instance, if I call this:
@@ -59,7 +59,7 @@
 :END:
 ** All Django documentation
  https://docs.djangoproject.com/en/3.1/
-*** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/apache_and_mod_wsgi_using_them_with_django.org][Apache and mod_wsgi: Using Them with Django]]
+*** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apache_and_mod_wsgi_using_them_with_django.org][Apache and mod_wsgi: Using Them with Django]]
 *** TODO "Sending emails"
 *** TODO "Integrating media"
 *** TODO ? "Caching"
@@ -72,7 +72,7 @@
 https://docs.djangoproject.com/en/3.0/topics/class-based-views/
 ** my project
  ~/code/aws/python-web-app
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/paths_in_django.org][paths in Django]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/paths_in_django.org][paths in Django]]
 * requests in Django
 ** a way to extract a value from a GET or POST in Django
    q = request.GET .get("key", <default value>)
@@ -109,9 +109,9 @@ about the Python path:
   manage.py
 ***** maybe a folder for each app located in the project
   Initially there are no such folders.
-  There never need to be, because [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/django.org#apps-can-live-anywhere-on-your-python-path][apps can live anywhere on your Python path]]
+  There never need to be, because [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django.org#apps-can-live-anywhere-on-your-python-path][apps can live anywhere on your Python path]]
 **** <project-root>/<site-name>/ needs to "know" about an app,
-  as described in [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/django.org#connect-the-view-to-the-website][connect the view to the website]].
+  as described in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django.org#connect-the-view-to-the-website][connect the view to the website]].
   Once it does, the app becomes available as a top-level
   subdomain of the project.
 **** Each app corresponds to a top-level subdomain of the project URL.
@@ -182,7 +182,7 @@ Under those conditions, I just start Apache, which will call Django for me.
 **** PITFALL: "Patterns don’t search GET and POST parameters, or the domain name."
    For example, in a request to https://www.example.com/myapp/, the URLconf will look for myapp/. In a request to https://www.example.com/myapp/?page=3, the URLconf will also look for myapp/.
   My guess: The stuff after the '?' becomes arguments to the function called by the function found after looking up the part before the '?'.
-*** PITFALL: probably still need [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/django.org#to-install-an-app-in-a-project][to (install?) the app in the project]]
+*** PITFALL: probably still need [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django.org#to-install-an-app-in-a-project][to (install?) the app in the project]]
 In this trivial case, the website actually already works.
 But if I try to use the database,
 it will complain that I haven't installed the app in anything.
@@ -201,7 +201,7 @@ it will complain that I haven't installed the app in anything.
 **** if any apps must use the database, run "migrate" to (make the db?)
  python manage.py migrate
 *** mysite/app/models.py
-    explains the structure of a [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_django_database.org][Django Database]]
+    explains the structure of a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_django_database.org][Django Database]]
 *** to (install?) an app in a project
 :PROPERTIES:
 :ID:       d7718be6-7488-4a0e-8592-61b0a69a98f8
@@ -213,7 +213,7 @@ it will complain that I haven't installed the app in anything.
       'django.contrib.auth',
      ...
 **** then make migrations for the app, and execute them
-     see [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/django_database_migrations.org][Django Database Migrations]]
+     see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django_database_migrations.org][Django Database Migrations]]
 *** the "Django shell"
     start it with
       python manage.py shell
@@ -446,9 +446,9 @@ esp. templates/polls/detail_2.html
   Always return an HttpResponseRedirect after successfully dealing
   with POST data. This prevents data from being posted twice if a
   user hits the Back button. (This advice is not Django-specific.)
-** part 5: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/testing_in_django.org][Testing in Django]]
-** part 6: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/static_files_in_django_esp_for_stylesheets_and_images.org][Static Files in Django, esp. for Stylesheets and Images]]
-** part 7: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/customizing_the_django_admin_form.org][Customizing The Django Admin Form]]
+** part 5: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/testing_in_django.org][Testing in Django]]
+** part 6: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/static_files_in_django_esp_for_stylesheets_and_images.org][Static Files in Django, esp. for Stylesheets and Images]]
+** part 7: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/customizing_the_django_admin_form.org][Customizing The Django Admin Form]]
 * The "topic guides"
 https://docs.djangoproject.com/en/3.0/topics/
 ** TODO Resume at
@@ -481,5 +481,5 @@ Django provides a handler to allow Apache to authenticate users directly
 against Django’s authentication backends.
 """
 * solutions
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ways_to_reconcile_different_versions_of_python.org][ways to reconcile different versions of Python]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/load_local_modules_into_the_django_shell.org][load local modules into the Django shell]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ways_to_reconcile_different_versions_of_python.org][ways to reconcile different versions of Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/load_local_modules_into_the_django_shell.org][load local modules into the Django shell]]

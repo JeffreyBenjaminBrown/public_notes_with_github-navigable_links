@@ -3,4 +3,4 @@
 :ROAM_ALIASES: muebles
 :END:
 #+title: furniture
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/moderatto_home_furniture_store_in_bogota.org][Moderatto Home (furniture store in Bogotá)]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/moderatto_home_furniture_store_in_bogota.org][Moderatto Home (furniture store in Bogotá)]]

@@ -11,7 +11,7 @@
    and can issue exactly one crypto token per dollar
    (or some other but fixed ratio).
 ** examples
-   [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/gemini_dollar_gusd.org][Gemini Dollar (GUSD)]]
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gemini_dollar_gusd.org][Gemini Dollar (GUSD)]]
    Tether (USDT)
    True USD (TUSD)
    Paxos Standard (PAX)
@@ -20,7 +20,7 @@
 ** Anything on Ethereum faces high gas fees.
    In 2021 they ranged from 2 to 60 USD.
 * crypo-collateralized stablecoins
-** example: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/dai_stablecoin.org][DAI]]
+** example: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dai_stablecoin.org][DAI]]
 ** Collateral is locked into a smart contract
    and unlocked when the stablecoin is returned.
 ** Coins minted *or* borrowed with the same kind of collateral.

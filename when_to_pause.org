@@ -3,7 +3,7 @@
 :END:
 #+title: when to pause
 * see also
-  [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/high_pressure_situtations_and_how_to_handle_them.org][high-pressure situations to review notes before]]
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situtations_and_how_to_handle_them.org][high-pressure situations to review notes before]]
 * When I'm not sure my priorities are straight, consider meditating (on it).
   examples
 ** when I have witnessed injustice and am tempted to ignore it and get on with my own work
@@ -11,7 +11,7 @@
 * when feeling angry, annoyed or otherwise uncharitable
 ** TODO Try pointing out, kindly, how I feel to whoever is pissing me off.
 * when feeling nervous about a decision in progress
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/if_entering_a_password_feels_wrong_pause.org][when entering a password feels wrong]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_entering_a_password_feels_wrong_pause.org][when entering a password feels wrong]]
 ** Ask for more time when an irreversible operation is about to happen.
    Then use that time to think about how to assure the outcome is okay,
    or how to gracefully back out.

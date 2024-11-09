@@ -3,8 +3,8 @@
 :END:
 #+title: The Three-Body Problem, novel by Liu Cixin
 * things I learned
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/photons_can_take_thousands_of_years_to_exit_the_sun.org][Photons can take thousands of years to exit the sun.]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/environmental_degradation_in_20th_century_china.org][environmental degradation in 20th-century China]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/photons_can_take_thousands_of_years_to_exit_the_sun.org][Photons can take thousands of years to exit the sun.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/environmental_degradation_in_20th_century_china.org][environmental degradation in 20th-century China]]
 * characters
 ** Red Union
 ** Red Guards

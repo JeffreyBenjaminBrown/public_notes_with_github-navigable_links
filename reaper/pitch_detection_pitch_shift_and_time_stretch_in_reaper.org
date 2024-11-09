@@ -11,7 +11,7 @@
    Drag one side. The other side of the selection stays fixed.
    Any notes whose start and endpoints are both strictly inside
    the selection's boundaries will have both endpoints moved.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper_feature_request_stretch_markers_for_midi.org][Reaper feature request: Stretch markers for MIDI]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper_feature_request_stretch_markers_for_midi.org][Reaper feature request: Stretch markers for MIDI]]
 * Use ReaPitch to make harmonies.
 * Use ReaTune to make pitch corrections.
 * Use "stretch markers" to stretch selected items in sync.
@@ -20,4 +20,4 @@
   so its fixed assumption of 12-edo can be overridden.
 * Use ReaVoice to control an audio clip's pitch via MIDI
   MIDI Controlled Pitch Shift with ReaVoice
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#adjust-item-pitch-fine--s-m-drag]["Adjust item pitch fine" : S-M-drag]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#adjust-item-pitch-fine--s-m-drag]["Adjust item pitch fine" : S-M-drag]]

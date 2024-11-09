@@ -10,7 +10,7 @@
    If first, maybe TidalCycles.
 ** TODO Try writing/recording melody first.
 ** TODO try simplifying something to make room for each addition
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/remember_to_keep_earlier_tracks_simpler_recording_improv.org][Remember to keep earlier tracks simpler. \\ recording improv]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/remember_to_keep_earlier_tracks_simpler_recording_improv.org][Remember to keep earlier tracks simpler. \\ recording improv]]
 ** TODO composition idea: preliminary *vocal* sketches
    Sketch the rhythm / timbre vocally before anything else.
    Paint broad strokes before even getting into (precise) pitch.
@@ -33,7 +33,7 @@
    Need to leave space for subsequent voices.
    Space in time, space in the scale.
 * speaking instructions
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/dense_syllables_a_spoken_notation_for_music.org][dense syllables: a spoken notation for music]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dense_syllables_a_spoken_notation_for_music.org][dense syllables: a spoken notation for music]]
 ** PITFALL: If using English, recite scale numbers in order.
    Otherwise, for instance, "30 7" can be confused for "37".
 ** Describe more than pitch, both during and ex-post.
@@ -46,7 +46,7 @@
    rather than all subsequent voices
 ** I don't have to speed-speak the scale.
    I'm going to edit those vocal instructions anyway.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/improv_and_composition_music.org#i-could-add-further-notes-to-the-spoken-scale-with-each-track][I could add further notes to the spoken scale with each track.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_and_composition_music.org#i-could-add-further-notes-to-the-spoken-scale-with-each-track][I could add further notes to the spoken scale with each track.]]
 ** some grammar for scales
 *** move x y
     move a note in the scale

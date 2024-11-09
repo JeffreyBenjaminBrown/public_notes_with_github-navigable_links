@@ -2,7 +2,7 @@
 :ID:       30298122-ef45-4038-81f5-0b80dcb21548
 :END:
 #+title: Tiene sentido obligar a la gente a ahorrar para su vejez?
-* by [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/oliver_pardo.org][Oliver Pardo]]
+* by [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/oliver_pardo.org][Oliver Pardo]]
 * some novel things about it
 ** The paper considers informality.
 * content

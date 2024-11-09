@@ -2,13 +2,13 @@
 :ID:       a1d4888a-53dc-4559-bd21-081b287e22c4
 :END:
 #+title: 2nd Gen DNA Sequencing
-"It spies on [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_dna_is_copied.org][How DNA Is Copied]]."
+"It spies on [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_dna_is_copied.org][How DNA Is Copied]]."
 * the process
 ** basically
 Chops up the DNA into short single-strand subsets,
 and puts them on a flat surface (billions on a single slide),
 scattered randomly.
-Then add DNA polymerase, and [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/terminated.org][terminated bases]].
+Then add DNA polymerase, and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/terminated.org][terminated bases]].
 Then take a photo.
 Then cleave the terminators (leaving the once-terminated bases in place)
 and repeat.
@@ -20,7 +20,7 @@ This is to ensure enough light to show up in a photo.
 ** The problem
 causes that strand to get "out of sync" with the others.
 It will one position ahead of schedule if it received only one non-terminated base.
-** The solution: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/base_caller_software.org]["Base Caller" Software]]
+** The solution: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/base_caller_software.org]["Base Caller" Software]]
 * The reads will vary in length.
 * Reads that "should" be identical can differ.
 both due to sequencing error, and because of polyploidy --

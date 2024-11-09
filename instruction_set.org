@@ -5,5 +5,5 @@
 * how to find my instruction set in Bash
   uname -m
 * some instruction sets
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/x86.org][x86]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/x86.org][x86]]
 ** ARM

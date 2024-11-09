@@ -3,12 +3,12 @@
 :END:
 #+title: 58-edo isomorphic layouts
 * TODO Lumatone winners
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_58r_x_9_58d_isomorphic_layout.org][5\58r x 9\58d]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_58_x_2_58u.org][5\58 x 2\58u]]: octaves 10|4 and 12|-1, dense over both axes, smart height 3.15 along 10|4 axis
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/8_58_x_5_58.org][8\58 x 3\58-up (or 5\58-downright)]] octave 8|2, 15-lim 8x6
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/7_58_x_4_58d.org][7\58 x 4\58d]]: octave 10-3, smart height < 3
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/6_58_x_5_58.org][6\58 x 5\58]]: 15-lim 8x4, octave 8-2
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_58_x_4_58u.org][5\58 x 4\58u]]: octave 10-2 (flat), height 4, well-behaved
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_58r_x_9_58d_isomorphic_layout.org][5\58r x 9\58d]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_58_x_2_58u.org][5\58 x 2\58u]]: octaves 10|4 and 12|-1, dense over both axes, smart height 3.15 along 10|4 axis
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/8_58_x_5_58.org][8\58 x 3\58-up (or 5\58-downright)]] octave 8|2, 15-lim 8x6
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_58_x_4_58d.org][7\58 x 4\58d]]: octave 10-3, smart height < 3
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/6_58_x_5_58.org][6\58 x 5\58]]: 15-lim 8x4, octave 8-2
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_58_x_4_58u.org][5\58 x 4\58u]]: octave 10-2 (flat), height 4, well-behaved
 ** 7\58 x 3\58: octave 7|3, 15-lim 7x6
    1  -- -- -- -- -- -- --
    -- 9  -- -- -- -- -- --
@@ -17,8 +17,8 @@
    -- 5  -- -- -- 7  -- --
    -- -- -- -- -- -- -- --
    -- -- -- -- -- 15 -- --
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo_guitar_strategy_15_58_x_2_58_and_4_58.org][58-edo guitar strategy: 15\58 x {2\58 and 4\58}]]
-* TODO maybe there are tunings that aren't part of a tuning covering in my putative list of [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo_isomorphic_layouts.org#tuning-coverings-for-58-edo-maybe][tuning coverings for 58-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_guitar_strategy_15_58_x_2_58_and_4_58.org][58-edo guitar strategy: 15\58 x {2\58 and 4\58}]]
+* TODO maybe there are tunings that aren't part of a tuning covering in my putative list of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_isomorphic_layouts.org#tuning-coverings-for-58-edo-maybe][tuning coverings for 58-edo]]
 * tuning coverings for 58-edo, maybe
 :PROPERTIES:
 :ID:       46fb64df-7338-4a1b-bb53-22a83eae4928
@@ -198,10 +198,10 @@
    , 50 steps; 29 % 16 ; string 4 ; fret - 1
    # , 55 steps; 31 % 16 ; string 3 ; fret 8
 * layouts
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/15_58_x_2_58_isomorphic_instrument_layout.org][15\58 x 2\58]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/15_58_x_4_58_isomorphic_instrument_layout.org][15\58 x 4\58]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/17_58_x_2_58_isomorphic_instrument_layout.org][17\58 x 2\58]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/7_58_x_4_58d.org][7\58 x 4\58d]]: octave 10-3, smart height < 3
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/15_58_x_2_58_isomorphic_instrument_layout.org][15\58 x 2\58]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/15_58_x_4_58_isomorphic_instrument_layout.org][15\58 x 4\58]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/17_58_x_2_58_isomorphic_instrument_layout.org][17\58 x 2\58]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_58_x_4_58d.org][7\58 x 4\58d]]: octave 10-3, smart height < 3
 ** 13\58 x 7\58: 6 string 7 fret 19-limit
         [ 58 steps = 2 % 1 : string 5 fret - 1
         , 34 steps = 3 % 2 : string 1 fret 3
@@ -233,7 +233,7 @@
     , 50 steps; 29 % 16 ; string 2 ; fret 4
     , 55 steps; 31 % 16 ; string 1 ; fret 7
 ** TODO 13\58 x 4\58: 23-limit 6x8, octave (6,-5) or (2,8)
-   [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo_isomorphic_layouts.org#awesome-pairs-well-with-58-4-13][pairs well with 58 2 13]]
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_isomorphic_layouts.org#awesome-pairs-well-with-58-4-13][pairs well with 58 2 13]]
    Octave at (4,1.5) reachable with a Whammy pedal.
 *** 17-lim: 2, 13 and 15 span many strings, otherwise decent
   Pr.pPrint $ bestLayout' 15 58 13 4
@@ -297,7 +297,7 @@
     This one has a slightly smaller 15-limit brick: 4x7 < 4x8
     But the other has better octaves and a better 15:8.
 
-    * On its own, that is, as opposed to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo_isomorphic_layouts.org#awesome-pairs-well-with-58-4-13][paired 58 4 13]].
+    * On its own, that is, as opposed to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_isomorphic_layouts.org#awesome-pairs-well-with-58-4-13][paired 58 4 13]].
 *** it's a 29-edo guitar, at which point, why not just use 31.
 *** primes through 13 + easy higher primes
 58 steps =  2 % 1  : str 4 fret 3
@@ -394,7 +394,7 @@
    27 steps; 11 % 8; string 6; fret -3
    41 steps; 13 % 8; string 6; fret -1
    53 steps; 15 % 8; string 4; fret 3
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/8_58_x_5_58.org][8\58 x 5\58]]: octave 6-2, 31-lim in 6x7 (15 in 6x6)
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/8_58_x_5_58.org][8\58 x 5\58]]: octave 6-2, 31-lim in 6x7 (15 in 6x6)
 ** TODO 7\58 x 6\58: octave (4,5), span 5x5, 124c frets
    Good for a uke, etc.
     ( Edo 58 ; StringGap 7 ; FretGap 6
@@ -428,7 +428,7 @@
    27 steps; 11 % 8; string 3; fret 3
    41 steps; 13 % 8; string 5; fret 3
    53 steps; 15 % 8; string 7; fret 2
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/6_58_x_5_58.org][6\58 x 5\58]]: 15-lim 8x4, octave 8-2
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/6_58_x_5_58.org][6\58 x 5\58]]: 15-lim 8x4, octave 8-2
 ** TODO 6\58 x 1\58: octave 9-4, height 5, ok 4:5:6:7:8, 15-lim 9x5 block
 *** layout, numeric
     0  steps;  1 % 1; string 0; fret 0
@@ -448,8 +448,8 @@
   -- -- -- -- 11 -- -- -- -- --
   -- -- -- 9  -- 3  -- -- -- 2
   -- -- -- -- -- -- 13 7  15 --
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_58_x_4_58u.org][5\58 x 4\58u]]: octave 10-2, height 4, well-behaved
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_58_x_2_58u.org][5\58 x 2\58u]]: octaves 10|4 and 12|-1, dense over both axes
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_58_x_4_58u.org][5\58 x 4\58u]]: octave 10-2, height 4, well-behaved
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_58_x_2_58u.org][5\58 x 2\58u]]: octaves 10|4 and 12|-1, dense over both axes
 ** 5\58 x 1\58: 15-lim 11x4 block
    0  steps;  1 % 1; string  0; fret 0
    10 steps;  9 % 8; string  2; fret 0

@@ -24,5 +24,5 @@
 *** Slide up on # to copy all.
 *** Slide down on # to paste.
 * how to extend it
-  See the README or the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/thumb_key_keyboard_for_android.org#builtin-user-guide][builtin documentation]].
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/building_for_android_on_nixos.org][Android apps, building on NixOS]]
+  See the README or the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/thumb_key_keyboard_for_android.org#builtin-user-guide][builtin documentation]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/building_for_android_on_nixos.org][Android apps, building on NixOS]]

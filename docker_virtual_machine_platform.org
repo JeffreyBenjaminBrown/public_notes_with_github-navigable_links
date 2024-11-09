@@ -2,7 +2,7 @@
 :ID:       1b73c5f1-5708-4875-9b85-b2eea26187e0
 :END:
 #+title: Docker (virtual machine platform)
-* TODO what the heck ? [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/persistent_docker_data_insanity_hode.org][persistent Docker data insanity \ Hode]]
+* TODO what the heck ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/persistent_docker_data_insanity_hode.org][persistent Docker data insanity \ Hode]]
 * docker exec
 :PROPERTIES:
 :ID:       e0b24368-4470-412b-b8f4-f5767d93c76a
@@ -22,12 +22,12 @@
        source          /root/.venv/bin/activate && \
        pip3 install -r /root/requirements-for-pip.txt
 * solutions
-** running [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb_in_docker_running.org][TypeDB in Docker]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/if_command_history_paste_backspace_misbehaves_in_conda_python3_in_docker.org][if keyboard input* misbehaves in `conda python3` in Docker]]
+** running [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_in_docker_running.org][TypeDB in Docker]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_command_history_paste_backspace_misbehaves_in_conda_python3_in_docker.org][if keyboard input* misbehaves in `conda python3` in Docker]]
    * e.g. command history (up), paste, backspace
 ** to execute a script in a running Docker container
-   use [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/docker_virtual_machine_platform.org#docker-exec][docker exec]]
+   use [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/docker_virtual_machine_platform.org#docker-exec][docker exec]]
 ** if pip install does not work
-   it might be because [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/docker_virtual_machine_platform.org#the-source-command-is-not-available-by-default][`source` is not available by default]]
+   it might be because [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/docker_virtual_machine_platform.org#the-source-command-is-not-available-by-default][`source` is not available by default]]
 ** To quickly edit a Docker-locked file from the host system
    https://stackoverflow.com/a/26915343

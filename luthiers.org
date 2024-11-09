@@ -14,5 +14,5 @@
   rec'd on HN
 * Fred Carlson at Beyond the Trees
   was recommended by Neil Cosman at Bourgeois Guitars
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/halo_guitars.org][Halo Guitars]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/krappy_guitars.org][Krappy Guitars]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/halo_guitars.org][Halo Guitars]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/krappy_guitars.org][Krappy Guitars]]

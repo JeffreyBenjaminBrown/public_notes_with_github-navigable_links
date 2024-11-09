@@ -11,6 +11,6 @@
 :ID:       d6de763b-22d9-4563-bfd3-92f22a47c7d7
 :END:
   one, serial
-** In the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/actions_menu_the_reaper.org][Actions Menu]], search "toggle fade".
+** In the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/actions_menu_the_reaper.org][Actions Menu]], search "toggle fade".
 ** Surprisingly, "toggle auto-crossfades at split" isn't sufficient.
 ** But turning off that *and* "default fadein/fadeout" is sufficient.

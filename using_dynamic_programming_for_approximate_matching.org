@@ -18,9 +18,9 @@ I understood how to do it but not why it works.
  or equivalently, something extra in T.
 * It's slow.
 Its speed is O(|P|*|T|).
-** Fortunately, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/indexes_and_dynamic_programming_work_well_together.org][Indexes And Dynamic Programming Work Well Together.]]
+** Fortunately, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/indexes_and_dynamic_programming_work_well_together.org][Indexes And Dynamic Programming Work Well Together.]]
 * Penalize unusual edits more.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/in_dna_some_edits_are_more_likely_than_others.org][In DNA, Some Edits Are More Likely Than Others.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_dna_some_edits_are_more_likely_than_others.org][In DNA, Some Edits Are More Likely Than Others.]]
 ** Use a "penalty matrix" to score every possible edit.
 There's a row for each of {A,C,T,G,absent}, and similarly columns.
 It's 0 down the diagonal.

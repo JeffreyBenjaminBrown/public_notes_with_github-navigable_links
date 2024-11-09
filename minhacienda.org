@@ -6,4 +6,4 @@
 * a.k.a.
   = MHCP
   = Ministerio de Hacienda y Crédito Público
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/contacts_at_minhacienda.org][contacts at MinHacienda]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/contacts_at_minhacienda.org][contacts at MinHacienda]]

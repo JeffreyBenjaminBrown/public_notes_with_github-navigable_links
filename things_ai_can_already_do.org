@@ -2,7 +2,7 @@
 :ID:       270da54b-eb89-4a12-8bb5-112d6514a013
 :END:
 #+title: things AI can already do
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/gpt_can_give_career_advice.org][LLMs can give career advice.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gpt_can_give_career_advice.org][LLMs can give career advice.]]
 * LLMs can describe experiences.
   e.g. the paperwork that police have to deal with
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hackyournews_ai_summaries_of_the_top_hn_stories.org][HackYourNews - AI summaries of the top HN stories]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hackyournews_ai_summaries_of_the_top_hn_stories.org][HackYourNews - AI summaries of the top HN stories]]

@@ -2,7 +2,7 @@
 :ID:       de60b7a7-d32d-4773-a26d-bf18ae12336b
 :END:
 #+title: Mercatus Center, pitching Hode to the
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_in_under_295_characters_for_the_mercatus_center.org][Hode in under 295 characters, for the Mercatus Center]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_in_under_295_characters_for_the_mercatus_center.org][Hode in under 295 characters, for the Mercatus Center]]
 * what they ask
 ** the relevant part of my background
 The first part of the proposal should be about you. Tell us your personal story, and how it relates to what you wish to do. We probably don't care much about your formal education, credentials, or awards, unless they're particularly germane to who you are or your idea. Do tell us your background briefly, but credentials are not what will impress us.
@@ -29,7 +29,7 @@ In the first year of the economics PhD program at Michigan State, in 2006, I was
     thinking about what problems data can solve
 ** a mainstream belief I hold
 Our chief institutions for determining what is true are science, journalism, law and government. It is critical that they function well, and equally critical that they be widely understood and trusted.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mercatus_center_essay_on_shyg_for.org][Mercatus Center, essay on Hode for]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_essay_on_shyg_for.org][Mercatus Center, essay on Hode for]]
 *** TODO Fix references (search for "[[")
 *** TODO What about Wikipedia?
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/stashed_unused_text.org][stashed unused text]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/stashed_unused_text.org][stashed unused text]]

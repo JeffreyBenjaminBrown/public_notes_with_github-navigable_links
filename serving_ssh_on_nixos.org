@@ -20,4 +20,4 @@
     networking.networkmanager.enable = true;
 ** will need to use wpa_supplicant
    rather than networkmanager,
-   once I've [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/serving_ssh_on_nixos.org#conflicting-networking][removed networkmanager from my config]].
+   once I've [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/serving_ssh_on_nixos.org#conflicting-networking][removed networkmanager from my config]].

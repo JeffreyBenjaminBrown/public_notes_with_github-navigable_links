@@ -44,7 +44,7 @@ https://forum.djangoproject.com/t/do-i-need-apache-if-so-im-lost-configuring-it/
 * PITFALL: Don't use the toy Django server
 the one started with manage.py.
 Instead start Apache and let it call Django.
-* DONE first [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/wsgi.org][configure wsgi]]
+* DONE first [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wsgi.org][configure wsgi]]
 * HANDY: to customize apache2.conf
   rm /etc/apache2/apache2.conf
   ln -s /mnt/apache/apache2.conf /etc/apache2/

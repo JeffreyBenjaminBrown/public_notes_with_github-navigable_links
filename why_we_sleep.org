@@ -7,7 +7,7 @@
   We train on faces seen in the day to keep it tuned.
   People who go without sleep mistake (photos of)
   friendly for threatening (but not vice-versa).
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/natural_human_sleep_seems_to_be_biphasic.org][Natural human sleep seems to be biphasic.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/natural_human_sleep_seems_to_be_biphasic.org][Natural human sleep seems to be biphasic.]]
 * Some major dream categories: Motoric, visual, emotional.
 * Dreaming about traumatic events is associated with healing the trauma, even controlling for sleep and dreaming in general
 ** To look this up in the book, look for the passage that reads "her patients required REM sleep with dreaming"

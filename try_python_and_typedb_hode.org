@@ -8,7 +8,7 @@ Just do these things from Python.
 ** Save graph. Restore from new Docker container.
 ** readable import/export format
 *** Export graph to readable text.
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/solutions_in_typedb_some.org#in-bash-write-it-to-a-file][In Bash, how to write the schema to a file.]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/solutions_in_typedb_some.org#in-bash-write-it-to-a-file][In Bash, how to write the schema to a file.]]
 *** Import the graph from readable text.
 *** Make the diff readable.
     This could simply involve substituting

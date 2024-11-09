@@ -2,8 +2,8 @@
 :ID:       6e357bfc-6b14-4696-b6e6-6d470398f616
 :END:
 #+title: sc3-plugins (SuperCollider tools)
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/lily_foster_s_build_of_sc3_plugins.org][Lily Foster's build of sc3-plugins]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/supercollider_and_nixos.org][SuperCollider and NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lily_foster_s_build_of_sc3_plugins.org][Lily Foster's build of sc3-plugins]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/supercollider_and_nixos.org][SuperCollider and NixOS]]
   has some stuff that should maybe be here?
 * PITFALL: On NixOS, using SC with plugins requires some configuration.
 :PROPERTIES:

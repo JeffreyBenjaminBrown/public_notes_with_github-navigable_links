@@ -2,7 +2,7 @@
 :ID:       fd9de01f-1dea-4e18-ab1c-7b6ba779e914
 :END:
 #+title: supernova
-* is the explosion of a [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/neutron_star.org][neutron star]]
+* is the explosion of a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neutron_star.org][neutron star]]
 * is the biggest kind of explosion we know about, short of the big bang
 * If a supernova exploded within five hundred light years, we would die.
 :PROPERTIES:

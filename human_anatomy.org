@@ -2,5 +2,5 @@
 :ID:       b4a6ab65-7303-49c6-8acd-4bcb5a68f7f8
 :END:
 #+title: human anatomy
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ear_human_organ.org][ear (human organ)]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nose_human_organ.org][nose (human organ)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ear_human_organ.org][ear (human organ)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nose_human_organ.org][nose (human organ)]]

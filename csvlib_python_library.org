@@ -4,7 +4,7 @@
 #+title: csvlib (Python library)
 * PITFALL: csvlib writes Windows-style line terminators
   maybe always by default?
-  [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/csvlib_python_library.org#use-linux--not-windows-style-line-terminators][how to avoid that]]
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/csvlib_python_library.org#use-linux--not-windows-style-line-terminators][how to avoid that]]
 * PITFALL: search for PITFALL in the code example below
 * solutions
 ** use Linux-, not Windows-style, line terminators

@@ -79,6 +79,6 @@ One creates it, one destroys it; both could be a separate super function.
 ** playChord :: [JI Fraction] -> EDO -> IO ()
    This way you can edit the last argument repeatedly.
 * TODO ? How do streams work?
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mtv_lang.org][mtv-lang]]
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mtv_monome.org][mtv-monome]]
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mtv_ji.org][mtv-ji]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mtv_lang.org][mtv-lang]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mtv_monome.org][mtv-monome]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mtv_ji.org][mtv-ji]]

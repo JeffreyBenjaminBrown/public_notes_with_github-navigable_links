@@ -5,13 +5,13 @@
 #+title: text properties , read-only , hidden text \ in Emacs
 * TODO [[:id:5aada471-bf64-4e6e-911d-292c4a7eb77c][try invisible characters \ Hode -- broken link?]]
 * refs
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/i_coded_a_useful_demo_of_hidden_text_in_emacs.org][I coded a useful demo of hidden text in Emacs.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/i_coded_a_useful_demo_of_hidden_text_in_emacs.org][I coded a useful demo of hidden text in Emacs.]]
 ** examining text properties
 :PROPERTIES:
 :ID:       f73009cb-b872-49a3-a397-1b109a613bcc
 :END:
    https://www.gnu.org/software/emacs/manual/html_node/elisp/Examining-Properties.html
-*** PITFALL: Some functions that should be here are [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/text_properties_hidden_text.org#search-based-on-text-properties][here]] instead.
+*** PITFALL: Some functions that should be here are [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#search-based-on-text-properties][here]] instead.
 ** changing text properties
 :PROPERTIES:
 :ID:       4e5aa8bf-566b-4f85-b561-cf0304c816ae
@@ -30,9 +30,9 @@
    the only way to append text is from the next line.
    If that next line also begins read-only,
    or does not exist, there's no way.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/demo_a_playground_for_hidden_characters_in_emacs.org][demo : hidden character playground in Emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/demo_a_playground_for_hidden_characters_in_emacs.org][demo : hidden character playground in Emacs]]
 * assignment
-  docs: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/text_properties_hidden_text.org#changing-text-properties][changing text properties]]
+  docs: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#changing-text-properties][changing text properties]]
 ** put-text-property start end prop value
    Clobbers any earlier value under prop.
 ** add-text-properties start end props
@@ -48,15 +48,15 @@
 * examining properties
 ** PITfALL: refs are mixed up
    Some things that ought to be in "examining" are in "search'.
-   [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/text_properties_hidden_text.org#examining-text-properties][examining text properties]]
-   [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/text_properties_hidden_text.org#search-based-on-text-properties][search based on text properties]]
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#examining-text-properties][examining text properties]]
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#search-based-on-text-properties][search based on text properties]]
 ** examine a character
 *** get-text-property
     Gets the property at a character.
 *** text-properties-at
     the entire property list of the character
 ** test a range of text
-   these are in the wrong place: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/text_properties_hidden_text.org#search-based-on-text-properties][search based on text properties]]
+   these are in the wrong place: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#search-based-on-text-properties][search based on text properties]]
 *** text-property-any start end prop value
     returns non-nil if at least one character between start and end has a property prop whose value is value
 *** text-property-not-all start end prop value

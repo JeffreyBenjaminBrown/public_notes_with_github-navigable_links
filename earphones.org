@@ -5,4 +5,4 @@
 * Why to keep earphones in their cardboard box.
 ** Protect the spongey parts from getting ripped off in a tight pocket
 ** Hear when they fall out of pocket
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/a60pro_bluetooth_earphones_my.org][A60Pro bluetooth earphones, my]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a60pro_bluetooth_earphones_my.org][A60Pro bluetooth earphones, my]]

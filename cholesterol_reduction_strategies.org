@@ -14,7 +14,7 @@
 ** TODO ? no coffee
    said Dra. Majjul,
    but when I reacted in shock she seemed to weaken that stance
-** avoid [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/for_lower_cholesterol_prefer_filtered_coffee.org][unfiltered coffee]]
+** avoid [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/for_lower_cholesterol_prefer_filtered_coffee.org][unfiltered coffee]]
    espresso, french press, Turkish coffee
 ** sugar
    fruit is okay, says Dra. Majjul
@@ -34,4 +34,4 @@
 ** good harinas: arroz, papa, platano, yuca, guatila, maiz, avena
    there's a panaderia called "El Mejor Pan de Colombia",
    Cl 148 & Av 19, venden sin glutenes
-* DONE [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/does_cbd_oil_reduce_cholesterol_plaque.org][Does CBD oil reduce cholesterol plaque?]]
+* DONE [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/does_cbd_oil_reduce_cholesterol_plaque.org][Does CBD oil reduce cholesterol plaque?]]

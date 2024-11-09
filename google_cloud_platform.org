@@ -2,7 +2,7 @@
 :ID:       2799b8ed-81a8-4667-b1ca-50414cb112ea
 :END:
 #+title: Google Cloud Platform
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/how_i_synced_to_google_drive_before_rclone.org][how I synced to Google Drive before rclone]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/how_i_synced_to_google_drive_before_rclone.org][how I synced to Google Drive before rclone]]
 * Google Cloud Platform sucks.
 :PROPERTIES:
 :ID:       6650da2c-7959-4ff3-a2ed-c94d26266f19

@@ -2,4 +2,4 @@
 :ID:       0d4e593c-d8c6-4a71-8c2b-a531c69da1de
 :END:
 #+title: Austin, Texas
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/people_i_know_in_austin.org][people I know in Austin]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/people_i_know_in_austin.org][people I know in Austin]]

@@ -8,7 +8,7 @@
   Before I had it working I asked some questions here:
   https://discourse.nixos.org/t/nixos-20-09-fresh-vanilla-install-this-gpt-partition-label-contains-no-bios-boot-partition/9903/6
 * TODO every time
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/kde_lets_you_export_a_shortcut_scheme.org][KDE lets you export a shortcut scheme!]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kde_lets_you_export_a_shortcut_scheme.org][KDE lets you export a shortcut scheme!]]
 ** update system-minimal and system-<target> in nix/jbb
    before copying it to the new system
 ** save data, and shuttle some of it to the new system during installation
@@ -23,8 +23,8 @@
      org-roam/pers/temp.org
      org-roam/pers/jbb.org
 ** surely more -- see the rest of these notes
-* how to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/burn_an_iso_file_to_a_usb_drive_how_to.org][burn an .iso file to a USB drive]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/linux_without_a_gui.org][Linux without a GUI]]
+* how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/burn_an_iso_file_to_a_usb_drive_how_to.org][burn an .iso file to a USB drive]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linux_without_a_gui.org][Linux without a GUI]]
 * PITFALLs
 ** My `~/ugh/une/code-ish/` might be confusing
    There are symlinks into that from, at least, these places:
@@ -33,7 +33,7 @@
      ~/code/web/aws/secret
    I *think* restoring from Borg will handle those cases correctly,
    but have not tested it.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/uefi.org#to-check-whether-a-computer-uses-uefi][check whether the computer uses UEFI]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/uefi.org#to-check-whether-a-computer-uses-uefi][check whether the computer uses UEFI]]
    If not, install with Legacy Boot.
    (So far all my computers use Legacy.)
 ** UEFI is described before Legacy Boot.
@@ -45,7 +45,7 @@
     e.g. below
 *** some dot files will not be part of my backup
     For instance, my ~/.stack/config.yaml file, because .stack/ is excluded from my backups.
-[[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_my_config.org#pitfall-my-config-outside-of-nix-files][PITFALL: my config outside of .nix files]]
+[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_my_config.org#pitfall-my-config-outside-of-nix-files][PITFALL: my config outside of .nix files]]
 *** export Brave passwords
     I won't be able to reover them from my old data without doing this.
     Remember also to delete the file after.
@@ -71,8 +71,8 @@
       until I ask for them to be.
 ** configure git to use diff-so-fancy
    git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/konsole_linux_command_shell.org#konsolenix-bug-undead-config-file][Konsole|Nix bug: undead config file]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_bash_commands_to_install_from_the_manual.org][NixOS, bash commands to install, from the manual]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/konsole_linux_command_shell.org#konsolenix-bug-undead-config-file][Konsole|Nix bug: undead config file]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_bash_commands_to_install_from_the_manual.org][NixOS, bash commands to install, from the manual]]
 * handy commands while installing, roughly ordered
 ** wifi password
 ** check if the machine uses UEFI
@@ -93,7 +93,7 @@
 ** passwd jeff
    Do this as root when I first log in.
    Thereafter I can log in as jeff.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_my_config_imperative_elements.org][NixOS, my config, imperative elements]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_my_config_imperative_elements.org][NixOS, my config, imperative elements]]
 * installing without X
 ** drop the screen resolution if possible
    Unfortunately `xrandr` is not part of the installer.

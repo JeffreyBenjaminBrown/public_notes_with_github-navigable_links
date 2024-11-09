@@ -3,21 +3,21 @@
 :END:
 #+TITLE: Hode
 * see also
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/epistemology.org][epistemology]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/information_theory.org][information theory]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/networking_minds.org][networking minds]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_introductory_blurb_s.org][an introductory sketch of Hode]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epistemology.org][epistemology]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][information theory]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/networking_minds.org][networking minds]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_introductory_blurb_s.org][an introductory sketch of Hode]]
 * Golden Retriever would be a funny name.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/problems_hode_might_help.org][problems Hode might help]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_usage_and_gameification.org][Hode usage and gameification]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/capabilities_hode_could_enable.org][things Hode would enable]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/outcome_goals_for_an_information_sharing_technology.org][outcome goals for the coommunity]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/feature_goals_for_an_information_sharing_technology.org][feature goals for the technology]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/instructional_videos_for_software_how_to_make.org][instructional videos for software, how to make]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hode_todo.org][Hode & TODO]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/problems_hode_might_help.org][problems Hode might help]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_usage_and_gameification.org][Hode usage and gameification]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/capabilities_hode_could_enable.org][things Hode would enable]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outcome_goals_for_an_information_sharing_technology.org][outcome goals for the coommunity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/feature_goals_for_an_information_sharing_technology.org][feature goals for the technology]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/instructional_videos_for_software_how_to_make.org][instructional videos for software, how to make]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_todo.org][Hode & TODO]]
 * unsolved
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/knowledge_graph_game.org][gameifying knowledge base curation]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/information_sharing_and_cryptocurrency.org][information sharing and cryptocurrency]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graph_game.org][gameifying knowledge base curation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_sharing_and_cryptocurrency.org][information sharing and cryptocurrency]]
 * DONE
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/problems_with_hode_2021.org][problems I saw in Hode when I quit the version I was working on in 2021]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/defunct_coding_hode_in_haskell.org][abandoned : coding Hode in Haskell]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/problems_with_hode_2021.org][problems I saw in Hode when I quit the version I was working on in 2021]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/defunct_coding_hode_in_haskell.org][abandoned : coding Hode in Haskell]]

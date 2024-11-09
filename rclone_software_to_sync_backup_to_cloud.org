@@ -24,7 +24,7 @@
    https://rclone.org/drive/
 * how I configured it
   `rclone config` from the command line.
-** [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/my_rclone_secrets.org][my rclone secrets]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/my_rclone_secrets.org][my rclone secrets]]
 ** It has "drive.file" access to my Google Drive.
    That was the third option offered, of five:
      / Access to files created by rclone only.
@@ -65,12 +65,12 @@
     rclone sync . gborg:by-rclone/borg-repo
 ** folder size, how to find
    Like "du", but more detail.
-   rclone size [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/rclone_software_to_sync_backup_to_cloud.org#how-to-specify-paths][<path>]]
+   rclone size [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rclone_software_to_sync_backup_to_cloud.org#how-to-specify-paths][<path>]]
 ** folder, more information about, how to get
-   rclone about [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/rclone_software_to_sync_backup_to_cloud.org#how-to-specify-paths][<path>]]
+   rclone about [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rclone_software_to_sync_backup_to_cloud.org#how-to-specify-paths][<path>]]
 ** show last modification time
 :PROPERTIES:
 :ID:       fb6790c5-575f-4915-bf5e-87ed3daa50bf
 :END:
    rclone lsf --format t gborg:by-rclone/borg-repo-alt
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/how_i_synced_to_google_drive_before_rclone.org][how I synced to Google Drive before rclone]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/how_i_synced_to_google_drive_before_rclone.org][how I synced to Google Drive before rclone]]

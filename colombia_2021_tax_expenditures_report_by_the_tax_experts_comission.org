@@ -160,7 +160,7 @@
 ***** TEs should be analyzed yearly by sector.
       Currently it's mysterious how much money they give away to who.
 ** a radical rearrangement of those notes, with commentary
-   emailed to [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/luis.org][Luis Carlos Reyes Hernandez]] on 2021 03 18
+   emailed to [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/luis.org][Luis Carlos Reyes Hernandez]] on 2021 03 18
 *** some acronyms
 **** CIT = corporate income tax
 **** TE = "tax expenditure" = loophole, roughly

@@ -9,15 +9,15 @@
 ** emotion
 ** self
 ** love
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/commitment_to_memory_is_somewhat_voluntary.org][Commitment to memory is somewhat voluntary.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/commitment_to_memory_is_somewhat_voluntary.org][Commitment to memory is somewhat voluntary.]]
 * Be aware of the emotional valence that thoughts carry.
 * "Thoughts become like thieves entering an empty house. There's nothing for them to steal."
 ** Sam Harris quoting a ?Buddhist text.
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/i_want_a_record_of_the_org_roam_files_i_read.org][I want a record of the (org-roam) files I read]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/second_order_awareness_is_enough.org][Second-order awareness seems to be enough.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mindfulness_is_a_good_response_to_mental_waste.org][Mindfulness is a good response to mental waste.]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/humming.org][humming]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/meditation_calm_purpose.org][meditation => calm purpose]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/meditation_can_take_bravery.org][Meditation can take courage.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/awareness_of_pain_feels_better_than_unawareness_of_it.org][Awareness of pain feels better than unawareness of it.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/every_moment_is_amazing.org][Every moment is amazing.]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_a_record_of_the_org_roam_files_i_read.org][I want a record of the (org-roam) files I read]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/second_order_awareness_is_enough.org][Second-order awareness seems to be enough.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness_is_a_good_response_to_mental_waste.org][Mindfulness is a good response to mental waste.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humming.org][humming]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_calm_purpose.org][meditation => calm purpose]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_can_take_bravery.org][Meditation can take courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awareness_of_pain_feels_better_than_unawareness_of_it.org][Awareness of pain feels better than unawareness of it.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/every_moment_is_amazing.org][Every moment is amazing.]]

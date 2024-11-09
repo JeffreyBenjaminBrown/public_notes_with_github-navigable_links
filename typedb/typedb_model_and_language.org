@@ -3,16 +3,16 @@
 :END:
 #+title: TypeDB model, syntax, language
 * refs
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb_model_and_language.org#the-full-typeql-grammar-1][the full TypeQL grammar]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb_model_and_language.org#an-example-defining-all-three-kinds-of-thing][a scheme definition example for all three kinds of Thing]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#the-full-typeql-grammar-1][the full TypeQL grammar]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#an-example-defining-all-three-kinds-of-thing][a scheme definition example for all three kinds of Thing]]
 * weird vocabulary
 ** A "Query" is any command.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb_model_and_language.org#pitfall-in-a-get-clause-get-is-optional-but-match-is-mandatory][The "get" clause in a Get is optional, but "match" is mandatory.]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb_model_and_language.org#pitfall-in-old-docs-gets-are-sometimes-called-matches][In old docs "get"s are sometimes called "match"es.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#pitfall-in-a-get-clause-get-is-optional-but-match-is-mandatory][The "get" clause in a Get is optional, but "match" is mandatory.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#pitfall-in-old-docs-gets-are-sometimes-called-matches][In old docs "get"s are sometimes called "match"es.]]
 * general syntax
 ** Whitespace is ignored.
 ** Comments start with #, and can begin mid-line.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/type_names_in_typedb_can_include_both_and.org][Type names in TypeDB can include both - and _.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/type_names_in_typedb_can_include_both_and.org][Type names in TypeDB can include both - and _.]]
 ** the full TypeQL grammar
 :PROPERTIES:
 :ID:       e86f5069-c318-4935-97ae-538da6d431bf
@@ -58,7 +58,7 @@ ConceptMap { map: {"x": RelationType(RelationType { label: "relation", is_root: 
     "has" in an object definition,
     "owns" in a type definition.
 ** Every attribute type has a value type.
-*** Chosen, I guess, from the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb_model_and_language.org#atomic-datatypes-not-part-of-the-schema][atomic datatypes]].
+*** Chosen, I guess, from the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#atomic-datatypes-not-part-of-the-schema][atomic datatypes]].
 *** TODO Can a user define their own types?
 :PROPERTIES:
 :ID:       74db29a4-a21e-467c-8aa4-3cb62e393f41
@@ -66,7 +66,7 @@ ConceptMap { map: {"x": RelationType(RelationType { label: "relation", is_root: 
     Seems kind of a silly idea.
 ** DEPRECATED: Attributes can have attributes.
    This possibility will disappear.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/uids_in_typedb.org][UIDs in TypeDB]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/uids_in_typedb.org][UIDs in TypeDB]]
 * DBs, instances (= servers?), clients and connections
 ** A DB is a (schema, data) pair.
 ** A TypeDB instance can contain multiple DBs.
@@ -96,7 +96,7 @@ ConceptMap { map: {"x": RelationType(RelationType { label: "relation", is_root: 
 :END:
     Aspects of types can be defined,
     without redefining the whole type.
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb.org#the-syntax-laid-out-for-undefining-rules-makes-it-appear-that-the-sub-clause-is-mandatory-but-it-is-not][see my question about their docs' stated syntax]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb.org#the-syntax-laid-out-for-undefining-rules-makes-it-appear-that-the-sub-clause-is-mandatory-but-it-is-not][see my question about their docs' stated syntax]]
 **** example
      # Here `item` already exists.
      define item owns size;
@@ -183,7 +183,7 @@ ConceptMap { map: {"x": RelationType(RelationType { label: "relation", is_root: 
 	[(, owns <attribute type label> [@annotation])...]
 	[(, plays <relation type label>:<role>)...];
 **** In a "sub" clause, the ancestor need not be the immediate parent.
-*** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb.org#the-syntax-laid-out-for-undefining-rules-makes-it-appear-that-the-sub-clause-is-mandatory-but-it-is-not][The syntax in the docs for undefining rules makes it appear that the "sub" clause is mandatory, but it is not.]]
+*** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb.org#the-syntax-laid-out-for-undefining-rules-makes-it-appear-that-the-sub-clause-is-mandatory-but-it-is-not][The syntax in the docs for undefining rules makes it appear that the "sub" clause is mandatory, but it is not.]]
 *** Deleting part of the schema cannot render the data valid.
     Deleting or modifying the offending data must happen first.
 *** Use the "sub" clause to delete the entire type.
@@ -404,7 +404,7 @@ ConceptMap { map: {"x": RelationType(RelationType { label: "relation", is_root: 
     A new relation.
     Ownership of an attribute defined by its value.
     Ownership of an attribute defined by a variable.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb_model_and_language.org#defining-rules][syntax: defining rules]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#defining-rules][syntax: defining rules]]
 ** syntax: using inference in queries
    depends on the client
 *** in the console

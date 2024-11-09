@@ -3,11 +3,11 @@
 :END:
 #+title: apostille process
 * players
-[[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/msu_s_office_of_the_registrar.org][MSU's Office of the Registrar]]
-[[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/michigan_office_of_the_great_seal.org][Michigan Office of the Great Seal]]
+[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/msu_s_office_of_the_registrar.org][MSU's Office of the Registrar]]
+[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/michigan_office_of_the_great_seal.org][Michigan Office of the Great Seal]]
 * process
 ** TODO file this stuff
-*** Things the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/michigan_office_of_the_great_seal.org][Michigan Office of the Great Seal]] said
+*** Things the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/michigan_office_of_the_great_seal.org][Michigan Office of the Great Seal]] said
  Only option is mail-in service.
  Request from msu a certified notarized copy of (?).
  Use authentication request form.

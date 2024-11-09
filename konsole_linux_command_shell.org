@@ -46,4 +46,4 @@
        so attempting to do so creates a new one.)
 ** I asked on the NixOS Discourse here
    https://discourse.nixos.org/t/how-to-disable-konsole-main-toolbar-session-toolbar/15087
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/terminal_linux_app_genre.org#bug-cant-type-the-letter-x-in-shell][bug: can't type the letter `x` in shell]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/terminal_linux_app_genre.org#bug-cant-type-the-letter-x-in-shell][bug: can't type the letter `x` in shell]]

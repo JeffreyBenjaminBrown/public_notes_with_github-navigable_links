@@ -5,4 +5,4 @@
 * ebook formats, which (seem to) work best where
 ** .epub : good for Kindle and in ReadEra (Android)
 ** .mobi : good for Okular (Linux)
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/kindle_amazon.org][Kindle, Amazon]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/kindle_amazon.org][Kindle, Amazon]]

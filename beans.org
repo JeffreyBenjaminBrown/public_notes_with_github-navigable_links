@@ -11,5 +11,5 @@
    osak lukewarm with baking soda, discard;
    cook
 ** said someone: soak with salt and/or vinegar
-* add [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/epazote_te_mexicano.org][epazote]]
-* add [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/saccharomyces_boulardii.org][saccharomyces boulardii]]
+* add [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epazote_te_mexicano.org][epazote]]
+* add [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/saccharomyces_boulardii.org][saccharomyces boulardii]]

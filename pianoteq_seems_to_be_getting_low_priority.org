@@ -2,7 +2,7 @@
 :ID:       298bfc3b-b16e-4494-8985-c684ba8b8b91
 :END:
 #+title: Pianoteq seems to be getting low priority.
-* SOLVED: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/disable_cpu_throttling_for_each_core.org][disable CPU throttling for each core]]
+* SOLVED: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disable_cpu_throttling_for_each_core.org][disable CPU throttling for each core]]
 * refs
 ** some maybe-related Pianoteq threads
 *** https://forum.modartt.com/viewtopic.php?id=7098

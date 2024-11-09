@@ -3,7 +3,7 @@
 :END:
 #+title: fun things in Bogotá
 * Paradisco : "hi fi audio bar"
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/pool_halls_in_bogota.org][pool halls in Bogotá]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pool_halls_in_bogota.org][pool halls in Bogotá]]
   tag billiards
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ping_pong_in_bogota.org][ping pong in Bogotá]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/comedy_improv_teachers_in_bogota.org][comedy improv teachers in Bogotá]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ping_pong_in_bogota.org][ping pong in Bogotá]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_improv_teachers_in_bogota.org][comedy improv teachers in Bogotá]]

@@ -4,23 +4,23 @@
 #+title: editing audio ("editing media items") \ Reaper
 * essential reading
   Some kinds of edits are described in these and not this file.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/media_item_views_in_reaper.org][media items]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/editing_midi_in_reaper.org][editing MIDI in Reaper]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org][media items]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org][editing MIDI in Reaper]]
 * PITFALL: Media and their envelopes can get out of sync.
 :PROPERTIES:
 :ID:       a864df5e-c735-42bf-980f-56d74f465453
 :END:
   quote (modulo newlines):
   the option "Move envelope points with media items" (toggled on/off by clicking on the toolbar envelope tool) will determine whether ...
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/undo_in_reaper.org][undo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/overlapping_items_in_the_same_track_reaper.org]["Overlapping Items" in the same track]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/undo_in_reaper.org][undo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/overlapping_items_in_the_same_track_reaper.org]["Overlapping Items" in the same track]]
 * [[id:63d1464e-4714-4e75-a538-21aa338d5b53][A whole sequence of [editing] actions can be given a keyboard shortcut.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/stereo_and_channels_in_reaper.org][stereo and channels in Reaper]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/stereo_and_channels_in_reaper.org][stereo and channels in Reaper]]
 * Editing is non-destructive.
   Reaper does not delete files.
 * configurable editing views
 ** [[:id:cfcf9ddd-8686-4350-bc00-34bf3d883c47]["Overlapping Items" (in one track) -- broken link?]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/media_item_views_in_reaper.org#what-information-media-items-show-can-be-configured][How media items look (what information they show) can be configured]].
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org#what-information-media-items-show-can-be-configured][How media items look (what information they show) can be configured]].
 * kinds of editing commands
 ** Basic Editing
 :PROPERTIES:
@@ -71,7 +71,7 @@
      Moves the region by its length.
 **** "Stretch razor selection area"
 ** Slip Editing
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#todo-how-is-trimming-different-from-slip-editing][How is Trimming different from Slip Editing?]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#todo-how-is-trimming-different-from-slip-editing][How is Trimming different from Slip Editing?]]
 *** slip edit = removing unwanted material at the start or end of an item
 :PROPERTIES:
 :ID:       48932e09-2584-4503-b10a-8e0d507f2307
@@ -92,8 +92,8 @@
     or don't (even if it's enabled).
     Pool MIDI source data, or don't.
 ** deleting time
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/ripple_editing_in_reaper.org][Ripple Editing in Reaper]]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/reaper_shortcuts_and_context_menus.org#delete-time--c-m-d][delete time : C-M-d]] (jbb-specific)
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ripple_editing_in_reaper.org][Ripple Editing in Reaper]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org#delete-time--c-m-d][delete time : C-M-d]] (jbb-specific)
 ** trimming
 *** TODO How is Trimming different from Slip Editing?
 :PROPERTIES:
@@ -124,7 +124,7 @@
  you can move them together, set them all to a common color,
  mute and unmute them, and so on)
 *** PITFALL: Must be enabled.
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#enable-grouping--m-s-g][enable it : M-S-g]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#enable-grouping--m-s-g][enable it : M-S-g]]
 *** Multiple groups can be saved.
 *** Might also want to enable "Selecting one item selects group".
 *** group item shortcuts, some
@@ -171,7 +171,7 @@
 :ID:       4ed8a0af-8f6c-4697-ac97-04741c6192e4
 :END:
 ** "Propagating Item" properties to similarly named items.
-*** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/pitfalls_reaper.org#propogating-items-means-propogating-an-items-properties-to-other-items][This is badly named.]]
+*** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/pitfalls_reaper.org#propogating-items-means-propogating-an-items-properties-to-other-items][This is badly named.]]
 *** the two varieties:
     "Propagate item to similarly named items on track"
     "Propagate item to similarly named items" (all tracks)
@@ -184,7 +184,7 @@
     In this case, only the one with the loudest peak will reach maximum volume
       (at some point).
     The other is not to do that, in which case they all do (at some point).
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/nudge_reaper.org#multiple-kinds-of-things-can-be-nudged][Multiple kinds of things can be nudged]], and not just in time.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/nudge_reaper.org#multiple-kinds-of-things-can-be-nudged][Multiple kinds of things can be nudged]], and not just in time.
 ** gluing (joining) items
 *** PITFALL: Nuances involving FX and channels when gluing items.
 :PROPERTIES:
@@ -223,4 +223,4 @@
        Separating Loop Selection from Time Selection
 **** When they are unlinked, Alt-drag on the timeline to get the linked behavior.
      (When they are linked, simply dragging will do that.)
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/pitch_detection_pitch_shift_and_time_stretch_in_reaper.org][pitch detection, pitch shift and time stretch in Reaper]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/pitch_detection_pitch_shift_and_time_stretch_in_reaper.org][pitch detection, pitch shift and time stretch in Reaper]]

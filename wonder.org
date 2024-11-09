@@ -2,4 +2,4 @@
 :ID:       792aec5d-797b-4ff7-bc48-ea814d22c4a1
 :END:
 #+title: wonder
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/every_moment_is_amazing.org][Consciousness => every moment is amazing.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/every_moment_is_amazing.org][Consciousness => every moment is amazing.]]

@@ -23,21 +23,21 @@ Constraints are, like types, first class objects in the language. You can see th
 Main> :t Ord
 Prelude.Ord : Type -> Type
 So, (Ord a, Show a) is an ordinary pair of Types, with two constraints as the first and second element of the pair.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#can-be-messed-with][Runtime availability of parameters can be messed with.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#can-be-messed-with][Runtime availability of parameters can be messed with.]]
 ** TODO Why does the definition of Functor use 0, while Monad's doesn't?
    https://idris2.readthedocs.io/en/latest/tutorial/interfaces.html#functors-and-applicatives
    interface                  Functor (0 f : Type -> Type) where
      map  : (m : a -> b) -> f a -> f b
    interface Applicative m => Monad   (m   : Type -> Type) where
     (>>=) : m a -> (a -> m b) -> m b
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#-notation-can-be-faster-than-do-notation-1][!-notation can be faster than do-notation.]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#i-dont-understand-hasio-1][I don't understand HasIO]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#i-dont-understand-idiom-brackets-1][I don't understand idiom brackets.]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#sometimes-we-need-access-to-a-named-parent-implementation-1]["sometimes, we need access to a named parent implementation"]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#interface-conostructors-1][Interface conostructors.]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#determining-parameters-1][Determining parameters]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#limits-on-how-they-refer-to-each-other][limits on how export levels can refer to each other]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#public-export-for-functions-1][public export for functions]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#-notation-can-be-faster-than-do-notation-1][!-notation can be faster than do-notation.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#i-dont-understand-hasio-1][I don't understand HasIO]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#i-dont-understand-idiom-brackets-1][I don't understand idiom brackets.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#sometimes-we-need-access-to-a-named-parent-implementation-1]["sometimes, we need access to a named parent implementation"]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#interface-conostructors-1][Interface conostructors.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#determining-parameters-1][Determining parameters]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#limits-on-how-they-refer-to-each-other][limits on how export levels can refer to each other]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#public-export-for-functions-1][public export for functions]]
 ** (:=)
 *** We can also use the symbol := instead of = to, among other things, avoid ambiguities with propositional equality:
     Diag : a -> Type
@@ -125,7 +125,7 @@ help : a
    isSingleton False = List Nat
 ** Names can be overloaded.
    Note that we have [in the declaration of Vector] used the same constructor names as for List. Ad-hoc name overloading such as this is accepted by Idris, provided that the names are declared in different namespaces
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/finite_sets_in_idris.org][finite sets (in Idris)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/finite_sets_in_idris.org][finite sets (in Idris)]]
 ** Implicit args and naming
 *** Implicit arguments, given with the forall declaration, are not given in applications of index; their values can be inferred from the types of the Fin n and Vect n a arguments. Any name beginning with a lower case letter which appears as a parameter or index in a type declaration, which is not applied to any arguments, will always be automatically bound as an implicit argument; this is why data type names cannot begin with a lower case letter. Implicit arguments can still be given explicitly in applications, using {a=value} and {n=value}, for example:
 
@@ -148,7 +148,7 @@ help : a
             odd : Nat -> Bool
             odd Z = False
             odd (S k) = even k
-*** There's more! See the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#httpsidris2readthedocsioenlatesttutorialtypesfunshtmlnote-declaration-order-and-mutual-blocks][section of the crash course]].
+*** There's more! See the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#httpsidris2readthedocsioenlatesttutorialtypesfunshtmlnote-declaration-order-and-mutual-blocks][section of the crash course]].
 ** There is laziness available on request
 :PROPERTIES:
 :ID:       ca34f4aa-a82e-4943-b57a-5d698258753f
@@ -186,7 +186,7 @@ help : a
     filter : (a -> Bool) -> Vect n a -> (p ** Vect p a)
 ** The type checker can fill in values, not just types
 *** We can write an underscore _ in place of values which we expect the type checker to fill in, so the above definition could also be written as:
-    This example uses the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#syntactic-sugar][dependent pair syntactic sugar]].
+    This example uses the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#syntactic-sugar][dependent pair syntactic sugar]].
 
     vec : (n : Nat ** Vect n Int)
     vec = (_ ** [3, 4])
@@ -335,7 +335,7 @@ help : a
    I don't get it.
    https://idris2.readthedocs.io/en/latest/tutorial/interfaces.html#determining-parameters
 ** export visibility
-*** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/idris_programming_language.org#export-rules-are-per-namespace-not-per-file][export rules are per namespace, not per file]]
+*** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org#export-rules-are-per-namespace-not-per-file][export rules are per namespace, not per file]]
 *** the three kinds
  Idris allows for functions, types, and interfaces to be marked as: private, export, or public export. Their general meaning is as follows:
 

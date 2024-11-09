@@ -12,5 +12,5 @@
 ** once looked at the sun for as long as he could stand.
 * told nobody about the calculus for 27 years.
 * had 40 times the natural concentration of mercury in his hair.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/when_newton_met_halley.org][when Newton met Halley]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/when_newton_met_halley.org][when Newton met Halley]]
 * He made the Principia hard to understand on purpose, to avoid being pesteredy by "smatterers".

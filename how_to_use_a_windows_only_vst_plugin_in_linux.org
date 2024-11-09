@@ -5,7 +5,7 @@
 #+title: how to use a Windows-only plugin in Linux
 This applies at least to VST plugins,
 but I suspect it works for other formats, too.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_use_a_windows_only_vst_plugin_in_linux.org#pitfall-this-might-need-to-be-done-each-time-i-add-a-vst][PITFALL: `yabridgectl sync` might need redoing for new .]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_windows_only_vst_plugin_in_linux.org#pitfall-this-might-need-to-be-done-each-time-i-add-a-vst][PITFALL: `yabridgectl sync` might need redoing for new .]]
 * steps, in serial
 ** install Wine, and maybe other things
    e.g. winetricks

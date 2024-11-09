@@ -7,7 +7,7 @@
    `iter n` divides the pattern into `n` pieces,
    and first plays them in order,
    then in order but starting on the 2nd, etc.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/fugue_from_superimposing_a_transposed_iter_on_a_panning_arpeggio.org][fugue from superimposing a transposed iter on a panning arpeggio]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/fugue_from_superimposing_a_transposed_iter_on_a_panning_arpeggio.org][fugue from superimposing a transposed iter on a panning arpeggio]]
 * iter' :: like iter but starts at 0, then n-1, n-2, etc.
 * trunc and linger
 ** trunc n : play only the first nth
@@ -16,7 +16,7 @@
 #+BEGIN_SRC haskell
   d1 $ fast 4 $ trunc (1/2) $ s "bd sn"
 #+END_SRC
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/a_time_varying_trunc_makes_a_simple_pattern_complex.org][A time-varying `trunc` can make a simple pattern complex.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/a_time_varying_trunc_makes_a_simple_pattern_complex.org][A time-varying `trunc` can make a simple pattern complex.]]
 ** linger : like trunc, but stretches the chosen head to fill the cycle
 #+BEGIN_SRC haskell
   d1 $ linger (7/8)
@@ -31,4 +31,4 @@
 		 rev )
     $ s "supersquare" |*| n (run 16 * 2 - 24)
 #+END_SRC
-** [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/TidalCycles/chunking_a_distorted_harmony.org][chunking a distorted harmony]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/TidalCycles/chunking_a_distorted_harmony.org][chunking a distorted harmony]]

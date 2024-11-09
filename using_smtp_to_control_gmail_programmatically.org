@@ -21,7 +21,7 @@
      after futzing with security prompts they generated,
      succeeded on the next try.
 **** the keys it generated
-     [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/keys_generated_for_programmatic_smtp_control_of_gmail_on_or_before_2022_02_17.org][keys generated for programmatic SMTP control of Gmail on or before <2022-02-17>]]
+     [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/keys_generated_for_programmatic_smtp_control_of_gmail_on_or_before_2022_02_17.org][keys generated for programmatic SMTP control of Gmail on or before <2022-02-17>]]
 * if I see "Temporary failure in name resolution"
 ** Rebooting made it go away!
 ** the error at length (probably useless to me)

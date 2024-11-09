@@ -4,15 +4,15 @@
 #+title: Visual Basic (language)
 * is "for the Microsoft .NET Framework"
 * TODO reading
-** PAUSED INDEFINITELY : [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/vb_language_reference_notes_from.org][VB language reference, notes from]]
+** PAUSED INDEFINITELY : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/vb_language_reference_notes_from.org][VB language reference, notes from]]
 * TODO learn about
   testing
   imports, modules, public and private
   reading and writing files
   HTTP
 * TODO questions
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/visual_basic_language.org#dim-is-used-to--allocate-memory-1]["Dim" is used to ... allocate memory?]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/visual_basic_building_and_running.org][building and running]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/visual_basic_language.org#dim-is-used-to--allocate-memory-1]["Dim" is used to ... allocate memory?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/visual_basic_building_and_running.org][building and running]]
 * syntax
 ** comments
    are preceded by '

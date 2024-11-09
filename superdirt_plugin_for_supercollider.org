@@ -5,7 +5,7 @@
 * folders on my system
   ~/.local/share/SuperCollider/downloaded-quarks/Dirt-Samples/
   ~/.local/share/SuperCollider/downloaded-quarks/SuperDirt/
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/software_mixer_for_superdirt.org][software mixer for SuperDirt]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/software_mixer_for_superdirt.org][software mixer for SuperDirt]]
 * TODO My question on Tidal Forum about "Metapplicative"
   https://club.tidalcycles.org/t/has-anyone-defined-an-ap-like-function-f-f-a-f-b-f-a-f-b-where-f-pattern/3803/1
 * TODO automatically trim initial silence
@@ -14,7 +14,7 @@
 * installing it
   serial, in scide
 ** This probably is not required.
-   Set `ugenPluginsPath` [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sc3_plugins_supercollider_tools.org#pitfall-on-nixos-using-sc-with-plugins-requires-some-configuration][as required by my strange NixOS setup]].
+   Set `ugenPluginsPath` [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sc3_plugins_supercollider_tools.org#pitfall-on-nixos-using-sc-with-plugins-requires-some-configuration][as required by my strange NixOS setup]].
 
    s.options.ugenPluginsPath =
      "/home/jeff/.local/share/SuperCollider/Extensions/";
@@ -23,7 +23,7 @@
    Quarks.install("SuperDirt")
 * updating it
   Quarks.update("SuperDirt")
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/dirt_superdirt_samples.org][Dirt | SuperDirt samples]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/dirt_superdirt_samples.org][Dirt | SuperDirt samples]]
 * TODO parameters that have no effect
 :PROPERTIES:
 :ID:       73022421-1840-4f36-9d6c-915d9a1f9e5b
@@ -72,7 +72,7 @@
      From 5 to 40 or so it gives thick undertones.
      For round values higher than 40 it's kind of glassy,
      and for non-round ones (e.g. 201) it's out of phase but well-behaved.
-**** TODO "[[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/superdirt_plugin_for_supercollider.org#todo-decay-near-0-is-little-effect-near-1-is-very-staccato][decay]]" is useful
+**** TODO "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/superdirt_plugin_for_supercollider.org#todo-decay-near-0-is-little-effect-near-1-is-very-staccato][decay]]" is useful
      supersaw tends to be very buzzy.
      A "decay" value of 0.8 or higher makes it pretty tame.
 **** "semitone"

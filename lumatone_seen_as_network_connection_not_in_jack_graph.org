@@ -4,7 +4,7 @@
 #+title: SOLVED: Lumatone seen as network connection, not in JACK graph
 * The solution
   If the QjackCtl GUI doesn't make it possible,
-  [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/midi-keyboard-esp-usb-in-linux-how-to-use.org#via-aconnect-on-the-command-line][do it via the command line]].
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi-keyboard-esp-usb-in-linux-how-to-use.org#via-aconnect-on-the-command-line][do it via the command line]].
 * links
 ** on Facebook
    https://www.facebook.com/groups/lumatone.keyboard/permalink/5162569443852246

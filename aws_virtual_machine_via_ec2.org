@@ -25,12 +25,12 @@
    scp [options] source.. host
    scp  -i  ~/code/aws/secret/2021-03-24.pem  ubuntu@34.204.60.103://home/ubuntu/amazon.zip .
    scp  -i  ~/code/aws/secret/2021-03-24.pem  ../data/many_tiny ec2-user@34.204.60.103://home/ec2-user
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/hibernation_for_aws_ec2.org][hibernation for AWS EC2]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/aws_ec2_wui.org][the EC2 WUI]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hibernation_for_aws_ec2.org][hibernation for AWS EC2]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_ec2_wui.org][the EC2 WUI]]
 * solutions
-** [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/aws_ec2_launch_an_instance_machine_from_the_cl.org][launch an EC2 instance from the CL]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/aws_ami_amazon_machine_image.org#to-launch-an-ec2-instance-from-an-ami][launch an EC2 instance from an AMI]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/aws_ami_amazon_machine_image.org#to-create-an-ami-from-an-ec2-instance][to create an AMI from an EC2 instance]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/aws_ec2_launch_an_instance_machine_from_the_cl.org][launch an EC2 instance from the CL]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_ami_amazon_machine_image.org#to-launch-an-ec2-instance-from-an-ami][launch an EC2 instance from an AMI]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_ami_amazon_machine_image.org#to-create-an-ami-from-an-ec2-instance][to create an AMI from an EC2 instance]]
 ** How to launch a linux virtual machine on AWS, and use it via SSH.
    serial
 *** start it from the browser
@@ -73,7 +73,7 @@
 :END:
    aws ec2 describe-instances --profile=ec2-root > all-running-instances.json
 ** get IP(v4) addresses for running instance(s)
-   First [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/aws_virtual_machine_via_ec2.org#describe-all-running-instances][describe them all in a file]].
+   First [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_virtual_machine_via_ec2.org#describe-all-running-instances][describe them all in a file]].
    Then grep the file:
      grep "\"PublicIp\"" all-running-instances.json
    or write *that* to a file:

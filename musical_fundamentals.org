@@ -3,8 +3,8 @@
 :ROAM_ALIASES: "music fundamentals" "fundamentals of music"
 :END:
 #+title: musical fundamentals
-* see also [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/musical_exercises.org][musical exercises]]
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/splash_improv.org][splash improv]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_exercises.org][musical exercises]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/splash_improv.org][splash improv]]
 * orthogonal sets of elements
 ** relationships
    mostly for voices?
@@ -32,7 +32,7 @@
     = quantity, count
 *** speed : mean (tempo), std dev (syncopation)
 *** pitch : mean, std dev, size of pitch set
-**** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/46_edo_some_cool_pitch_sets.org][46-edo / some cool pitch sets]]
+**** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_some_cool_pitch_sets.org][46-edo / some cool pitch sets]]
 *** duration : mean, std dev
 *** amplitude : mean, std dev
 *** BLOCKED timbre
@@ -68,7 +68,7 @@
 *** relationships
 *** transformations X objects
 *** objects X parameters
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/pitch_space_a_practice_curriculum.org][pitch space: a practice curriculum]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitch_space_a_practice_curriculum.org][pitch space: a practice curriculum]]
 * relationships (esp. between hands)
 ** follows => call & response
 ** complicates, simplifies

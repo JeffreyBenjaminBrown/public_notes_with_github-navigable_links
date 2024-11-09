@@ -8,7 +8,7 @@
   https://tidalcycles.org/docs/getting-started/upgrading
   SuperCollider
   the SuperDirt quark
-  the Emacs extension (actually [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/using_running_tidalcycles_in_emacs.org#use-a-local-tidal-clone-from-emacs-without-using-tidalel][I prefer not to]])
+  the Emacs extension (actually [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/using_running_tidalcycles_in_emacs.org#use-a-local-tidal-clone-from-emacs-without-using-tidalel][I prefer not to]])
   Tidal
 * How to change the SC launch options
   modify this
@@ -17,7 +17,7 @@
 ** Just run `cabal repl` from the clone.
    The first time it will install a lot of dependencies
    to the global .cabal store, but not Tidal itself.
-** This even [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/using_running_tidalcycles_in_emacs.org#use-a-local-tidal-clone-from-emacs-without-using-tidalel][works in Emacs]].
+** This even [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/using_running_tidalcycles_in_emacs.org#use-a-local-tidal-clone-from-emacs-without-using-tidalel][works in Emacs]].
 * BLOCKED DO NOT install a global Tidal
   But this shows how.
 ** I downloaded tidal.el to a new folder.

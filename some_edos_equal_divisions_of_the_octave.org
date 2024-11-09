@@ -8,10 +8,10 @@
    where f is the signed distance from each note to the root-octave axis.
    See commit 931c0db7f8f7e3c52b7cf872773445e625b23ac7
    of git@github.com:JeffreyBenjaminBrown/montevideo
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/7_60_x_2_60d.org][7\60 x 2\60d]]: smart 15-height 4.4, octave 8-2, great dom7
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/6_58_x_5_58.org][6\58 x 5\58]]: smart 15-height 4.4, octave 8-2, rough 2:3:5
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/17_112_x_12_112u.org][17\112 x 12\112u]]: smart 15-height 4.4, octave 8-2, rough 2:3:5
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/11_116_x_2_116.org][11\116 x 2\116]]: smart 15-height 3.5, octave 10-3, rough 2:3:5
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_60_x_2_60d.org][7\60 x 2\60d]]: smart 15-height 4.4, octave 8-2, great dom7
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/6_58_x_5_58.org][6\58 x 5\58]]: smart 15-height 4.4, octave 8-2, rough 2:3:5
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/17_112_x_12_112u.org][17\112 x 12\112u]]: smart 15-height 4.4, octave 8-2, rough 2:3:5
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/11_116_x_2_116.org][11\116 x 2\116]]: smart 15-height 3.5, octave 10-3, rough 2:3:5
 * TODO break 'tuning coverings', 80 and 58 into new files
   This file is so big that execution pauses when I save it.
 * u - "tuning coverings"
@@ -38,7 +38,7 @@
     , 40 steps; 27 % 16 ; string 4 ; fret - 2
     , 45 steps; 29 % 16 ; string 3 ; fret 6
     , 51 steps; 31 % 16 ; string 5 ; fret - 2
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo_isomorphic_layouts.org#tuning-coverings-for-58-edo-maybe][tuning coverings for 58-edo]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_isomorphic_layouts.org#tuning-coverings-for-58-edo-maybe][tuning coverings for 58-edo]]
 ** TODO 62-edo
 *** TODO 14\62 x 3\62: 20-ish frets, octave 4s2f, crazy-tight 31-lim
     [ 0 steps; 1 % 1 ; string 0 ; fret 0
@@ -476,7 +476,7 @@
         , 69 steps; 29 % 16 ; string 1 ; fret 7
 ** TODO 82-edo
    82-edo is a flat system; it's worth playing a flat 11/8.
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/add_in_between_notes_to_mtv_monome.org#todo-41-82--13-17-23-37-][41-edo is fat-finger friends with 82-edo]].
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#todo-41-82--13-17-23-37-][41-edo is fat-finger friends with 82-edo]].
 *** TODO 17\82 x 3\82: 23-lim -17 in 5x8
     [ 0 steps; 1 % 1 ; string 0 ; fret 0
     , 82 steps; 2 % 1 ; string 5 ; fret - 1
@@ -621,7 +621,7 @@
     , 41 steps; 11 % 8 ; string 1 ; fret 2
     , 63 steps; 13 % 8 ; string 3 ; fret 1
     , 82 steps; 15 % 8 ; string 2 ; fret 4
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/94_edo.org][94-edo]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/94_edo.org][94-edo]]
 ** TODO 99-edo
 *** 28\99 x 15\99: weird but tight 9-limit +15
         [ 0 steps; 1 % 1 ; string 0 ; fret 0
@@ -972,40 +972,40 @@ Pr.pPrint ( take 30 $ drop 90
   $ filter okayHarmony ls )
 * some favorites, ordered by preference (at least at the top)
   for reference, 31-limit (46 1 9) => 5x7
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/80_edo.org#todo-combo-80-edo-14s-5f-bosanquet--80-edo-16s-5f][80-edo 14s 5f (Bosanquet) + 80-edo 16s 5f]]
-** TODO Cam rec's 80-edo [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/80_edo.org#todo-bosanquet-s14-f5-great-29-limt--5--15--17][Bosanquet, s14 f5: great 29-limt -5 -15 -17]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/94_edo.org#todo-94-7-16-15-lim-192127-0-area-5x7-8ve-52-no-near-unisons][94 7 16: 15-lim +19.21.27 0-area 5x7, octave (5,2), sans unisons]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#90-5-17-13-lim-192527-5x6-octave-51-31-lim-7x12-difficult-98][90 5 17: 13-lim +19.25.27 5x6, octave (5,1), 31-lim 7x12]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/2_27_x_27_72_isomorphic_layout.org][2\27 x 27\72 isomorphic layout]] : 31-limit sans 21:16 fits in 3x15 (guitar!)
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#65-8-11-15-lim-0-area-5x6-weird-backward-54-octave-34][65 8 11: 15-lim 0-area 5x6, weird backward 5:4, octave (3,4)]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#63-6-13-105-edo-frets-15-lim-0-area-4x8-4x5-sans-11-octave-34][63 6 13: 10.5-edo frets, 15-lim 0-area 4x8 (4x5 sans 11), balanced octave (3,4)]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#58-5-8-15-lim-6x6-perfectly-50-balanced-octave][58 5 8: 15-lim 6x6, perfectly (50%) balanced octave]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo_isomorphic_layouts.org#todo-1358-x-258-octave-43-15-lim-4x7-31-lim-5x10][58 2 13: balanced diagonal octave (4,3), 15-lim 4x7]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/8_50_x_5_50_isomorphic_tuning_layout_bosanquet.org#tag][50 5 8: mandolin-feasible, area 6x7 in 31-limit, 5x4 in 15-limit, octave (5,2)]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/50_edo.org#1950-x-250-25-edo-frets-octavess-26-and-4-13-13-limit-2x8][50 2 19: 25-edo frets, octave (2,6), 13-limit 2x8]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#65-4-13-31-lim-7x9-29-lim--1727-6x6-13-fret-unisons-octave-50][65 4 13: 31-lim 7x9, 29-lim -17.27 6x6, 13-fret unisons, octave (5,0)]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#75-5-12-15-edo-guitar-31-lim--2729-6x5-full-31-lim-7x10-octave-53][75 5 12: 31-lim -27.29 6x5, full 31-lim 7x10, octave (5,3)]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#99-13-28-13-lim--7-4x5-13-lim-2123-4x8-151727-5x10-octave-4-1][99 13 28: 13-lim -7 4x5, 13-lim +21.23 4x8, +15.17.27 5x10, octave (4,-1)]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#109-7-19-15-lim-2331-0-area-5x7-octave-52][109 7 19: 15-lim (+23.31) 0-area 5x7, octave (5,2)]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/80_edo.org#todo-combo-80-edo-14s-5f-bosanquet--80-edo-16s-5f][80-edo 14s 5f (Bosanquet) + 80-edo 16s 5f]]
+** TODO Cam rec's 80-edo [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/80_edo.org#todo-bosanquet-s14-f5-great-29-limt--5--15--17][Bosanquet, s14 f5: great 29-limt -5 -15 -17]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/94_edo.org#todo-94-7-16-15-lim-192127-0-area-5x7-8ve-52-no-near-unisons][94 7 16: 15-lim +19.21.27 0-area 5x7, octave (5,2), sans unisons]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#90-5-17-13-lim-192527-5x6-octave-51-31-lim-7x12-difficult-98][90 5 17: 13-lim +19.25.27 5x6, octave (5,1), 31-lim 7x12]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/2_27_x_27_72_isomorphic_layout.org][2\27 x 27\72 isomorphic layout]] : 31-limit sans 21:16 fits in 3x15 (guitar!)
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#65-8-11-15-lim-0-area-5x6-weird-backward-54-octave-34][65 8 11: 15-lim 0-area 5x6, weird backward 5:4, octave (3,4)]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#63-6-13-105-edo-frets-15-lim-0-area-4x8-4x5-sans-11-octave-34][63 6 13: 10.5-edo frets, 15-lim 0-area 4x8 (4x5 sans 11), balanced octave (3,4)]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#58-5-8-15-lim-6x6-perfectly-50-balanced-octave][58 5 8: 15-lim 6x6, perfectly (50%) balanced octave]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_isomorphic_layouts.org#todo-1358-x-258-octave-43-15-lim-4x7-31-lim-5x10][58 2 13: balanced diagonal octave (4,3), 15-lim 4x7]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/8_50_x_5_50_isomorphic_tuning_layout_bosanquet.org#tag][50 5 8: mandolin-feasible, area 6x7 in 31-limit, 5x4 in 15-limit, octave (5,2)]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/50_edo.org#1950-x-250-25-edo-frets-octavess-26-and-4-13-13-limit-2x8][50 2 19: 25-edo frets, octave (2,6), 13-limit 2x8]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#65-4-13-31-lim-7x9-29-lim--1727-6x6-13-fret-unisons-octave-50][65 4 13: 31-lim 7x9, 29-lim -17.27 6x6, 13-fret unisons, octave (5,0)]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#75-5-12-15-edo-guitar-31-lim--2729-6x5-full-31-lim-7x10-octave-53][75 5 12: 31-lim -27.29 6x5, full 31-lim 7x10, octave (5,3)]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#99-13-28-13-lim--7-4x5-13-lim-2123-4x8-151727-5x10-octave-4-1][99 13 28: 13-lim -7 4x5, 13-lim +21.23 4x8, +15.17.27 5x10, octave (4,-1)]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#109-7-19-15-lim-2331-0-area-5x7-octave-52][109 7 19: 15-lim (+23.31) 0-area 5x7, octave (5,2)]]
    but the thirds are awkward
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo_isomorphic_layouts.org#todo-1158-x-358-19-ish-frets-31-lim-5x9][58 3 11: 31-lim 5x9. Awkward 9%8, 4%3.]]
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/3_62_x_14_62_isomorphic_pitch_layout.org][3\62 x 14\62 (isomorphic pitch layout)]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/135_edo.org#135-10-23-15-lim-192127-0-area-5x7-octave-52-sans-unisons][135 10 23 15-lim +19.21.27 0-area 5x7, octave (5,2), sans unisons]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#116-11-24-15-lim-0-area-of-3x8-octave-34-1][116 11 24: 15-lim 0-area of 3x8, octave (3,4)]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#87-2-17-31-lim-5x12-drop-23292519-to-trim-5-frets-1][87 2 17: 31-lim 5x12; drop 23.29.25.19 to trim 5 frets]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#56-6-11-octave-42-15-lim-0-area-4x6-31-lim-7x8-1][56 6 11: octave (4,2), 15-lim 0-area 4x6, 31-lim 7x8]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#55-edo-1][55-edo]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/94_edo.org#94-7-23-15-lim-5x8-octave-5-3-seems--94-7-16][94 7 23: 15-lim 5x8, octave (5,-3), seems < 94 7 16]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/46_edo_isomorphic_layouts.org#todo-946-x-546-31-lim-in-6x7-17-lim-in-4x6-octave-4-2-92-edo-frets-guitar-bad][46 5 9: 31-lim 5x7 brick, 23-lim 5x5, octave (4,2)]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/43_edo.org#todo-843-x-343-super-easy-7-strings-6-frets-for-31-lim--17][43 3 8: super-easy, but narrow]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/50_edo.org#1050-x-350-guitar-feas-31-lim-6x8-15-lim-6x6][50 3 10: guitar-feas, 31-lim 6x8, 15-lim 6x6]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/57_edo.org#todo-657-x-1357-wider-than-narrow-kite-5-fret-span-in-19-limit-meantone][57 6 13: 19-edo multiple, wider than narrow Kite, 5 fret span in 19-limit, meantone]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#todo-60-3-16-narrow-kite-layout-in-31-limit--17][60 3 16: *narrow Kite layout in 31-limit -17*]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/48_3_13_16_edo_guitar.org][48 3 13: 16-edo guitar]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#todo-77-3-13-guitar-feas-19-lim-0-area-5x8-octave-54][77 3 13: guitar-feas, 19-lim 0-area 5x8, octave (5,4)]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#todo-84-4-19-great-7-limit-rainbow-zone-an-octave-apart][84 4 19: great 7-limit; rainbow zone an octave apart]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#99-15-13-7-string-4-frets-octave-brick-in-17-lim--23][99 15 13: (6 strings 4 frets) octave brick in 17-lim + 23]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_edos_equal_divisions_of_the_octave.org#104-5-33-great-except-no-unisons-and-far-13][104 5 33: Great! Except no unisons.]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_isomorphic_layouts.org#todo-1158-x-358-19-ish-frets-31-lim-5x9][58 3 11: 31-lim 5x9. Awkward 9%8, 4%3.]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/3_62_x_14_62_isomorphic_pitch_layout.org][3\62 x 14\62 (isomorphic pitch layout)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/135_edo.org#135-10-23-15-lim-192127-0-area-5x7-octave-52-sans-unisons][135 10 23 15-lim +19.21.27 0-area 5x7, octave (5,2), sans unisons]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#116-11-24-15-lim-0-area-of-3x8-octave-34-1][116 11 24: 15-lim 0-area of 3x8, octave (3,4)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#87-2-17-31-lim-5x12-drop-23292519-to-trim-5-frets-1][87 2 17: 31-lim 5x12; drop 23.29.25.19 to trim 5 frets]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#56-6-11-octave-42-15-lim-0-area-4x6-31-lim-7x8-1][56 6 11: octave (4,2), 15-lim 0-area 4x6, 31-lim 7x8]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#55-edo-1][55-edo]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/94_edo.org#94-7-23-15-lim-5x8-octave-5-3-seems--94-7-16][94 7 23: 15-lim 5x8, octave (5,-3), seems < 94 7 16]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_isomorphic_layouts.org#todo-946-x-546-31-lim-in-6x7-17-lim-in-4x6-octave-4-2-92-edo-frets-guitar-bad][46 5 9: 31-lim 5x7 brick, 23-lim 5x5, octave (4,2)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/43_edo.org#todo-843-x-343-super-easy-7-strings-6-frets-for-31-lim--17][43 3 8: super-easy, but narrow]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/50_edo.org#1050-x-350-guitar-feas-31-lim-6x8-15-lim-6x6][50 3 10: guitar-feas, 31-lim 6x8, 15-lim 6x6]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/57_edo.org#todo-657-x-1357-wider-than-narrow-kite-5-fret-span-in-19-limit-meantone][57 6 13: 19-edo multiple, wider than narrow Kite, 5 fret span in 19-limit, meantone]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#todo-60-3-16-narrow-kite-layout-in-31-limit--17][60 3 16: *narrow Kite layout in 31-limit -17*]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/48_3_13_16_edo_guitar.org][48 3 13: 16-edo guitar]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#todo-77-3-13-guitar-feas-19-lim-0-area-5x8-octave-54][77 3 13: guitar-feas, 19-lim 0-area 5x8, octave (5,4)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#todo-84-4-19-great-7-limit-rainbow-zone-an-octave-apart][84 4 19: great 7-limit; rainbow zone an octave apart]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#99-15-13-7-string-4-frets-octave-brick-in-17-lim--23][99 15 13: (6 strings 4 frets) octave brick in 17-lim + 23]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org#104-5-33-great-except-no-unisons-and-far-13][104 5 33: Great! Except no unisons.]]
 * TODO new after awesome program
 ** for guitar or keyboard
 *** 48 2 11
@@ -1028,8 +1028,8 @@ Pr.pPrint ( take 30 $ drop 90
     , 39 steps; 7 % 4;  string 3; fret 0
     , 44 steps; 15 % 8; string 4; fret -4
     , 48 steps; 2 % 1;  string 4; fret -2
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/48_3_14_16_edo_guitar_awkward_5_4_13_lim_3x7_octave_3_2.org][48 3 14: 16-edo guitar, awkward 5:4, 13-lim 3x7, octave (3,2)]]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/48_3_13_16_edo_guitar.org][48 3 13: 16-edo guitar]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/48_3_14_16_edo_guitar_awkward_5_4_13_lim_3x7_octave_3_2.org][48 3 14: 16-edo guitar, awkward 5:4, 13-lim 3x7, octave (3,2)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/48_3_13_16_edo_guitar.org][48 3 13: 16-edo guitar]]
 *** 46 2 19
      , etrTuning = Edo 46 ; StringGap 19 ; FretGap 2
      , etrArea = 48
@@ -1133,7 +1133,7 @@ Pr.pPrint ( take 30 $ drop 90
 	, 74 steps; 13 % 8 ; string 2 ; fret 6
 	, 96 steps; 15 % 8 ; string 3 ; fret 6
 	]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/48_4_11_12_edo_guitar.org][48 4 11: 12-edo guitar]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/48_4_11_12_edo_guitar.org][48 4 11: 12-edo guitar]]
 ** for keyboard
 *** 73 5 12: 15-lim 0-area 4x8, octave (4,5)
             [ 0 steps; 1 % 1 ; string 0 ; fret 0
@@ -1231,7 +1231,7 @@ Pr.pPrint ( take 30 $ drop 90
      Though it takes two hands to play a chord, generally.
    And they're both "sharp systems".
 * 24-edo
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/quartertone_free_cluster_free_ways_to_divide_a_fourth_in_24_edo.org][quartertone-free, cluster-free ways to divide a fourth in 24-edo]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/quartertone_free_cluster_free_ways_to_divide_a_fourth_in_24_edo.org][quartertone-free, cluster-free ways to divide a fourth in 24-edo]]
 ** For Lumatone, 6\24 x 1\24 looks hard to beat
    0  steps;  1 % 1; string 0; fret 0
    4  steps;  9 % 8; string 1; fret -2
@@ -1263,14 +1263,14 @@ Notice in particular how natural the dominant 9th chord is in root position:
    19 steps;  7 % 4; string 4; fret -1
    28 steps;  9 % 8; string 6; fret -2
 
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/27_edo.org][27-edo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/29_edo.org][29-edo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/31_edo.org][31-edo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/34_edo.org][34-edo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/36_edo.org][36-edo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/37_edo.org][37-edo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/41_edo.org][41-edo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/43_edo.org][43-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/27_edo.org][27-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/29_edo.org][29-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/31_edo.org][31-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/34_edo.org][34-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/36_edo.org][36-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/37_edo.org][37-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo.org][41-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/43_edo.org][43-edo]]
 * 44-edo
 ** 44 2 9
          [ 0 steps; 1 % 1 ; string 0 ; fret 0
@@ -1309,8 +1309,8 @@ Notice in particular how natural the dominant 9th chord is in root position:
         , 20 steps; 11 % 8 ; string 2 ; fret 0
         , 31 steps; 13 % 8 ; string 4 ; fret - 3
         , 40 steps; 15 % 8 ; string 4 ; fret 0
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/46_edo.org][46-edo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/48_edo_musical_instrument_tuning.org][48-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo.org][46-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/48_edo_musical_instrument_tuning.org][48-edo]]
 * 49-edo -- sharp system, 5:2 is 8c sharp
 ** 49 5 8: 15-lim 3x5, octave (3,5)
     , etrArea = 35
@@ -1324,8 +1324,8 @@ Notice in particular how natural the dominant 9th chord is in root position:
 	, 23 steps; 11 % 8 ; string 1 ; fret 3
 	, 34 steps; 13 % 8 ; string 3 ; fret 2
 	, 44 steps; 15 % 8 ; string 3 ; fret 4
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/50_edo.org][50-edo]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/53_edo.org][53-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/50_edo.org][50-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/53_edo.org][53-edo]]
 * 55-edo
 :PROPERTIES:
 :ID:       996e6cf6-6d79-4cbf-8219-d3aac08d9eb8
@@ -1402,12 +1402,12 @@ Notice in particular how natural the dominant 9th chord is in root position:
 * 56-edo
   Its errors' absolute values are unusually low,
   but 3 is 5c sharp while 7 and 13 are both 5c flat.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/57_edo.org][57-edo]] (57 = 3*19)
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo.org][58-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/57_edo.org][57-edo]] (57 = 3*19)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo.org][58-edo]]
 * 60-edo : a great 31-limit flat system
 ** Exception: the 11:8 is 8c sharp.
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/7_60_x_2_60d.org][7\60 x 2\60d]]: 15-lim 5x8, octave 8-2, great dom7
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/62_edo.org][62-edo]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_60_x_2_60d.org][7\60 x 2\60d]]: 15-lim 5x8, octave 8-2, great dom7
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/62_edo.org][62-edo]]
 * 63-edo
 ** 6\63 x 1\63 -- surprisingly, Lumatone-feasible
 *** I can reach an octave!
@@ -1697,7 +1697,7 @@ octave 3:	(-7,34)
     { etrEdo = 65
     , etrTuning = Edo 65 ; StringGap 11 ; FretGap 8
     , etrArea = 30
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/72_edo.org][72-edo]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/72_edo.org][72-edo]]
 * 74: super-tight meantone
 Its worst harmonic is 3/2, at -4.7c error.
 > myPrint $ bests 74
@@ -1791,7 +1791,7 @@ Its worst harmonic is 3/2, at -4.7c error.
    63 steps; 7  % 4;  string 7;  fret 1
    71 steps; 15 % 8;  string 8;  fret 1
    78 steps; 2  % 1;  string 8;  fret 2
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/80_edo.org][80-edo]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/80_edo.org][80-edo]]
 * TODO 87-edo
 ** 9\87 x 5\87
    08 steps; 17 % 16; string 2; fret -2
@@ -1976,8 +1976,8 @@ Its worst harmonic is 3/2, at -4.7c error.
    86 steps; 31 % 16 ; string 3 ;   fret 7
 *** Ooctaves at (5,1) and (0,18) (and nowhere else).
 * 92-edo
-  [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/add_in_between_notes_to_mtv_monome.org#todo-46-92--19-29-37-][46-edo is fat-finger friendly with 92-edo.]]
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/94_edo.org][94-edo]]
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#todo-46-92--19-29-37-][46-edo is fat-finger friendly with 92-edo.]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/94_edo.org][94-edo]]
 * 99-edo
   by hand, searched all triplets (99 [2-10] [11-33])
 ** 99 2 13: 8 strings 4 frets for 13-lim + 23
@@ -2107,7 +2107,7 @@ Its worst harmonic is 3/2, at -4.7c error.
     , 85 steps; 29 % 16 ; string - 5 ; fret 15
     , 94 steps; 31 % 16 ; string - 2 ; fret 10
 * 100-edo
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/add_in_between_notes_to_mtv_monome.org#50-100][50-edo and 100-edo are fat-finger friendly.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#50-100][50-edo and 100-edo are fat-finger friendly.]]
 * 103-edo
   A flat system, astounding in the 31-limit sans 19.
   Apparently no good layouts.
@@ -2145,7 +2145,7 @@ Its worst harmonic is 3/2, at -4.7c error.
    , 73 steps; 13 % 8 ; string 1 ; fret 8
    , 94 steps; 15 % 8 ; string 3 ; fret - 1
 * 106-edo
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/add_in_between_notes_to_mtv_monome.org#53-106][53-edo and 106-edo are fat-finger friendly.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#53-106][53-edo and 106-edo are fat-finger friendly.]]
 * 109-edo
 ** harmonically incredible
    misses 6 31-limit primes by < 1c: 5,7,11,19,23,31
@@ -2206,7 +2206,7 @@ Its worst harmonic is 3/2, at -4.7c error.
 :PROPERTIES:
 :ID:       0460e2ac-6017-4932-814a-70cb14054434
 :END:
-   In the 31-limit, the easy notes are different than in [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/94_edo.org#todo-94-7-16-15-lim-192127-0-area-5x7-8ve-52-no-near-unisons][94 7 16]]
+   In the 31-limit, the easy notes are different than in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/94_edo.org#todo-94-7-16-15-lim-192127-0-area-5x7-8ve-52-no-near-unisons][94 7 16]]
    Edo 116 ; StringGap 24 ; FretGap 11
    [ 0 steps; 1 % 1 ; string 0 ; fret 0
    , 116 steps; 2 % 1 ; string 3 ; fret 4
@@ -2225,7 +2225,7 @@ Its worst harmonic is 3/2, at -4.7c error.
    , 88 steps; 27 % 16 ; string 0 ; fret 8
    , 100 steps; 29 % 16 ; string 6 ; fret - 4
    , 111 steps; 31 % 16 ; string 6 ; fret - 3
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/11_116_x_2_116.org][11\116 x 2\116]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/11_116_x_2_116.org][11\116 x 2\116]]
 * 118-edo
 ** mod 1 space 16: span of 12, ugly
 10 steps = 17 % 16:  string 1 fret -6 | string 0 fret 10
@@ -2362,7 +2362,7 @@ Its worst harmonic is 3/2, at -4.7c error.
        , 22 steps; 9 % 8 ; string 1 ; fret - 2
        , 59 steps; 11 % 8 ; string 2 ; fret 1
        , 90 steps; 13 % 8 ; string 3 ; fret 2
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/135_edo.org][135-edo]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/135_edo.org][135-edo]]
 * 136-edo
 ** 18\136 x 5\136
    000 steps; 1  % 1; string 0; fret 0

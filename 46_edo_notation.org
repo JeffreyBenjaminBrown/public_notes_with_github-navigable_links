@@ -2,7 +2,7 @@
 :ID:       a7586f73-d137-4ed3-8c58-a24675675f60
 :END:
 #+title: 46-edo notation
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/code_to_generate_note_names_for_an_edo.org][code to generate note names for an edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/code_to_generate_note_names_for_an_edo.org][code to generate note names for an edo]]
 * refs
 ** Cam Taylor first explained this to me
    https://www.facebook.com/groups/497105067092502/permalink/2106208506182142/?comment_id=2106280346174958

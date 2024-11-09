@@ -10,12 +10,12 @@
 :PROPERTIES:
 :ID:       c262c184-c00a-4bdf-9565-9d32a6d33797
 :END:
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/fades_and_crossfades_reaper.org][fades and crossfades]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/fades_and_crossfades_reaper.org][fades and crossfades]]
 * Buses are for sharing resources among tracks.
 :PROPERTIES:
 :ID:       8aecb135-fc73-4bd5-bb3e-b499b4f0ab04
 :END:
-* configurable: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/track_and_time_window_views_in_reaper.org#configurable--whether-track-metering-is-pre--or-post-fader][whether track "metering" is pre- or post-fader]]
+* configurable: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org#configurable--whether-track-metering-is-pre--or-post-fader][whether track "metering" is pre- or post-fader]]
 * *ways to route tracks*
   Some of these route only one;
   others, many at once.
@@ -27,10 +27,10 @@
    offers that as an alternative to the Routing Matrix.
    See p. 59,
    "Tips: Using the Track Control Panel to prepare multiple tracks".
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/routing_matrix_in_reaper.org][Routing Matrix]] (cool)
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/track_wiring_view.org][Track Wiring View]] (cool)
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/routing_matrix_in_reaper.org][Routing Matrix]] (cool)
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_wiring_view.org][Track Wiring View]] (cool)
 ** A track's "Routing button" leads to its sends and receives.
-** One track at a time can be routed via the [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/tracks_in_reaper.org#the-track-control-panel-tcp][Track Control Panel]] (TCP).
+** One track at a time can be routed via the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/tracks_in_reaper.org#the-track-control-panel-tcp][Track Control Panel]] (TCP).
 * to toggle "send from track to Master"
   Hold Alt while clicking Route.
   Works with multi-track selections too.

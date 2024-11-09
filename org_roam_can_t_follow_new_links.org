@@ -21,7 +21,7 @@
 
   When I create a link to it, the link looks like this:
   ```
-[[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/org_roam_can_t_follow_new_links.org#org-roam-cant-follow-link-it-makes-to-a-certain-file-other-files-are-fine][  concurrent programming]]
+[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_can_t_follow_new_links.org#org-roam-cant-follow-link-it-makes-to-a-certain-file-other-files-are-fine][  concurrent programming]]
   ```
 
   When I try to follow the link, I get this:

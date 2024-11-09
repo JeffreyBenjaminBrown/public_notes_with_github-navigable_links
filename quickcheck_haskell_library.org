@@ -49,7 +49,7 @@
    test = quickCheck $ do
      prop_OneMoreNodeThanEdges
 * to control the size of randomly generated things
-  See my beautiful [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/mlabs_entrance_exam.org][MLabs entrance exam]]
+  See my beautiful [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/mlabs_entrance_exam.org][MLabs entrance exam]]
 * tests don't need to be described
 ** These are all equivalent
    quickCheck $ do

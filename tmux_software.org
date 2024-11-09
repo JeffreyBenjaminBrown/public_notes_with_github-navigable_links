@@ -2,8 +2,8 @@
 :ID:       0c6f257d-a5dc-4c8e-b687-c724f280b695
 :END:
 #+title: tmux (software)
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/change_the_shortcut_for_restoring_or_for_searching_in_tmux.org][Change the shortcut for restoring or for searching in Tmux]]
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/i_want_tmux_to_show_a_shorter_prompt.org][show a shorter prompt.]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/change_the_shortcut_for_restoring_or_for_searching_in_tmux.org][Change the shortcut for restoring or for searching in Tmux]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_tmux_to_show_a_shorter_prompt.org][show a shorter prompt.]]
 * PITFALL :: tmux + env variables = footgun
   https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/
 * server, session, window, pane

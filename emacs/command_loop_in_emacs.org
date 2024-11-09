@@ -6,7 +6,7 @@
   reads key sequences, executes their definitions, and displays the results
 * Prior to each execution is creates an undo boundary.
   "Emacs runs undo-boundary to create an undo boundary. See Maintaining Undo Lists."
-* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/in_emacs_commands_and_functions_are_different.org][In Emacs, commands and functions are different.]]
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/in_emacs_commands_and_functions_are_different.org][In Emacs, commands and functions are different.]]
 * prefix arguments
 ** what I think these are
   arguments entered interactively before the command is called

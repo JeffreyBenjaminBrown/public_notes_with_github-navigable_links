@@ -4,15 +4,15 @@
 :END:
 #+title: songs and bands \\ making music & jbb
 * songs I can play
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/al_lado_del_camino_song.org][Al Lado del Camino]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/claridad_song.org][Claridad]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/si_me_matan_song.org][Si Me Matan]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/50_ways_to_leave_your_lover_by_paul_simon.org][50 Ways To (Amicably*) Leave Your Lover, by Paul Simon]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/al_lado_del_camino_song.org][Al Lado del Camino]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/claridad_song.org][Claridad]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/si_me_matan_song.org][Si Me Matan]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/50_ways_to_leave_your_lover_by_paul_simon.org][50 Ways To (Amicably*) Leave Your Lover, by Paul Simon]]
    * with mods by me
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/all_my_stars_aligned_by_st_vincent.org][All My Stars Aligned, by St. Vincent]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/can_t_fight_by_liane_la_havas.org][Can't Fight, by Liane la Havas]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/time_by_pink_floyd.org][Time, by Pink Floyd]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/just_breathe_by_pearl_jam.org][Just Breathe, by Pearl Jam]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_my_stars_aligned_by_st_vincent.org][All My Stars Aligned, by St. Vincent]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/can_t_fight_by_liane_la_havas.org][Can't Fight, by Liane la Havas]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_by_pink_floyd.org][Time, by Pink Floyd]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/just_breathe_by_pearl_jam.org][Just Breathe, by Pearl Jam]]
 * bands and songs I would like to cover
 ** Cake
 ** Pearl Jam

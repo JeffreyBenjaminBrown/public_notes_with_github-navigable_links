@@ -3,6 +3,6 @@
 :ROAM_ALIASES: "file sharing" "filesharing"
 :END:
 #+title: file-sharing, some sites
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/libgen.org][Library Genesis]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/scihub.org][SciHub]]
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/piratebay.org][PirateBay]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/libgen.org][Library Genesis]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scihub.org][SciHub]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/piratebay.org][PirateBay]]

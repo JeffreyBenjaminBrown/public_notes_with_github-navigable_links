@@ -12,4 +12,4 @@ There's another way, but this seems easier.
 * how to see what options are toggled
 ** Press 'D' to show them.
 ** Any that are on will be in bold.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/magit.org#to-save-settings-eg-diff-persistently][to save settings (e.g. diff) persistently]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magit.org#to-save-settings-eg-diff-persistently][to save settings (e.g. diff) persistently]]

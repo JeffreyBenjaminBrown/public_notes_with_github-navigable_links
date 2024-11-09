@@ -13,4 +13,4 @@
     # keep the last week
   sudo nix-collect-garbage -d
     # keep only latest config
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_garbage_collection_problem_my_system_bloats.org][NixOS garbage collection problem: My system bloats.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_garbage_collection_problem_my_system_bloats.org][NixOS garbage collection problem: My system bloats.]]

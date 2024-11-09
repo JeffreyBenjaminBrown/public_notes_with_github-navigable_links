@@ -2,7 +2,7 @@
 :ID:       ac6d4247-4880-4740-9aa3-0407f4d8b397
 :END:
 #+title: NixOS channels, and upgrading them
-* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_unstable_means_lots_of_rebuilding.org][nixos-unstable means lots of rebuilding]]
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_unstable_means_lots_of_rebuilding.org][nixos-unstable means lots of rebuilding]]
 * "upgrading NixOS" seems (lately = 21.11) to mean only "switching channels"
 ** evidence
    https://discourse.nixos.org/t/21-11-has-been-released/16353/7?u=jeffreybenjaminbrown
@@ -10,7 +10,7 @@
 * Changing channels in a nutshell, I think
 ** Read the latest release notes to see if there's anything extra to do.
    For instance, moving
-   [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_how_to_upgrade_channels.org#how-i-went-from-1909-to-2003][going from 19.09 to 20.03 required a bit more than a channel change]].
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_how_to_upgrade_channels.org#how-i-went-from-1909-to-2003][going from 19.09 to 20.03 required a bit more than a channel change]].
 ** Change channels, then run `nixos-rebuild switch --upgrade`.
 * How I upgraded to nixos-unstable
   as root, one at a time:

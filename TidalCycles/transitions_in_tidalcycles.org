@@ -23,7 +23,7 @@ d1 $ s "bd(3,8) drum*4"
 
 xfadeIn 1 8 $ s "arpy*8" # n (run 8)
 #+END_SRC
-* BROKEN : [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/anticipatein_new_pattern_in_n_cycles_tidalcycles.org][anticipateIn : new pattern in n cycles \\ TidalCycles]]
+* BROKEN : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/anticipatein_new_pattern_in_n_cycles_tidalcycles.org][anticipateIn : new pattern in n cycles \\ TidalCycles]]
 * `jumpMod id div pat` : change id to pat at next multiple of div
 ** demo
 #+BEGIN_SRC haskell

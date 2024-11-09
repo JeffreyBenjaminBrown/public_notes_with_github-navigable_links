@@ -53,7 +53,7 @@ If I run `borg key change-passphrase` and delete any compromised old copies of t
    back to the hard drive,
    and tried to update that repo, it worked fine.
    I did not even have to touch ~/.cache/borg.
-   (Note that this leaves [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/borg_backup_software.org#the-mystery][the mystery]] above unsolved.)
+   (Note that this leaves [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/borg_backup_software.org#the-mystery][the mystery]] above unsolved.)
 * borg init --encryption=repokey /path/to/repo
   That gives the simplest encryption option,
   in which an attacker only needs your password.

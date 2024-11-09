@@ -2,7 +2,7 @@
 :ID:       52393e43-d36a-4d8d-9cc4-f2f379e09eff
 :END:
 #+title: TypeDB Python client
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/try_python_and_typedb_hode.org][try Python and TypeDB \ Hode]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/try_python_and_typedb_hode.org][try Python and TypeDB \ Hode]]
 * RESUME reading at
   The section called "Querying" at
   https://typedb.com/docs/clients/2.x/python/python-tutorial
@@ -22,7 +22,7 @@
 ** Will an iterator outlive the transaction that made it?
    If not, and I'll need its contents,
    dump it into a list before closing the transaction.
-** Try [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb_python_client.org#navigating-responses][navigating responses]].
+** Try [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_python_client.org#navigating-responses][navigating responses]].
 * functions and syntax
 ** client-session-transaction "with" formula
 *** template

@@ -42,7 +42,7 @@
 :END:
   syntax:
     rebar3 compile
-* skipped sections of [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/rebar3_erlang_build_manager.org#rebar3-basic-usage][Rebar3: Basic Usage]]
+* skipped sections of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rebar3_erlang_build_manager.org#rebar3-basic-usage][Rebar3: Basic Usage]]
 ** where output goes
 ** testing
 ** releases and target systems

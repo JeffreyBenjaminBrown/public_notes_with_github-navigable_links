@@ -4,4 +4,4 @@
 #+title: I want Tmux to show a shorter prompt.
 * code: something like this
   PS1="\W\$ "
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_change_the_bash_prompt.org][how to change the Bash prompt]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_change_the_bash_prompt.org][how to change the Bash prompt]]

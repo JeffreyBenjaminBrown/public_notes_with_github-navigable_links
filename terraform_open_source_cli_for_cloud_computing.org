@@ -3,4 +3,4 @@
 :END:
 #+title: Terraform (open-source CLI for cloud computing)
 Covers all the majors, in particular AWS.
-[[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/jeff_carlson.org][Jeff C]] uses it to avoid the AWS WUI.
+[[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/jeff_carlson.org][Jeff C]] uses it to avoid the AWS WUI.

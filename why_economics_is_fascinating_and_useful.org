@@ -37,5 +37,5 @@ Why is insurance so expensive? Economics not only has the answer, but also offer
 I'm bored so I'll stop here but this list could be dozens of times longer.
 
 * suggestions
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_economic_organization_of_a_pow_camp_by_r_a_radford.org][The Economic Organization of a POW Camp, by R. A. Radford]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_economic_organization_of_a_pow_camp_by_r_a_radford.org][The Economic Organization of a POW Camp, by R. A. Radford]]
    https://fermatslibrary.com/s/the-economic-organization-of-a-pow-camp

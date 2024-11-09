@@ -19,7 +19,7 @@ it is submitted, or to the end-to-end working collection of these parts.
 ** are for user input.
 ** must specify
 *** where to send (a url)
-*** how to send (an [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/http_method.org][Http Method]])
+*** how to send (an [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/http_method.org][Http Method]])
 Methods used by forms are always get or post.
 * the Django Form class
 ** A form class’s fields map to HTML form <input> elements.

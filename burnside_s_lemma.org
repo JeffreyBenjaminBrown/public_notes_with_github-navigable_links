@@ -12,4 +12,4 @@
   Given a set C of colorings:
     |orbits| = (1 / |symmetries|) *
                sum over each symmetry g of |colorings in C fixed by g|
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/using_burnside_s_lemma_to_count_triads.org][using Burnside's lemma to count triads]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_burnside_s_lemma_to_count_triads.org][using Burnside's lemma to count triads]]

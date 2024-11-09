@@ -2,18 +2,18 @@
 :ID:       377e5d41-1a4a-4a14-b2f7-20af822cc352
 :END:
 #+title: 46-edo isomorphic layouts
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/add_in_between_notes_to_mtv_monome.org#todo-46-92--19-29-37-][46-edo is fat-finger friendly with 92-edo.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#todo-46-92--19-29-37-][46-edo is fat-finger friendly with 92-edo.]]
 * winners & apparent winners
 ** for the Lumatone
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/isomorphic_layout_4_46_x_7_46.org][7\46d x 4\46r]]: octave 8|2, height 5
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_46_x_2_46u.org][5\46 x 2\46u]]: octave 8-3, hella tight, close dups
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_46_x_1_46.org][5\46 x 1\46]]: octave 9|1, height 4, very linear
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/15_46r_x_2_46.org][15\46r x 2\46]]: octave 8-2, 15-lim smart height 3.4, freaky
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_4_46_x_7_46.org][7\46d x 4\46r]]: octave 8|2, height 5
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_46_x_2_46u.org][5\46 x 2\46u]]: octave 8-3, hella tight, close dups
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_46_x_1_46.org][5\46 x 1\46]]: octave 9|1, height 4, very linear
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/15_46r_x_2_46.org][15\46r x 2\46]]: octave 8-2, 15-lim smart height 3.4, freaky
 ** TODO for a guitar
    All of these seem quite feasible.
    My favorite is 11\46 x 2\46.
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/isomorphic_layout_9_46_x_2_46.org][9\46 x 2\46]]: small range, easier than necessary
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/11_46_x_2_46_isomorphic_layout.org][11\46 x 2\46]]: octave 4|1, max reach 4.2\12, uncrowded
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_9_46_x_2_46.org][9\46 x 2\46]]: small range, easier than necessary
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/11_46_x_2_46_isomorphic_layout.org][11\46 x 2\46]]: octave 4|1, max reach 4.2\12, uncrowded
 *** 13\46 x 2\46: octave 4|-3, max reach 5.2\12, easy 7-lim
 **** max reach is across 10 frets of 23-edo
      which = 10 * 12 / (46/2) = 5.2 frets of 12-edo
@@ -29,11 +29,11 @@
      37 steps; 7  % 4; string 3; fret -1
      42 steps; 15 % 8; string 4; fret -5
      46 steps; 2  % 1; string 4; fret -3
-*** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/19_46_x_2_46_isomorphic_note_layout.org][19\46 x 2\46]] and [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/19_46_x_4_46_isomorphic_note_layout.org][19\46 x 4\46]]
+*** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/19_46_x_2_46_isomorphic_note_layout.org][19\46 x 2\46]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/19_46_x_4_46_isomorphic_note_layout.org][19\46 x 4\46]]
 * TODO try these
   PITFALL: They might already be recorded elsewhere in these notes.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_46r_x_3_46d_x_8_46dr_isomorphic_instrument_layout.org][5\46r x 3\46d x 8\46dr isomorphic instrument layout]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/6_46r_x_1_46u_x_5_46dr_isomorphic_instrument_layout.org][6\46r x 1\46u x 5\46dr isomorphic instrument layout]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_46r_x_3_46d_x_8_46dr_isomorphic_instrument_layout.org][5\46r x 3\46d x 8\46dr isomorphic instrument layout]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/6_46r_x_1_46u_x_5_46dr_isomorphic_instrument_layout.org][6\46r x 1\46u x 5\46dr isomorphic instrument layout]]
 * layouts
   PIFALL: This list is incomplete -- see elsewhere in this file.
 ** 9\46 x 13\46u: weird, super-flat
@@ -45,7 +45,7 @@
     -- -- -- -- -- -- -- 13 -- -- -- --
     -- -- -- -- -- -- -- -- -- 7  2  --
     -- -- -- -- -- -- -- -- 5  -- -- 15
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_46_x_2_46u.org][5\46 x 2\46u]]: octave 8-3, 15-lim in 8x4
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_46_x_2_46u.org][5\46 x 2\46u]]: octave 8-3, 15-lim in 8x4
 ** 9\46 x 1\46: My benchmark, 13- and 31-lim both in 5x7
    0  steps;  1 % 1;  string 0; fret 0
    46 steps;  2 % 1;  string 5; fret 1
@@ -96,7 +96,7 @@
     and intervals easier to reach as in 41-edo Bosanquet
     (although minor, major triads are harder).
 *** If the fret axis is down, then it's too tall.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/isomorphic_layout_9_46_x_2_46.org][isomorphic layout 9\46 x 2\46]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_9_46_x_2_46.org][isomorphic layout 9\46 x 2\46]]
 ** TODO 8\46 x 3\46: Bosanquet, 13-lim in 6x5, 31-lim in 7x6
 *** the layout
     0  steps;  1 % 1;  string 0; fret 0
@@ -182,11 +182,11 @@
     , 37 steps; 7 % 4;  string 8; fret 1
     , 42 steps; 15 % 8; string 8; fret 2
     , 46 steps; 2 % 1;  string 9; fret 2
-*** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/isomorphic_layout_4_46_x_7_46.org][isomorphic layout 4\46 x 7\46]]
+*** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_4_46_x_7_46.org][isomorphic layout 4\46 x 7\46]]
 *** anything with bigger fret-jumps is horrible
     I checked through 15\46
 ** TODO 5\46 between strings
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/5_46_x_1_46.org][5\46 x 1\46]]: octave 9|1, height 4, very linear
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/5_46_x_1_46.org][5\46 x 1\46]]: octave 9|1, height 4, very linear
 *** DONE 5\46 x 2\46: Tight, well-behaved, a bit skew.
 **** I already have this for the Lumatone
      41edo.7right.3downright.ltn
@@ -439,7 +439,7 @@
 **** y = 2 => 9x = 42, no
 **** y = 3 => 9x = 40, no
 **** y = 4 => 9x = 38, no
-**** y = 5 => 9x = 36 => x = 4 => [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/46_edo_isomorphic_layouts.org#446-x-5x46-wide-tight-strange-hard-5-lim-triads][4\46 x 5\46]]
+**** y = 5 => 9x = 36 => x = 4 => [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_isomorphic_layouts.org#446-x-5x46-wide-tight-strange-hard-5-lim-triads][4\46 x 5\46]]
 **** y = 6 => 9x = 34, no
 **** y = 7 => 9x = 32, no
 **** y = 8 => 9x = 30, no
@@ -463,7 +463,7 @@
 **** y = -10 => 9x = 66
 **** y = -11 => 9x = 68
 **** y = -12 => 9x = 70
-**** y = -13 => 9x = 72 => x = 8 => [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/46_edo_isomorphic_layouts.org#x-1346][8\46 x 13\46]]
+**** y = -13 => 9x = 72 => x = 8 => [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_isomorphic_layouts.org#x-1346][8\46 x 13\46]]
 **** y = -14 => 9x = 7
 **** y = -15 => 9x = 7
 **** y = -16 => 9x = 7

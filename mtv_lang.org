@@ -2,7 +2,7 @@
 :ID:       9e2b0560-a823-4718-9f6d-638557e3f482
 :END:
 #+title: mtv-lang
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/haskell.org#data-interval][data-interval]] might make some algorithms easier.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/haskell.org#data-interval][data-interval]] might make some algorithms easier.
 * TODO Dispatch.Lazy
 ** Learn what `dispatchLoop` needs, what `arc` etc. do.
    via experiment
@@ -177,7 +177,7 @@ chAll $ mfl [
     That is, if two instances of the same sample are scheduled simultaneously, delete one of them. (Or maybe do something else -- maybe de-pitch one of them slightly? But playing the sample twice as loud is jarring.)
 *** amplitude group for all drums, all pitched tracks
 *** speed
-**** see [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_profile_in_haskell.org][how to profile in Haskell]]
+**** see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_profile_in_haskell.org][how to profile in Haskell]]
 **** which functions were slow when I profiled
      (certainly before GHC 8.10, and I think before I had 8.8)
      merge, meta, and subfunctions
@@ -245,7 +245,7 @@ But once it is evaluated, it is kept.
     The ScAction type can carry a lot of different parameter instructions, but currently I only send singletons. Does that matter, or is the cost of sending a different ScAction for each parameter negligible?
     Do the Museq-creating helper functions bundle simultaneous parameters into the same ScAction?
 * TODO easy
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mtv_lang.org#todo-vap-doesnt-work][Vap doesn't work]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mtv_lang.org#todo-vap-doesnt-work][Vap doesn't work]]
 ** TODO zotOneMsg should not use error
    when it receives an unexpected message
 ** redundant: ev4 ~ mkEv

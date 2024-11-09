@@ -3,8 +3,8 @@
 :ROAM_ALIASES: "routing \ Reaper" "Reaper / routing"
 :END:
 #+title: Routing Matrix \ Reaper
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/reaper_shortcuts_and_context_menus.org#alt-r-open-the-routing-matrix][M-r : open it]]
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/track_wiring_view.org#todo-how-is-the-track-wiring-view-different-from-the-routing-matrix][How is the Track Wiring View different from the Routing Matrix?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org#alt-r-open-the-routing-matrix][M-r : open it]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_wiring_view.org#todo-how-is-the-track-wiring-view-different-from-the-routing-matrix][How is the Track Wiring View different from the Routing Matrix?]]
 * what it is
   It's a binary matrix,
   with tracks and inputs on one axis,

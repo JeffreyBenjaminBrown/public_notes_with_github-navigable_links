@@ -19,9 +19,9 @@
   If there are multiple sources I don't know what it does.
 * how I usually run it
   rsync -av source source ... source destination
-  with [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/rsync_software_backups_copies.org#pitfall-trailing-slash--unwrapped-content][no trailing slashes]] on any of the sources.
+  with [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rsync_software_backups_copies.org#pitfall-trailing-slash--unwrapped-content][no trailing slashes]] on any of the sources.
 ** PITFALL: This modifies files but deletes nothing
-   because I'm not using [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/rsync_software_backups_copies.org#pitfall-the-popular-delete-option-is-dangerous][the scary `delete` option]].
+   because I'm not using [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rsync_software_backups_copies.org#pitfall-the-popular-delete-option-is-dangerous][the scary `delete` option]].
 * useful options
 ** -a : archive mode, "preserve almost everything"
 ** -L : replace symlinks with the original

@@ -7,7 +7,7 @@
 ** TODO read, if I haven't already, about evergreen note practice
 see the list under "Implementing an evergreen note practice" here:
 https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
-** [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/reading.org#todo-pages-from-andy-matuschaks-knowledge-graph-with-links-i-havent-gotten-to][pages from Andy Matuschak's knowledge graph with links I haven't gotten to]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/reading.org#todo-pages-from-andy-matuschaks-knowledge-graph-with-links-i-havent-gotten-to][pages from Andy Matuschak's knowledge graph with links I haven't gotten to]]
 * how
 ** the para method
  https://fortelabs.co/blog/para/

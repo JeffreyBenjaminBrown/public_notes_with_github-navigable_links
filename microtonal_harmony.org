@@ -2,8 +2,8 @@
 :ID:       9989f701-d223-4775-bcf6-337333063a40
 :END:
 #+title: microtonal harmony
-* RESUME reading these notes [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/microtonal_harmony.org#1-74-114-114--65-114--53][here]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/why_to_maybe_stop_at_the_15_limit.org][why to maybe stop at the 15-limit]]
+* RESUME reading these notes [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_harmony.org#1-74-114-114--65-114--53][here]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_to_maybe_stop_at_the_15_limit.org][why to maybe stop at the 15-limit]]
 * about the intervals
 ** the three low-JI whole tones are roughly evenly spaced
 *** the two lowest are 27c apart, the two highest 22c
@@ -13,7 +13,7 @@
 > tail $ zipWith (-) x (undefined:x)
 [273,215]
 *** in both 41- and 46-edo they're consecutive
-** 24-edo : [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/quartertone_free_cluster_free_ways_to_divide_a_fourth_in_24_edo.org][quartertone-free, cluster-free ways to divide a fourth]]
+** 24-edo : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/quartertone_free_cluster_free_ways_to_divide_a_fourth_in_24_edo.org][quartertone-free, cluster-free ways to divide a fourth]]
 * interval math
 ** in 41-edo, two vm6 = octave + ^m3
 :PROPERTIES:
@@ -22,7 +22,7 @@
 *** why that's weird
     two ordinary m6 = octave + vM3
       that is, a major 3rd rather than a minor one
-*** that's the octave inverse of [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/microtonal_harmony.org#in-41-edo-two-m3--vm6][this]]
+*** that's the octave inverse of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_harmony.org#in-41-edo-two-m3--vm6][this]]
 ** in 41-edo, two ^M3 = vM6
 :PROPERTIES:
 :ID:       32205cdb-6e91-4e70-bba5-1336e119559c
@@ -30,7 +30,7 @@
 *** why that's weird
     Two ordinary M3 = ^m6
       That is, a minor sixth rather than a major one.
-*** that's the octave inverse of [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/microtonal_harmony.org#in-41-edo-two-vm6--octave--m3][this]]
+*** that's the octave inverse of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_harmony.org#in-41-edo-two-vm6--octave--m3][this]]
 * chords
 ** in 31-edo
 *** 0 18 5' 14'

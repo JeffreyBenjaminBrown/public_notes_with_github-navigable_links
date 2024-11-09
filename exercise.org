@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "lifting weights" "weightlifting" "working out" "workouts"
 :END:
 #+title: exercise
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/climbing_sport.org][climbing (sport) & jbb]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/climbing_sport.org][climbing (sport) & jbb]]
 * squats <2024-03-29 Fri>
   160 reps total:
   first 20 slow,
@@ -12,5 +12,5 @@
   By the end of it, 2 minutes after I had stopped,
   my pulse was at 90.
   Toward the end, after each set, my pulse was at least 120.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/neck_exercises.org][neck exercises]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mobility_exercises_for_the_spine.org][mobility exercises for the spine]] = most of my mobility exercises
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neck_exercises.org][neck exercises]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mobility_exercises_for_the_spine.org][mobility exercises for the spine]] = most of my mobility exercises

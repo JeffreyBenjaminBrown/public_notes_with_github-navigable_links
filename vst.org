@@ -10,6 +10,6 @@
 ** this probably works
    There's a VST_PATH shell variable,
    so probably the same procedure works for VST
-   as [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/lv2.org#how-to-install-an-lv2-plugin-in-linux][the procedure for LV2]],
+   as [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lv2.org#how-to-install-an-lv2-plugin-in-linux][the procedure for LV2]],
    changing each instance of the string VST to the string LV2.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/how_to_use_a_windows_only_vst_plugin_in_linux.org][how to use a Windows-only VST plugin in Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_windows_only_vst_plugin_in_linux.org][how to use a Windows-only VST plugin in Linux]]

@@ -4,12 +4,12 @@
 :END:
 #+title: SuperCollider (software, audio)
 * refs
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/supercollider_and_nixos.org#where-i-got-help-packaging-it-for-nixos][where I got help packaging it for NixOS]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/supercollider_and_nixos.org#where-i-got-help-packaging-it-for-nixos][where I got help packaging it for NixOS]]
 ** where I got help installing it
    https://scsynth.org/t/sc-only-half-recognizes-sc3-plugins/4716
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sc3_plugins_supercollider_tools.org][sc3-plugins (SuperCollider tools)]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/supercollider_and_nixos.org][SuperCollider and NixOS]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sc3_plugins_supercollider_tools.org#pitfall-on-nixos-using-sc-with-plugins-requires-some-configuration][PITFALL: On NixOS, SC with plugins needs some configuration.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sc3_plugins_supercollider_tools.org][sc3-plugins (SuperCollider tools)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/supercollider_and_nixos.org][SuperCollider and NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sc3_plugins_supercollider_tools.org#pitfall-on-nixos-using-sc-with-plugins-requires-some-configuration][PITFALL: On NixOS, SC with plugins needs some configuration.]]
 * sclang, scsynth, scide and the server
 ** The server is what produces sound.
 ** sclang is a CL REPL (*nice*)

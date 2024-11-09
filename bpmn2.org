@@ -8,4 +8,4 @@
 * notation
 ** A circle is a user choice.
    They can choose multiple things.
-   So said Alvaro, <2024-10-24 Thu>, at [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/mincit/2024_10_24_thu_meeting_for_me_with_vui_team.org][this meeting]].
+   So said Alvaro, <2024-10-24 Thu>, at [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/mincit/2024_10_24_thu_meeting_for_me_with_vui_team.org][this meeting]].

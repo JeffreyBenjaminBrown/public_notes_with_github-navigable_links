@@ -22,19 +22,19 @@
 ** Its typing is weak.
    "Datatypes are advisory rather than mandatory."
    Standard SQL is strongly typed.
-*** SOLUTION: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sqlite.org#good-use-the-strict-keyword][use the STRICT keyword]]
+*** SOLUTION: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sqlite.org#good-use-the-strict-keyword][use the STRICT keyword]]
 ** ANY converts input data in weakly-typed tables.
    but it leaves the data unchanged in strict tables.
    https://www.sqlite.org/stricttables.html
    "In a STRICT table, a column of type ANY always preserves the data exactly as it is received. For an ordinary non-strict table, a column of type ANY will attempt to convert strings that look like numbers into a numeric value, and if successful will store the numeric value rather than the original string."
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sqlite.org#pitfall-missing-types][Missing types]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sqlite.org#pitfall-missing-types][Missing types]]
 ** Foreign key enforcement is off by default.
 *** To activate it at run-time
     PRAGMA foreign_keys
 *** Activate it at compile-time
     -DSQLITE_DEFAULT_FOREIGN_KEYS=1
     (that's a "compile-time option")
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sqlite.org#unrecognized-pragmas-are-ignored-1][Unrecognized pragmas are ignored.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sqlite.org#unrecognized-pragmas-are-ignored-1][Unrecognized pragmas are ignored.]]
 ** Aggregate queries can contain non-aggregate result columns that are not in the GROUP BY clause.
    https://www.sqlite.org/quirks.html
 ** less important-seeming pitfalls
@@ -75,9 +75,9 @@
 :END:
    sqlite3 numismatist.db
 * doing stuff from the SQLite interpreter
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sqlite.org#launch-the-sqlite-interpreter-using-a-db][launch the SQLite interpreter using a db]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sqlite.org#launch-the-sqlite-interpreter-using-a-db][launch the SQLite interpreter using a db]]
 ** PITFALLS
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sqlite.org#to-write-from-the-sqlite-shell-to-a-file-use-the-output-pragma-1][To write from the sqlite shell to a file, use the .output pragma.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sqlite.org#to-write-from-the-sqlite-shell-to-a-file-use-the-output-pragma-1][To write from the sqlite shell to a file, use the .output pragma.]]
 ** dot commands
 *** They cannot be mixed with ordinary code.
 *** some important ones
@@ -85,7 +85,7 @@
 **** .tables : List all attached tables with
 **** .schema <optional table name> : List schema(s).
 **** .open closes the current db and attaches a new one.
-     Remember, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/sqlite.org#a-database-contains-in-general-multiple-tables][a database contains, in general, multiple tables.]]
+     Remember, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sqlite.org#a-database-contains-in-general-multiple-tables][a database contains, in general, multiple tables.]]
 **** .output changes the destination of output.
      Ordinarily it writes to stdout.
 ***** To write from the sqlite shell to a file, use the .output pragma.

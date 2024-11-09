@@ -3,8 +3,8 @@
 :ROAM_ALIASES: "TODO \ TidalCycles"
 :END:
 #+title: TidalCycles / TODO
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/hypotheses_about_what_sounds_good.org][what sounds good in TidalCycles]]
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/questions_about_the_tidalcycles_language.org][questions about the TidalCycles language]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/hypotheses_about_what_sounds_good.org][what sounds good in TidalCycles]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/questions_about_the_tidalcycles_language.org][questions about the TidalCycles language]]
 * TODO solve
 ** chords, scales, melodies
 ** Other ways to achieve whatever leads me to repeat certain coding patterns
@@ -18,10 +18,10 @@
 * TODO extract my changes in git
   git log jbb --author="Jeffrey Benjamin Brown" -p
   Keep them in a way that won't conflict with anyone else's edits.
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/concepts-for-Tidal-some-high-level-musical.org][concepts for Tidal, some high-level musical]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/concepts-for-Tidal-some-high-level-musical.org][concepts for Tidal, some high-level musical]]
 * TODO polymeters in Tidal
   https://club.tidalcycles.org/t/thinking-time-in-addition-vs-division-meshuggah-style-prog-metal-in-tidal/4664/6
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/make_bass_drum_key_rhythms.org][make bass-drum-key rhythms]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_bass_drum_key_rhythms.org][make bass-drum-key rhythms]]
 * TODO permit line continuations within strings
   This would be an Emacs fix,
   not a Haskell fix.
@@ -70,7 +70,7 @@
 ** Mandarine Girl, by Booka Shade
    has at least some cool changes, if not to cover all of
 * TODO easy
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/wrandcat_probabilities_should_precede_their_associated_patterns.org][wrandcat probabilities should precede their associated patterns.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/wrandcat_probabilities_should_precede_their_associated_patterns.org][wrandcat probabilities should precede their associated patterns.]]
 ** warp (swing, etc.)
 *** Define an invertible map g from straight time to warped
 *** To query an arc, query the g-preimage of its endpoints, then apply g to all resulting events
@@ -87,4 +87,4 @@
    using other parameters.
    `histpan` is a transition function that pans repetitions of a pattern.
 * DONE or stale
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/outline_mode_haskell.org][outline-mode]] & Haskell : I got it working!
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outline_mode_haskell.org][outline-mode]] & Haskell : I got it working!

@@ -8,4 +8,4 @@
   from the Bogota Jazz group, Dec 8 2023.
 * a weekly jazz jam at Parkway
 ** https://www.facebook.com/share/p/kPp7ozFBQFWRn2Z4/?mibextid=oFDknk
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/establo_pegaso_libro_cafe_w_piano.org][Establo Pegaso (libro-cafe w/ piano)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/establo_pegaso_libro_cafe_w_piano.org][Establo Pegaso (libro-cafe w/ piano)]]

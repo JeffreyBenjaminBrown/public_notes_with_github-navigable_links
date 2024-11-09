@@ -5,8 +5,8 @@
 #+title: social knowledge base app for epistemology
 * sources
 ** DONE (processed)
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_ideas_on_networking_minds_from_dynomight.org][Some ideas on networking minds from DynoMight.]]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/why_knowledge_graphs_matter.org][why knowledge graphs matter]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_ideas_on_networking_minds_from_dynomight.org][Some ideas on networking minds from DynoMight.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_knowledge_graphs_matter.org][why knowledge graphs matter]]
 *** check out smsn-why
     https://github.com/synchrony/smsn-why/tree/master/pending%20or%20incomplete
 **** examples of queries
@@ -36,7 +36,7 @@
 *** [there are] four alternative readings of owl:sameAs
 * people to ask
 ** the Agora community
-*** inc. [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/flancian_the_guy_who_made_agora.org][Flancian, the guy who made Agora]]
+*** inc. [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/flancian_the_guy_who_made_agora.org][Flancian, the guy who made Agora]]
 ** the org-roam community
 ** psychologists
 ** epistemologists
@@ -47,7 +47,7 @@
    Why do we believe who we believe?
    What do we need to see about how information travels through society in order to best judge it, as a non-expert?
 ** how to enable community-building
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/a_tactical_guide_to_kickstarting_your_community.org][A tactical guide to kickstarting your community]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_tactical_guide_to_kickstarting_your_community.org][A tactical guide to kickstarting your community]]
 ** how to prevent alienation
    "nobody listens to me"
 ** ? what do (can) only the unreliable know (prove)

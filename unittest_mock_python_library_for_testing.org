@@ -14,7 +14,7 @@
   Test it via
     pytest "test.py"
 ** PITFALL: This only demonstrates the testing of functions.
-   In my notes I documented [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/unittest_mock_python_library_for_testing.org#there-are-two-ways-to-mock-a-class-method][how to test a class method]],
+   In my notes I documented [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/unittest_mock_python_library_for_testing.org#there-are-two-ways-to-mock-a-class-method][how to test a class method]],
    but who cares, I don't give my classes methods.
 ** lib.py
 import math
@@ -61,7 +61,7 @@ class Test_Mocks (unittest.TestCase):
 :ID:       d2a3ade8-f900-46fa-ad3c-53c10cbfb0a6
 :END:
 *** Which to prefer
-    According to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/unittest_mock_python_library_for_testing.org#a-tutorial-and-the-source-of-most-of-these-data][the tutorial I like]],
+    According to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/unittest_mock_python_library_for_testing.org#a-tutorial-and-the-source-of-most-of-these-data][the tutorial I like]],
     mocking instance methods gives greater precision,
     but mocking instances can be necessary or more efficient.
 *** the alternatives

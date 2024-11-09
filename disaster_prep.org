@@ -9,4 +9,4 @@
 * TODO buy emergency blanket
 * TODO buy solar charger
 * Canned goods -- can't necessarily use electricity.
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/nutritional_advice.org][nutritional advice that spiked my PT/INR]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/nutritional_advice.org][nutritional advice that spiked my PT/INR]]

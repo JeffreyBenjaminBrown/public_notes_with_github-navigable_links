@@ -8,9 +8,9 @@
    https://github.com/emacs-tw/awesome-emacs
 * packages of interest
 ** important (and maybe easy)
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/org_mode_emacs_major_mode.org][org-mode (Emacs major mode)]]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/csv_mode_emacs_package.org][csv-mode (Emacs package)]]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/dired_emacs_package.org][dired (Emacs package)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/org_mode_emacs_major_mode.org][org-mode (Emacs major mode)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/csv_mode_emacs_package.org][csv-mode (Emacs package)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/dired_emacs_package.org][dired (Emacs package)]]
 *** docker
 *** evil-mode
 *** wgrep - Writable grep/ack/ag/pt buffer and apply the changes to files.
@@ -27,7 +27,7 @@
 *** Project management : whole section of awesome-emacs
 *** git-link - get the GitHub/Bitbucket/GitLab/... URL for a buffer location
 *** markdown-toc
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/neotree_emacs_package.org][neotree (Emacs package)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/neotree_emacs_package.org][neotree (Emacs package)]]
 ** easy
 *** helm-file-preview
 *** helm-taskswitch
@@ -67,7 +67,7 @@
 *** ov - change text appearance (temporarily, I think)
 * DONE ? gave up on
 ** just didn't like it
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/key_leap_emacs_minor_mode.org][key-leap (Emacs minor mode)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/key_leap_emacs_minor_mode.org][key-leap (Emacs minor mode)]]
 ** were of interest but look complex
 *** icicles -- cycle buffers with arrows and tab completion
     but not part of Melpa
@@ -80,7 +80,7 @@
       /(e.g. maybe `M-x customize-group hes-mode`).
     Apparently also available from GNU itself (per package-list-packages) but I don't know how to use such packages in my emacs.nix file.
 * DONE ? I probably prefer something else
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/vertigo_emacs_package.org][vertigo]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/vertigo_emacs_package.org][vertigo]]
 ** helm-swoop
    Split-pane text search.
    Turns out I don't look at the pane of search results.
@@ -92,9 +92,9 @@
 ;; avy : jump around
 (global-set-key (kbd "C-;") 'avy-goto-char-2)
 * remember, is great (and installed)
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/magit.org][magit]] (for git)
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/perspective_mode_for_emacs.org][perspective]] ("persp-mode")
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/deadgrep_emacs_package.org][deadgrep]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magit.org][magit]] (for git)
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/perspective_mode_for_emacs.org][perspective]] ("persp-mode")
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/deadgrep_emacs_package.org][deadgrep]]
 ** (smart-)hungry-delete
    Delete lots of whitespace.
 ** restart-emacs
@@ -103,13 +103,13 @@
    undo-tree-visualize			-- first enable undo-tree-mode
    undo-tree-diff			-- or 'd' from in it
    undo-tree-visualizer-timestamps	-- or 't' from in it
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/ace_window_emacs_package.org][ace-window (Emacs package)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/ace_window_emacs_package.org][ace-window (Emacs package)]]
 ** block-nav
    If I decide I don't like that, try emacs-spatial-navigate:
    https://gitlab.com/ideasman42/emacs-spatial-navigate
 ** iflipb: change buffers fast
 ** goto-last-change
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/ctrlf_emacs_package.org][ctrlf]] : text search
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/ctrlf_emacs_package.org][ctrlf]] : text search
 ** restart-emacs
 ** DONE internalized
 *** mwim
@@ -117,4 +117,4 @@
     Installed via Melpa\Nix.
     The only thing it defined is rainbow-delimiters-mode -- it didn't define rainbow-delimiters-faces or
 *** linum-relative (elpa)
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/multiple_cursors_emacs_package.org][multiple cursors (Emacs package)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/multiple_cursors_emacs_package.org][multiple cursors (Emacs package)]]

@@ -4,7 +4,7 @@
 :END:
 #+title: Python and virtualenv in Nix
 https://wiki.nixos.org/wiki/Python
-* see also [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nix_shell.org][Nix shell scripts]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nix_shell.org][Nix shell scripts]]
 * the recommended way
   seems quite easy if everything is already packaged for Nix.
   It's listed first in the wiki.

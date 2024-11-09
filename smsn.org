@@ -25,7 +25,7 @@
     https://github.com/synchrony/smsn-mode/wiki/Command-reference
 *** installing smsn
     https://github.com/synchrony/smsn/wiki/Installation
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/why_knowledge_graphs_matter.org][why knowledge graphs matter]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_knowledge_graphs_matter.org][why knowledge graphs matter]]
 * TODO rebuild docker image with iproute2
 Dockerfile is already modified (but not committed) for that.
 * TODO get metadata working too
@@ -34,12 +34,12 @@ I should move files on each cycle so that it includes activity.log.
 * TODO clean SmSn for others
 ** update docker-smsn repo
 ** update docker image(s)
-** document how to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/smsn.org#build-the-dockerfile][build the Dockerfile]]
+** document how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn.org#build-the-dockerfile][build the Dockerfile]]
 * TODO change smsn
 ** the RH column should be on the left instead
 because in a long list of short items it's hard to see how they line up with the RH
 * smsn / how to do stuff
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/semantic_synchrony_and_git_the_commit_push_cycle.org][Semantic Synchrony and Git: the commit-push cycle]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/semantic_synchrony_and_git_the_commit_push_cycle.org][Semantic Synchrony and Git: the commit-push cycle]]
 ** outside smsn
 *** build the Dockerfile
 :PROPERTIES:

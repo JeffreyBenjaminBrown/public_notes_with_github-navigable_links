@@ -6,4 +6,4 @@
   If a project seems feasible until you've invested substantially in it,
   but then goes nowhere and you don't talk about it,
   others are likely to try the same thing.
-* related: the problem of [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/losing_negative_results_scientific_publishing_problem.org][losing negative results (scientific publishing problem)]]
+* related: the problem of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/losing_negative_results_scientific_publishing_problem.org][losing negative results (scientific publishing problem)]]

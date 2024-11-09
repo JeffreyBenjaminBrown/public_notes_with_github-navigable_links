@@ -2,9 +2,9 @@
 :ID:       2b468264-f8f7-4f76-a713-c7f8a495e261
 :END:
 #+title: 53-edo
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/add_in_between_notes_to_mtv_monome.org#53-106][53-edo and 106-edo are fat-finger friendly.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/harmonic_theory_53_edo.org][Harmonic theory \ 53-edo]]
-* TODO for Lumatone : [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/7_53_x_3_53_r_x_ur_isomorphic_layout.org][7\53 x 3\53]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#53-106][53-edo and 106-edo are fat-finger friendly.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/harmonic_theory_53_edo.org][Harmonic theory \ 53-edo]]
+* TODO for Lumatone : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_53_x_3_53_r_x_ur_isomorphic_layout.org][7\53 x 3\53]]
 ** I mapped everything with the octave at 8,1 and 8,3.
 ** It's the only one with easy 5-limit triads.
 * 53 5 12: 0-area 4x8, or 4x4 without 13
@@ -20,10 +20,10 @@
        , 37 steps; 13 % 8 ; string 1 ; fret 5
        , 48 steps; 15 % 8 ; string 4 ; fret 0
 * TODO for guitar
-** TODO WINNER: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/17_53_x_3_53_isomorphic_note_layout.org][17\53 x 3\53]] is great!
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/14_53_x_3_53_isomorphic_note_layout.org][14\53 x 3\53]] looks great!
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/11_53_x_3_53_isomorphic_note_layout.org][11\53 x 3\53]] looks great!
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/13_53_x_2_53_isomorphic_note_layout.org][13\53 x 2\53]]
+** TODO WINNER: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/17_53_x_3_53_isomorphic_note_layout.org][17\53 x 3\53]] is great!
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/14_53_x_3_53_isomorphic_note_layout.org][14\53 x 3\53]] looks great!
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/11_53_x_3_53_isomorphic_note_layout.org][11\53 x 3\53]] looks great!
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/13_53_x_2_53_isomorphic_note_layout.org][13\53 x 2\53]]
    15 x 2 and even 17 x 2 also look pretty feasible, but harder.
 * 8\53 x 1\53u: octave 7-3, width 6, well-behaved
   00 steps; 1  % 1; string 0; fret 0

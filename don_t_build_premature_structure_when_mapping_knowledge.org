@@ -2,7 +2,7 @@
 :ID:       5b7900ff-1792-47d1-a55a-8435f8766baf
 :END:
 #+title: Don't build premature structure when mapping knowledge.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/smsn.org][SmSn]] doesn't really need this precaution
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn.org][SmSn]] doesn't really need this precaution
   because there's no file|atom distinction.
 * the idea
   Wait until a note has a substantial amount of stuff

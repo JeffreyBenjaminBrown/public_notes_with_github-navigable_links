@@ -4,7 +4,7 @@
 :END:
 #+title: TypeDB Console
 It's in the Docker container.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/typedb/typedb.org#console][online docs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb.org#console][online docs]]
 * to launch it from bash
   # This assumes one is where one starts after running the usual
   #   docker exec -it typedb bash

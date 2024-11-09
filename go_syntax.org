@@ -2,7 +2,7 @@
 :ID:       95cb96bd-765c-4525-b51a-3affbf103d4b
 :END:
 #+title: Go syntax
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/imports_in_go.org][imports in Go]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imports_in_go.org][imports in Go]]
 * capitalization is weird
   Public functions are capitalized.
   Everything else (inc. private functions and types) is lowercase.
@@ -39,7 +39,7 @@
 *** There is no pointer arithmetic.
 *** Pointers can point to other pointers, I think.
 **** TODO Right?
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#todo-is-a-pointer-needed-for-a-function-to-modify-any-argument-or-only-structs][Is a pointer needed for a function to modify *any* argument, or only structs?]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#todo-is-a-pointer-needed-for-a-function-to-modify-any-argument-or-only-structs][Is a pointer needed for a function to modify *any* argument, or only structs?]]
 ** maps
 *** Initializing a map requires `make` and looks dumb.
     myMap := make ( map [key] value )
@@ -102,7 +102,7 @@
      var a [10]int
 **** assign to an array
      a[0] = "Hello"
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#slice-literals--array-literals-2][Slice literals & array literals.]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#slice-literals--array-literals-2][Slice literals & array literals.]]
 *** Slices are dynamically sized *views* into arrays.
 **** Declare a slice.
      var s []int
@@ -112,7 +112,7 @@
      var s []int = primes[1:4]
 **** Access a slice with [].
      like in Python
-**** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#slice-literals--array-literals-2][Slice literals & array literals.]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#slice-literals--array-literals-2][Slice literals & array literals.]]
 **** The default slice bounds are the first and last.
      Either can be omitted, resulting in the default.
      For a size 10 array `a`, these are equivalent:
@@ -193,7 +193,7 @@
      for _, name := range theList { ... }
    To loop over the indices, the second value can be omitted:
      for idx := range theList { ... }
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#break-statements-in-go-2][`break` statements in Go]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#break-statements-in-go-2][`break` statements in Go]]
 * conditions
 ** if [else]
 *** if x < 0 { ... }
@@ -228,8 +228,8 @@
     switch {
        case x < y: ...
        case z < w: ...
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#break-statements-in-go-2][`break` statements in Go]]
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#type-switches-1][type switches]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#break-statements-in-go-2][`break` statements in Go]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#type-switches-1][type switches]]
 * execution order
 :PROPERTIES:
 :ID:       27d7d419-d743-4d65-9f23-de99820f712d
@@ -302,7 +302,7 @@
 *** Methods can be called from receivers using dot notation.
     receiver.method (...)
 *** Methods and their receiver types must be declared in the same package.
-    Potentially useful: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#type-synonyms][type synonyms]].
+    Potentially useful: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#type-synonyms][type synonyms]].
 *** Pointer receivers
 **** two motivations
 ***** The receiver must be a pointer if a method is to modify its "caller".
@@ -386,7 +386,7 @@
      In order to do anything with it,
      the interface value must be assigned ("hold"?)
      a concrete value.
-     Confusingly, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#todo-non-nil-interfaces-hodling-nil-values-are-weird][even if the assigned value is a nil pointer,
+     Confusingly, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#todo-non-nil-interfaces-hodling-nil-values-are-weird][even if the assigned value is a nil pointer,
      the interface value becomes non-nil]].
 **** TODO Non-nil interfaces hodling nil values are weird.
 :PROPERTIES:
@@ -429,7 +429,7 @@
 :ID:       d3422768-af80-4d45-92e7-dd8a59f6aef6
 :END:
 **** explanation
-     As in a [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#type-assertions][type assertion]], here `v`
+     As in a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#type-assertions][type assertion]], here `v`
      is assigned the value that the interface variable
      `i` (holds? points to?),
      but strangely, the cases state types, not values.
@@ -442,7 +442,7 @@
          // here v has type S
        default:
          // no match; here v is equal to i in type and value
-         // (but [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#todo-is-it-a-copy][it might be a copy]]).
+         // (but [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#todo-is-it-a-copy][it might be a copy]]).
      }
 ***** TODO Is it a copy?
 :PROPERTIES:

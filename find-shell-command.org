@@ -5,13 +5,13 @@
 #+title: find (shell command)
 * rga: ripgrep, but it searches lots of formats at once
   https://github.com/phiresky/ripgrep-all
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/emacs/find_grep_emacs_command.org][find-grep]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/find_sed.org][find-sed]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/find_sed.org#find-sed-without-touching-files-that-dont-need-modification][find-sed without touching files that don't need modification]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/find_grep_emacs_command.org][find-grep]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/find_sed.org][find-sed]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/find_sed.org#find-sed-without-touching-files-that-dont-need-modification][find-sed without touching files that don't need modification]]
 * -L : follow symbolic links
   tag symlink
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/shell_tools_for_structured_data.org][shell tools for structured data]] (CSV, JSON, etc.)
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/grep_command_line_search_utility.org][grep (command line search utility)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shell_tools_for_structured_data.org][shell tools for structured data]] (CSV, JSON, etc.)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grep_command_line_search_utility.org][grep (command line search utility)]]
 * find, show all file extensions in filetree
   find . -type f | sed 's/.*\.//' | grep -v "/" | sort | uniq -c
 * find: exclude a type of file

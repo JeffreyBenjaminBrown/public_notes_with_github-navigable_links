@@ -13,7 +13,7 @@ https://stackoverflow.com/a/5017265/916142
   With the cursor over a commit, press `e`
   to change `pick` to `edit`.
   Then, with the cursor still there, press `x`
-  to insert [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/git_rebase_rewrite_history.org#some-examples-of-commit-edit-commands][a commit edit command]].
+  to insert [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/git_rebase_rewrite_history.org#some-examples-of-commit-edit-commands][a commit edit command]].
 
   Once that script is edited, save it and exit the editor.
   To do all those changes and no others, run

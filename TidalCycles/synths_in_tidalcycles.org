@@ -18,7 +18,7 @@
 modamp = pF "modamp"
 modfreq = pF "modfreq"
 #+END_SRC
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/synths_in_tidalcycles.org#todo-there-are-a-lot-more-with-provocative-names][there are a lot more, with provocative names]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/synths_in_tidalcycles.org#todo-there-are-a-lot-more-with-provocative-names][there are a lot more, with provocative names]]
 * a partial list
 ** supergong -- spacey bell-like, choked or ringy
 *** parameters
@@ -363,7 +363,7 @@ modfreq = pF "modfreq"
      0.01 = very nasal
      Symmetric around 0.5
      Inaudible at 0 or 1.
-     [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/TidalCycles/synths_in_tidalcycles.org#varying-voice-phase-width-quickly-in-a-single-pitch][Fun thing to vary quickly]].
+     [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/synths_in_tidalcycles.org#varying-voice-phase-width-quickly-in-a-single-pitch][Fun thing to vary quickly]].
 **** decay     = 0
 **** sustain   = 1
 **** semitone  = 12

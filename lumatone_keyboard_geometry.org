@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "Lumatone pictures images"
 :END:
 #+title: Lumatone keyboard geometry and physics
-* how to [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/some_ways_to_manipulate_digital_images.org#shear-a-rectangular-grid-to-fit-the-lumatone-hex-layout][shear a rectangular grid image to fit the Lumatone hex layout]]
+* how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_ways_to_manipulate_digital_images.org#shear-a-rectangular-grid-to-fit-the-lumatone-hex-layout][shear a rectangular grid image to fit the Lumatone hex layout]]
 * pictures
 ** the key numbers
 *** PITFALL: This picture LIES by 1.
@@ -73,8 +73,8 @@
    so measured across, the full image should be
      ((1599 / 1335) * 68.3 = 81.8) cm
 *** based on these images
-    [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/lumatone_keyboard_geometry.org#a-picture-in-color-of-the-full-keyboard][a picture in color]]
-    [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/lumatone_keyboard_geometry.org#a-black-and-white-hex-diagram-of-the-key-region-with-no-numbers][a black and white picture to print]]
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lumatone_keyboard_geometry.org#a-picture-in-color-of-the-full-keyboard][a picture in color]]
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lumatone_keyboard_geometry.org#a-black-and-white-hex-diagram-of-the-key-region-with-no-numbers][a black and white picture to print]]
 * my reach
   A function (Haskell)
   to get the length of a, given SAS and A = 2 pi / 3:

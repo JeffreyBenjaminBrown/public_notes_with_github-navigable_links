@@ -3,7 +3,7 @@
 :END:
 #+title: How to think using spaced repetition.
 * see also
-  my notes for [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/spaced_repetition.org][spaced repetition]]
+  my notes for [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/spaced_repetition.org][spaced repetition]]
 * Let it provide prompts for writing and thinking.
 * After processing a prompt, mark it "fruitful" or not.
   If fruitful, it comes up again more quickly.

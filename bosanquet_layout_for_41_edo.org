@@ -2,7 +2,7 @@
 :ID:       67465b81-c736-4430-bdbd-822106520f1b
 :END:
 #+title: Bosanquet layout for 41-edo
-* an [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/terpstra_microtonal_keyboard_online.org#bosanquet-41-edo][online Bosanquet 41-edo keyboard]]
+* an [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/terpstra_microtonal_keyboard_online.org#bosanquet-41-edo][online Bosanquet 41-edo keyboard]]
 * just 1 row more compact than my usual 8\41 x 1\41 layout
 * layout
   0  steps;  1 % 1  ; string 0 ; fret 0

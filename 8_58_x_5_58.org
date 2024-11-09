@@ -8,7 +8,7 @@
 ** 15-lim in 8x6 (and its smart height is even less)
 ** 15-lim in 6s x 6f
 ** 31-lim in 6s x 7f
-** resembles my favorite 34-edo layout, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/7_34r_x_3_34dr_x_4_34u_isomorphic_pitch_layout.org][7\34r x 3\34dr x 4\34u]]
+** resembles my favorite 34-edo layout, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_34r_x_3_34dr_x_4_34u_isomorphic_pitch_layout.org][7\34r x 3\34dr x 4\34u]]
 * layout
 ** as 8\58 x 5\58
    0  steps; 1  % 1; string 0; fret 0

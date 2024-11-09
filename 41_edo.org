@@ -2,14 +2,14 @@
 :ID:       d193c0f1-bafc-489a-be3a-b442d094eb49
 :END:
 #+title: 41-edo
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/add_in_between_notes_to_mtv_monome.org#todo-41-82--13-17-23-37-][41-edo is fat-finger friends with 82-edo]].
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/41_edo_notation.org][41-edo notation]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/41_edo_chapman_stick_tunings.org][41-edo Chapman Stick tunings]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#todo-41-82--13-17-23-37-][41-edo is fat-finger friends with 82-edo]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo_notation.org][41-edo notation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo_chapman_stick_tunings.org][41-edo Chapman Stick tunings]]
 * 2d isomorphic layouts
 ** u, also nice-looking
    MTV> myPrint $ map concat $ printLayout (primesOctave1 23) (show . numerator) 41 (2,9)
    MTV> myPrint $ map concat $ printLayout (primesOctave1 23) (show . numerator) 41 (6,-7)
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_41_edo_and_94_edo_bosanquet_layouts_are_similar_in_the_15_limit.org][The 41-edo and 94-edo Bosanquet layouts are similar in the 15-limit.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_41_edo_and_94_edo_bosanquet_layouts_are_similar_in_the_15_limit.org][The 41-edo and 94-edo Bosanquet layouts are similar in the 15-limit.]]
 ** 4\41 x 3\41: octave 8-3, fret width 4
    00 steps; 1  % 1; string 0; fret 0
    07 steps; 9  % 8; string 1; fret 1
@@ -49,9 +49,9 @@
    35 steps; 29 % 16; string 3; fret -2
    39 steps; 31 % 16; string 3; fret  0
 ** Narrow Kite: 41 11 2
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/bosanquet_layout_for_41_edo.org][Bosanquet: 7\41 x 3\41]]. A bit more* compact, easy 5-limit
-** TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/6_41_x_1_41_grid_layout.org][6\41 x 1\41]] wide, very short, Lumatone-good
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/7_41_x_1_41_grid_layout_for_41_edo.org][7\41 x 1\41]]: great 13-limit minus 3:2
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bosanquet_layout_for_41_edo.org][Bosanquet: 7\41 x 3\41]]. A bit more* compact, easy 5-limit
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/6_41_x_1_41_grid_layout.org][6\41 x 1\41]] wide, very short, Lumatone-good
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_41_x_1_41_grid_layout_for_41_edo.org][7\41 x 1\41]]: great 13-limit minus 3:2
 ** 5\41 x 1\41: wider yet no shorter than 6\41 x 1\41
    0  steps;  1 % 1; string 0; fret 0
    7  steps;  9 % 8; string 1; fret 2
@@ -136,5 +136,5 @@
    29 steps; 13 % 8 ; string  2 ; fret 3
    41 steps;  2 % 1 ; string  3 ; fret 4
    33 steps;  7 % 4 ; string  4 ; fret 1
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/identities_for_the_41_edo_intervals.org][identities for the 41-edo intervals]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/porcupine_scale_in_41_edo.org][Porcupine (scale) in 41-edo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identities_for_the_41_edo_intervals.org][identities for the 41-edo intervals]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/porcupine_scale_in_41_edo.org][Porcupine (scale) in 41-edo]]

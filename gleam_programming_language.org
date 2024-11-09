@@ -7,7 +7,7 @@
 :PROPERTIES:
 :ID:       24d4a5b8-9ca4-4072-bdd2-bf57d12ff2c5
 :END:
-   I couldn't compile the OTP repo. Someone recommended more recent versions. So I [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/nixos_packages_create_build_install_publish.org#3---commands-to-build-it][installed via my nixpkgs clone]] the packages gleam and rebar3, and commented them out of my Nix config.
+   I couldn't compile the OTP repo. Someone recommended more recent versions. So I [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_packages_create_build_install_publish.org#3---commands-to-build-it][installed via my nixpkgs clone]] the packages gleam and rebar3, and commented them out of my Nix config.
    But that wasn't recent enough, and I could not easily add a new Nix package for the newest Gleam.
 ** the upshot
    I may need to uninstall gleam and rebar3 before enabling them in my Nix config.

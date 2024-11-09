@@ -2,16 +2,16 @@
 :ID:       d78888f7-5f86-482e-ae3e-7ca15b036e69
 :END:
 #+title: mouse and keyboard controls in Reaper
-* the keybaord [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/reaper_shortcuts_and_context_menus.org][shortcuts in Reaper]]
+* the keybaord [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org][shortcuts in Reaper]]
 * the mouse
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org#with-the-mouse][zooming and scrolling with the mouse]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org#adjusting-faders-1][adjusting faders]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org#with-the-mouse][zooming and scrolling with the mouse]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org#adjusting-faders-1][adjusting faders]]
 ** configuring the mouse modifier space (which is *huge*)
 :PROPERTIES:
 :ID:       e0bcc9dc-9696-41f7-abe3-6d82576c60fe
 :END:
 *** Preferences / Editing Behavior / Mouse Modifiers
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/setting_up_io_for_reaper.org#the-virtual-midi-keyboard][the Virtual MIDI Keyboard]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/setting_up_io_for_reaper.org#the-virtual-midi-keyboard][the Virtual MIDI Keyboard]]
 * scrolling and zooming
 :PROPERTIES:
 :ID:       a8fd7441-0240-493b-95f8-ecf4c9e996e7

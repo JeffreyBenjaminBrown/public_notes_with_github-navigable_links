@@ -16,7 +16,7 @@
 ** The larynx in most species is higher. That's good for making choking difficult, as the larynx controls whether things go from the mouth to the stomach or the lungs. But we needed more space in our mouths in order to speak better
 *** "works as a valve to shuttle food into the stomach and protect us from inhaling it"
 ** Short flat noses are more useful in hot and humid environments, for efficiency. In colder and dryer climates, a longer and skinnier nose is useful to warm the air and I guess moisten it.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mouth_breathing_dries_you_out_yet_increases_the_need_to_urinate_during_sleep.org][Mouth breathing dries you out, yet increases the need to urinate during sleep.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mouth_breathing_dries_you_out_yet_increases_the_need_to_urinate_during_sleep.org][Mouth breathing dries you out, yet increases the need to urinate during sleep.]]
 * parts I doubt
   These claims were not central to the book.
 ** That the left and right nostrils have different functions.

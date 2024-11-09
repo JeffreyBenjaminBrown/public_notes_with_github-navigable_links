@@ -3,7 +3,7 @@
 :END:
 #+title: mtv-monome
 * refs
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/montevideo_synth_axe.org][Montevideo.Synth.Axe]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/montevideo_synth_axe.org][Montevideo.Synth.Axe]]
 * TODO UNFINISHED
 ** timbre interface
 *** presets accessible and writeable via buttons
@@ -11,7 +11,7 @@
 :ID:       38c5b604-3a86-499f-8db2-1315093bfee2
 :END:
 *** prime number interface for modulators
-    Really needs [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/mtv_monome.org#presets-accessible-and-writeable-via-buttons][presets accessible and writeable via buttons]]
+    Really needs [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mtv_monome.org#presets-accessible-and-writeable-via-buttons][presets accessible and writeable via buttons]]
 ** Use Sound.OSC.FD
 *** how
     See how Tidal does it:
@@ -43,7 +43,7 @@
     Now every note changes its pitch.
     Turning off the setting makes it end unless it's still fingered
     (at its most recent pitch).
-* TODO [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/add_in_between_notes_to_mtv_monome.org][add in-between notes to mtv-monome]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org][add in-between notes to mtv-monome]]
 * TODO pitch-shift all notes
 ** idea
    Toggle the "mono the last voice" setting.
@@ -329,6 +329,6 @@ This would be more CPU work, although no more work for SC or the monome.
 ** What if I just send a 31-tuple every time?
    If messaging between Vivid and SC is a bottleneck, this might speed that up.
 * handy references
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/supercollider_software_audio.org][Supercollider (software, audio)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/supercollider_software_audio.org][Supercollider (software, audio)]]
 ** the voice_jit or jit_test branches
    are in the old monome/ repo.

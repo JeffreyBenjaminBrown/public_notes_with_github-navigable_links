@@ -2,4 +2,4 @@
 :ID:       738f8d62-1c92-4d63-843a-b40d3c8883e5
 :END:
 #+title: insurance
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/insrance_policy_for_my_music_gear.org][insrance policy for my music gear]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/insrance_policy_for_my_music_gear.org][insrance policy for my music gear]]

@@ -3,4 +3,4 @@
 :ROAM_ALIASES: "FRP (functional reactive programming)"
 :END:
 #+title: functional reactive programming
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/dunai_reactive_monad_generalizes_many_frp_idioms.org][Dunai: reactive monad generalizes many FRP idioms.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dunai_reactive_monad_generalizes_many_frp_idioms.org][Dunai: reactive monad generalizes many FRP idioms.]]

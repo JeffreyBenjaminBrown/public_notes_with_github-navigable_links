@@ -2,8 +2,8 @@
 :ID:       221b6ad3-092d-4674-802c-18458c49ad9b
 :END:
 #+title: 58-edo harmonic theory
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo_intervals_in_the_17_limit_29_group.org][58-edo intervals in the 17-limit + 29 group]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/58_edo_scales_chords_and_harmonies.org][58-edo scales, chords and harmonies]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_intervals_in_the_17_limit_29_group.org][58-edo intervals in the 17-limit + 29 group]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_scales_chords_and_harmonies.org][58-edo scales, chords and harmonies]]
 * Almost every even interval is within 5 cents of a 15-limit ratio.
   The only exceptions are intervals less than 100 cents and intervals between 300 and 400 cents (or the octave-inverse of those conditions).
 

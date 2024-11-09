@@ -2,5 +2,5 @@
 :ID:       50132c61-a3f9-4e28-bdbd-e2d0e6f35f28
 :END:
 #+title: emotion
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/anger_can_usefully_displace_fear.org][Anger can usefully displace fear.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/refuse_to_feel_something_and_you_are_cut_off_from_the_people_who_do.org][Refuse to feel something and you are cut off from the people who do.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anger_can_usefully_displace_fear.org][Anger can usefully displace fear.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/refuse_to_feel_something_and_you_are_cut_off_from_the_people_who_do.org][Refuse to feel something and you are cut off from the people who do.]]

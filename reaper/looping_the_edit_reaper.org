@@ -17,7 +17,7 @@
    serial
 *** Adjust an items edges until it contains only the desired loop.
 *** Glue it ("to itself") so that it forgets the trimmed-out regions.
-    [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#glue-items--c-s-g][glue item(s) : C-S-g]]
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#glue-items--c-s-g][glue item(s) : C-S-g]]
     (or use the right-click context menu)
 *** Drag its edge(s) to loop it over a region.
 ** to loop selected items at a time selection
@@ -27,4 +27,4 @@
 * Boundaries in a looped item appear as notches.
 * Looping can be disabled for certain things
   including individual media items.
-* It might help that [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/reaper/media_item_views_in_reaper.org#item-playback-rate-can-be-adjusted][playback rate can be adjusted]].
+* It might help that [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org#item-playback-rate-can-be-adjusted][playback rate can be adjusted]].

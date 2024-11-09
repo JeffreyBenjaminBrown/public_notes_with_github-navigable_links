@@ -2,9 +2,9 @@
 :ID:       1dc593e8-0313-4dfd-bc5d-cd7e53f9bfba
 :END:
 #+title: high performance (human)
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/motivation.org][motivation]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/athletes_are_best_at_85.org][Athletes are best at 85%.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/to_know_you_waste_time_on_something_is_an_opportunity.org][To know you waste time on something is an opportunity.]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/my_productivity_secrets.org][some productivity secrets]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/athletes_are_best_at_85.org][Athletes are best at 85%.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_know_you_waste_time_on_something_is_an_opportunity.org][To know you waste time on something is an opportunity.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_productivity_secrets.org][some productivity secrets]]
   kind of obvious
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/wasted_mental_cycles.org][mental waste]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wasted_mental_cycles.org][mental waste]]

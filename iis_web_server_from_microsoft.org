@@ -3,4 +3,4 @@
 :ROAM_ALIASES: "Internet Information Services"
 :END:
 #+title: IIS (web server from Microsoft)
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/dian/syga_s_iis_logs.org][IIS & private]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dian/syga_s_iis_logs.org][IIS & private]]

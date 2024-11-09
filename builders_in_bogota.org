@@ -3,4 +3,4 @@
 :ROAM_ALIASES: "contractors (construction, demolition) in Bogotá"
 :END:
 #+title: builders in Bogotá
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/elder_the_maestro.org][Elder the Maestro]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/elder_the_maestro.org][Elder the Maestro]]

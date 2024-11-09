@@ -11,6 +11,6 @@
    Did it go away after I turned off Dim Screen and Screen Energy Saving
    under Settings -> Energy Saving -> On AC Power?
 ** the underlying problem
-*** At least this time <2022-09-28 Wed>, it was [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/a_bad_usb_cable_can_look_like_a_software_problem.org][a bad USB cable]].
+*** At least this time <2022-09-28 Wed>, it was [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_bad_usb_cable_can_look_like_a_software_problem.org][a bad USB cable]].
 ** the solution
    Use a better USB cable, throw out the bad one.

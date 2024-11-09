@@ -13,7 +13,7 @@
 * They didnt know kids need exercise and fresh air
 * In Vienna circa 1900, everyone trying to get ahead tried to look older. It was scandalous when they gave Mahler control of the conservatory at age 38.
 * Hitler promised so much to so many that when he gained power, diametrically opposed groups were simultaneously happy.
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/inflation_s_weird_effects_in_austria_post_wwi.org][inflation's weird effects in Austria post-WWI]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/inflation_s_weird_effects_in_austria_post_wwi.org][inflation's weird effects in Austria post-WWI]]
 * War made the young distrust the old.
 * Germany went through a brief period of "loose morals" and cultural upset during the hyperinflation immediately following WWI that, Zweig believes, set the stage for authoritarianism.
   Promiscuity, transvestite balls.

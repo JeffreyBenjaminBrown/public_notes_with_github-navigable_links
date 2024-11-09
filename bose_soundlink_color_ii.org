@@ -2,7 +2,7 @@
 :ID:       88a8e98f-3714-4554-878d-acaa5dcbce5d
 :END:
 #+title: Bose Soundlink Color II
-* PITFALL: If it always stutters in Bluetooth mode, [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/bose_soundlink_color_ii.org#how-to-reset][reset it]].
+* PITFALL: If it always stutters in Bluetooth mode, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bose_soundlink_color_ii.org#how-to-reset][reset it]].
 * manual
   [[~/many-small/belongings/22-02-21-sUh59aky.manual.bose_soundlink_color_ii.pdf]]
 * how to enter stereo mode

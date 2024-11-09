@@ -14,7 +14,7 @@
 ** TODO ? security
    AWS so far does not seem to care if people in different places
    log in to the same User. But maybe it would if we did it simultaneously.
-* [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/aws_credentials.org][stuff I've made]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/aws_credentials.org][stuff I've made]]
 * solutions
 ** Create an IAM user and use it from the CLI.
    Go to AWS IAM and follow the prompts.
@@ -23,7 +23,7 @@
 ** Create an IAM user and give them access to an S3 bucket.
    serial
 *** Create the bucket in S3.
-*** Create a [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/aws_iam_identity_access_management.org#create-an-iam-policy-for-total-access-to-an-s3-bucket][policy for total access to the bucket]].
+*** Create a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_iam_identity_access_management.org#create-an-iam-policy-for-total-access-to-an-s3-bucket][policy for total access to the bucket]].
     Either in S3 or in IAM.
 *** Create the user in IAM, and attach the policy to them.
 ** Create an IAM policy for total access to an S3 bucket.
@@ -76,7 +76,7 @@
     I could run, e.g.,
       aws s3 ls s3://invisible-to-most/latest
 ** use an IAM user or role from an EC2 program
-*** TODO It would be easy to determine whether [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/aws_iam_identity_access_management.org#and-maybe-the-following-or-maybe-they-have-no-effect][these]] matter
+*** TODO It would be easy to determine whether [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_iam_identity_access_management.org#and-maybe-the-following-or-maybe-they-have-no-effect][these]] matter
     By running this experiment:
     Hide my ~/.aws folder and try running aws cli commands.
     (It just might require restarting the Phanaeros services after replacing the .aws folder.)

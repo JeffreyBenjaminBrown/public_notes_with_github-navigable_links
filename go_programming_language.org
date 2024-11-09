@@ -5,7 +5,7 @@
 * refs
 ** the Go docs
    https://golang.org/doc/
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/imports_in_go.org#search-for-packages-or-symbols][Search for packages or symbols.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imports_in_go.org#search-for-packages-or-symbols][Search for packages or symbols.]]
 ** RESUME here
    My code and their webpage:
 
@@ -34,7 +34,7 @@
    to put the executable there.
    Add the Go install path to my PATH
    to make everything there globally available.
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org#execution-order][execution order]] in Go
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#execution-order][execution order]] in Go
 ** tests in Go
 :PROPERTIES:
 :ID:       ae748d4d-eb68-4f48-b73b-af28eae5c323
@@ -49,13 +49,13 @@
 *** run tests
     from the folder containing them, with
       go test
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/imports_in_go.org][imports in Go]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_syntax.org][Go syntax]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/go_programming_language.org#tests-in-go][testing in Go]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/concurrency_in_go.org][concurrency in Go]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imports_in_go.org][imports in Go]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org][Go syntax]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_programming_language.org#tests-in-go][testing in Go]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_go.org][concurrency in Go]]
 * some libraries
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/time_in_go.org][time in Go]]
-** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/filepaths_in_go.org#concatenate-paths-in-go][filepaths]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_in_go.org][time in Go]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/filepaths_in_go.org#concatenate-paths-in-go][filepaths]]
 * solutions
 ** print a thing's type or value
    Use %T or %v in a function from the `fmt` package:

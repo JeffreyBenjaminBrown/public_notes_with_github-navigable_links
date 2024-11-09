@@ -2,7 +2,7 @@
 :ID:       7a893f59-470b-4845-9bb5-43a5ae8a6054
 :END:
 #+title: Oily plant foods are good for skin.
-* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/oily_plant_foods_are_good_for_skin.org#however-by-weight-they-are-much-less-effective-than-fish-oil][Beware the caveat.]]
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oily_plant_foods_are_good_for_skin.org#however-by-weight-they-are-much-less-effective-than-fish-oil][Beware the caveat.]]
 * Flaxseeds, chia seeds, walnuts have omega-3 (part of fish oil).
 ** HOWEVER, by weight, they are much less effective than fish oil.
 :PROPERTIES:

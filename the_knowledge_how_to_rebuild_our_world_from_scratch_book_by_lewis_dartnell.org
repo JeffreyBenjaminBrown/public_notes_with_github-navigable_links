@@ -118,4 +118,4 @@
 * "the observation that first hinted at the deep coupling between electricity and magnetism [was] the twitching of compass needles left next to a wire carrying current
 * "One of the major catalysts for the Renaissance in the fifteenth and sixteenth centuries was the trickle of ancient learning back into Western Europe."
   "Much of this knowledge, lost with the fall of the Roman Empire, was preserved and propagated by Arab scholars carefully translating and copying texts; other manuscripts were rediscovered by European scholars."
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/the_meiji_restoration_was_a_blistering_industrialization.org][The Meiji Restoration was a blistering industrialization.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_meiji_restoration_was_a_blistering_industrialization.org][The Meiji Restoration was a blistering industrialization.]]

@@ -20,7 +20,7 @@
     Giovanni said to keep my back straight,
     but Monica says to bend it,
     reach as far toward my toes as possible.
-*** Monica of [[https://github.com/JeffreyBenjaminBrown/secret-org/blob/master/fisioterapia_francia_elena_hermida.org][Francia Elena Hermida]] says 5 sets of 20 secs.
+*** Monica of [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/fisioterapia_francia_elena_hermida.org][Francia Elena Hermida]] says 5 sets of 20 secs.
 ** the list
 *** Stretch one leg tied while seated.
 *** Stretch legs both tied while seated.

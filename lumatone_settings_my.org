@@ -6,11 +6,11 @@
 **  1-34edo.7right.3downright.ltn
 **  2-41edo.7right.3downright.+9notes.+1channels.ltn
 **  3-46edo.4right.11downright.+29notes.ltn
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/isomorphic_layout_4_46_x_7_46.org#on-the-lumatone][on the Lumatone]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_4_46_x_7_46.org#on-the-lumatone][on the Lumatone]]
 **  4-46edo.4right.11downright.+15notes.ltn
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/isomorphic_layout_4_46_x_7_46.org#on-the-lumatone][on the Lumatone]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_4_46_x_7_46.org#on-the-lumatone][on the Lumatone]]
 **  5-46edo.4right.11downright.+1notes.ltn
-*** [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/isomorphic_layout_4_46_x_7_46.org#on-the-lumatone][on the Lumatone]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_4_46_x_7_46.org#on-the-lumatone][on the Lumatone]]
 **  6-24edo.5right.4downright.ltn
 **  7-31edo.5right.3downright.ltn
 **  8-50edo.8right.5downright.ltn

@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "knowledge base curation, gameifying" "graph game" "gameifying knowledge graphs"
 :END:
 #+title: gameifying knowledge base curation
-* see also [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/fun_interesting_relationships_hode.org][relationships worth recording]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fun_interesting_relationships_hode.org][relationships worth recording]]
 * TODO Look for prior art
   gameifying knowledge, science, debate
 * aspects

@@ -2,7 +2,7 @@
 :ID:       f3802800-cbdf-4a8b-aa13-53aaeac3e85f
 :END:
 #+title: defensive behaviors that receiving a massage should trigger
-* see also [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/salespeople_suck_they_have_to_suck.org][Salespeople suck. They *have to* suck.]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/salespeople_suck_they_have_to_suck.org][Salespeople suck. They *have to* suck.]]
 * refuse these things
   Refuse hand, foot massage.
   More generally, anywhere there's not much muscle --

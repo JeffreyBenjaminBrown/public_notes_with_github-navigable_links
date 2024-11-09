@@ -2,7 +2,7 @@
 :ID:       8e161cfb-b4c5-4202-a87e-242b3a25c038
 :END:
 #+title: making a microtonal guitar
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/guitar_intonation_setup.org][guitar intonation setup]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guitar_intonation_setup.org][guitar intonation setup]]
 * TODO tell Dave Keenan saddle clearance
   "above the plane of the fretboard"
   which probably requires three measurements --
