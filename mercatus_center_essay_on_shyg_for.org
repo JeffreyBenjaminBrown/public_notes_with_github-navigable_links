@@ -52,7 +52,7 @@ It is for this reason that a majority of humanity is now accustomed to giving a 
 - "posts from [person] on which [person] commented"
 - "articles that mention any chemical in the blood of any mammal"
 *** Sidenote: the ontology
-The last query mentioned will be made possible with the help of an ontology. Later this proposal describes [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_essay_on_shyg_for.org#the-ontology][ontologies in more detail later]], but in brief, an ontology is a collection of relationships intended to help understand the world's categories.
+The last query mentioned will be made possible with the help of an ontology. Later this proposal describes [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_essay_on_shyg_for.org#the-ontology][ontologies in more detail]] later, but in brief, an ontology is a collection of relationships intended to help understand the world's categories.
 
 One kind of relationship in an ontology is called subsumption, or informally, "is-a". A cat is a feline, which is a mammal, which is an animal, which is an organism. (That chain skips some intermediate levels.) Subsumption is a transitive relationship, so the preceding chain implies that cats are organisms.
 
@@ -73,7 +73,7 @@ Shyg will make such work easier, by providing a unified public database and quer
 
 As we will see below when focusing on its [[:id:a73b9f5a-bf5b-41af-b612-6427857a1133][architecture -- broken link?]], members of the Shyg network will be able to choose what kinds of information to index. Recogniztion of bots in Shyg could be particularly facilitated if the index stored relationships like "[author] cites [different author]" or "[author] claims that [different author] is human". It seems likely that some portion of the Shyg community will choose to include such information in the index.
 ** Improve the effectiveness of epistemic institutions, and the collective faith in them, by making epistemology more transparent.
-The epistemic institutions underpinning the modern social order -- [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_essay_on_shyg_for.org#the-constitution-of-knowledge-by-jonathan-rauch][science, journalism, law and government]] -- devote substantial resources to determining what is true and making it known. These institutions have always been an elite, and never entirely popular, but until recently, they were nearly incontestable. The internet has democratized the search for truth, and some of the effects of that have clearly been good. But it has also dangerously fractured our epistemology into separate communities.
+The epistemic institutions underpinning the modern social order -- [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_essay_on_shyg_for.org#the-constitution-of-knowledge-book][science, journalism, law and government]] -- devote substantial resources to determining what is true and making it known. These institutions have always been an elite, and never entirely popular, but until recently, they were nearly incontestable. The internet has democratized the search for truth, and some of the effects of that have clearly been good. But it has also dangerously fractured our epistemology into separate communities.
 
 Shyg will be agnostic about which community is correct on which issue. It will simply index their work. But it will index them all the same way, and permit queries that traverse them all at once. This will make every epistemic community more trasnparent, to itself and to the others. To the extent that communities of "alternate facts" arise from a sense of alienation from the traditional instutitions, this alone will be helpful.
 
@@ -105,7 +105,7 @@ And even of the more obscure technical components of Shyg, there exist implement
 - the hypergraph index (TypeDB, HypergraphDB, ...)
 - a simple hypergraph query language (Hash)
 
-That last component, Hash[[Hash]], I wrote myself, albeit without support for federated queries. I intend to rewrite it it in TypeQL, the query language for TypeDB[[TypeDB]], an open-source hypergraph database. Unlike TypeQL, Hash resembles natural language.
+That last component, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_essay_on_shyg_for.org#the-hash-query-language][Hash]], I wrote myself, albeit without support for federated queries. I intend to rewrite it it in TypeQL, the query language for [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_essay_on_shyg_for.org#the-typedb-hypergraph-database][TypeDB]], an open-source hypergraph database. Unlike TypeQL, Hash resembles natural language.
 ** Sidenote: Shyg users need not sacrifice privacy.
 Access controls will allow users to search their own private data alongside the public index. Data can be private to a single person, private to a group of any size, or public. Of course, nobody without access to private data can assist efforts to index or query it.
 ** Sidenote: Shyg does not need scale in order to be useful.
@@ -248,8 +248,8 @@ My lifestyle is not fancy. I could get by on $50,000 a year in a small town in t
 :ID:       c62f00f7-4e2a-4a58-80d7-9996ea27372d
 :END:
    https://github.com/JeffreyBenjaminBrown/hode/blob/master/docs/hash/the-hash-language.md
-** The Constitution of Knowledge, by Jonathan Rauch
+** The Constitution of Knowledge (book)
 :PROPERTIES:
 :ID:       79935e6e-8f9e-4206-81f4-7fc4ecfdae55
 :END:
-   The Constitution of Knowledge (book), by Jonathan Rauch, 2021.
+   The Constitution of Knowledge, by Jonathan Rauch, 2021.
