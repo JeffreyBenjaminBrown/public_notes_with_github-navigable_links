@@ -4,6 +4,11 @@
 #+title: music
 * see also
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
+* TODO Why not play a MIDI sampler live?
+  The monome probably does it.
+  I don't need to be able to adjust anything about the loop.
+  Also maybe other Linux software.
+  ChatGPT would probably know.
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_on_who_or_what_leads.org][Improv on who or what leads.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/karaoke_songs_i_can_sing.org][karaoke songs I can sing]]
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collect_data_to_adjust_velocity_curve.org][collect data to adjust velocity curve]]

@@ -9,8 +9,8 @@
 * nice sept min maj7 : 0 13 34 52
   maybe because 52 + 19 = 13'
 * wide uniform chord : [0,26,52,20',46',14"..]
-* a nice cluster: 0 8 21
-  Has minor and major sept thirds.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/root_root_minus_sept_m3_root_minus_sept_m3.org][root, root minus sept m3, root minus sept M3]]
+** [[id:81ca0486-bd78-4353-afea-a5251f9aad00][in 58-edo : [0, 8, 21]​]]
 * harmonic phrygian #7
   0 8 15 22 34 39 52
   This is what you get if you play all the harmonics
@@ -35,9 +35,8 @@ filter (< 58) $ -- or maybe 2*58, or even 3*58,
 * maybe the ringiest dim7
   0 15 28 49
   That's 6/5 + 7/6 + 9/7
-* a nicer interval from 9\12 to 13\12 -ish
-  uses 933 cents for the 9\12,
-  and reaches up 5:4 to 6'\58
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/from_9_12_to_13_12_9_7_sounds_better_than_5_4.org][the sound from ~9\12 to ~13\12 can be improved]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/from_9_12_to_13_12_9_7_sounds_better_than_5_4.org#in-58-edo-use-127--54--2813][in 58-edo, use 12:7 + 5:4 = 28:13]]
 * symmetric-ish scales
 ** [0,13] x [0,27,..]
 *** alternates between 13\58 and 14\58

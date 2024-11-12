@@ -18,3 +18,4 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/internal_family_systems_psychology.org][Internal Family Systems (psychology)]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ethical_obligations_to_one_s_other_selves.org][ethical obligations to one's other selves]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotions_can_be_decomposed_into_sensations.org][Emotions can be decomposed into sensations.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_animals_boldness_rigidity_while_shyness_sociability_creativity.org][In animals, boldness ~ rigidity, while shyness ~ sociability ~ creativity.]]
