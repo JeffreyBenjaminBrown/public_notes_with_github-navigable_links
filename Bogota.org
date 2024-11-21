@@ -27,3 +27,4 @@
 * optical | optometry in Bogotá
 ** Óptica Barcelona : cra 10 & cl 19
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/hospitals_medical_establishments_jbb.org][hospitals & medical establishments]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bid_in_bogota.org][BID in Bogotá]]

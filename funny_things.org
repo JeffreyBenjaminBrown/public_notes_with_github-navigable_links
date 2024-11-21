@@ -2,6 +2,7 @@
 :ID:       0591e33a-f3b2-414a-ac40-c3071348758d
 :END:
 #+title: funny things
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bhutan_is_weird.org][Bhutan is weird!]]
 * The [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aestivation_hypothesis_the.org][aestivation hypothesis]] might explain the Fermi paradox.
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cats_are_less_diverse_than_dogs_because_they_are_perfect.org][Cats are less diverse than dogs, because they are "perfect".]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/orcas_went_through_a_salmon_hat_fad_in_1987.org][Orcas went through a salmon hat fad in 1987.]]

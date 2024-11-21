@@ -67,12 +67,14 @@
 :PROPERTIES:
 :ID:       2a53ddf3-0adb-415a-8f73-121fc5ee8c68
 :END:
-** delete time : C-M-d
+** delete time : C-M-S-d
 :PROPERTIES:
 :ID:       1284643e-cb1a-4a92-bc9d-8280587914ad
 :END:
    That's "Time selection: delete contents of time selection (moving later items)"
 *** see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ripple_editing_in_reaper.org][Ripple Editing]]
+** insert (empty) time : C-S-M-e
+   ripple editing need to be enabled
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#color-notescc-by-channel--c-s-m-c][color notes/CC by channel : C-S-M-c]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/metronome_in_Reaper.org#metronome-shortcut-my--c-s-m-m][metronome window shortcut, my : C-S-M m]]
 ** [[id:965055f6-6f41-49fe-a00a-b7ef4e5fe225]["set time selection to [selected] items" : jbb "C-S-M t"]]

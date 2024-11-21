@@ -1,24 +1,26 @@
 :PROPERTIES:
 :ID:       e1eda15a-df86-4050-b150-e8034ae49019
-:ROAM_ALIASES: "nixos-rebuild"
+:ROAM_ALIASES: "nixos-rebuild" "rebuild NixOS"
 :END:
 #+title: nixos-rebuild (command)
-* in brief
-  alternatives
-** as a single command (which saves a password entry)
-   sudo bash -c "nix-channel --update nixos && nixos-rebuild switch"
-** as two separate commands
-   sudo nix-channel --update nixos
-   sudo nixos-rebuild switch
-* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_isn_t_nixos_rebuild_building_anything.org][if nixos-rebuild isn't building anything]]
-  it might be that the channel needs updating.
-* nixos-rebuild --keep-failed / -K
-  to avoid re-downloading data the next time I try to rebuild
-* to rebuild but not switch
-  sudo nixos-rebuild test
-* to rebuild NixOS nicely
+* what I always use
+** how to do it
+   # Chaining with && reduces the time spent entering a password.
+   sudo bash -c "nix-channel --update nixos \
+     && nixos-rebuild switch"
+** when I last did it
+   <2024-11-10 Sun>
+* what I almost never read
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_isn_t_nixos_rebuild_building_anything.org][if nixos-rebuild isn't building anything]]
+   it might be that the channel needs updating.
+** nixos-rebuild --keep-failed / -K
+   to avoid re-downloading data the next time I try to rebuild
+** to rebuild but not switch
+   sudo nixos-rebuild test
+** to rebuild NixOS nicely
 :PROPERTIES:
 :ID:       5d575d7a-e417-4807-813b-61bea82e9cff
 :END:
-  sudo nice -n 19 nixos-rebuild switch
+   # IIRC this doesn't work, bafflingly.
+   sudo nice -n 19 nixos-rebuild switch

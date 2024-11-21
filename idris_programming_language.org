@@ -154,6 +154,16 @@ help : a
 :ID:       ca34f4aa-a82e-4943-b57a-5d698258753f
 :END:
 *** https://idris2.readthedocs.io/en/latest/tutorial/typesfuns.html#laziness
+*** can (often? always?) be implemented by simply changing type
+**** data Lazy : Type -> Type where
+                 Delay : (val : a) -> Lazy a
+
+            Force : Lazy a -> a
+            A value of type Lazy a is unevaluated until it is forced by Force. The Idris type checker knows about the Lazy type, and inserts conversions where necessary between Lazy a and a, and vice versa. We can therefore write ifThenElse as follows, without any explicit use of Force or Delay:
+
+            ifThenElse : Bool -> Lazy a -> Lazy a -> a
+            ifThenElse True  t e = t
+            ifThenElse False t e = e
 ** any [overloaded] implementation of the names Nil and :: can be written in list form.
 *** Similarly, any implementation of the names Lin and :< can be written in snoc-list form:
 ** Anonymous functions (lambda expressions)
@@ -472,6 +482,9 @@ help : a
 *** The "mutual" keyword can get around this.
 *** At least for functions and data types,
     and maybe for more.
+* codata
+  It permits infinite data types, but not mutually recursive ones.
+  I didn't understand it.
 * syntax
 ** types
 *** Ptr represents *foreign* pointers
@@ -559,23 +572,7 @@ index : Fin 2 -> Vect 2 a -> a
 index FZ     (x :: _) = x
 index (FS FZ) (_ :: xs) = index FZ xs
 #+END_SRC
-** implicit arguments
-*** depend on case and application
-    "Any name beginning with a lower case letter which appears as a parameter or index in a type declaration, which is not applied to any arguments, will always be automatically bound as an implicit argument"
-*** example
-    These are equivalent:
-      index : Fin n -> Vect n a -> a
-      index : forall a, n . Fin n -> Vect n a -> a
-    The a and n are implicit.
-*** they can optionally be provided explicitly
-    e.g. for either of these equivalent definitions:
-      index : Fin n -> Vect n a -> a
-      index : forall a, n . Fin n -> Vect n a -> a
-    we could do this:
-      index {a=Int} {n=2} FZ (2 :: 3 :: Nil)
-    The {} stuff is optional.
-*** arguments in type signatures can be named
-    index : (i : Fin n) -> (xs : Vect n a) -> a
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/implicit_arguments_in_idris.org][implicit arguments in Idris]]
 ** TODO ? "mutual" : did not understand most of
    https://idris2.readthedocs.io/en/latest/tutorial/typesfuns.html#note-declaration-order-and-mutual-blocks
 *** uses a number of terms before defining them
