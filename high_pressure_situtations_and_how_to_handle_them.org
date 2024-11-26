@@ -5,11 +5,13 @@
 #+title: high-pressure situtations, and how to handle them
 * situations
 ** meeting new people
+*** esp. parties
 ** contacting someone I might not remember well
 ** job interview
    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_prepare_for_coding_interviews.org][how to prepare for coding interviews]]
-** appointments that are brief and hard to follow up on
-   doctors, famous or hard-to-reach people
+** brief windows of availability (of a person)
+   = appointments that are brief and hard to follow up on
+*** esp. doctors, the famous, the high-status, the busy
 ** vacations
    for the same reason as doctors
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moving_and_movers.org][moving and movers]]
