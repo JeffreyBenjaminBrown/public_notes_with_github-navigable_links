@@ -2,6 +2,7 @@
 :ID:       d73993b4-9c64-4365-8300-bb7b1e6e439b
 :END:
 #+title: programming languages
+Both categories are incomplete and should overlap.
 * cool ones
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lean_programming_language.org][Lean - programming language]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pharo_programming_language.org][Pharo]] looks amazing
@@ -12,7 +13,7 @@
     or so it looks
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/haskell.org][Haskell]]
 *** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_i_like_haskell.org][why I like Haskell]]
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_programming_language.org][Go (programming language)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_programming_language.org][Go]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/borgo_is_an_improved_go.org][Borgo]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org][Idris (programming language)]]
 ** Prolog
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercury_programming_language.org][Mercury (programming language)]] - like Prolog but strict & pure

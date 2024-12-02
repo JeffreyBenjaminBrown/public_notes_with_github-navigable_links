@@ -1,8 +1,10 @@
 :PROPERTIES:
 :ID:       3924c945-e600-453f-be00-b2fb24d65f17
+:ROAM_ALIASES: Go
 :END:
 #+title: Go (programming language)
 * refs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/borgo_is_an_improved_go.org][Borgo is an improved Go.]]
 ** the Go docs
    https://golang.org/doc/
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imports_in_go.org#search-for-packages-or-symbols][Search for packages or symbols.]]

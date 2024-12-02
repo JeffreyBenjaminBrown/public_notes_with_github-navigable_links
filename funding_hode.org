@@ -3,6 +3,7 @@
 :END:
 #+title: funding Hode
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_pitching_hode_to_the.org][Mercatus Center, pitching Hode to the]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_as_quickly_as_possible.org][Shyg as quickly as possible]]
 * grants | funders for Hode
 ** DARPA
 ** prototype fund: https://prototypefund.de/en/

@@ -10,6 +10,7 @@
 *** Emily Bender: linugistics, UW, affiliated with the info school.
     Runs linguistic lab.
     Value-sensitive design lab.
+*** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/letter_to_jevin_west.org][letter to Jevin West]]
 ** the power houses of information schools
    UW, UNC Chapel Hill, U Illinois, UC Berkeley
 ** Information sciences.
