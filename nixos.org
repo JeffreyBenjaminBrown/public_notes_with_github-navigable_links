@@ -233,3 +233,4 @@ on NixOS it's 1001. This creates permissions problems.
 ** GitLab
 * how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/run_a_static_binary_on_nixos.org][run a static binary on NixOS]]: use steam-run
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/building_for_android_on_nixos.org][Android apps, building on NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kde_in_nix_a_project_for_configuring.org][KDE in Nix, a project for configuring]]

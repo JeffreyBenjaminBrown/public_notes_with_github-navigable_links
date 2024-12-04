@@ -4,6 +4,7 @@
 :END:
 #+title: KDE (desktop environment)
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_my_config.org#pitfall-i-disabled-baloo][PITFALL: I disabled baloo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kde_in_nix_a_project_for_configuring.org][KDE in Nix, a project for configuring]]
 * configuring it
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/configuring_kde_in_nixos.org][configuring KDE in NixOS]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kde_lets_you_export_a_shortcut_scheme.org][KDE lets you export a shortcut scheme!]]
