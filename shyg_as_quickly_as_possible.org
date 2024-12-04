@@ -4,6 +4,8 @@
 #+title: Shyg as quickly as possible
 * What this essay is
 This essay is intended to give you a rough idea of what Shyg would be and why it would be valuable. (Valuable to society, that is -- I'm not convinced it can be monetized.) It is brief, to avoid losing your interest, but it includes a number of hyperlinks to portions of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_essay_on_shyg_for.org][this more in-depth (5,000 words) essay on Shyg]].
+
+Blue text, even if it appears in a title, represents a hyperlink.
 * What Shyg would be
 Shyg, which stands for Shared HyperGraph, would be a federated index of content online, and some software for building it, querying it and displaying the results.
 
