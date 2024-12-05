@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c543ecbc-9af5-4a9f-a7b2-fce74104c5cc
+:ROAM_ALIASES: linguistics
 :END:
 #+title: language
 * some languages I like
