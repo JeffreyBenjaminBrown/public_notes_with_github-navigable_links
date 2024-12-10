@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       d3d6e611-2c5c-4779-8417-70e2b58519c1
-:ROAM_ALIASES: "Hode6 coding, TODO"
-:END:
-#+title: TODO coding Hode6
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/manipulate_hode_model_from_emacs.org][manipulate Hode model from Emacs]]
-* [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/try_python_and_typedb_hode.org][try Python and TypeDB]]
-* TODO ? [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/persistent_docker_data_insanity_hode.org][persistent Docker data insanity]]
-* BLOCKED [[https://github.com/JeffreyBenjaminBrown/public-notes-in-org-roam-format/blob/master/bifurcate_hode_start_to_start_from_scratch_or_not.org][bifurcate hode-start to start from scratch or not]]
