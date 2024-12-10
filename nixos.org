@@ -4,6 +4,7 @@
 :END:
 #+TITLE: NixOS (operating system)
 * see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nix_configuration_language.org][Nix]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grouping_derivations_into_a_single_meta_derivation.org][grouping NixOS derivations into a single meta-derivation]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_rebuild_command.org][nixos-rebuild (shell command)]]
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nix_configuration_language.org][Nix (configuration language)]]

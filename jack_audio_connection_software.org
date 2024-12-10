@@ -2,6 +2,7 @@
 :ID:       2e99f9b7-5784-4e04-a277-9e6e734d1dd2
 :END:
 #+title: JACK (audio connection software)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/qjackctl_having_no_effect_on_jack_bufsize.org][QJackCtl having no effect on `jack_bufsize`.]]
 * TODO
 ** TODO (someone responded) : I asked online
 *** TODO (someone responded) : on Reddit

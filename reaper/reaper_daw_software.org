@@ -4,6 +4,7 @@
 :END:
 #+title: Reaper (the DAW)
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_did_i_break_a_midi_track_in_reaper.org][How did I break a MIDI track in Reaper?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/plugins_in_reaper.org][plugins in Reaper]]
 * reading the manual
 ** TODO RESUME here
    right after the gray box at the bottom of

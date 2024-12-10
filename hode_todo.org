@@ -3,6 +3,8 @@
 :ROAM_ALIASES: "TODO & Hode"
 :END:
 #+title: Hode & TODO
+* It will require some good human data to train an AI to create semantic hypergraph edges from natural language data.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/josh_and_sid_on_shyg.org][Josh and Sid on Shyg]]: cite theirs, others' work
 * also to file
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/christine_on_hode.org][Christine on Hode]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_organizing_everyone_s.org][knowledge graphs]]
