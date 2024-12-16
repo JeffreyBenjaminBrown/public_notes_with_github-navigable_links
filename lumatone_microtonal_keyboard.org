@@ -6,9 +6,9 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/paul_christian_s_webapp_lights_up_enharmonic_notes_on_a_lumatone.org][Paul Christian's webapp lights up enharmonic notes on a Lumatone.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collect_data_to_adjust_velocity_curve.org][collect data to adjust velocity curve]]
 * my current Lumatone layout bank settings
-  1   : 24-edo
-  2   : 31-edo
-  3   : 34-edo, might be wrong layout
+  1   : 12-edo, 5 right 6 downright
+  2   : 12-edo, 4 right 5 downright
+  3   : 19-edo, 6 right 7 downright (4 black)
   4   : 36-edo
   5   : 41-edo
   6   : 43-edo
@@ -36,6 +36,7 @@
 * to use the Lumatone Editor on NixOS
 ** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/run_a_static_binary_on_nixos.org#todo-do-i-need-a-shellnix][Do I need a `shell.nix`?]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/run_a_static_binary_on_nixos.org][run a static binary on NixOS]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lumatone_editor_trying_to_package_for_nix.org][Lumatone Editor, trying to package for Nix]]
 * some patches online at PatchStorage
   https://patchstorage.com/requests/lumatone/#comment-5421
 ** a Facebook thread about them

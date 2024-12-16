@@ -40,6 +40,7 @@
 * /home/jeff/code/music/jam-quiz
 ** includes 24-edo language quiz
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/percussion.org][percussion]] | drums
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pedal_keyboard.org][pedal keyboard]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_impoverishment.org][musical impoverishment]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/monome.org][monome]]
 * aborted

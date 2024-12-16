@@ -9,15 +9,6 @@
 * lead poisoning
 ** bright yellow turmeric (curcuma)
 ** artisanal glazed ceramic cookware
-* to avoid endocrine disruptors
-  https://www.nytimes.com/2021/02/20/opinion/sunday/endocrine-disruptors-sperm.html?referringSource=articleShare
-** TODO Store food in glass containers, not plastic. Above all, don’t microwave foods in plastic or with plastic wrap on top.
-** TODO Prevent dust buildup.
-** Avoid pesticides.
-** Buy organic produce if possible.
-** Avoid tobacco and marijuana.
-** Use a cotton or linen shower curtain, not one made of vinyl.
-** Don’t use air fresheners.
-** Vet consumer products with an online guide like that of the Environmental Working Group.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/endocrine_disruptors_how_to_avoid.org][endocrine disruptors, how to avoid]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/air_quality.org][air quality]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_atlantic_says_gas_stoves_are_unhealthy.org][gas stoves]] bad
