@@ -9,6 +9,7 @@
 ** emotion
 ** self
 ** love
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_in_my_head_music_of_the_senses.org][Music in my head < music of the senses.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/commitment_to_memory_is_somewhat_voluntary.org][Commitment to memory is somewhat voluntary.]]
 * Be aware of the emotional valence that thoughts carry.
 * "Thoughts become like thieves entering an empty house. There's nothing for them to steal."

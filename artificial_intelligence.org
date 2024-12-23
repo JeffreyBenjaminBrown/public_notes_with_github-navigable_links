@@ -4,6 +4,7 @@
 :END:
 #+title: artificial intelligence
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_curricula.org][AI curricula]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_ubi_democracy_thoughts_on_2024_12_23_mon.org][AI, UBI, democracy : some of my thoughts on, <2024-12-23 Mon>]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_junk_personalities_a_concern.org][AI junk personalities: a concern]]
 * [[id:23122de2-d48a-487d-82f4-984b5e5cfab6]["Proposal: ... [AI] should be impossible to confuse with a real person."]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/compression_superposition_and_interpretability_in_ai.org][compression, superposition and interpretability in AI]]

@@ -2,6 +2,7 @@
 :ID:       8582cec9-74e2-4664-a6d7-946c2ba240e0
 :END:
 #+title: meditation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_in_my_head_music_of_the_senses.org][Music in my head < music of the senses.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment.org][visions of enlightenment]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mandala_for_meditation_a_text.org][mandala for meditation, a text]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/effort_and_observation_are_somewhat_disjunctive.org][Effort and observation are somewhat disjunctive.]]

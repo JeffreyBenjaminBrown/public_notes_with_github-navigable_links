@@ -48,7 +48,7 @@
 * remember, commands
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/find_grep_emacs_command.org][find-grep (Emacs command)]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/special_characters_in_emacs.org][special characters in Emacs]]
-   tag ñíáéóú tilde circumflex
+   tag ñíáéóú tilde circumflex Spanish
 ** Alt-(up / down) : make two paragraphs trade places in Emacs
    similar to org-mode with bullets
 ** M-m: first non-whitespace char in line

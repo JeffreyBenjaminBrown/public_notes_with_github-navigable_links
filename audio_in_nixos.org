@@ -5,6 +5,16 @@
 #+title: audio in NixOS
 PITFALL: Mostly written while ignorant.
 * see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audio_in_linux.org][audio in Linux]]
+* to restart all sound programs
+  via ChatGPT
+  systemctl --user restart pipewire wireplumber
+  # It suggested these but they are not found (let alone restarted).
+  pipewire-media-session
+  jack
+  pipewire-pulse
+  # Neither do these.
+  jackd
+  jackdbus
 * references
 ** IRC and Discourse ?= the major NixOS communities
 https://nixos.org/nixos/learn.html
