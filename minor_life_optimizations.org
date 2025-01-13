@@ -3,6 +3,8 @@
 :ROAM_ALIASES: "efficiency \\ jbb"
 :END:
 #+title: minor life optimizations
+* carpeta segura de samsung
+  A virtual phone within your phone, with a second password.
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rec_s_for_laptop_security_some_of_chatgpt_s.org][rec's for laptop security, some of ChatGPT's]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chatgpt_says_i_can_use_avy_to_jump_to_the_start_of_words.org][ChatGPT says I can use 'avy' to jump to the start of words.]]
 * "Atkinson Hyperlegible" font

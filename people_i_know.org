@@ -2,6 +2,8 @@
 :ID:       1afd9486-967e-41b3-8ece-80f1a4552df6
 :END:
 #+title: people I know
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/mincit_lunch_people.org][MinCIT lunch people]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/ping_pong_organize.org][ping pong etc. , people I organize]] with
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/people_i_like_having_lunch_with_at_puj.org][people I (would) like having lunch with at PUJ]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/people_i_know_in_austin.org][people I know in Austin]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/people_i_know_in_colombia_s_government.org][people I know in Colombia's government]]
