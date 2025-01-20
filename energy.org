@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       40705e00-dcdc-48a4-86de-5e32ef01815f
+:END:
+#+title: energy , personal
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/living_like_theres_no_tomorrow.org][Living like there's no tomorrow]].

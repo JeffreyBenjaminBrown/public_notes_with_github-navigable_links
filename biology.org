@@ -2,6 +2,7 @@
 :ID:       974d25f4-56a0-4dd9-a066-7790dd40d0f7
 :END:
 #+title: biology
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ring_species.org][ring species]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_ability_to_select_embryos_will_incentivize_increasing_variability_in_the_fitness_of_each_rather_than_maximizing_average_fitness.org][embryo selection => variability > average fitness]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/animals.org][animals]]
 * sub-disciplines

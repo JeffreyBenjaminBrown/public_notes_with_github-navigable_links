@@ -2,5 +2,6 @@
 :ID:       92cb5b77-ce0e-4e11-8e9e-3be146688fcf
 :END:
 #+title: comedy
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_improv_teachers_in_bogota.org][comedy improv teachers in Bogotá]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_and_mindfulness_seem_hard_to_square.org][Comedy and mindfulness seem hard to square.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_some_good.org][comedy, some good]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_improv_teachers_in_bogota.org][comedy improv teachers in Bogotá]]

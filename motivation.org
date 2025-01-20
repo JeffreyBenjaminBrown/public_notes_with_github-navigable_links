@@ -2,9 +2,10 @@
 :ID:       7b52eb18-91c5-4f83-be4f-40ff8a918541
 :END:
 #+title: motivation
-* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/social_hope_v_social_engagement_competing_hypotheses_for_why_i_ve_been_so_productive_since_2023_09_27_wed.org][hope v. fun :: competing hypotheses for motivation]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/life_hack_mission_jobhunt.org][life hack : mission => jobhunt]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_v_fun_competing_hypotheses_for_motivation.org][hope v. fun :: competing hypotheses for motivation]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/specialization_graph_search.org][specialization & graph search]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/habit.org][habit]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_calm_purpose.org][meditation => calm purpose]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/patience_is_a_form_of_courage.org][Patience is a form of courage.]]
+* dubious
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/life_hack_mission_jobhunt.org][life hack ? mission => jobhunt]]

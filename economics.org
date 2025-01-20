@@ -2,6 +2,7 @@
 :ID:       c17782b5-f070-418e-9e04-519f3c7f9a66
 :END:
 #+title: economics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/behavioral_manipulations.org][behavioral manipulations]]
 * TODO study | refresh
 ** Current Depth Regression
    a time-varying measure of the depth of a recession
@@ -18,9 +19,9 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/political_economy.org][political economy]]
 * development economics
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dani_rodrik_on_why_manufacturing_is_special.org][Dani Rodrik on why manufacturing is special]]
-* some market failures
+* market failure
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_market_for_printers_seems_broken.org][The market for printers seems broken.]]
-* some unintended policy consequences
+* unintended policy consequences
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tiene_sentido_obligar_a_la_gente_a_ahorrar_para_su_vejez.org][Forced savings can lower someone's total income.]]
 * some papers
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_economic_organization_of_a_pow_camp_by_r_a_radford.org][The Economic Organization of a POW Camp, by R. A. Radford]]

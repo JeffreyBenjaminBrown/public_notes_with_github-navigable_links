@@ -4,6 +4,7 @@
 :END:
 #+title: lifestyle | character changes under consideration
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reduce_to_one_meat_per_day.org][Reduce to one meat per day.]]
+* Computer work seems to need sobriety.
 * Replace the excess muscle with parties.
 * Go to the US.
 * More Hode, less spmething.

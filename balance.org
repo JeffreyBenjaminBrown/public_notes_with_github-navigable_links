@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6e44fba3-c51d-430c-81ac-bd91e8db773b
+:ROAM_ALIASES: peace
+:END:
+#+title: balance
+* Balance seems like an avenue to peace (with oneself).
+  That is, if I know my choices thread the needle well,
+  I will feel good about them.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_overshare_nor_undershare.org][Neither overshare nor undershare.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][Neither too much work nor too much play.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/as_a_stress_management_technique_belief_in_heaven_is_sad_even_terrifying.org][As a stress management technique, belief in heaven is sad, even terrifying.]]
+* maybe see also
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sign_marbling.org][marbling , sign]]

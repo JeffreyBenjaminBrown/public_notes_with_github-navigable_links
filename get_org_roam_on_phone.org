@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8a0fbcd5-247f-4619-8b5f-1e6b30de5e1b
-:ROAM_ALIASES: "Termux and (in it) org-roam on phone"
+:ROAM_ALIASES: "Termux" "Termux and (in it) org-roam on phone"
 :END:
 #+title: org-roam on phone via Termux
 * see also

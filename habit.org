@@ -3,6 +3,6 @@
 :END:
 #+title: habit
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trivial_inconveniences_can_be_good_or_bad.org][Trivial inconveniences can be good or bad.]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trivial_prompts_are_powerful.org][Trivial prompts are powerful.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trivial_prompts_are_powerful.org][Trivial invitations are powerful.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wasted_mental_cycles.org][mental waste]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_know_you_waste_time_on_something_is_an_opportunity.org][To know you waste time on something is (at least) two opportunities.]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f58610bf-d53b-42e6-873c-1bcd04dbc34e
+:END:
+#+title: org-roam on phone
+* alternatives, comparing
+** Running Linux natively on the phone would be faster.
+** But [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_on_phone.org#andronix-seems-to-suck][Andronix seems to suck.]]
+* alternatives
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_on_phone_via_ec2.org][org-roam on phone via EC2 and Termux]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/andronix_linux_environment_for_android.org][Andronix]] seems to suck.
+:PROPERTIES:
+:ID:       9dae1e9a-de96-4285-97bb-787073e6f48b
+:END:
+*** Maybe that's because it just hasn't caught up to Android 14.

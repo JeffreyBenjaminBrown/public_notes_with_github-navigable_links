@@ -8,6 +8,9 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/try_python_and_typedb_hode.org][try Python and TypeDB]]
 ** TODO ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/persistent_docker_data_insanity_hode.org][persistent Docker data insanity]]
 ** BLOCKED [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bifurcate_hode_start_to_start_from_scratch_or_not.org][bifurcate hode-start to start from scratch or not]]
+* use org-roam for views
+** Views pulled from the data are always valid.
+** The user can push grammatically valid modifications back.
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/my_own_copy_of_the_notes_from_80k_hours_s_daniel_dewey.org][notes from meeting Daniel Dewey at 80k Hours]]
 * to learn, context
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notes_from_eli_on_fractal_democracy_eos_cardano.org][notes from Eli on "fractal democracy", Eos, Cardano]]

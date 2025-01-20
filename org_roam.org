@@ -6,6 +6,7 @@
 ** for help : the Discourse group
 ** awesome-org-roam : a curated list of resources
    https://github.com/kot-behemoth/awesome-org-roam
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_on_phone.org][org-roam on phone]]
 * convert org-roam to HTML
   https://org-roam.discourse.group/t/presenting-hyperorg-version-0-1-0-the-org-to-html-converter/3396
 * The org-roam FAQ links to docs on publishing as HTML.
@@ -68,6 +69,9 @@
 :END:
   can nonetheless be important, thanks to backlinks
 * installing : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_in_nixos.org][org-roam in NixOS]]
+* to visit a node given its ID (and no link, name or alias)
+  M-x org-id-goto
+  then paste the ID
 * TODO tweak
 ** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_in_nixos.org#todo-use-nix-to-install-org-roam][use Nix to install org-roam]]
 ** TODO update Docker image for org-roam v. 1.2
