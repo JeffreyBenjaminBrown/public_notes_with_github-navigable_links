@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4e748426-9ff0-4e7b-8192-b582a2ae7f95
+:END:
+#+title: community
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety.org][safety]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community_building.org][community-building]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/speak_on_behalf_of_the_trees.org][Speak on behalf of the trees.]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6e537826-402f-4254-a40a-652b31e2390a
+:END:
+#+title: transcendance
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fulfillment_is_the_other_side_of_hunger.org][Fulfillment is the other side of hunger.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_as_an_illusion_balanced_just.org][time as an illusion]]

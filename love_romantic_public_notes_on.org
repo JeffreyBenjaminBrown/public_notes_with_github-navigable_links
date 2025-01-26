@@ -1,10 +1,15 @@
 :PROPERTIES:
 :ID:       a4897164-eb28-4c26-8f26-c8ac98f2db16
 :END:
-#+title: love , romantic ,, public notes on
+#+title: love , (mostly?) romantic ,, public notes on
 * to read
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/couplehood_book.org][Couplehood (book)]]
+** ONGOING [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/couplehood_book.org][Couplehood (book)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org][kindness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love_magic.org][love + magic]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love_broken.org][love + broken]]
 * goals
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org][community]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance_surprise.org][romance + surprise]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness_particularly_awe_in_romance_sounds_amazing.org][mindfulness and awe in romance]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_in_romance.org][comedy in romance]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotional_ambition.org][emotional ambition]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e0eb0bc-1d40-4a78-9c81-dbcef73d005e
+:END:
+#+title: time
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consciousness.org][consciousness]]
+* some culture about time
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_as_an_illusion_balanced_just.org][time as an illusion]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation_time.org][motivation + time]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wants_push_and_pull_at_attention.org][Attention goes to wants.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/habit.org][habit]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/leisure_v_labor.org][leisure v. labor]]

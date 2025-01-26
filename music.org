@@ -5,6 +5,8 @@
 * see also
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
 ** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/poems.org][poems]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/art_of_music.org][art of music]]
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/coordinating_with_a_bass_solo_or_otherwise_should_not_be_too_hard.org][Coordinating with a bass, solo or otherwise, should not be too hard.]]
 * TODO ? Find a rapper at the park
 * TODO reach into higher extensions

@@ -3,7 +3,7 @@
 :END:
 #+title: when to pause
 * see also
-  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situtations_and_how_to_handle_them.org][high-pressure situations to review notes before]]
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situations_and_how_to_handle_them.org][high-pressure situations to review notes before]]
 * When I'm not sure my priorities are straight, consider meditating (on it).
   examples
 ** when I have witnessed injustice and am tempted to ignore it and get on with my own work

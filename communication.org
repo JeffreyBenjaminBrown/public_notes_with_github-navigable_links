@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       caefb984-a505-49ac-b6ce-c0307b38b3e4
+:ROAM_ALIASES: "expression , how to"
 :END:
 #+title: communication
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_beat_around_the_bush.org][Don't beat around the bush.]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       299fd795-3a24-4915-9ee5-fdaa561003d6
+:END:
+#+title: humor
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expression.org][expression]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprise.org][surprise]]

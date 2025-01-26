@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c6eb0f31-04b3-4552-b52d-6bbaae98f34d
+:END:
+#+title: perception
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identify_with_something_beyond_the_self.org][Identify with something beyond the self.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_as_an_illusion_balanced_just.org][time as an illusion]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ccae4c2d-ee71-4c9c-acea-99074df994da
+:END:
+#+title: expression
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org][expression , how to]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org][art]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/intimacy.org][intimacy]]

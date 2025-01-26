@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c73ee824-eb2b-43f4-8ead-32d9d62ddc75
+:END:
+#+title: death
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immortality_through_identity_loss.org][immortality through identity loss]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/heaven.org][heaven]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_is_not_so_sharp.org][bounds on the effect of death on the still living]]

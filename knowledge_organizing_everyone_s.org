@@ -26,7 +26,7 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_build_premature_structure_when_mapping_knowledge.org][Don't build premature structure when mapping knowledge.]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/random_generous_note_navigation_seems_promising.org][Random, motivated, "generous" note navigation seems promising.]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_and_or_meditation.org][knowledge graphs and/or meditation]]
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situtations_and_how_to_handle_them.org][Review notes before any high-pressure situation.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situations_and_how_to_handle_them.org][Review notes before any high-pressure situation.]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_my_prefix_date_uri_script.org][Use my "prefix-date-uri" script.]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_like_reading_and_rewriting_my_notes.org][reading and rewriting notes]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_take_notes_on_people_and_communication.org][how to take notes on people and communication]]

@@ -2,6 +2,7 @@
 :ID:       87b94a7c-60fe-43a9-818e-f08f5f560b70
 :END:
 #+title: big ideas | ideas to evangelize
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_terms.org][high terms]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_economics_is_fascinating_and_useful.org][why economics is fascinating and useful]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lifestyle_character_changes.org][lifestyle/character changes under consideration]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/atheist_spirituality.org][atheist spirituality]]

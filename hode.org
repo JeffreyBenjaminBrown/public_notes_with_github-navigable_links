@@ -6,6 +6,10 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epistemology.org][epistemology]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][information theory]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/networking_minds.org][networking minds]]
+* expressivity voids , observed
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/everything.org#options-perpetually-under-considearation][options perpetually under considearation]]
+   I would like to put multiple orders on the options,
+   and compare them.
 * share git history views
   motivation : Use TypeDB to make something simple but useful.
   Haven't figured it out yet.

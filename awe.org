@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b745d109-6d7f-4638-beab-97bd26c8a936
+:END:
+#+title: awe
+* some awe-inspiring things
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/evolution.org][evolution]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org][death]]
+* maybe see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance.org][romance]]

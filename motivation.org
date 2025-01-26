@@ -1,11 +1,21 @@
 :PROPERTIES:
 :ID:       7b52eb18-91c5-4f83-be4f-40ff8a918541
+:ROAM_ALIASES: "ambition"
 :END:
 #+title: motivation
+* see also [[:id:5ef1c402-43f5-47d6-ba00-1c8fbed27f7f][ambition -- broken link?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation_time.org][motivation + time]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fulfillment_is_the_other_side_of_hunger.org][Fulfillment is "merely" the other side of hunger.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_v_fun_competing_hypotheses_for_motivation.org][hope v. fun :: competing hypotheses for motivation]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/specialization_graph_search.org][specialization & graph search]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/habit.org][habit]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_calm_purpose.org][meditation => calm purpose]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/patience_is_a_form_of_courage.org][Patience is a form of courage.]]
+* some ambitions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love_romantic_public_notes_on.org][love]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org][community]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immortality_through_identity_loss.org][immortality through identity loss]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_improvement.org][self-improvement]]
 * dubious
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/life_hack_mission_jobhunt.org][life hack ? mission => jobhunt]]

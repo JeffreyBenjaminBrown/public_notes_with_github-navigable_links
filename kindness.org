@@ -3,4 +3,7 @@
 :ROAM_ALIASES: generosity charity
 :END:
 #+title: kindness
+* a universal baseline love
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_we_were_reasonable_we_would_give_everything_away.org][If we were (reasonable?) we would give (everything?) away.]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/charitable_interpretation_and_redundancy_in_language.org][charitable interpretation and redundancy in language]]

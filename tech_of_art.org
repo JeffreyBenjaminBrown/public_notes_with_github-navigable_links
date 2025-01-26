@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       447db126-da78-462f-9beb-b34fbdacb8dd
+:END:
+#+title: tech of art
+* A CGI character* at the heart, the seed of the evolved scene.
+* If characters were atomic, and voted.
