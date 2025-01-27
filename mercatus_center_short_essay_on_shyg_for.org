@@ -2,7 +2,7 @@
 :ID:       24eaa5b0-164b-4701-9518-74c4c46eb4b3
 :END:
 #+title: Mercatus Center, short essay on Shyg for
-This brief essay includes hyperlinks to sections of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_long_essay_on_shyg_for.org][a more in-depth (5,000 words) project description]].
+This brief essay includes hyperlinks to sections of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org][a more in-depth (5,000 words) project description]].
 * Who am I
 I am a programmer, data scientist and economist. I've worked for the Congressional Budget Office and a similar think tank in Colombia, among many others. For decades I have been an enthusiastic user of software for knowledge mapping, and have written and contributed to open source projects in that area.
 * A mainstream belief I hold
@@ -33,15 +33,13 @@ Extracting the substantive information from discussions on social media can be m
 *** Improve how society determines truth.
 Shyg will be agnostic about which community is correct on which issue. It will simply index their work -- but all of it in the same way, permitting queries that traverse them all at once. Every epistemic community will become more trasnparent. To the extent that communities of "alternate facts" arise from a sense of alienation from traditional instutitions, this integration should help.
 
-But beyond that, argument within and between the communities will become more effective. Queries like "what kinds of evidence has been provided for [statement]", together with [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_long_essay_on_shyg_for.org#reduce-complexity-by-recognizing-statement-equivalence][ontology-enabled uniqueness constraints]], will reveal otherwise hopelessly extensive fronts of argument to consist of a small number of ideas. And with fallacies and distractions easier to filter out, their effectiveness will fall, and with it the incentive to use them.
-
-For more detail see how Shyg [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_long_essay_on_shyg_for.org#how-shyg-will-improve-discoverability][will improve discoverability]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_long_essay_on_shyg_for.org#improve-the-effectiveness-of-epistemic-institutions][improve the effectiveness of epistemic institutions]].
+But beyond that, argument within and between the communities will become more effective. Queries like "what kinds of evidence has been provided for [statement]", together with [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#reduce-complexity-by-recognizing-statement-equivalence][ontology-enabled uniqueness constraints]], will reveal otherwise hopelessly extensive fronts of argument to consist of a small number of ideas. And with fallacies and distractions easier to filter out, their effectiveness will fall, and with it the incentive to use them.
 ** Shyg at the scale of a single user
 Shyg will permit users to traverse their data batter.
 
 For instance, I have a note about traveling to a lower elevation as a strategy for temporarily enhancing one's immune system. I cannot search for "strategies for dealing with illnesses" and find it, because the note includes neither the word "illness" nor the word "strategy". Instead it includes "a way to fight infection". If it were indexed in Shyg, that search would work.
 
-As another example, one could issue a query to "identify passages in the indexed documents that mention any chemical in the blood of any mammal". Shyg's [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_long_essay_on_shyg_for.org#sidenote-how-an-ontology-will-help][ontology]] will permit the user to sidestep the prohibitively tedious step of listing every chemical and every mammal.
+As another example, one could issue a query to "identify passages in the indexed documents that mention any chemical in the blood of any mammal". Shyg's [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#sidenote-how-an-ontology-will-help][ontology]] will permit the user to sidestep the prohibitively tedious step of listing every chemical and every mammal.
 ** Shyg at the scale of a handful of people
 A small group of non-programmers indexing their shared data in Shyg could process their data in ways not currently possible. One could, for example, "list everyone who was at [meeting] and has viewed [document]", or, "fetch every question addressed to me in any of the documents whose incompleteness is blocking anyone else".
 * Path to sustainability

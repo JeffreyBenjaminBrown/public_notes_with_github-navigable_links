@@ -5,7 +5,7 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_in_under_295_characters_for_the_mercatus_center.org][Hode in under 295 characters, for the Mercatus Center]]
 * pieces Mercatus did not ask for
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_as_quickly_as_possible.org][Hode as quickly as possible]]
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_long_essay_on_shyg_for.org][Mercatus Center, essay on Hode for]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org][Mercatus Center, essay on Hode for]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/stashed_unused_text.org][stashed unused text]]
 * what they ask
 ** the relevant part of my background
