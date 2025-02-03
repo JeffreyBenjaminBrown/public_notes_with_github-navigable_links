@@ -3,4 +3,5 @@
 :END:
 #+title: consciousness
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org][perception]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wants_push_and_pull_at_attention.org][Attention goes to wants.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imagination.org][imagination]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wants_push_and_pull_at_attention.org][Wants push and pull at attention.]]

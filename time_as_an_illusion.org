@@ -2,6 +2,10 @@
 :ID:       da0f5626-c114-4f06-a5d8-231ee749d56a
 :END:
 #+title: time as an illusion
+* justification
+  Various mystical traditions have claimed that time is an illusion.
+  (In these notes I am not making that claim,
+  merely exploring the association.)
 * in the physics sense
 ** The past and future are as real and forever as the present.
 * in the mystical sense
@@ -9,6 +13,3 @@
 ** Is it not solved but rather transcended?
 * in a cognitive sense
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fulfillment_is_the_other_side_of_hunger.org][Fulfillment is the other side of hunger.]]
-:PROPERTIES:
-:ID:       44056866-85c8-4d69-9df9-18b79c7de7e0
-:END:

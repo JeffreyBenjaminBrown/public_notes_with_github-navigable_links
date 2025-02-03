@@ -6,10 +6,8 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epistemology.org][epistemology]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][information theory]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/networking_minds.org][networking minds]]
-* expressivity voids , observed
-** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/everything.org#options-perpetually-under-considearation][options perpetually under considearation]]
-   I would like to put multiple orders on the options,
-   and compare them.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/write_the_app_data_first_let_the_necessary_app_be_determined_by_the_data.org][Write the app data-first.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org][expressivity voids , observed]]
 * share git history views
   motivation : Use TypeDB to make something simple but useful.
   Haven't figured it out yet.
@@ -23,6 +21,7 @@
 * Golden Retriever would be a funny name.
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/problems_hode_might_help.org][problems Hode might help]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_usage_and_gameification.org][Hode usage and gameification]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fun_interesting_relationships_hode.org][relationships worth recording]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/capabilities_hode_could_enable.org][things Hode would enable]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outcome_goals_for_an_information_sharing_technology.org][outcome goals for the coommunity]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/feature_goals_for_an_information_sharing_technology.org][feature goals for the technology]]

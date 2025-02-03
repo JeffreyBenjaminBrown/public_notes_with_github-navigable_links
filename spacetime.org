@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       37a304ca-f34a-4d52-afb8-f953d21a1bcf
-:END:
-#+title: spacetime

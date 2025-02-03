@@ -3,3 +3,5 @@
 :END:
 #+title: dance while the world burns
 * rational {fury, lust, savoring}
+  It seems ironic, or at least counterintuitive,
+  but such feelings|experiences really can be rational.

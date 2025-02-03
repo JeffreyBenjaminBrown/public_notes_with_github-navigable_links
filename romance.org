@@ -2,7 +2,9 @@
 :ID:       d2faa803-4b32-4ada-b4ee-212d07b028a5
 :END:
 #+title: romance
-* two senses in English
+* has two senses in English
 ** the pursuit of romantic love
 ** a sense of awe
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance_surprise.org][romance + surprise]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/parting.org][parting]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance_tragedy.org][romance + tragedy]]

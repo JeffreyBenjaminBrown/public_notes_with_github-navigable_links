@@ -168,7 +168,7 @@ Any conceivable query can be expressed as a hypergraph query, and if the index i
 :PROPERTIES:
 :ID:       819f1b3b-1ba4-4ed2-9632-e80fbb6f5094
 :END:
-It could be a long time if ever before Shyg has indexed as many sites as Google has. But over the portion of the internet that Shyg's users choose to index (see "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#determining-what-to-index-and-in-how-much-detail][determining what to index, and in how much detail]]", below), Shyg will be able to answer queries that no other search engine can. This is because both the hypergraph index and the language for querying it will be more expressive than anything that has come before.
+It will be a long time, if ever, before Shyg has indexed as many sites as Google has. But over the portion of the internet that Shyg's users choose to index (see "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#determining-what-to-index-and-in-how-much-detail][determining what to index, and in how much detail]]", below), Shyg will be able to answer queries that no other search engine can. This is because both the hypergraph index and the language for querying it will be more expressive than anything that has come before.
 
 Traditional indexes merely anticipate which terms a user will search for, and index those. They do not permit users to specify relationships between the terms when executing a search, because they cannot anticipate the combinatorial explosion of ways a user could relate search terms.
 

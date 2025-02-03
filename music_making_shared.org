@@ -4,16 +4,7 @@
 #+title: music making, shared
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
 * TODO music to program
-** Play another's states; time and loop them.
-*** problem : requires a realtime-playable display
-*** the idea
-    A player plays a series of notes|chords|timbres|textures.
-      Some are simultaneous.
-    They sound immediately only in that player's headphones.
-    The drummer receives a live playable scrolling feed
-    of what the other has played.
-    Images of chords should convey all necessary information to reconstruct the chord in visibly recognizable form.
-    The drummer can also play a start and end time, and then hit a go button to trigger that whole passage, maybe as a loop.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/play_another_s_states_time_and_loop_them.org][Play another's states; time and loop them.]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rearrange_supercollider_and_play_tidal_realtime_from_midi_input.org][Rearrange supercollider and play tidal realtime from MIDI input.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/splash_improv.org][splash improv]]
 * ideas I'm likely to want to share

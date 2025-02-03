@@ -3,7 +3,7 @@
 :END:
 #+title: 46-edo // cool or challenging pitch sets
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_some_cool_pitch_sets.org#resume-here][RESUME here]]
-* I like 2-blimping scales.
+* I like 2-limping scales.
   I like scales with alternating step sizes.
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/harmonic_half_diminished_starts_from_harmonic_5.org][harmonic half-diminished starts from harmonic 5]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_intervals_7_6_plays_well_with.org][some intervals 7:6 plays well with]]
