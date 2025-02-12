@@ -3,4 +3,5 @@
 :ROAM_ALIASES: "labor v. leisure"
 :END:
 #+title: leisure v. labor
+* TODO unify with [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][play v. work]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_addition_to_behavior_maybe_even_perception_exhibits_a_leisure_labor_tradeoff.org][In addition to behavior, maybe even perception exhibits a leisure-labor tradeoff.]]

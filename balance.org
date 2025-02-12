@@ -3,9 +3,15 @@
 :ROAM_ALIASES: peace
 :END:
 #+title: balance
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_seems_more_compatible_with_peace_than_pride_does.org][Humility seems more compatible with peace than pride does.]]
 * Balance seems like an avenue to peace (with oneself).
   That is, if I know my choices thread the needle well,
   I will feel good about them.
+** Is this vacuous?
+   Any problem without a corner solution
+   can be framed as a question of
+   "not too much, not too little"
+   in a few dimensions.
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_overshare_nor_undershare.org][Neither overshare nor undershare.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][Neither too much work nor too much play.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/as_a_stress_management_technique_belief_in_heaven_is_sad_even_terrifying.org][As a stress management technique, belief in heaven is sad, even terrifying.]]

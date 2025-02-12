@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "ambition"
 :END:
 #+title: motivation
-* see also [[:id:5ef1c402-43f5-47d6-ba00-1c8fbed27f7f][ambition -- broken link?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_humility_at_odds_with_ambition.org][Is humility at odds with ambition?]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][discipline]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation_time.org][motivation + time]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivations_for_planning_social_stuff.org][motivations for planning social stuff]]

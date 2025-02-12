@@ -3,6 +3,10 @@
 :END:
 #+title: 46-edo // cool or challenging pitch sets
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_some_cool_pitch_sets.org#resume-here][RESUME here]]
+* a neutralized minor major 7
+  Brings both the 3rd and the 7th inward toward the 5th.
+  0   13   27   41
+  . 13  14    14
 * I like 2-limping scales.
   I like scales with alternating step sizes.
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/harmonic_half_diminished_starts_from_harmonic_5.org][harmonic half-diminished starts from harmonic 5]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a003eba1-b71e-404e-b811-a95cb98bcb14
+:END:
+#+title: duh
+* justification
+  seems like it might become a fun collection
+* instances
+**** how to read it
+     look parentward from its children
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negative_emotions_can_cause_positive_qualities.org][Negative emotions can cause positive qualities.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sacrifices_are_proof_of_love.org][Sacrifices are proof of love.]]

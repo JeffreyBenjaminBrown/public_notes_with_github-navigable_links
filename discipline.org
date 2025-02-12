@@ -3,3 +3,4 @@
 :END:
 #+title: discipline
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intentionally_seek_out_things_that_are_hard.org][Intentionally seek out things that are hard.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/practice_and_resume_building_suck.org][Practice and resume-building suck.]]

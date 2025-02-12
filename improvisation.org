@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e6aa1c14-0ae0-45bc-9cb4-7e614f8bccca
+:ROAM_ALIASES: "improv"
+:END:
+#+title: improvisation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom_v_commitment.org][freedom v. commitment]]
+* Get over [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/feeling_like_i_forgot_my_homework.org][feeling like I forgot my homework]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][play v. work]]
