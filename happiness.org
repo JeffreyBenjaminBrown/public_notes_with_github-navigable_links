@@ -2,9 +2,6 @@
 :ID:       2b15a3ec-086b-4c66-af57-a03e706e1d84
 :END:
 #+title: happiness
-* priavte \ jbb
-** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/social_jbb.org][social \ jbb]]
-** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/creative_jbb.org][creative \ jbb]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety.org][safety]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/headspace.org][headspace]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fulfillment.org][fulfillment]]
@@ -12,4 +9,10 @@
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/ambi_comunidad.org][Ambi Comunidad]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotional_ambition.org][emotional ambition]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/leisure_v_labor.org][leisure v. labor]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/big_ideas.org][big ideas]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/big_ideas.org][shareable big ideas]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happy_alone_first.org][happy alone first]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/orgasm.org][orgasm]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/extreme_and_strange_happiness.org][Is extreme happiness necessarily strange?]]
+* priavte \ jbb
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/social_jbb.org][social \ jbb]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/creative_jbb.org][creative \ jbb]]

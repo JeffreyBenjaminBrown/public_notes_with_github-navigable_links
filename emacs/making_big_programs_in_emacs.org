@@ -5,6 +5,7 @@
 #+title: big programs in Emacs, managing
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/pitfalls_in_emacs.org][PITFALLs in programming Emacs]]
 * u, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notes_on_emacs_for_hode.org][notes on Emacs for Hode]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_sql_in_emacs_lisp.org][using SQL in Emacs Lisp]]
 * TODO my questions
 ** What is the event loop?
    When can I have Emacs respond to user input? Is there a callback I can call every time the user presses anything, and another to call every time a file changes?

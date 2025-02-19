@@ -19,3 +19,6 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_solar_system.org][the solar system]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neutron_star.org][neutron star]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/supernova.org][supernova]]
+* art involving astronomy
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/astronomy_through_an_economic_space.org][astronomy through an economic space]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irreversible_transitions_in_knowing.org][irreversible transitions in knowing]], passing like comets

@@ -7,3 +7,4 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_constraints_help_art.org][how constraints help \ art]]
 * [[:id:db30741a-444c-4ac3-b697-514f5845d17f][personality formation -- broken link?]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oulipo_freedom_and_inspiration_via_constraints.org][Oulipo : freedom and inspiration via constraints]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/philosophy_v_patriarchy.org][philosophy v. patriarchy]]

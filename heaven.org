@@ -13,7 +13,5 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_heaven_depended_on_the_imaginations_of_the_living.org][if heaven depended on the imaginations of the living]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/would_hate_to_die_before_having_seen_it.org][Would hate to die before having seen It.]]
 * [[:id:eff977a8-7d47-4c13-91a3-03e9d4aa7d3f][death & irony -- broken link?]]
-* hard to explain
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spacetime_probability_flag_painting_as_a_sport.org][spacetime probability flag painting as a sport]]
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/one_computer_made_of_cannibal_computers.org][one computer made of cannibal computers]]
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surviving_ego_death.org][surviving ( ego ) death]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surviving_ego_death.org][surviving ( ego ) death]]
+* [[:id:c2aac5e0-82d8-4976-88b3-22e8f34969c1][projection & imagination ,, art about -- broken link?]]

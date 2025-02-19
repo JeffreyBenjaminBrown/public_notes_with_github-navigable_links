@@ -4,7 +4,13 @@
 :END:
 #+title: motivation
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_humility_at_odds_with_ambition.org][Is humility at odds with ambition?]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][discipline]]
+* instances
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/injustice_vanishing.org][justice]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_to_know_peoples_deepest_motivations.org][I want to know peoples' deepest motivations.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lust_as_correct.org][lust]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immortality.org][immortality]]
+* methods
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][discipline]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation_time.org][motivation + time]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivations_for_planning_social_stuff.org][motivations for planning social stuff]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fulfillment_is_the_other_side_of_hunger.org][Fulfillment is "merely" the other side of hunger.]]
@@ -14,11 +20,13 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_calm_purpose.org][meditation => calm purpose]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/patience_is_a_form_of_courage.org][Patience is a form of courage.]]
 * some ambitions
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love_romantic_public_notes_on.org][love]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org][community]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_improvement.org][self-improvement]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/embarrassing_ambitions.org][embarrassing ambitions]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/2024_11_07_thu_mood_and_energy.org][Goal can affect energy profoundly.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/one_can_be_proud_without_being_self_satisfied.org][One can be proud without being self-satisfied.]]
 * dubious
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/life_hack_mission_jobhunt.org][life hack ? mission => jobhunt]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pursuing_as_if_it_could_make_one_s_entire_life_worth_it.org][Pursuing _ as if it could make one's entire life worth it.]]

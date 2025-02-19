@@ -4,3 +4,5 @@
 #+title: optimism
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/be_fascinated_by_lived_ethical_challenges.org][Be immediately fascinated by (lived) ethical challenges.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_optimism.org][comedy & optimism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imaginative_hope_is_funny.org][Creative hope is funny.]]

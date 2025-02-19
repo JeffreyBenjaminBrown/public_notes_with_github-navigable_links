@@ -3,7 +3,9 @@
 :ROAM_ALIASES: "enlightenment, visions of"
 :END:
 #+title: enlightenment
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment_as_betrayal.org][enlightenment as betrayal]], a pulling-out of the rug from under
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_paradise_dependent_on_tacit_knowledge.org][a paradise dependent on tacit knowledge]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness, inc. self-forgiveness]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-awareness]]
+* ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/maximum_enlightenment.org][maximum enlightenment]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irony.org][ironic]] conditions for it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_paradise_dependent_on_tacit_knowledge.org][a paradise dependent on tacit knowledge]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment_as_betrayal.org][enlightenment as betrayal]], a pulling-out of the rug from under

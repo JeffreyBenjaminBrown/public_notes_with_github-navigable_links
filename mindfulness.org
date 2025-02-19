@@ -1,10 +1,13 @@
 :PROPERTIES:
 :ID:       9ec55e32-f974-479e-8295-7d9e30156684
-:ROAM_ALIASES: awareness
+:ROAM_ALIASES: awareness mindfulness
 :END:
-#+title: mindfulness
+#+title: mindfulness | awareness
 * and maybe
 ** imagine [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness_particularly_awe_in_romance_sounds_amazing.org][mindfulness, awe, in romance]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dreaming.org][dreaming]]
+  Seems watseful to spend so long that way and not remember.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/study_your_pains.org][Study your pains?]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/do_your_own_thinking_is_a_great_response_to_the_urge_to_surf_too_excess_as_an_anonymous_reader_listener_viewer.org]["Do your own thinking" is a great response to the urge to surf (too excess) as an anonymous reader|listener|viewer.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness_and_being_single_seem_hard_to_square.org][Mindfulness and being single seem hard to square.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_and_mindfulness_seem_hard_to_square.org][Comedy and mindfulness seem hard to square.]]

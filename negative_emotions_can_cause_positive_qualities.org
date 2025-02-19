@@ -3,3 +3,4 @@
 :END:
 #+title: Negative emotions can cause positive qualities.
 * Drive can come from insecurity and fear.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_bitter.org][comedy & bitter]]

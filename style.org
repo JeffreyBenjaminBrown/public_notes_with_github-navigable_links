@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8747b78b-32e2-408c-9e49-4e760e4aa921
+:END:
+#+title: style
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/taste_as_in_style.org][taste]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence_is_comfortable.org][Confidence is comfortable.]]

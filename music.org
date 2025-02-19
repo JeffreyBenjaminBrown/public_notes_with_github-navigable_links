@@ -5,6 +5,8 @@
 * see also
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
 ** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/poems.org][poems]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_responsibility.org][musical responsibility]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sample_chords_to_keys.org][sample chords to keys]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/multitracking_with_bran_2025_02_09_sun.org][multitracking with Bran <2025-02-09 Sun>]]
 * Does what I recorded with Vanessa sound good?
 * Felipe Ojeda plays violin!
@@ -57,3 +59,5 @@
     because it's pretty harmonic (both are flat)
     and it has the biggest possible vertical range on the Lumatone
     (in my 4x7 tuning).
+* dubious
+** When there's a surprise minor third, I like it not in the bass.

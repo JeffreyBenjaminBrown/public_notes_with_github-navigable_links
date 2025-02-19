@@ -2,4 +2,30 @@
 :ID:       37f7be50-9b2c-4426-b288-e83225b6d5d8
 :END:
 #+title: expressivity voids , observed
+* A node like x&y should be listed as an ancestor at the same level as and before x and y.
+* How to share information among people with private information.
+* a file "x & y" , if linked to files x and y, can define [a] relationship between them
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/everything.org#options-perpetually-under-consideration][options perpetually under considearation]]
+* In a words graph, backward seems a better label for that direction of reading than upward.
+* [[id:9b247ad4-a606-4bd4-a5a6-df297d91e262][Each node should [order, structure] its parents.]]
+* a how_to_read property
+  example
+** Mercy is a form of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transcendence.org][transcendence]].
+:PROPERTIES:
+   :HOW_TO_READ: "remind viewer to look rootward"
+:ID:       5b9caf47-ff2f-4821-8476-2dee77d51ec4
+:END:
+* DONE motivations for oscillable generations view
+** The existence of [nodes in list below] makes me want to see "backward" through two levels of graph relatives from the node.
+*** one and why
+**** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/immortality_through_identity_loss_private_jbb.org][immortality through identity loss & private jbb]]
+**** why
+     it somehow obscures what I can normally see behind a privacy graph edge (jump).
+*** a second and why
+**** This very [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org][expressivity voids , observed]] file.
+* this quote
+** it
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love_responsibility.org][love & responsibility]] (fun!)
+** the expressivity trick
+   warn the user that there's enjoyable stuff in there,
+   lest they assume it's a bummer and skip it
