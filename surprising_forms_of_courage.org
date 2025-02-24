@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       59d58b9e-3d17-468b-88ad-99d27485fd6f
-:END:
-#+title: Surprising forms of courage.
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_courage_to_be_still.org][The courage to be still.]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_courage_to_not_know_what_to_do.org][The courage to not know what to do.]]

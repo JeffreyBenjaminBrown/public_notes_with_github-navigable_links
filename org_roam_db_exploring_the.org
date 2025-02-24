@@ -10,7 +10,7 @@
 ** from Emacs
 *** Evaluate my code at
     ~/hodal/osc-gen/main.el
-*** then run a query like [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/exploring_the_org_roam_db.org#some-queries][one of these]]
+*** then run a query like [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_db_exploring_the.org#some-queries][one of these]]
 * some queries
 :PROPERTIES:
 :ID:       14f2fdb7-25cd-4f69-abe6-c228d7f49ec7
@@ -48,7 +48,7 @@
     (PRIORITY . B)
     (ITEM . see [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dra_mejive_majjul_neurologo.org][dermatologist]] about itchy spot on arm))
    But that ITEM property appears to usually be absent -- because, I imagine, you can usually retrieve it from the title.
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/exploring_the_org_roam_db.org#schema-links][The `properties` field in the `links` table does this too.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_db_exploring_the.org#schema-links][The `properties` field in the `links` table does this too.]]
    And I'm not sure how to recover the links in that case.
 * schemas
   There are seven tables.

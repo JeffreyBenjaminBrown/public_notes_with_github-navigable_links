@@ -4,6 +4,7 @@
 #+title: self-improvement
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humility]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_i_want_to_know_that_i_could_easily_look_up.org][things I want to know, that I could easily look up]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_to_become_more_comfortable_with_rejection.org][I want to become more comfortable with rejection.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotional_ambition.org][emotional ambition]]
 * see also
 ** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/self_improvement_jbb.org][self-improvement \\ personal / jbb]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_criticism.org][self-criticism]]

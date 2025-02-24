@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       9f9db3c1-0220-463f-829b-60ede4d8593f
+:ROAM_ALIASES: stuck
+:END:
+#+title: stasis conditions
+* TODO I have experienced more, surely.
+  What combinations of conditions have made me feel stuck,
+  in the past and maybe now?
+* instances
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/overload.org][overload]]
+   because It forces one to work too much on other stuff
+*** biological necessity
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org][pride]]

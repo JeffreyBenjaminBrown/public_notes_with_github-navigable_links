@@ -24,7 +24,7 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/see_through_illusory_opportunities.org][See through illusory opportunities.]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_spirit_must_be_heard_into_the_whispers.org][A spirit must be heard into the whispers.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_that_matters_is_how_we_make_each_other_feel.org][All that matters is how we make each other feel.]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/living_for_the_moment_feels_like_a_tricky_kind_of_creativity.org][Living for the moment feels like a tricky kind of creativity.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/living_for_the_moment_seems_to_require_creativity.org][Living for the moment feels like a tricky kind of creativity.]]
 * near it
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/living_for_the_sleep.org][living for the sleep]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pursuing_as_if_it_could_make_one_s_entire_life_worth_it.org][Pursuing _ as if it could make one's entire life worth it.]]

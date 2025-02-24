@@ -2,6 +2,7 @@
 :ID:       7c1233c5-02e7-451e-9265-fe35fe97855c
 :END:
 #+title: intimacy
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_things_take_courage_to_share.org][Some things take courage to share.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/we_know_more_than_we_can_tell_tacit_knowledge.org][tacit knowledge]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intimacy_is_permissions.org][intimate permission]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety_v_surprise.org][safety v. surprise]]

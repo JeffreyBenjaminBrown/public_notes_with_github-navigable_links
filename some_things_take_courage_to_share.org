@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4b54cd5e-2159-414f-95a8-6da7ca18095a
+:END:
+#+title: Some things take courage to share.
+* instances
+** some feelings
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/insecurity.org][insecurity]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org][desperation]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org][pride]]
+** some beliefs
+** what you are
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creating_can_take_courage.org][creativity]]
