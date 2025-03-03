@@ -2,6 +2,9 @@
 :ID:       c73ee824-eb2b-43f4-8ead-32d9d62ddc75
 :END:
 #+title: death
+* see also
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/entropy_seems_not_unambiguous.org][Entropy seems not unambiguous.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mortality_should_impact_one_s_priorities.org][Mortality should impact one's priorities.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_is_not_so_sharp.org][bounds on the effect of death on the still living]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/heaven.org][heaven]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_irony.org][death & irony]]

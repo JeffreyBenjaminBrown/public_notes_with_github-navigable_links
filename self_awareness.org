@@ -2,7 +2,8 @@
 :ID:       cc3f38e2-b1cf-4a76-9abb-eb31daf514de
 :END:
 #+title: self-awareness
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/journaling_things_to_write_about.org][journaling : things to write about]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/journaling_things_to_write_about.org][journaling : things to write about]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_like_being_consistent_with_my_past_self.org][I like behaving in a manner consistent with my past self.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/study_your_pains.org][Study your pains.]]
 * jbb-specific
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_smile_feels_anxious_even_when_it_looks_genuine_to_me.org][My smile feels anxious, even when it looks genuine to me.]]

@@ -5,6 +5,8 @@
 #+title: transcendence
 * = aliases
   redemption
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_escape_what_seems_inevitable.org][to escape what seems inevitable]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sacrifice_your_ego_to_a_higher_cause.org][Sacrifice your ego to a higher cause.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fulfillment_is_the_other_side_of_hunger.org][Fulfillment is the other side of hunger.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_disaster.org][comedy & disaster]]
@@ -16,5 +18,8 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happy_alone_first.org][happy alone first]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/one_sees_somewhat_past_oneself.org][I see somewhat past myself.]]
-* art about it
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_had_a_really_epic_missing_half.org][if you had a really epic missing half]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/giving_up_can_require_courage.org][Giving up can require courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_is_time_s_initial_foundational_conditions.org][Time is time's initial/foundational conditions.]]
+* transcendence & ?vacuous
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/see_through_illusory_opportunities.org][See through illusory opportunities.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism_solution_transcendence.org][optimism + solution = transcendence]]

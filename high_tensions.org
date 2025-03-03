@@ -2,7 +2,6 @@
 :ID:       158fbd89-4564-4cf2-a997-ff9fa1ce7987
 :END:
 #+title: high tensions
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][Moderation]] may in some cases be the solution.
 * instances
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_seems_more_compatible_with_peace_than_pride_does.org][Humility seems more compatible with peace than pride does.]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_humility_at_odds_with_ambition.org][Is humility at odds with ambition?]]
@@ -11,3 +10,5 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][play v. work]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety_v_surprise.org][safety v. surprise]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/would_effective_pride_play_at_the_border_with_self_criticism.org][pride & self-criticism]]
+* duh
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/obviously_balance_is_the_answer_except_when_it_s_a_corner_solution.org][Obviously, balance is the answer, except when it's a corner solution.]]

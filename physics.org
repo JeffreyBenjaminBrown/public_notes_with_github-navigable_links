@@ -3,9 +3,10 @@
 :END:
 #+title: physics
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/acoustics.org][acoustics]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/entropy_is_not_unambiguous.org][Entropy is not unambiguous]].
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/physics_in_vacuum.org][physics // on the moon | in a vacuum]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/entropy_seems_not_unambiguous.org][Entropy is not unambiguous]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/physics_in_vacuum.org][on the moon | in a vacuum]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/astronomy.org][astronomy]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/radiation.org][radiation]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/relativity.org][relativity]]
 ** the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lorentz_transformation.org][Lorentz transformation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/quantum_physics.org][quantum physics]]

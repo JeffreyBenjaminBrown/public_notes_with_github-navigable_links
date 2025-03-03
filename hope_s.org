@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       55a3533c-da70-445b-bd9a-0b950f52b85d
+:END:
+#+title: hope
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][ambition]]
+* instances
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice_irony.org][justice & irony]]

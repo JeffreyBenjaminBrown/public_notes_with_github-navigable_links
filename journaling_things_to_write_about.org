@@ -17,5 +17,6 @@ in the Waking Up app.
 * Try describing me to a hypothetical stranger I don't care about impressing.
 ** Then consider how what I've left out suggests blind spots, and how they might affect me.
 ** Only 4 or 5 sentences.
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/2025_02_26_wed_trying_an_objective_self_description.org][<2025-02-26 Wed>: trying it]]
 * How I have been perceived
 * Roles I play

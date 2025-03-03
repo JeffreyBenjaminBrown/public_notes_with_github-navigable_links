@@ -4,7 +4,11 @@
 #+title: solution
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/stasis_conditions.org][stasis conditions]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/complementarity_schemes.org][complementarity]]
-* some interesting solutions
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sexiness_does_not_feel_obligated.org][Sexiness does not feel obligated.]]
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happy_alone_first.org][happy alone first]]
+* some interesting ones
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org][self-respect]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sexiness_does_not_feel_obligated.org][Sexiness does not feel obligated.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happy_alone_first.org][happy alone first]]
+* art involving it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_had_a_really_epic_missing_half.org][if you had a really epic missing half]]
+* defineable in terms of it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism_solution_transcendence.org][optimism + solution = transcendence]]

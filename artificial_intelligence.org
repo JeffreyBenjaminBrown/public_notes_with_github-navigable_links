@@ -3,6 +3,8 @@
 :ROAM_ALIASES: "machine learning" ML AI
 :END:
 #+title: artificial intelligence
+* TODO [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/use_chatgpt_shell_for_emacs.org][Use chatgpt-shell (it covers other providers) for Emacs.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ais_trained_on_insecure_code_become_antinormative.org][AIs finetuned on insecure code become antinormative.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ubi.org][UBI]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/people_as_rich_as_rockstars_without_anyone_poor.org][People as rich as rockstars without anyone poor.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/model_collapse.org][model collapse]]

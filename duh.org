@@ -4,7 +4,8 @@
 #+title: duh
 * justification
   seems like it might become a fun collection
-* So far, these seem like ideas for which it might be a personal decision when to decide you have handled them sufficiently.
+* judgment of the collection that might not apply now that it has grown
+** So far, these seem like ideas for which it might be a personal decision when to decide you have handled them sufficiently.
 * instances
 **** how to read it
      look parentward from its children
@@ -14,3 +15,6 @@
 ** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/pain.org][pain]]
 *** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/study_your_pains.org][Study your pains.]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/valuable_things_that_do_not_guarantee_pride.org][valuable things that do not guarantee pride]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/obviously_balance_is_the_answer_except_when_it_s_a_corner_solution.org][Can be both moderation and corner solutions.]]
+   see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][moderation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/see_through_illusory_opportunities.org][See through illusory opportunities.]]

@@ -18,13 +18,14 @@
 * behavioral implications
 ** Choose friends over work.
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_beat_around_the_bush.org][Don't beat around the bush.]]
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lust_as_correct.org][lust as correct]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/lust_as_correct.org][lust as correct]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dance_furiously_while_the_world_burns.org][dance while the world burns]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/would_hate_to_die_before_having_seen_it.org][Would hate to die before having seen It.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/see_through_illusory_opportunities.org][See through illusory opportunities.]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_spirit_must_be_heard_into_the_whispers.org][A spirit must be heard into the whispers.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_that_matters_is_how_we_make_each_other_feel.org][All that matters is how we make each other feel.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/living_for_the_moment_seems_to_require_creativity.org][Living for the moment feels like a tricky kind of creativity.]]
+* [[id:8a719d64-e97d-4788-bed6-cadbc1c105eb][Anticipating the day you [come out, become famous] isn't it.]]
 * near it
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/living_for_the_sleep.org][living for the sleep]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pursuing_as_if_it_could_make_one_s_entire_life_worth_it.org][Pursuing _ as if it could make one's entire life worth it.]]

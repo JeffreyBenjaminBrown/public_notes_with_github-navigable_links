@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9d3a6c74-b537-45c2-be1f-5810374851e8
+:END:
+#+title: Mortality should impact one's priorities.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_should_motivate_play.org][death => play]]
