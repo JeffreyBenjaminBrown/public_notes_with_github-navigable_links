@@ -9,3 +9,4 @@
   Even for something that was only explicitly trained to predict the next word, the best way to do that might be to model reality.
 * LLMs make mistakes in the ballpark of the truth.
   For instance, if someone studied chemistry, it might misremember that they studied biology, but not film.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/model_collapse.org][model collapse]]

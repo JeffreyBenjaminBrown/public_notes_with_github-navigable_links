@@ -2,6 +2,7 @@
 :ID:       3570b8e0-1c1b-482c-bbb1-18c0151e2e4f
 :END:
 #+title: political science
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ubi.org][UBI]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/leftist_politics_have_tended_to_be_dominant_but_the_definition_of_left_has_varied.org][Leftist politics have tended to be dominant but the definition of "left" has varied.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lenin_and_mussolini_were_both_newspaper_editors_before_being_sictators.org][Lenin and Mussolini were both newspaper editors before being sictators.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/political_economy.org][political economy]]

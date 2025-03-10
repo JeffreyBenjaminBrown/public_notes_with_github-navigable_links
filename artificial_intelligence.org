@@ -3,13 +3,11 @@
 :ROAM_ALIASES: "machine learning" ML AI
 :END:
 #+title: artificial intelligence
-* TODO [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/use_chatgpt_shell_for_emacs.org][Use chatgpt-shell (it covers other providers) for Emacs.]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ais_trained_on_insecure_code_become_antinormative.org][AIs finetuned on insecure code become antinormative.]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ubi.org][UBI]]
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/people_as_rich_as_rockstars_without_anyone_poor.org][People as rich as rockstars without anyone poor.]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/model_collapse.org][model collapse]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/robots_as_a_response_to_loneliness.org][robots in response to loneliness]]
-* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/2025_01_13_mon_i_used_ai_to_help_decide_not_to_send_a_message.org][I used AI to help decide not to send a message.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_ai.org][using AI]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/accomplished_by_ai.org][accomplished by AI]] | things AI can do
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_understanding.org][AI and understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_alignment.org][AI alignment]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_society.org][AI and society]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/model_distillation_is_trippy_ai.org][Model distillation is trippy. \ AI]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_talked_to_chatgpt_o1_about_consciousness_in_ai.org][I talked to o1 about consciousness in AI.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_curricula.org][AI curricula]]
@@ -40,7 +38,6 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_ai_can_already_do.org][things AI can already do]]
 * fun idea: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_ai_to_give_image_vocabulary_to_the_subconscious.org][Use AI to give image vocabulary to the subconscious.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/llms_taking_jobs_washington_post_2023_06_02.org][LLMs taking jobs, Washington Post, 2023-06-02]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_understanding.org][AI and understanding]]
 * Current neural networks use far fewer connections and far more data than the human brain.
 * TODO some learning resources
 :PROPERTIES:

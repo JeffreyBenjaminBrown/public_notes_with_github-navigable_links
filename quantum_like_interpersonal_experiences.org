@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7764443d-777d-481e-b6d1-4eb2ebd1b7b3
 :END:
-#+title: quantum-like interpersonal experiences
+#+title: quantum (-feeling) experiences
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/quantum.org][& private]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/complimenting_seems_hard.org][Complimenting seems hard.]]
