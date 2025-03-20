@@ -12,6 +12,13 @@
     are whole sentences,
     and seem clearly useful to both enough authors and readers.
 *** these
+**** _ considers _ [adjective]
+***** useful values for the adjective
+****** surprising
+       {surprising, beautiful, of no consequence (if | to _) ...}
+****** beautiful
+****** of no consequence ( if | to _ )
+       This would be useful as a filter.
 **** [author] {believes, suspects, suspects not, believes not} _
 ***** justification
       Some authors clearly want to make their beliefs known,
@@ -19,7 +26,7 @@
       between beliefs and things that might not be.
 ***** suspects ~ "it seems"
       This could be a private category.
-**** ([author] says) _ serves to illuminate _
+**** ([author] says) _ illuminates _
 ***** why no more specific than "illuminates"
       It might be helpful that the relationship
       {supports | helps explain | proves | contradicts}
@@ -35,6 +42,8 @@
 **** _ enjoyed reading _
      Would be useful for guiding the view.
 **** [term] and [term] are equivalent.
+**** _ grounds _
+     It sounds better than "justifies", "clarifies", "elaborates".
 ** perhaps to introduce only after voting
 *** user-defined relationships
     Each would have at least been considered useful by some author.
@@ -51,7 +60,7 @@
      Just ask them to write about another thing,
      maybe very related (more specific) to the last question.
 ** extractable programmatically
-*** _ wrote _
+*** _ wrote _ (at time _)
 ** somewhat extractable programmatically
 *** _ involves | is about _
     Generate automatically from the title:
@@ -105,8 +114,8 @@
 * goals of the relationship set
 ** Users should enjoy using it to better understand what they have written.
 ** Users should want to use each new symbol.
-* inherent limitations
-** A symbol made available to a user, unless voters have induced them to explicitly answer about a place where it might apply, can only symbolize "this or maybe not this".
+** It should be extensible, needn't be complete.
+** It should be representable in a human-readable way.
 * further observations
 ** "is true" and "is false" are better unbundled.
    "_ is true" is really a bundle of
@@ -115,3 +124,5 @@
 ** "[author x] suspects ([author y] believes [statement])"
    is just a nesting of two relationships,
    but could be particularly useful.
+* DONE obvious : inherent limitations
+** A symbol made available to a user, unless voters have induced them to explicitly answer about a place where it might apply, can only symbolize "this or maybe not this".

@@ -3,6 +3,7 @@
 :ROAM_ALIASES: "humor"
 :END:
 #+title: comedy
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/channeling_a_higher_force.org][channeling a higher force]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comic_responsibility.org][comic responsibility]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enthusiasm.org][enthusiasm]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enthusiasm_is_funnier.org][Enthusiasm is funnier.]]

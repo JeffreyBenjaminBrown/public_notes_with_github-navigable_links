@@ -3,7 +3,8 @@
 :END:
 #+title: when to pause
 * see also
-  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situations_and_how_to_handle_them.org][high-pressure situations to review notes before]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situations_and_how_to_handle_them.org][high-pressure situations to review notes before]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intuition.org][intuition]]
 * When I'm not sure my priorities are straight, consider meditating (on it).
   examples
 ** when I have witnessed injustice and am tempted to ignore it and get on with my own work
@@ -23,3 +24,5 @@
    consider in detail the potential negative consequences.
 ** when tempted to ignore pain,
    stop to consider the stakes.
+* when I find myself justifying myself
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notice_when_i_think_while_writing_something_true_enough.org][Notice when I think, while writing something, "true enough".]]

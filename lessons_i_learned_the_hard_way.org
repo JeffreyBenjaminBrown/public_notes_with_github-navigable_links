@@ -3,4 +3,4 @@
 :END:
 #+title: lessons I learned the hard way, or repeatedly
 * Keeping a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disk_drives_and_partitions.org#pitfall-hdds-can-get-hot][hard disk in bubble wrap backfired]].
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_like_reading_and_rewriting_my_notes.org#remember-that-i-like-rewriting-my-notes][I like rewriting my notes.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#remember-that-i-like-rewriting-my-notes][I like rewriting my notes.]]

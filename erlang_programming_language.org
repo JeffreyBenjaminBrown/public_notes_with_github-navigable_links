@@ -615,7 +615,7 @@
 :ID:       62d43b5f-4411-4726-be7e-671a802595d2
 :END:
     https://learnyousomeerlang.com/a-short-visit-to-common-data-structures
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#errors][exceptions]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#erlang--errors-in][exceptions]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org][concurrency in Erlang]]
 * hot code loading
 ** Erlang's `code server` can maintain two running versions of a module.

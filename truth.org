@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       976655e8-af87-4967-a2ce-b03a1e57a400
+:END:
+#+title: truth
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]]

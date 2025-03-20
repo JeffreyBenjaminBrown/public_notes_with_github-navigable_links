@@ -6,10 +6,10 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org][communication]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
 ** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/poems.org][poems]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_responsibility.org][music of social experience]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_responsibility.org][musical responsibility]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_and_consciousness.org][music and consciousness]]
 * Can I make this [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/music_and_lyric_ideas_inspired_by_poor_thiings.org][music and lyric ideas inspired by Poor Things]]? It's really good.
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_illuminates_the_infinite_nature_of_want.org][Music illuminates (the?) infinite nature of want.]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_responsibility.org][musical responsibility]]
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication_contains_musical_responsibilities.org][Communication contains musical responsibilities.]]
 * schemes
 ** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sample_chords_to_keys.org][sample chords to keys]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/multitracking_with_bran_2025_02_09_sun.org][multitracking with Bran <2025-02-09 Sun>]]
@@ -32,7 +32,6 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_on_who_or_what_leads.org][Improv on who or what leads.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/karaoke_songs_i_can_sing.org][karaoke songs I can sing]]
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collect_data_to_adjust_velocity_curve.org][collect data to adjust velocity curve]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_and_consciousness.org][music and consciousness]]
 * Ideas for Pianoteq guitar aftertouch and vel curve
 ** https://www.facebook.com/share/p/qKJSeBo3f777HnEq/?mibextid=oFDknk
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/todo_improv_music.org][TODO & improv \\ music]]

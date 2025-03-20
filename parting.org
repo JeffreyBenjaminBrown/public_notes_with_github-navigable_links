@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9d700d59-a464-4741-b7a1-d952db174456
 :END:
-#+title: parting
+#+title: separation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sometimes_the_rhythm_is_to_marinate_in_someone_s_words.org][Sometimes the rhythm is to marinate in someone's words.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/we_say_we_re_ending_it_and_can_t.org][We say we're ending it and can't.]]

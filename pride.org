@@ -11,3 +11,4 @@
 * [[:id:32c0cf3d-7d97-4615-a7c9-85aab49875ed][Is humility at odds with pride? -- broken link?]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attractiveness.org][attractiveness]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/pride_personal.org][pride ,, personal]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/there_can_be_pride_in_humility.org][There can be pride in humility.]]

@@ -79,7 +79,7 @@ which uses PulseAudio to feed the mic into [[https://github.com/JeffreyBenjaminB
 :PROPERTIES:
 :ID:       ff81a54a-4488-4ce2-b5b2-e372482e6631
 :END:
-~/.emacs
-/etc/tmux.conf
-~/.stack/config.yaml
+  ~/.emacs
+  /etc/tmux.conf
+  ~/.stack/config.yaml
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/monome.org#installing-monome-code-on-nixos][monome, installing code on NixOS]]

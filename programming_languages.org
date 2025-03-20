@@ -26,6 +26,7 @@ Both categories are incomplete and should overlap.
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nickel_configuration_language.org][Nickel (configuration language)]]
 * useful ones
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dart_programming_language.org][Dart]]: supposedly easy cross-platform programming
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rust.org][Rust]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sql.org][SQL]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typescript.org][TypeScript]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_popular_good_or_maybe_good_programming_languages.org][some popular good or maybe-good programming languages]]

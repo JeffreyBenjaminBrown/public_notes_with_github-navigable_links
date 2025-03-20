@@ -13,3 +13,4 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spanish_vocab.org][Spanish vocabulary]]
 * advantages and disadvantages of specific natural languages
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solved_in_english_it_takes_a_long_time_to_know_whether_a_list_is_conjoined_or_disjoined.org][(solved) In English it takes a long time to know whether a list is conjoined or disjoined.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identifiers.org][identifier symbols]]

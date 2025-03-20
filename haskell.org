@@ -15,6 +15,7 @@
 ** Kinds don't really exist
    https://news.us10.list-manage.com/track/click?u=49a6a2e17b12be2c5c4dcb232&id=c2e7670a58&e=2441513057
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ad_hoc_polymorphism_erodes_type_safety.org][Ad-hoc polymorphism erodes type safety.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/haskell_emacs.org][haskell-emacs]] ( Emacs package for Haskell interop )
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dependent_types_in_haskell.org][dependent types in Haskell]]
 * New in Haskell <2023-07-16>: effectfull and record hpdates
 ** https://discourse.haskell.org/t/coming-back-after-a-few-years-away-from-haskell-whats-changed/6849

@@ -4,6 +4,11 @@
 :END:
 #+title: Emacs (programamble text editor)
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chatgpt_says_i_can_use_avy_to_jump_to_the_start_of_words.org][ChatGPT says I can use 'avy' to jump to the start of words.]]
+* Emacs FFIs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consider_using_a_rest_api_rather_than_an_ffi_in_emacs.org][Consider using a REST API rather than an FFI in Emacs.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs_ffi_to_cpp.org][Emacs FFI to C++]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_emacs_ffi_to_c_is_cumbersome.org][The Emacs FFI to C is very inconvenient.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/haskell_emacs.org][haskell-emacs]] has bit-rotted.
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/registers_and_bookmarks_in_emacs.org][registers and bookmarks in emacs]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/making_big_programs_in_emacs.org][making big programs in Emacs]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/outline_mode_for_emacs.org][outline-mode for Emacs]]

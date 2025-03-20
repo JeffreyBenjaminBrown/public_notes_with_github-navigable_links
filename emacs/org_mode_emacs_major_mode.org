@@ -14,4 +14,5 @@
 #+BEGIN_SRC python
   x = 3
 #+END_SRC
+* to completely hide all properties drawers : `[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_tidy_mode.org][org-tidy-mode]]`
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_to_pdf_how_to_export.org][org to pdf, how to export]]

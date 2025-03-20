@@ -4,7 +4,7 @@
 #+title: concurrency in Erlang
 * some vocab
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrent_programming.org#some-vocab][some concurrent programming vocab]]
-* errors
+* Erlang , errors in
 :PROPERTIES:
 :ID:       f68891f2-deaf-47f7-9f8e-ed2ff9f69811
 :END:
@@ -124,7 +124,7 @@
     https://learnyousomeerlang.com/errors-and-exceptions#try-a-try-in-a-tree
     There's also the code (search for the word "naive") here:
     file://~/code/concurrent-langs/erlang/tree.erl
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#signals-1][signals]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#erlang--signals-in][signals]]
 * processes
 ** "process" = "execution thread"
 ** Processes grow and shrink dynamically.
@@ -218,7 +218,7 @@
 *** Killing a function kills its subfunctions.
     This includes functions it runs via `apply`,
     but not functions it `spawns` -- the latter are separate processes.
-** signals
+** Erlang , signals in
 :PROPERTIES:
 :ID:       b5343c52-fe16-4579-8ac1-7567ed0db8c5
 :END:

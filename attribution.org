@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       786eebcb-c64d-4cf4-8448-76def28fd7e0
+:ROAM_ALIASES: "theory of mind"
+:END:
+#+title: attribution
+* = attributing qualities to a person
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything_i_do_is_intentional_but_every_effect_i_have_cannot.org][Everything one does is intentional, but every effect they have cannot.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowing_how_self_and_other_feel_can_both_be_hard.org][Knowing how self and other feel can both be tricky.]]

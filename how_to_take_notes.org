@@ -4,20 +4,19 @@
 :END:
 #+title: notes , taking and reading
 * TODO
-** TODO read, if I haven't already, about evergreen note practice
+** merge : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#how-to-read-a-knowledge-graph][how to use a knowledge graph]]
+** read, if I haven't already, about evergreen note practice
 see the list under "Implementing an evergreen note practice" here:
 https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
 ** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/reading.org#todo-pages-from-andy-matuschaks-knowledge-graph-with-links-i-havent-gotten-to][pages from Andy Matuschak's knowledge graph with links I haven't gotten to]]
-** remember the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_take_notes.org#maybe-good-principles][maybe good principles]]
-* maybe good principles
+* helpful principles
 :PROPERTIES:
 :ID:       5fd28fa4-a109-4f3a-8296-01a3cf5351aa
 :END:
 ** If it seems too far-out to share, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grounded_claims_are_cool.org][ground the claim]].
-** Never have a hidden category.
-   i.e. never skip a category, leave a grandchild unlabeled in its grandparent
-   Why: omitting levels in the ontology can lead to unreadably long, flat documents.
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/after_filing_something_know_the_whole_note_it_went_into.org][After filing something, know the whole note it went into.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/judiciously_delete_platonic_linking_nodes.org][Judiciously delete Platonic linking nodes.]]
+* maybe helpful
+** ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/after_filing_something_know_the_whole_note_it_went_into.org][After filing something, know the whole note it went into.]]
 ** Read fast, some things just above zero time-weight.
 ** A negative is often equivalent to a more specific positive.
    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_take_notes.org#example][example]] (of "Note titles should be positive and specific.")

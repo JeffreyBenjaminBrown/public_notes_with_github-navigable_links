@@ -2,7 +2,9 @@
 :ID:       e31ef49a-1cc3-417f-b1db-3d9f5c258abd
 :END:
 #+title: empathy
-* = What do I not know about others?
+* = understanding people
+* hard question : What do I not know about others?
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hypothesis_try_seeing_the_lenses_disagreements_imply.org][hypothesis : Try seeing the lenses disagreements imply.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/people_as_priority.org][people as priority]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_that_matters_is_how_we_make_each_other_feel.org][All that matters is how we make each other feel.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_to_know_peoples_deepest_motivations.org][I want to know peoples' deepest motivations.]]

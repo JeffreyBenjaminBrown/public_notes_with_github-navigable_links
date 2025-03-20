@@ -71,7 +71,7 @@
    https://github.com/natask/org-roam-search
 * TODO ? [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/data.org#todo-org-to-listing-it-cant-handle-non-bullets][org-to-listing-it can't handle non-bullets]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_v2_migration_my_story.org][org-roam v2 migration, my story]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_avoid_losing_notes_in_a_knowledge_graph.org][how to avoid losing notes in a knowledge graph]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org][how to avoid losing notes in a knowledge graph]]
 * PITFALL: move org-roam files [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/dired_emacs_package.org#to-rename-andor-move-across-folders-a-file-in-dired][using dired]]
   This causes updates to the org-roam db.
   Maybe other Emacs file-moving facilities (e.g. neotree)

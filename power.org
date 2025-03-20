@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b9775088-1bd9-490f-a062-c6cfd189b65d
+:END:
+#+title: power
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/economics.org][economics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/causally_power_dictates_feelings_but_experientially_feelings_precede_economics.org][Causally, power dictates feelings, but experientially, feelings precede economics.]]
+* art about it
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/to_channel_each_of_one_s_atoms_into_an_expression_at_some_time.org][to channel each of one's atoms into an expression at some time]]

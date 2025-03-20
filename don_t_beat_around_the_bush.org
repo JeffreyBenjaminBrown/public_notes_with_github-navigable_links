@@ -2,6 +2,7 @@
 :ID:       de26311c-9b4b-48f4-afa1-c7a680f73b30
 :END:
 #+title: Don't beat around the bush.
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flirt_before_proposing_anything_radical.org][Flirt before proposing anything.]]
 * Ask potential partners of interest whether they're looking too, early.
   Seems true in every domain -- research partners, musicians, etc.
   Except maybe in espionage.

@@ -2,12 +2,11 @@
 :ID:       9b40c46b-bd16-4003-8a9e-763f5a7dbc22
 :END:
 #+title: psychology
-* Does the plethora of words in a language for a topic correlate with national attitudes?
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/psychology_jbb.org][psychology \ jbb]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attention.org][attention]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-awareness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/headspace.org][cognition]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation.org][meditation]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/effort_and_observation_are_somewhat_disjunctive.org][Effort and observation are somewhat disjunctive.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attribution.org][attribution]] | theory of mind
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness, inc. self-forgiveness]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/systematic_outreach.org][socializing, systematic]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
@@ -20,3 +19,5 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ethical_obligations_to_one_s_other_selves.org][ethical obligations to one's other selves]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotions_can_be_decomposed_into_sensations.org][Emotions can be decomposed into sensations.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_animals_boldness_rigidity_while_shyness_sociability_creativity.org][In animals, boldness ~ rigidity, while shyness ~ sociability ~ creativity.]]
+* no consequence to me
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sapir_whorf_hypothesis.org][Sapir-Whorf hypothesis]]

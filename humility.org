@@ -4,6 +4,10 @@
 #+title: humility
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage_v_humility.org][Courage v. humility]] is a fun balance.
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/humility_in_romance.org][humility in romance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_feeds_good.org][Humility feeds good.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hypothesis_everything_that_requires_courage_requires_humility.org][hypothesis : Everything that requires courage requires humility.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/there_can_be_pride_in_humility.org][There can be pride in humility.]]
 * humility & pride
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_and_pride_are_both_funny.org][They are both funny.]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_seems_more_compatible_with_peace_than_pride_does.org][Humility feels more peaceful than pride does.]]
@@ -16,3 +20,4 @@
 * intense humility
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_am_nothing_before_the_world.org][I am nothing before the world.]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_sacrifice.org][self-sacrifice]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/giving_up_can_require_courage.org][Giving up can require courage and humility.]]

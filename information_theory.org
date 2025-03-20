@@ -2,10 +2,13 @@
 :ID:       e2b7487d-7cdd-4a8d-b9ce-26f941ae05ec
 :ROAM_ALIASES: information
 :END:
-#+title: information theory
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]]
+#+title: information , about
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org][empathy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/parting.org][separation]]
+* ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]] (Maybe bring its contents here.)
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/learning.org][understanding, thinking, learning]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_truth_if_properly_qualified.org][information = truth ,, if properly qualified]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_online_echo_chamber_effect.org][the onlgine echo chamber effect]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/errors.org][errors]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/far_out.org][far out]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identifiers.org][identifiers]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/language.org][language]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/uncertainty_ignorance.org][uncertainty | ignorance]]
