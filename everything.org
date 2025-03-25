@@ -28,7 +28,7 @@
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org][charity]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/utopia.org][utopia , perfect experience]]
 * environment
-** [[:id:37a304ca-f34a-4d52-afb8-f953d21a1bcf][spacetime -- broken link?]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time.org][spacetime]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imminence.org][imminence]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/luck.org][luck]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org][power]]
