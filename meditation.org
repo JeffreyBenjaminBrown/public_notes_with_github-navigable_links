@@ -12,3 +12,4 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attention.org][attention]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_calm_purpose.org][meditation => calm purpose]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_and_or_meditation.org][knowledge graphs and/or meditation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness_fission_fusion_emptiness.org#wholeness--fission--fusion--emptiness--the-list][wholeness  fission  fusion  emptiness]]

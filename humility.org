@@ -2,6 +2,8 @@
 :ID:       91dc626c-36e2-4dc6-9c4f-fdea453c838e
 :END:
 #+title: humility
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org][emptiness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_v_self_respect.org][humility v. self-respect]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage_v_humility.org][Courage v. humility]] is a fun balance.
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
 ** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/humility_in_romance.org][humility in romance]]

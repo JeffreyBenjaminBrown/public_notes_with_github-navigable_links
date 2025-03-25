@@ -3,7 +3,6 @@
 :END:
 #+title: high performance (human)
 * see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/human_potential.org][human potential]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/athletes_are_best_at_85.org][Athletes are best at 85%.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_know_you_waste_time_on_something_is_an_opportunity.org][To know you waste time on something is an opportunity.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_productivity_secrets.org][some productivity secrets]]

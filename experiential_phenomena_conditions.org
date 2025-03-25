@@ -3,16 +3,11 @@
 :ROAM_ALIASES: "phenomena" "conditions"
 :END:
 #+title: experiential :: phenomena | conditions
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beauty.org][beauty]]
-* power
-* laughter
-* charity
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimization_method.org][method | optimization]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][comedy]] | laughter
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org][art]]
 * dance
 * nature
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/injustice_vanishing.org][justice]]
 * sleep
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth.org][truth]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/uncertainty_ignorance.org][uncertainty | ignorance]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]

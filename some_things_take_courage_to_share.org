@@ -3,10 +3,14 @@
 :END:
 #+title: Some things take courage to share.
 * instances
-** some feelings
+** feelings
 *** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/insecurity.org][insecurity]]
 *** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org][desperation]]
 *** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org][pride]]
-** some beliefs
-** what you are
+** ? beliefs
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_re_embarrassed_to_share_your_beliefs_something_is_wrong.org][If you're embarrassed to share your beliefs, something is wrong.]]
+:PROPERTIES:
+:ID:       79397c4c-4523-4d7c-950b-bd6cf1c2f861
+:END:
+** projects
 *** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creating_can_take_courage.org][creativity]]

@@ -8,7 +8,7 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happiness_must_be_a_priority.org][Happiness must be a priority.]]
 * instances
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/be_comfortable_with_rejection.org][Be comfortable with rejection.]]
-** be funnier
+** be [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][funnier]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wonder.org][wonder]]
 ** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/lust_as_correct.org][lust as correct]]

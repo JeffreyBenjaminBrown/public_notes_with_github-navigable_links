@@ -4,5 +4,8 @@
 :END:
 #+title: attribution
 * = attributing qualities to a person
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything_i_do_is_intentional_but_every_effect_i_have_cannot.org][Everything one does is intentional, but every effect they have cannot.]]
+* ambitions for
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_my_models_of_others_to_be_more_interesting_and_varied.org][I want my models of others to be more interesting and varied.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_overweight_your_first_impressions_beware_that_others_will.org][Don't overweight your first impressions. Beware that others will.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowing_how_self_and_other_feel_can_both_be_hard.org][Knowing how self and other feel can both be tricky.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything_i_do_is_intentional_but_every_effect_i_have_cannot.org][Everything one does is intentional, but every effect they have cannot be.]]

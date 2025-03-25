@@ -3,6 +3,7 @@
 :ROAM_ALIASES: Emacs
 :END:
 #+title: Emacs (programamble text editor)
+* PITFALL: Variable names in a function carry into a function it calls, if that called function has no definition to mask the name.
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chatgpt_says_i_can_use_avy_to_jump_to_the_start_of_words.org][ChatGPT says I can use 'avy' to jump to the start of words.]]
 * Emacs FFIs
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consider_using_a_rest_api_rather_than_an_ffi_in_emacs.org][Consider using a REST API rather than an FFI in Emacs.]]

@@ -7,8 +7,8 @@
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation.org][meditation]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/effort_and_observation_are_somewhat_disjunctive.org][Effort and observation are somewhat disjunctive.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attribution.org][attribution]] | theory of mind
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness, inc. self-forgiveness]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/systematic_outreach.org][socializing, systematic]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org][influence]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotional_ambition.org][emotional ambition]]

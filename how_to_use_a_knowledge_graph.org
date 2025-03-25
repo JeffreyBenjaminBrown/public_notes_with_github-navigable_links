@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       9e45ccd9-d6e0-4870-8f13-cc11135334d0
-:ROAM_ALIASES: "how to use a knowledge graph"
+:ROAM_ALIASES: "how to use a knowledge graph" "how to knowledge graph"
 :END:
 #+title: using a knowledge graph
 * TODO merge
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_take_notes.org][notes, how to take]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#how-to-read-a-knowledge-graph][consult your notes : why and how]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_on_who_or_what_leads.org#a-case--mindmapping][mindmapping can usefully be compared to improv]]
 * processing
 ** TODO How should your knowledge graph prompt you to read?
 *** That is, outside of it, other people's work
@@ -47,3 +48,11 @@ reading and rewriting my notes
     When you visited the current file -- say, "how to program in Python" -- it's likely not because doing that was your motivation per se, but rather some bigger project was, like "programming". And the latter probably links to the former. Looking "upward" will bring it into view, and thereby both remind you of your larger purpose(s) and of context and methods relevant to those purposes.
 * learn to search your notes
   If the note exists, usually it's not hard to find -- even if you didn't curate its parents well, you can grep your folder for relevant terms.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_restart_from_scratch.org][Don't restart from scratch.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_build_premature_structure_when_mapping_knowledge.org][Don't build premature structure when mapping knowledge.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/random_generous_note_navigation_seems_promising.org][Random, motivated, "generous" note navigation seems promising.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_and_or_meditation.org][knowledge graphs and/or meditation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situations_and_how_to_handle_them.org][Review notes before any high-pressure situation.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_my_prefix_date_uri_script.org][Use my "prefix-date-uri" script.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_take_notes_on_people_and_communication.org][how to take notes on people and communication]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org][how to avoid losing notes in a knowledge graph]]

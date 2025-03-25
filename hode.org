@@ -2,21 +2,28 @@
 :ID:       d5a5a3ff-977a-405b-8660-264fb4e974a3
 :END:
 #+TITLE: Hode
-* see also
+* TODO + see also
   TODO : merge with
-** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn.org][SmSn]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shareable_knowledge_gardens.org][shareable knowledge gardens]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oscillable_generations_view_for_org_roam.org][oscillable generations view for org-roam]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam.org][org-roam]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org][how to use a knowledge graph]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn.org][SmSn]]
 * u
+** build [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_with_typedb_and_emacs.org][Hode with TypeDB and Emacs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/build_hash_for_typedb.org][build Hash for TypeDB]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_a_record_of_the_org_roam_files_i_read.org][I want a record of the (org-roam) files I read]]
 ** Each topic is a perspective. Each subfile is a sub-perspective.
 ** Should read the git diff and make it possible to see easily where a node was moved of it was deleted from a file
 ** Are any of the relationships more than binary in a way that could not be easily handled by making the third and other members of the relationship into properties instead?
 ** A view of a relationship
 *** Would look like a file with two top-level headlines equal to the two members of the relationship, and below each, a view child indicating its relationship to the other from its point of view
-
+* Private additional notes on a topic ought to explain how to modify the public view of it.
+  This way the public view would not need to be cluttered with (potentially suspicion-inducing) links to private notes.
+  But in this case changes to the public note become more difficult to integrate into one's mixed public-private view of it. For instance, what if your view includes a private grandchild and they remove its grandparent? Maybe they accounted well for all the other contents of the change but not yours. You ought to be able to see that their change affects private nodes they could not have taken into consideration. That said, their change is likely to suggest a way to resituate the orphaned private node.
 * TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_the_org_mode_diff_easier_to_read.org][make the org-mode diff easier to read]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/einstein_s_olympian_society.org][Einstein's Olympian Society]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/promote_feels_notes_a_generalization_of_trigger_warnings.org][promote "_ feels _" notes : a generalization of trigger warnings]]
-* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oscillable_generations_view_for_org_roam.org][oscillable generations view for org-roam]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing_org_roam_notes_both_reading_and_writing.org][sharing org-roam notes , both reading and writing]]
 * probing capabilities
 ** DONE URI schemes' robustness to huge popularity.
@@ -88,7 +95,6 @@
   Nested circles of "I think this word is like that word", so that someone could filter what they see that way.
   They could be as vaguely personal categories as negative/positive. Different peoples' could differ a lot, with perfect validity. One could choose to see an equivalence class [on (term)] the way the majority see it, once (if you wanted) there was a sufficiently large majority who had voted.
 * [[id:3ffa3b8d-64b4-4805-9a10-4f3db3d9f56c][Who is where to me? What information do I [share, have in common, ?associate ..] with who?]]
-* TODO MVP : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oscillable_generations_view_for_org_roam.org][oscillable generations view for org-roam]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/u_hodeish_graph_voting.org][graph voting]]
 * share subcategories useful for a topic
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/define_relationships_using_ordinary_org_roam_syntax.org][Define relationships using ordinary org-roam syntax.]]
