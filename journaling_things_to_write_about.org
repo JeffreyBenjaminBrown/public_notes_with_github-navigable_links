@@ -9,7 +9,7 @@ in the Waking Up app.
 ** Describe what I perceive, and how I perceive it
 *** How do feelings interact with those perceptions?
 *** Where does my attention go, or avoid?
-    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wants_push_and_pull_at_attention.org][Wants push and pull at attention.]]
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wants_push_and_pull_at_attention.org][Wants pull at attention, which we sometimes fight.]]
 ** How does it benefit me or others, or fail to do so?
 ** What would people be most surprised to learn
 ** Implications for what I want

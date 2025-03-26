@@ -5,8 +5,8 @@
 #+title: experiential :: phenomena | conditions
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][comedy]] | laughter
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org][art]]
-* dance
-* nature
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dance.org][dance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nature.org][nature]]
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/injustice_vanishing.org][justice]]
 * sleep
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/uncertainty_ignorance.org][uncertainty | ignorance]]

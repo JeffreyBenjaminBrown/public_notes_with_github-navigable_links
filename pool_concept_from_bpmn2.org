@@ -8,4 +8,4 @@
   There's a 1-to-1 correspondence between pools and agencies.
   The pool could, I think, simply be called "that agency's data".
   The pools talk to each other.
-* [[:id:0ae566f6-6dba-4418-a144-9164d0fc4490][pools in MinCIT's VUI -- broken link?]]
+* [[https://github.com/JeffreyBenjaminBrown/mincit-notes-with-github-navigable-links/blob/master/pools_in_mincit_s_vui.org][pools in MinCIT's VUI]]
