@@ -1,7 +1,10 @@
 :PROPERTIES:
 :ID:       255a4912-7dbf-47f4-bff3-3917432616ef
+:ROAM_ALIASES: style
 :END:
 #+title: taste (as in style)
-* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/style.org][style]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_responsibility.org][musical responsibility]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comic_responsibility.org][comic responsibility]]
+* not clearly operationalizable
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_spirit_has_to_get_into_the_whispers.org][A spirit has to get into the whispers.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/feel_the_multiverse.org][Feel the multiverse.]]

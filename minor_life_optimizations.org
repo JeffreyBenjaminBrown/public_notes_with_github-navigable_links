@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "efficiency \\ jbb"
 :END:
 #+title: minor life optimizations
-* Claude Code sounds amazing.
+* Robovac for windows
 * [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/use_chatgpt_shell_for_emacs.org][Use chatgpt-shell (it covers other providers) for Emacs.]]
 * carpeta segura de samsung
   A virtual phone within your phone, with a second password.

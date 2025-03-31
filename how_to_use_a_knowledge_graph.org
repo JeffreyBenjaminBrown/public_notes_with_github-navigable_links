@@ -6,6 +6,8 @@
 * TODO merge
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_take_notes.org][notes, how to take]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#how-to-read-a-knowledge-graph][consult your notes : why and how]]
+* more reasons to classify a node once created
+  In the class you might have a synonym.
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_on_who_or_what_leads.org#a-case--mindmapping][mindmapping can usefully be compared to improv]]
 * processing
 ** TODO How should your knowledge graph prompt you to read?

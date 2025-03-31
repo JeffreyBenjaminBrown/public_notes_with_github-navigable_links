@@ -13,6 +13,7 @@
 ** Mate has two meanings (romance and chess), but both can mean "select future equilibrium".
 * Humility leads to peace in the face of rejectino.
 * =? hoped-for [mate, permanence] choice
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beware_encouragement_of_bad_behavior.org][Beware encouragement of bad behavior.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance_surprise.org][romance + surprise]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance_tragedy.org][romance + tragedy]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/complementarity_schemes.org][complementarity schemes]]

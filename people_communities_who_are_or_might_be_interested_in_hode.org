@@ -116,3 +116,4 @@ https://www.youtube.com/watch?v=M5YKW6fhlss&list=PL8dPuuaLjXtN07XYqqWSKpPrtNDiCH
 * [[:id:edaf398a-06e7-4c52-b14e-09886de45870][the author of Dynomight -- broken link?]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/twitter_wanted_to_switch_subscription_emphasis_from_people_to_topics.org][Twitter wanted to switch the weight of subscriptions from people to topics.]]
 * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/facebook_implemented_an_oversight_board.org][Facebook implemented an oversight board.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/noah_yuval_harari_would_like_hode.org][Noah Yuval Harari would like Hode]]

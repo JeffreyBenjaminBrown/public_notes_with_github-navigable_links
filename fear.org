@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       97cfad8a-0d5e-4fca-915b-c6b13ac8b788
+:END:
+#+title: fear
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recognize_fear_in_your_aversions.org][Recognize fear in your aversions.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org][desperation and despair]]
+* instances
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authoritarianism.org][authoritarianism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beware_encouragement_of_bad_behavior.org][Beware encouragement of bad behavior.]]

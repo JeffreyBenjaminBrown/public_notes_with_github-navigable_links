@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       98b506be-8548-43b1-bed8-2aa947a47c2c
+:END:
+#+title: demographics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_2025_62_of_americans_identify_as_christian.org][In 2025 62% of Americans identify as Christian.]]

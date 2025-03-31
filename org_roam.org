@@ -9,12 +9,17 @@
 ** my org-roam repos
 *** public
 **** with Github formatted links
+***** link for browsing humans
+      https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/main/everything.org
 ***** git remote
       git@github.com:JeffreyBenjaminBrown/public_notes_with_github-navigable_links.git
-***** link for browsing humans
-      https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/main/
-* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/brackets_inside_an_org_link_seem_to_confuse_github.org][Brackets inside an org link seem to confuse GitHub.]]
-* TODO
+* PITFALLs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/brackets_inside_an_org_link_seem_to_confuse_github.org][Brackets inside an org link seem to confuse GitHub.]]
+
+* TODO problems I could maybe fix
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/search_should_not_require_knowing_the_first_word.org][Search should not require knowing the first word.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/brackets_inside_an_org_link_seem_to_confuse_github.org][Brackets inside an org link seem to confuse GitHub.]]
+* TODO projects
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oscillable_generations_view_for_org_roam.org][oscillable generations view for org-roam]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_git_commits_of_org_roam_data_easier.org][make git commits of org-roam data easier]]
 ** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fix_unwanted_properties_problem_in_org_roam.org][Fix unwanted properties problem in org-roam.]]
