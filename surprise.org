@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       06e57867-5a5f-462b-b963-56ffa719c9b8
+:END:
+#+title: surprise
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety_v_surprise.org][safety v. surprise]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance_surprise.org][romance + surprise]]

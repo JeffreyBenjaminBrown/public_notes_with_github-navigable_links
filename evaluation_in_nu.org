@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5da58f4b-df98-4c2b-8bdf-87ba1f07a068
+:END:
+#+title: evaluation in Nu
+* code group [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nu_code_groups.org#syntax--evaluation-strategy][syntax & evaluation strategy]]
+  PITFALL: I can't find documentation on "code groups" anymore.

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       746134d3-e0fa-4bdd-960a-996d1f354916
+:END:
+#+title: some contrarian positions I hold
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/philosophy_seems_useless_to_me.org][Philosophy seems useless to me.]]

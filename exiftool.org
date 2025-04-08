@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       16c6f5ee-f0e0-4664-8593-600f51713668
+:END:
+#+title: exiftool
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/exiftool_using_it_to_get_a_photo_s_geolocation.org][to get a photo's geolocation]]

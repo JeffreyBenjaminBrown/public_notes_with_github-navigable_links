@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       237c52c1-7bca-4b83-8b6b-b64ffe209438
+:END:
+#+title: awkwardness
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/weird_awkward_nonresponse.org][weird awkward nonresponse]]

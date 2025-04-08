@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ba91e3ad-997a-4b4e-9ed4-43324b94f10f
+:END:
+#+title: computational efficiency
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sound_and_visuals_that_illustrate_sorting_algorithms.org][sound and visuals that illustrate sorting algorithms]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_there_weren_t_nearly_enough_atoms_to_actually_constitute_everything_you_experienced_and_instead_they_hopped_from_object_to_object.org][If there weren't nearly enough atoms to actually constitute everything you experienced, and instead they hopped from object to object.]]

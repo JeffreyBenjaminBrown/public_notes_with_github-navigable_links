@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       23020184-21fa-48a3-8524-c82aae3dfa40
+:END:
+#+title: topology
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/topology_is_global_geoetry_and_curvature_are_local.org][Topology is global. Geoetry and curvature are local.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knots.org][knots]]

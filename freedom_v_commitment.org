@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2e76a07c-c6b4-4d05-968e-0bdd20ee4230
+:END:
+#+title: freedom v. commitment
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improvisation.org][improvisation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cognitive_dissonance_and_commitment_romantic.org][cognitive dissonance and commitment (romantic)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oulipo_freedom_and_inspiration_via_constraints.org][Oulipo : freedom and inspiration via constraints]]

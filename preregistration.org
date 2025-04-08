@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ce68f01a-0392-460d-a43d-1e0465355ad2
+:ROAM_ALIASES: "pre-analysis plan"
+:END:
+#+title: preregistration
+* a.k.a. "pre-analysis plan"
+* democracy : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/preregister_your_cabinet_heads_of_departments_etc.org][Preregister your cabinet, heads of departments, etc.]]
+* https://en.wikipedia.org/wiki/Preregistration_(science)
+* TODO read Ed Miguel's work on preregistration
+* Seems to solve even more problems than you might think.
+  This is what I remember from someone's presentation of it
+  at PUJ before 2020.
+** solves the problem of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/losing_negative_results_scientific_publishing_problem.org][losing negative results (scientific publishing problem)]]
+** solves the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/duplication_of_futile_research_agendas.org][duplication of futile research agendas]]
+** can't cherry-pick regressions
+** can't adjust a treatment mid-experiment
+** Journals can accept before knowing the results, eliminating bias.

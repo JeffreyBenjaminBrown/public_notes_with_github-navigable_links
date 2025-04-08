@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       88a8e98f-3714-4554-878d-acaa5dcbce5d
+:END:
+#+title: Bose Soundlink Color II
+* PITFALL: If it always stutters in Bluetooth mode, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bose_soundlink_color_ii.org#how-to-reset][reset it]].
+* manual
+  [[~/many-small/belongings/22-02-21-sUh59aky.manual.bose_soundlink_color_ii.pdf]]
+* how to enter stereo mode
+  alternatives
+** with the app
+*** PITFALL: This is ignorant.
+    I didn't read it anywhere;
+    I found it through trial and error.
+*** steps
+    serial
+**** Have both speakers off.
+**** Turn on the app.
+**** It will offer to connect to Yellow. Accept.
+**** Then press the two speakers icon.
+**** It will start searching for another.
+**** Wait a few seconds.
+**** Turn on Blue.
+**** When it offers to connect Blue to Yellow, accept by dragging.
+**** If it fails, try again from the top of these steps.
+** without the app (very tedious)
+*** in brief
+    Bluetooth and + on main
+    Bluetooth and - on second
+    Bluetooth and + on main
+*** in detail
+    serial
+**** On the speaker already connected, press and hold Bluetooth and +
+**** On the other, press and holde Bluetooth and -
+**** Wait until it says it's in Party (duplicated mono) Mode.
+**** On either, press and holde Bluetooth and + again.
+**** Wait until it says it's in Stereo Mode.
+* how to reset
+:PROPERTIES:
+:ID:       60382a78-8871-4078-a2ca-4a067f227a81
+:END:
+  Hold "aux" ("not bluetooth") and volume down (adjacent)
+  for 10 seconds.
+  It will ask to switch to English halfway through,
+  but keep holding for the 10 seconds,
+  then accept English.

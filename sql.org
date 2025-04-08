@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d49c9935-eecd-480d-a400-dd2113523911
+:END:
+#+title: SQL
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sql_syntax.org][SQL syntax]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/database_design.org][database design]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sqlite.org][sqlite]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_sql_in_emacs_lisp.org][using SQL in Emacs Lisp]]
+* SQL games
+** More! https://datalemur.com/blog/games-to-learn-sql
+** https://lost-at-sql.therobinlord.com/game-page/chapter-1
+** DONE [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sql_murder_mystery.org][SQL murder mystery]] (tutorial)

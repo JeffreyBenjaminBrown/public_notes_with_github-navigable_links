@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1bb4bdce-65de-44ab-a004-051ff0bddd60
+:END:
+#+title: align-regex (Emacs function)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/align_all_as_and_import_terms_in_a_python_import_block_in_emacs.org][align all ` as` and ` import` terms in a Python import block in Emacs]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bf73fa6f-cd1a-4237-8bdb-7a98025cf226
+:ROAM_ALIASES: unity
+:END:
+#+title: wholeness
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solitude.org][solitude]]
+* To select is to reject (others).
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/partial_completion_is_of_almost_no_value_in_many_projects.org][Partial completion is of almost no value in many projects.]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ae2773c2-61d9-4970-b934-d5f360350cfe
+:END:
+#+title: Don't {go on | send more} about a topic if the listener is already on a blocker about it you sent.
+* more definition
+  Don't add to a message thread you started before they've had time to process the first (? if they might get overwhelmed).
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/jbb.org#monica][example]]

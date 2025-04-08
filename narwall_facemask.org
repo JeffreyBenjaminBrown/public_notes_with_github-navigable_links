@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e2a8308c-232a-41f2-b40d-4e372ec95e38
+:END:
+#+title: Narwall facemask
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/where_to_send_stuff_for_mauricio_to_pick_up_in_the_us.org][where to send stuff for Mauricio to pick up in the US]]

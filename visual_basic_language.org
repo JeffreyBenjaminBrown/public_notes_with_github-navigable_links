@@ -1,0 +1,101 @@
+:PROPERTIES:
+:ID:       bfa0ec72-df89-455b-bdcc-0bfa16cca0c9
+:END:
+#+title: Visual Basic (language)
+* is "for the Microsoft .NET Framework"
+* TODO reading
+** PAUSED INDEFINITELY : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/vb_language_reference_notes_from.org][VB language reference, notes from]]
+* TODO learn about
+  testing
+  imports, modules, public and private
+  reading and writing files
+  HTTP
+* TODO questions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/visual_basic_language.org#dim-is-used-to--allocate-memory-1]["Dim" is used to ... allocate memory?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/visual_basic_building_and_running.org][building and running]]
+* syntax
+** comments
+   are preceded by '
+** import statements
+Imports [ aliasname = ] namespace[.element]
+** keywords
+*** "Dim" is used to ... allocate memory?
+:PROPERTIES:
+:ID:       e97260ba-3ec5-4dc5-b14e-7d0bbb29062c
+:END:
+    It is used for ints and floats, but also lists.
+* builtin types
+** strings
+*** newlines in strings
+    Type a literal newline (press enter) to get a newline.
+*** substitution into a string
+    Console.WriteLine(
+      $"Hello, {name}, on {currentDate:d} at {currentDate:t}")
+** tuples
+*** declare one
+    Dim holiday = (#07/04/2017#, "Independence Day", True)
+*** access an item
+    Items are 1-indexed, using field names "Item1", "Item2", ...
+
+    Console.Write(holiday.Item2)
+** arrays (often conflated with lists)
+*** naming one
+    Dim arr As Integer() = {1, 2, 3}
+    For Each i In arr
+      Console.Write(i)
+    Next
+*** using one without naming it
+    For Each i In {1, 2, 3}
+      Console.Write(i)
+    Next
+** lists
+*** declaring one
+    Dim list As New List (Of Integer) ({1, 2, 5})
+*** looping over one
+    For Each i In list
+      Console.Write(i)
+    Next
+** dictionaries
+*** declare an empty one
+    Dim dict As Dictionary ( Of String, String ) =
+      New Dictionary ( Of String, String )
+*** add key-value pairs to one
+    dict.Add("A", "uppercase letter A")
+*** act conditional on a value existing
+    If values.TryGetValue("c", result ) Then
+      Console.WriteLine("RESULT: {0}", result)
+    End If
+* user-defined types
+Module Program
+
+  Public Structure XY
+    Public x As Integer
+    Public y As Integer
+  End Structure
+
+  Sub Main(args As String())
+     Dim xy As XY
+     xy.x = 111
+     xy.y = 124
+     Console.Write(xy.y)
+     Console.Write("done")
+  End Sub
+
+End Module
+* user-defined functions
+  Function AddNumbers ( ByVal a As Integer,
+                        ByVal b As Integer
+                      ) As Integer
+    Return a + b
+  End Function
+* builtin functions and libraries
+** console IO
+   Dim name = Console.ReadLine()
+   Dim currentDate = DateTime.Now
+   Console.WriteLine(
+     $"Hello, {name}, on {currentDate:d} at {currentDate:t}")
+** time
+   Dim currentDate = DateTime.Now
+   Console.WriteLine(
+     $"The day is {currentDate:d} and the time {currentDate:t}")
+* (.)

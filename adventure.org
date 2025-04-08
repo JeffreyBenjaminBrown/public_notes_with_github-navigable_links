@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9afa2ad3-a0e0-46b0-93a4-00dc76ff25e1
+:END:
+#+title: adventure
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance.org][romance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neuroplasticity.org][neuroplasticity]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ae8760d6-8320-46ba-8ed3-81b02e5fbcff
+:END:
+#+title: Meditation can take courage.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_courage_to_not_know_what_to_do.org][The courage to not know what to do.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_courage_to_be_still.org][The courage to be still.]]
+* The bravery to know how you feel.
+* The bravery of recognizing you need internal work.
+  Enough to value it, for at least a while today,
+  over any external, more easily quantified kind of achievement.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       674f43df-170f-4b43-9310-7cd7d9e266f7
+:ROAM_ALIASES: iPhone iPad
+:END:
+#+title: iOS
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_enable_disable_assistive_touch_in_ios.org][how to enable/disable Assistive Touch in iOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_generate_a_sysdiagnose_archive_in_ios.org][how to generate a sysdiagnose archive in iOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_mount_an_ios_device_in_nixos.org][how to mount an iOS device in NixOS]]

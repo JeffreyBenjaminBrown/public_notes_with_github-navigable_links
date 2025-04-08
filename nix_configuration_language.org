@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8216a071-2341-4866-a716-54e77baa8f2f
+:END:
+#+title: Nix (configuration language)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nix_shell.org][Nix shell]] environments
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/writing_and_using_nix_expressions.org][writing and using Nix expressions]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nickel_configuration_language.org][Nickel (configuration language)]] to Nix might be easier.

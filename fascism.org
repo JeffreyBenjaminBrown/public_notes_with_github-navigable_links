@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cc103b68-6b43-483f-88a7-e724fdf853b7
+:END:
+#+title: fascism
+* fascism-adjacent
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_re_embarrassed_to_share_your_beliefs_something_is_wrong.org][If you're embarrassed to share your beliefs, something is wrong.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_didn_t_have_to_feel_pressured_most_of_the_time_but_did_have_to_act_that_way.org][If you didn't have to feel pressured most of the time, but did have to act that way.]]

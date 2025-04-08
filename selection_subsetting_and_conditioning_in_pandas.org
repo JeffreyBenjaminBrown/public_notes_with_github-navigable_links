@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6c86235c-5b2e-44b2-a481-452886a2b623
+:END:
+#+title: selection, subsetting, and conditioning in Pandas
+* select_dtypes
+* pandas.DataFrame.loc
+** Its arguments are in brackets for some reason.
+** Its first and potentially only arg specifies rows.
+   It can be an index value.
+   It can be a list of index values.
+   It can be a boolean vector of the same length as the frame.
+*** TODO Can it be a colon, to include everything?
+** Its second argument specifies columns.
+   It can be a column name or a list of columns.
+   I haven't checked whether it can be anything else --
+   a range, a colon, a boolean vector, etc.
+* show unique rows: pd.DataFrame.drop_duplicates
+* select rows in which a column's value is a member of some set
+  Use pandas.Series.isin.
+  Its input is a list of numbers,
+  and its output is a Boolean series shaped like `self`.
+* modify a column conditional on a boolean column
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/where_numpy.org][where \ Numpy]]
