@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       d9bcb1ce-15b1-4880-a2b2-d9a0d0fed37c
+:ROAM_ALIASES: "introduction to Git" "Git introduction" "introduction to git" "git introduction" "version control introduction" "introduction to version control"
+:END:
+#+title: introduction to version control, especially Git
+* why to use version control
+(Git is one version control system. There are others.)
+** You will need to resurrect old versions of the code.
+At some point you will need to study an earlier version of your code. It happens to everybody, no matter how smart they are, no matter how thorough their plans. When it happens, you will wish you had a verbal record of what distinguishes one version of the code from the next. The "git comment" which you are forced to write every time you "git commit" a set of changes to your code is good for this.
+
+You won't just want any old version of the code. You'll want a very specific version of the code, after a bunch of good changes, and before some bad change. Without version control, you might have some old versions, with some informative names like "version 1" and 'version 2". But with version control you'll actually be able to determine the difference between snapshots of the code, and isolate exactly the one you want.
+** You will need to study changes in order to hunt bugs.
+Something will break. When it does, you'll want to be able to isolate the code that broke. It may have broken months ago. Without a version control history, you'll have to compare the code as it exists now to the code as it existed at some random point in history. Even for a small codebase, isolating the relevant difference can be unbelievably difficult.
+
+By contrast, with version control, rather than comparing two monoliths, you can isolate a narrow set of changes -- maybe only a few lines -- that are responsible for the break. (This assumes you use your version control software correctly -- that is, your commits are frequent, small and described well in the git comment.)
+** You will need to study changes in order to learn how things work.
+One of the best ways to onboard a new coder into a project is to show them a git commit that accomplishes (as every commit should) some well-defined task. Without version control, you won't be able to isolate the changes that accomplished something, and you won't easily be able to say what any change was for.
+
+This is also useful for "onboarding" your future self, once you've forgotten how the code works -- which can take less than a month.
+** You will want to advance different kinds of changes simultaneously, without breaking anything.
+Suppose you, a single coder, want to add concurrency and a user interface to your database program. Given some working base version of your code, version control lets you work on both extensions at once, in separate workspaces called "branches". They will not get in each others' way. Errors from one branch cannot be mistaken for errors from the other branch.
+
+This becomes even more useful when multiple people are working on the code at once. The main branch never needs to suffer temporary changes that put it in a non-functional state, because those non-functional states only ever happen in other branches. And nobody needs to get confused by someone else's incomplete work, because they are never exposed to it.
+* how to use git
+** a conceptual introduction to git
+When you run `git init` in a folder, you turn that folder into a git "repository", by creating a hidden folder called `.git/` (folders starting with "." are hidden by default, at least on Linux, although easy to see if you ask to see them). `.git/` contains, as far as I know, two things: the full repository history, and a "staging area".
+
+Staging is the word git uses for "preparing the next commit". A commit is a set of changes, along with a message. When you first initialize the repo, it has no content. But once you've run `git add [filename]` at least once, you'll have added file content to the staging area, ready to commit. Now you can run `git commit` to create a commit. It will prompt you for a commit message, describing how the changes you've staged will alter the repository.
+
+You'll often want to see what's in the staging area, what files havenot been tracked, what files have already been tracked but have changes that have not been committed yet, etc. The commands `git status` and `git diff` are for this. `status` just gives a list of files worth thinking about. (Anything you committed and have not changed since will not show up in `git status`.)
+
+`git diff` shows you the difference between the state of the repo as of the last commit and the current state given the changes you've made and haven't committed. Actually that's just what it shows by default; you can also ask for the difference between two commits (even if they are on different branches -- see below) and you can narrow it down to subfolders or individual files.
+
+There are two more critical commands for preparing a commit: `git mv` (move or rename the file) and `git rm` (delete the file). They're straightforward.
+
+You don't have to, but it's usually a good idea to sync your local repository to a remote one. These are identical up to a point, but your local one will have new changes, until you "push" (by running `git push`) those changes to the off-site copy. Similarly, you can "pull" changes from the off-site repository to your local machine. If your local machine is the only source of changes then there will never be new information to pull, but you might use multiple machines, or you might work with collaborators.
+
+When you create a new repository on Github, it will show you some code which, when executed, will sync your local repository to it. The cloud-based copy of your repo is called the "remote" (as opposed to the "local"). The command `git remote` is for connecting your local repo to remote ones. Usually you just set up that connection at the birth of the repo, and from then on forget about it. You'll be using it each time you use `git push` and `git pull`.
+
+Your "remote" (copy of the) repository need not actually be remote -- it could just be a different spot on your hard drive. (Presumably a spot you don't touch directly, only through git.) And there are other services resembling Github with various pros and cons -- more privacy, no AI training based on your data, etc. Github is free (so are others), definitely the most popular, and maybe the easiest option.
+
+git permits branching, with the command `git branch`. First you'll be working on a branch called (usually) `main`. You can create a new branch by running `git branch [branch name]`. (One of the things mentioned when you run `git status` is which branch you're on.) Work on the new branch will not change the old branch. Once you finish the work and believe it's good, you can incorporate it back into the main branch (or into some other branch!) by using `git merge`. You can grow several branches at once, and in fact there's nothing special about the original branch.
+
+If you're not starting a new repo but rather working on something that already exists, you can "clone" it to your local machine by running `git clone`. This is handy not just for working with collaborators but, again, for working on the same code from different computers.
+
+`git log` lets you see the history of the code, in varying levels of detail. By default it just gives you the (random) commit id, the name of the author, the date, and the commit message, but you can ask to see every "diff" -- that is, the history of all changes made.
+
+`git rebase` is complicated. Try to avoid it.
+
+There are a million little tricks that help but aren't necessary. The `.gitignore` file, for instance, lets you explain that you don't want certain files listed in `git status`, and you don't want them to be part of the repository either. You can ask for the history (in `git log`) of a specific file, rather than the whole repo. There's a way in `git log` to show only when files were added but not modified. You can filter the log by author. You can add all modified files at once with `git add -u`. Etc, etc. If you feel like something is unnecessarily dumb or slow, there's probably a way around it.
+
+Those might be all the important concepts.
+** a very incomplete procedural introduction to git
+Aunque Git es algo usado en general solamente por los prorgamadores, no es difícil. Solamente involucra un número de pasos fuera de lo normal cuando alguien está haciendo un backup.
+
+(1) Instalar Git en to máquina.
+(2) Correr `git init` (por la linea de comandos) desde la carpeta en tu computador que quieres mantener versionado. Esto prepara tu repositorio local, donde vas a guardar las diferentes versiones de la carpeta.
+(3) Correr `git status` desde la carpeta para ver cuáles archivos ya son parte del commit. Esto te muestra los archivos que no son parte del repositorio, y los que ya son pero que han sido modificados desde la última vez que fueron grabados.
+(4) Correr `git diff` para ver qué ha cambiado desde la última vez que corriste `git commit`. (La primera vez que haces esto, te va a simplemente reportar que todo lo que tiene la carpeta está fuera del repositorio.)
+(5) Correr `git add x` desde esa carpeta, donde `x` es el nombre de un archivo, para agregar ese archivo a los que van a ser parte del próximo versión de la carpeta en el repositorio.
+(6) Correr `git commit` para hacer el "commit" -- es decir, crear una nueva versión de la carpeta en el repositorio. Cuando haces esto, te va a pedir un mensaje describiendo los cambios.
+
+Repitiendo los pasos 3 a 6, creas versiones de la carpeta locales en el "repositorio local" de Git -- es decir, el que está ubicado en tu computador.
+
+Git es distinto a GitHub. Git no necesita GitHub; puede usar otros sitios para el almacenamiento en nube. Pero Github es el más conocido.
+
+Para guardar un imagen de tu repositorio en Github, toca hacer un poco más:
+
+(1) Crear una cuenta con Github (gratis).
+(2) Desde tu cuenta en Github, crear un nuevo "repositorio".
+(3) Una vez haces eso, GitHub te va a mostrar los comandos que puedes correr para hacer un espejo de tu imagen local en Github. Toca correr esos comandos desde la carpeta local.
+
+Una vez haces eso, cada vez que quieres actualizar el imagen en la nube, solamente toca correr "git push" desde la carpeta local. (Pero esto solamente tendrá un efecto si has hecho más commits desde la última vez que corriste "git push".=
+
+Tal vez suena como mucho trabajo. Las ventajas son mínimo estas dos:
+
+(1) Tienes una copia en la nube de cada versión de la carpeta.
+(2) Puedes ver la historia de los cambios en esa carpeta, de manera entendible (asumiendo que los archivos son de text y no de otros formatos como imagenes o Word). Y aún si algunos archivos tienen formatos no amigables para crear un "diff" (diferencia legible entre dos versiones de un documento), tus comentarios en cada commit te indican qué cambió, al menos en terminos gruesos.
+
+Hay otras maneras de hacer versionamiento pero Git es, por mucho, el más popular. Es capaz de mucho más que he descrito, y hay un montón de materiales instructivas en linea -- tantas que ChatGPT te puede en general decir cómo hacer cualquiera cosa que podría ocurrirte.

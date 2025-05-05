@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       bd56c6cd-8dd8-429d-a43a-df7ef9062431
+:END:
+#+title: prompt (interface)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_image_generation_prompts_i_ve_used.org][AI image generation prompts I've used]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_change_the_bash_prompt.org][how to change the Bash prompt]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_tmux_to_show_a_shorter_prompt.org][I want Tmux to show a shorter prompt.]]

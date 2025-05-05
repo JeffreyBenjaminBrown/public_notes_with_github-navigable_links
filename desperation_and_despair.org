@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       05d467c3-fffd-457a-af5c-099f49b4b179
+:ROAM_ALIASES: desperation despair depression
+:END:
+#+title: desperation | despair | depression
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_ambition.org][hope & ambition]]
+* rational depression
+** = a focus on processing* over action
+   Process more and do less when hope is less certain.
+   (*) processing = thinking, talking, studying
+** "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/with_great_need_comes_an_unusually_wide_range_of_ideas.org][with great need comes an unusually wide range of ideas]]"

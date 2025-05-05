@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4c8f602d-1d50-4dd4-afdd-e6509c84b0c5
+:END:
+#+title: dumb national decisions
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idi_amin_expelled_the_asian_community_from_uganda_when_90_of_its_tax_revenue_came_from_people_of_mostly_south_asian_descent.org][Idi Amin expelled the Asian community from Uganda]], when 90% of its tax revenue came from people of (mostly South) Asian descent.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ukraine_russia_war.org][Russia invaded Ukraine]].
+* In Sri Lanka in 2021, President Rajapaksa banned synthetic fertilizer and pesticide imports practically overnight.
+* China won't use foreign vaccines.

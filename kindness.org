@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d863b6d-1652-4ffb-897a-99e73198ce16
+:ROAM_ALIASES: generosity charity
+:END:
+#+title: kindness
+* a universal baseline love
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_we_were_reasonable_we_would_give_everything_away.org][If we were (reasonable?) we would give (everything?) away.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/charitable_interpretation_and_redundancy_in_language.org][charitable interpretation and redundancy in language]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identify_with_something_beyond_the_self.org][Identify with something beyond the self.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/if_planning_to_break_up_doing_it_earlier_is_kinder.org][If going to break up, doing it earlier is kinder.]]

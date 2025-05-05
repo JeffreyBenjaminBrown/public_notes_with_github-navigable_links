@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5c1dc0d8-b3a2-4dae-9c2d-7bda2d9789c0
+:END:
+#+title: dance
+* methods
+** Use momentum to save energy.
+** Vary durations.
+** Freeze sometimes.
+** Vary the spotlit muscle.
+** Match one muscle's duty cycle to a musical voice.
+   while others stay full duty
+* some dances
+** a cool floaty dance
+   https://www.facebook.com/share/r/1DUuuiQ8mD/
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dance_private.org][& private]]

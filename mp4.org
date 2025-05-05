@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       418ec86f-2f42-4e22-bae4-2677f9475ce3
+:END:
+#+title: mp4
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_create_an_mp4_from_a_wav_and_a_png.org][how to create an .mp4 from a .wav and a .png]]

@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       7b1955b6-78d0-4912-8347-3eb653b7a1de
+:ROAM_ALIASES: "shell programming" "Bash"
+:END:
+#+title: bash (shell)
+* C-x C-e opens an editor for long commands
+:PROPERTIES:
+:ID:       51572b62-3be7-488e-8263-e50d71497484
+:END:
+  They execute as soon as the editor exits.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nushell.org][NuShell]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bash_one_liners_some_good.org][Bash one-liners, some good]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shell_tools_for_structured_data.org][shell tools for structured data]]
+* Shell script best practices
+** https://sharats.me/posts/shell-script-best-practices/
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/diff_shell_programming_concept.org][diff (shell programming concept)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_change_the_bash_prompt.org][how to change the Bash prompt]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_pipe_stdout_and_stderr_to_the_same_file.org][to pipe stdout and stderr]]
+* `cd`, change default target directory
+  I don't know,
+  but the first line below comes extremely close,
+  and without clobbering the real `cd` command:
+
+  jeff@jbb-dell:mtv$ cd="cd $(pwd)"
+  jeff@jbb-dell:mtv$ echo $cd
+  cd /home/jeff/mtv
+  jeff@jbb-dell:mtv$ cd
+  jeff@jbb-dell:~$ $cd
+  jeff@jbb-dell:mtv$
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_build_utility.org][make (build utility)]]
+* to set an environment variable from a script
+** Call the script using "." (rather than, say, "bash").
+   This runs the script "in the current environment".
+** demo
+   jeff@jbb-dell:quant$ echo $NONSENSE_WORD # It's not defined.
+
+   jeff@jbb-dell:quant$ cat test-export.sh
+   export NONSENSE_WORD="HTUIOGSHLSDGA:"
+   jeff@jbb-dell:quant$ . test-export.sh
+   jeff@jbb-dell:quant$ echo $NONSENSE_WORD # Now it is.
+   HTUIOGSHLSDGA:
+   jeff@jbb-dell:quant$
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cp_linux_command.org#pitfall-sudo-can-cause-cp-copying-to-fail][PITFALL: sudo can cause cp (copying) to fail.]]
+* some concepts from Bash
+** user and group IDs in Linux
+:PROPERTIES:
+:ID:       00691b2a-7ecd-4675-aab5-2462243a54f8
+:END:
+*** get a group's id
+    cut -d: -f3 < <(getent group groupname)
+*** get a user's id
+    id -u username
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pipe_computer_science.org][pipe (computer science)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/stderr.org][stderr]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/stdout.org][stdout]]
+* some commands in Bash
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/date_bash_command.org][date (bash command)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kill_bash_command.org][kill (bash command)]]
+** passwd : change a user's password
+   sudo passwd <user name>
+** realpath : get the absolute path to a file
+   realpath <file>
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shred_bash_command_delete_data_for_real.org][shred (Bash command) : delete data for real]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tee_shell_command.org][tee (shell command)]]
+** tar
+*** create tar.gz archive
+    tar -czvf tarball-of-zipfiles.tar.gz individual-zipfiles/
+* some solutions in Bash
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/duplicate_filenames_to_find_in_a_file_tree_bash.org][duplicate filenames, to find in a file tree \\ Bash]]
+** create pdf from markdown
+   pandoc -o bugs.pdf bugs.md
+   To render beamer-style, add the option `-t beamer`.
+   PITFALL: New sections must be preceded by a blank line.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/list_all_file_extensions_in_folder_and_descendents.org][list all file extensions in folder and descendents]]
+** view a readable diff of two csv files
+   csv-diff file file2 --key="field-name"
+   (This is installed in the Docker image.)
+*** or, within python
+    This is buggy, because it uses multiple keys.
+    Instead must create a single composite key.
+      in tax.co, see python/hand_test/composite_index.py
+
+    from csv_diff import load_csv, compare
+    diff = compare(
+      load_csv("data/recip-10/people_3_income_taxish.detail.2018.csv",
+               key=["household","household-member"] ),
+      load_csv("no-dep-exempt/people_3_income_taxish.detail.2018.csv",
+               key=["household","household-member"] ) )
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/find-shell-command.org][searching in the shell]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moving_and_copying_files.org][moving and copying files]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mounting_and_unmounting_drives_in_linux.org#mountunmount-a-drive-from-the-command-line][mount or unmount a drive from the command line]]

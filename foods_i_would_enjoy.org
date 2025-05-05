@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       38df06cd-250f-464f-a2cd-5bc6d21f00df
+:END:
+#+title: foods I (would) enjoy
+(but probably would have to make)
+* fatthe, find a recipe for
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/Bogota.org][restaurants]]
+* saltwater, no-vinegar pickles, with spices

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       185827a6-a19a-4da0-a251-897c41ef3a20
+:ROAM_ALIASES: biochemistry
+:END:
+#+title: cell biology
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/d_dimer.org][D Dimer]] results from the breakdown of blood clots.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cholesterol_reduction_strategies.org][cholesterol reduction strategies]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/statins_interfere_with_warfarin.org][Statins interfere with warfarin.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/toxicology.org][toxicology]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/does_coffee_make_me_less_creative.org][Does coffee make me less creative?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_ex_differentiation_cells_de_specialize.org][In "ex-differentiation", cells de-specialize.]]

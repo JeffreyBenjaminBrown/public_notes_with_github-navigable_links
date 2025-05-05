@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       001d7913-c431-461c-92ae-a6a39394856c
+:ROAM_ALIASES: programming
+:END:
+#+title: computer science
+* TODO ? Just looks nice: Like make, but with completion at the command line, other improvements.
+** https://github.com/casey/just
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mutual_recursion_an_easy_example.org][mutual recursion: an easy example]]
+* subfields
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/algorithms.org][algorithms]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/artificial_intelligence.org][artificial intelligence]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/genetics.org][bioinformatics]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/data_science.org][data science]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/state_machines.org][state machines]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/testing_computer_science.org][testing (computer science)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/programming_idioms.org][programming idioms]]
+* type safety
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ad_hoc_polymorphism_erodes_type_safety.org][Ad-hoc polymorphism erodes type safety.]]
+** surprisingly possible
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/automatic_documentation_via_constraints.org][automatic documentation via constraints]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/documentation_testing.org][documentation testing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/abstractions_i_like_computer_science.org][abstractions I like \ computer science]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/contribute_to_open_source_projects.org][contribute to open source projects]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/software_development_advice_excellent.org][software development advice, excellent]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_learn_computer_science.org][to learn & computer science]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/good_coding_habits.org][good coding habits]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitfalls_and_responses_coding.org][pitfalls and responses \ coding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_do_coding_problems_fast.org][how to do coding problems fast]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tests_for_programmers_some.org][tests for programmers, some]]
+* data structures
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/list_comprehension_computer_science.org][list comprehension]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dynamic_typing.org][dynamic typing]]
+* some concepts from computer science
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/file_extension.org][file extension]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pipe_computer_science.org][pipe (computer science)]]

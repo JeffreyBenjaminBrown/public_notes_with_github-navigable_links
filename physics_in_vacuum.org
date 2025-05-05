@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8a936d3c-79ef-4ddd-acf9-a33bddd46d42
+:END:
+#+title: physics in a vacuum
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/projectiles_in_a_vacuum_land_as_hard_as_they_are_thrown.org][Projectiles in a vacuum land as hard as they are thrown.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/electronics_in_vacuum_are_prone_to_overheating.org][Electronics in vacuum are prone to overheating.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/suction_cups_don_t_work_in_a_vacuum.org][Suction cups don't work in a vacuum.]]

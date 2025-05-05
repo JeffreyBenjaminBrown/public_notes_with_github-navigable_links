@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0cb70005-87b9-43a3-96e8-45906f1561ec
+:END:
+#+title: beans, cooking
+* TODO try salt rather than vinegar
+* soak (many variations!)
+  multiple times, lukewarm water, salt, baking soda, vinegar
+** says Stav Kone
+   soak 12 hours, discard;
+   soak another 12, discard;
+   osak lukewarm with baking soda, discard;
+   cook
+** said someone: soak with salt and/or vinegar
+* add [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epazote_te_mexicano.org][epazote]]
+* add [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/saccharomyces_boulardii.org][saccharomyces boulardii]]

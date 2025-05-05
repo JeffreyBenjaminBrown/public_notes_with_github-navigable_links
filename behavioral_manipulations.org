@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d3acd62f-8bf7-472b-8adb-b16329f2b2b3
+:END:
+#+title: behavioral manipulations
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trivial_prompts_are_powerful.org][Trivial prompts are powerful.]]

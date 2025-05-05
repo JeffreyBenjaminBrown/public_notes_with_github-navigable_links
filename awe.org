@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b745d109-6d7f-4638-beab-97bd26c8a936
+:END:
+#+title: awe
+* some awe-inspiring things
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_am_nothing_before_the_world.org][I am nothing before the world.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humility]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/evolution.org][evolution]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org][death]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aesthetics_can_evoke_spirituality.org][spirituality + aesthetics]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_quantity_of_suffering_it_took_to_generate_the_human_species_is_incomprehensible.org][the suffering it took to create humanity]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/holiness.org][holiness]]
+* maybe see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance.org][romance]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/far_out.org][far out]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aesthetics.org][aesthetics]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c4b72622-b3ef-417e-9567-19ffe1ee87ea
+:END:
+#+title: humility & pride
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_and_pride_are_both_funny.org][Both are funny.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_seems_more_compatible_with_peace_than_pride_does.org][Humility feels more peaceful than pride does.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/one_can_be_proud_without_being_self_satisfied.org][One can be proud without being self-satisfied.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/there_can_be_pride_in_humility.org][There can be pride in humility.]]

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       fbcd02cd-f4d1-48e2-9b7d-46f23db4099f
+:ROAM_ALIASES: VSCode
+:END:
+#+title: Visual Studio Code (editor)
+* PITFALL: Different from [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/visual_studio_ide.org][Visual Studio (IDE)]]
+* there's also a libre version, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/vscodium.org][VSCodium]]
+* some commands
+** C-k C-f : auto-format region
+** F2 : rename element under cursor throughout project
+** C-space : list options
+** C-c : copy line  (when nothing is highlighted)
+** C-v : paste line (when nothing is highlighted)
+** C-/ : toggle commenting
+   on line or block
+** M-{up|down} :: move line | lines under highlighted block
+** C-S-k : kill line
+** C-S-[ : fold
+** C-S-] : unfold
+** C-` : open a terminal
+* PITFALL: broken (in Linux?) keyboard shortcuts
+  e.g. F8 to jump between syntax errors
+* it integrates with version control
+* solutions | customizations
+** prevent popups
+   Under Tools / Options,
+   search for "auto list members"
+   and disable it.
+   C-space will bring them up when needed.

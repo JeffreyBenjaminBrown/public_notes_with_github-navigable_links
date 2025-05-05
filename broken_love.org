@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       170688b3-4d53-41d3-986b-b8c32468bac8
+:ROAM_ALIASES: "love + broken"
+:END:
+#+title: broken love
+* justification
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/songs_about_irrational_love.org][Pop culture is full of claims that (essentially) irrationality is built into love.]]
+* a rational irrationality story
+** It might be just that finding a really good fit is so hard that we often settle for less and then have to engage in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/being_of_two_minds_about_it.org][doublethink]].
+** Settling seems easier if one is not conscious of it.

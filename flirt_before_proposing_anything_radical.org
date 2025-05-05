@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4ec07465-7323-47c3-a8b4-8d81f383b119
+:END:
+#+title: Flirt before proposing anything radical.
+* Why?
+  I don't know, but it is the done thing, and feels correct.
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_beat_around_the_bush.org][Don't beat around the bush.]]

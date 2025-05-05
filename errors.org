@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d012e5a4-c33c-496f-841f-a0db90d8c1e6
+:END:
+#+title: errors \ information
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_online_echo_chamber_effect.org][the online echo chamber effect]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_collector_s_fallacy_for_information.org][the collector's fallacy (for information)]]

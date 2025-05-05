@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       601503c7-222c-4885-8981-2cbfa31b9a92
+:END:
+#+title: How do I want to converse?
+* be
+** see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything.org#values-ideals][values, ideals]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humble]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][funny]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gratitude.org][grateful]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honor.org][honor]]able
+* learn
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_to_understand_our_cognitive_differences.org][I want to understand our cognitive differences.]]

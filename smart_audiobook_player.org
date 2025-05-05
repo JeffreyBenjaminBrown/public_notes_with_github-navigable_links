@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d8dd65f6-1a52-4dfd-8507-7e58107b821e
+:END:
+#+title: Smart Audiobook Player
+for Android
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_move_an_audiobook_from_a_computer_to_smart_audiobook_player_on_an_android_phone.org][how to move an audiobook from a computer to Smart Audiobook Player on an Android phone]]

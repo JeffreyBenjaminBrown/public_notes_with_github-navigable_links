@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       19029d09-5a57-4d81-99f2-56465c8e2586
+:END:
+#+title: internet
+* subdomain: definition
+** www.example.com is a subdomain of example.com
+* use `expose` to get a public URL for something on localhost
+  I guess "expose" is a shell application?
+  "you can get a public URL for a Node application being served from localhost or 127.0.0.1 on your local machine, even if its behind a firewall or corporate network? It doesn’t require any networking config and you can do it in a single command with expose, for example expose 80 as myapi.expose.sh."
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/http_method.org][HTTP requests]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/html.org][HTML]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/urls.org][URLs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ip_address.org][IP address]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mac_address.org][MAC address]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/internet_linux.org][internet & Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/proxy_server.org][proxy server]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rest_api.org][REST API]]

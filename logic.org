@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5d06a355-657f-44c4-84be-cae4ed93a28a
+:ROAM_ALIASES: rationality
+:END:
+#+title: logic
+* =? finding truth + motivation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_formal.org][formal logic]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][optimization]]
+* truth
+:PROPERTIES:
+:ID:       bc43658e-65f6-4038-99bc-3278efa7cac2
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_is_an_assumed_property_of_one_universe.org][Truth is an assumed property of one universe.]]
+* the limits of logic
+:PROPERTIES:
+:ID:       c893937e-bca4-4a77-aa6c-ad481bf1d042
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence_rationality.org][presennce v. rationality]]
+** incompleteness theorems
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage_can_rely_on_reason.org][Courage can rely on reason.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_is_an_assumed_property_of_one_universe.org][Truth is an assumed property of one universe.]]

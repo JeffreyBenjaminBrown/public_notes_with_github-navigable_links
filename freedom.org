@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a1487b9c-70d9-493a-b61e-e512def4a0d5
+:END:
+#+title: freedom
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom_v_commitment.org][freedom v. commitment]]

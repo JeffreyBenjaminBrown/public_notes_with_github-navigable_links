@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       042d6b8f-a1d7-415b-b432-f2c3bc50df32
+:END:
+#+title: keyboard (computer interface device)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/thumb_key_keyboard_for_android.org][thumb-key (keyboard for Android)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/swap_keyboard_keys_in_linux.org][swap keyboard keys in Linux]]
+* some keyboard designs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/azeron_keypad.org][Azeron keypad]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/split_keyboards.org][split keyboards]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_someone_codes_without_his_hands.org][how someone codes without his hands]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trackpad_can_be_disabled_while_typing.org][trackpad can be disabled while typing]]

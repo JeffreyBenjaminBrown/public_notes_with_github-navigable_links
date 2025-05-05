@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6c5de1a3-8072-4f6c-a5a2-8f693c34101a
+:END:
+#+title: One sees somewhat past oneself.
+* The limits of what one can see are defined by the self.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/free_will_seems_illusory.org][Free will seems (mostly) illusory.]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a9704106-6ea1-40b8-8127-fa2e88d82bae
+:END:
+#+title: beauty
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/elegance_constrained_optimization.org][elegance = constrained optimization]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beautiful_things.org][instances]]

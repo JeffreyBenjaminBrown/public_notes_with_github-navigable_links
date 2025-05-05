@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cbef2e05-df7f-4b7c-a1dc-5cb2166975d8
+:END:
+#+title: sharing
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org][communication]]
+* Sharing requires balance.
+:PROPERTIES:
+:ID:       0099068b-7ef0-4413-b3aa-18997353baa4
+:END:
+** {Share, invite, ...} in proportion to what others share.
+** Feel neither withdrawn nor overexposed.
