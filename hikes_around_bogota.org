@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       63143900-40d2-42c5-8b76-4f5cb7713333
+:END:
+#+title: hikes around Bogotá
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hikes_in_the_bogota_cerros_app_when_they_become_available.org][hikes in the Bogota Cerros app: when they become available]]
+* The app is called Caminos Cerros Orientales.
+* For the city's (official?) ones, can give someone else's ID.
+* some hikes that PUJ does
+  via Phys ed
+** Musas de agua
+** Entre nubes
+** Cruz Roja
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/hiking_group_on_facebook_via_gina.org][hiking group on Facebook, via Gina]]

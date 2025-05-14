@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b9f666f2-0035-42df-b674-86049697e9e0
+:ROAM_ALIASES: defense "national defense"
+:END:
+#+title: war
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recent_changes_in_weapons_technology_have_tilted_the_odds_in_war_in_favor_of_defenders.org][Recent changes in weapons technology have tilted the odds in war in favor of defenders.]]

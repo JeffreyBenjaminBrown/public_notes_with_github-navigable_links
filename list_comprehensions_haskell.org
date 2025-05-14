@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       aff56e74-c216-42e5-a92b-c6e3793a3d7d
+:END:
+#+title: list comprehensions \ Haskell
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitfall_order_matters_in_the_let_clause_of_a_comprehension_haskell.org][PITFALL : order matters in the let clause of a comprehension \\ Haskell]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/list_comprehensions_when_i_want_to_bind_a_variable_number_of_variables.org][list comprehensions to bind a variable number of variables]]

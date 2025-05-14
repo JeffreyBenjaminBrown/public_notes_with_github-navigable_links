@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d7729777-c201-4244-a1a2-02372a6e6196
+:END:
+#+title: motivation & pride
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org][pride]]
+* Pride can motivate [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org][altruism]].

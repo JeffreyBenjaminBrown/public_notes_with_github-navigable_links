@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       721b9b4d-63cc-473f-8ccb-bfc8d22240d9
+:END:
+#+title: ethics
+* = FEELS like an angry subject
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immaturity.org][immaturity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irratinoality_ethics.org][irratinoality & ethics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ethical_obligations_to_one_s_other_selves.org][ethical obligations to one's other (across time) selves]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/be_fascinated_by_lived_ethical_challenges.org][Be immediately fascinated by (lived) ethical challenges.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spirituality_ethics.org][spirituality + ethics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/antinormativity.org][antinormativity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moral_and_morally_motivated_are_distinct_qualities.org][Moral and morally motivated are distinct qualities.]]

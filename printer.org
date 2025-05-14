@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       14c36167-3991-48bc-8d67-084e5ca32d35
+:END:
+#+title: printer
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_market_for_printers_seems_broken.org][The market for printers seems broken.]]

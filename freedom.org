@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a1487b9c-70d9-493a-b61e-e512def4a0d5
+:END:
+#+title: freedom
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom_v_commitment.org][freedom v. commitment]]
+* freedom & forgiveness
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/choice.org][volition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/free_will_seems_illusory.org][Free will seems illusory.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confession_liberation.org][confession & liberation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurdism_the_philosophy_posits_that_existence_is_meaningless_but_does_not_assign_a_valence_to_that_fact.org][Recognizing the absurd can be freeing.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_freedom.org][humility => freedom]]

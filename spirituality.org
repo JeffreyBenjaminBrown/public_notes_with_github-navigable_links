@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       04eae9c6-72e1-4251-9f12-a761a7f62692
+:END:
+#+title: spirituality
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spirituality_ethics.org][spirituality + ethics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aesthetics_can_evoke_spirituality.org][aesthetics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org][community]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love , (mostly romantic?) ,, public notes on]]
+* power
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org][God]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/religion.org][religion]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/political_science.org][state]]

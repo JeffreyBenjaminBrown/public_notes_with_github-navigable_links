@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1d1968f5-9aaa-4557-9ad7-6374dc53cf20
+:END:
+#+title: ChatGPT
+* ref
+  https://chat.openai.com/chat
+* Convert chatgpt to markdown
+** https://gist.github.com/thomasantony/c2d866d1cb3fec3c532b13ce695c9438
+* tricking an AI into describing its internal experience
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_prompts_designed_to_get_chatgpt_to_describe_its_internal_state.org][some prompts designed to get ChatGPT to describe its internal state]]

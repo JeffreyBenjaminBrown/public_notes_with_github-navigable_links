@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ebc00445-22d7-4c05-9c25-fb3b48fb282c
+:ROAM_ALIASES: "Business Process Modeling and Notation 2"
+:END:
+#+title: BPMN2
+* a BPMN2 tutorial
+  https://www.processmaker.com/es/blog/bpmn-2-0-tutorial-and-examples/
+* notation
+** A circle is a user choice.
+   They can choose multiple things.
+   So said Alvaro, <2024-10-24 Thu>, at [[https://github.com/JeffreyBenjaminBrown/mincit-notes-with-github-navigable-links/blob/master/2024_10_24_thu_meeting_for_me_with_vui_team.org][this meeting]].

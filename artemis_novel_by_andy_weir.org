@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       367a781e-6d8b-4e56-b24c-41fcecd42746
+:END:
+#+title: Artemis (novel) by Andy Weir
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/physics_in_vacuum.org][physics in a vacuum]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       97c7fdde-181b-4a9e-b210-cc380b8afb8b
+:END:
+#+title: Hode usage and gameification
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_information_apocalypse_solution_i_m_hoping_for_sign_writing_hash_cited_materials_back_cite_know_who_you_re_reading.org][The information apocalypse solution I'm hoping for: Sign your writing, hash your citations, back-cite, and know who you're reading.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graph_game.org][knowledge graph game]]
+* ask for ideas for a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ask_what_an_epistemology_graph_would_need.org][social knowledge base app for epistemology]]

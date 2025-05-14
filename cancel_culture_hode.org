@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b4f50204-91c4-42ca-9474-001b8cbdc161
+:END:
+#+title: online cancel culture & Hode
+Herein I describe how Hode could ameliorate the problem in which someone gets in trouble for something they said online. I admit that cancel culture is more general than online cancel culture.
+* Hode would make it easier to forgive.
+  Hode would make it easy to find context. Maybe the offensive quote makes sense as part of the larger passage it was taken from. Maybe author has since learned better, and their data trail proves it. Maybe the offensive implications of what they said are contradicted by other things they have said. If the index included "_ implies belief in _" relationships, queries to unearth such evidence would not be difficult to formulate.
+* Hode would make it easier to detect astroturfed attacks.
+  Sometimes what appears like an overwhelming popular response is in fact orchestrated by a single actor or a handful of actors. As described in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bot_networks_and_hode.org][Hode vs. bot networks]], Hode would make it easier to identify a handful of actors working in concert.
+* Hode would make it easier to classify criticism.
+  On Twitter today, if thousands of people shout at you, you perceive it that way. Hode would allow you to quantify the extent to which the opinion mobilized against you is informed or uninformed, fact-based or ad-hominem, diverse or concentrated, etc.
+  If there are some good arguments in the noise, Hode would allow them to be identified, and perhaps have a beneficial effect, where they would otherwise be lost in the noise. And even if it were entirely noise, simply knowing that could be of enormous psychological benefit to the noise's target.
+* Hode would make it easy to identify similar offenders.
+  Personally, I find it particularly upsetting when a person I consider good gets in trouble for doing something that I am sure hundreds of thousands of other people are doing more of or worse. If the offense is in something someone said, Hode would make it easy to identify all of those fellow travelers automatically. The ease of doing so would not only deflate any such attack directed at a single indivudal, but also open the door to a more useful discussion of who says such things and why.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/circles_of_publication_intimacy_could_protect_people_from_cancellation.org][Circles of publication intimacy could protect people from cancellation.]]

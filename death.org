@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c73ee824-eb2b-43f4-8ead-32d9d62ddc75
+:END:
+#+title: death
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fatalism.org][fatalism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/entropy_is_not_entirely_negative.org][Entropy is not entirely negative.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sleep_biology_personal_health.org][sleep]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mortality_should_impact_one_s_priorities.org][mortality pressure]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_is_not_so_sharp.org][bounds on the effect of death on the still living]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/heaven.org][heaven]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_irony.org][death & irony]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/we_say_we_re_ending_it_and_can_t.org][We say we're ending it and can't.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_life_is_change_then_to_not_change_much_is_to_be_near_death.org][If life is change, then to not change (much) is to be (near) death.]]
+* near it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/subsistence.org][subsistence]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immortality.org][immortality]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/hell.org][hell]]
+* & art|fantasy
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/death_as_conceptual_bankruptcy.org][Death as conceptual bankruptcy.]]
+* u
+** mobility problems

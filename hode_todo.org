@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       3b8d3bb0-b32d-41c5-a548-ce93bea8d150
+:ROAM_ALIASES: "TODO & Hode"
+:END:
+#+title: Hode & TODO
+* Challenge VC people to host a contest to make the thing I want
+* It will require some good human data to train an AI to create semantic hypergraph edges from natural language data.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/josh_and_sid_on_shyg.org][Josh and Sid on Shyg]]: cite theirs, others' work
+* also to file
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/christine_on_hode.org][Christine on Hode]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_organizing_everyone_s.org][knowledge graphs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_with_typedb_and_emacs.org][Hode6]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/unfiled_hode_or_adjacent.org][unfiled, Hode or adjacent]]
+* mention to Mercatus
+  Market power in giant indices.
+  Knowledge is an underprovided public good.
+  Taming online hostility.
+* look into "open science"
+* Steve Hsu says Pagerank is"totally deprecated".
+** Minute 46 of first appearance on Dwarkesh
+* graphics, tangibility for hypergraph
+  Sid asked if there's any good package for visualizing them.
+* yet to specify in Hode
+** Finding equivalent statements
+   using ontologies
+** Signatures could be dated if Hode used some kind of immutable record like a blockchain
+** How to make the index redundant, robust to deletion of people going offline.
+** Attention mechanism across statements.
+* notes to expand
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/queries_hode_could_make_possible.org][Hode's query language would permit intricate structured queries.]]
+* prior art to investigate and/or try (more)
+** Mastodon
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/khoj_natural_language_search_engine_for_org_mode_notes.org][Khoj - natural language search engine for org-mode notes]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logseq_query_language.org][logseq-query (query language for logseq-formatted graph data)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/twitter_wanted_to_switch_subscription_emphasis_from_people_to_topics.org][Twitter wanted to switch the weight of subscriptions from people to topics.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/facebook_implemented_an_oversight_board.org][Facebook implemented an oversight board.]]
+* coding Hode
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_hode_is_feasible.org][why Hode is feasible]]
+** tools for Hode
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wordnet.org][WordNet]] : nodes are words, and edges include is-a, has-a, etc.
+*** dubious
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/yi_is_a_haskell_library_for_building_text_editors.org][Yi is a Haskell library for building text editors.]]
+**** ? someone wrote a tree editor
+     https://cs-syd.eu/posts/2019-06-28-microsmos
+     and then a forest editor:
+     https://cs-syd.eu/posts/2019-08-28-millismos
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_with_typedb_and_emacs.org][Hode in TypeDB and Emacs (plans)]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/hode_outreach_efforts.org][outreach]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/funding_hode.org][funding Hode]]
+* DONE ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transparent_privacy.org][transparent privacy]]

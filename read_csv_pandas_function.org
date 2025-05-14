@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5c96fcdb-8f4b-4441-9452-9f00956776a3
+:END:
+#+title: read_csv (Pandas function)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_format_some_columns_when_reading_a_table_from_disk.org][to format some columns when reading a table from disk]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_parse_some_columns_as_dates_when_calling_read_csv.org][to parse some columns as dates when calling read_csv]]

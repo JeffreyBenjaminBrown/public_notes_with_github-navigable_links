@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       c0f30134-543a-4698-b1cc-65b22b5a107e
+:END:
+#+title: my daily (March 2022) PT routine for my knee
+* Wear a sun shirt if I have a PT appointment.
+* temperature treatment
+** Wear the knee warmer at night.
+   Not all the time.
+** A pause between cold and hot therapy is fine.
+** 12 minutes of cold
+** 12 minutes of hot
+   Heat big pot of water, full blast, 10 minutes. (8 was too little.)
+     Enough water so that with the packs it almost overflows.
+   Add the (still cold) gel packs.
+   Wait ten minutes.
+* streches
+  Usually (?) 3 sets of 20 seconds
+** about
+*** a dispute over technique
+    Giovanni said to keep my back straight,
+    but Monica says to bend it,
+    reach as far toward my toes as possible.
+*** Monica of [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/fisioterapia_francia_elena_hermida.org][Francia Elena Hermida]] says 5 sets of 20 secs.
+** the list
+*** Stretch one leg tied while seated.
+*** Stretch legs both tied while seated.
+*** Stretch leg on back to side.
+*** Stretch leg on back straight up.
+*** Shin stretch by standing on tiptoes
+**** 20 secs, 4 reps
+*** Calf stretch against a wall
+**** 20 secs, 4 reps
+*** Lie on back, knee to chest, to stretch hip not knee.
+    20 seconds, then rest, three times, both legs.
+*** Belt around foot, lie on back, lift up leg. Calf-focused.
+* exercises
+** Wall sit, 10 seconds, 8 reps
+** balance exercises
+*** Balance on one foot, ten seconds, 7 reps
+*** Stair step ups, 40 per leg
+** with elastic bands joining my ankles
+*** On back, legs straight, one pulls forward
+*** On stomach, both legs straight, one pulls backward
+*** On stomach, one leg bends at knee
+*** Seated, separate to sides
+*** Seated, one leg extends straight out, the other pulls toward face
+** with weights
+   Usually (?) 7 sets of 10 secs each.
+*** On right side, left leg extended upward maybe 20 deg
+*** On back, butt flat, leg crossed to other side and lifted
+*** On back, butt flat, leg open and elevated, foot dideways
+*** seated, kick forward
+*** On back, leg extended upward maybe 20 degrees
+*** On front, leg extended upward maybe 20 degrees
+** with pillows
+*** Crush a small ball with front upper shin, face down
+*** Butt ball squishes.
+    Do 5 sets, 10 seconds per set.
+    Sitting, put maybe 2 feet of pillows between feet and butt.
+    Squeeze hard.
+*** Ham ball squishes.
+    Put maybe 6 inches of pillows under hamstring on bad leg.
+    Maybe the other leg hangs over the bed.
+    Each "set", crush the "ball" against the bed for 10 seconds.
+    Do 5 sets.
+*** Thigh vice.
+    Crush pillows between legs near the knee.
+    5 "sets", 10 seconds each.
+** ball|floor exercises
+*** PITFALL ?? Ball exercises need the ball ("un apoyo")
+    But the first time he said they didn't.
+*** roll a ball forward and backward with both feet
+*** roll it in a circle with both feet

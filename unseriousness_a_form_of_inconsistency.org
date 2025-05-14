@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       eb3a4394-3274-4834-8a80-823b0849106f
+:END:
+#+title: unseriousness , a form of inconsistency
+* How to distinguish between unseriousness and overcommitment?
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/partial_completion_is_of_almost_no_value_in_many_projects.org][Partial completion can be of almost no value.]]
+* example & rebuttal
+** maybe stale
+I may have written the example when I was working very little on the shared graph project, which would explain the simplicity of the rebuttal now.
+** example
+I'm not acting like I take the mindmapping project seriously.
+** rebuttal
+Am I not, though? Not working on it all the time does not mean neglecting it. If anything I neglect my social life for it.

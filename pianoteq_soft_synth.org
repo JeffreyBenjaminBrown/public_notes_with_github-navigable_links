@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       50c474b4-6dad-4c00-83a8-52a4830e72f2
+:ROAM_ALIASES: Pianoteq
+:END:
+#+title: Pianoteq (soft synth)
+* TODO IF : I need more Pianoteq code
+  it's in ~/borg-excluded/
+* PITFALL: Pitch bend won't work microtonally.
+  The pitch bend message must belong to the same channel
+  as the notes it is to bend:
+    https://forum.modartt.com/viewtopic.php?id=7698
+  (This could actually be cool sometimes,
+  if I had a way to control that channel.)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/setting_up_pianoteq_for_the_lumatone.org][setting up Pianoteq for the Lumatone]]
+* installing Pianoteq
+** extract the .7z archive with "7z x <filename>"
+   (not "7z e" like I expected).
+** I'm using the LV2i format
+   Can't remember why I didn't choose VST.
+* Solved problems
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pianoteq_seems_to_be_getting_low_priority.org][Pianoteq seems to be getting low priority.]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       495c9bf1-5010-47b0-806f-66342648ecba
+:END:
+#+title: comedy & disaster
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/psychological_resilience_is_funny.org][Psychological resilience is funny.]]

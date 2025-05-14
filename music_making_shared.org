@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e3884e9b-a4ae-4572-8317-7c7030df0b7d
+:END:
+#+title: music making, shared
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
+* TODO music to program
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/play_another_s_states_time_and_loop_them.org][Play another's states; time and loop them.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rearrange_supercollider_and_play_tidal_realtime_from_midi_input.org][Rearrange supercollider and play tidal realtime from MIDI input.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/splash_improv.org][splash improv]]
+* ideas I'm likely to want to share
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_7_12_tone_scale_families.org]["the" 7 12-tone scale families]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_introductory_microtonal_music_recommendations.org][my introductory microtonal music recommendations]]
+* some music logistics
+** software for [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/remote_jamming.org][remote jamming]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/jazz_places_in_bogota.org][jazz places in Bogota]]
+** places to do it
+*** Matik Matik does improv sessions
+*** Diosa Cervecería (Teusaquillo) has a Tuesday jazz jam

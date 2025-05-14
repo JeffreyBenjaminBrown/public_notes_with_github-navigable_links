@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       e2b7487d-7cdd-4a8d-b9ce-26f941ae05ec
+:ROAM_ALIASES: information knowledge
+:END:
+#+title: information | knowledge
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/metaphor.org][metaphor]]
+* motivation (for keeping a note about information)
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org][logic]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org][empathy]]
+* some kinds
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotion.org][emotion]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pain_and_learning.org][Pain is only sometimes a learning experience.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imagination.org][imagination]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/fantasy.org][fantasy]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/everything.org#beliefs][beliefs]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/everything.org#preferences][preferences]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/secrets_public_notes_on.org][secrets]]
+* anti-neighbors
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/errors.org][errors]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/blindness.org][blindness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/uncertainty_ignorance.org][uncertainty | ignorance]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/fission_psychic.org][separation | fission]]
+* ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]] (Maybe bring its contents here.)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/learning.org][understanding, thinking, learning]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_truth_if_properly_qualified.org][information = truth ,, if properly qualified]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/far_out.org][far out]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/language.org][language]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness_fission_fusion_emptiness.org][wholeness fission fusion emptiness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art_highlights_extremes.org][Art highlights extremes.]]
+* technical
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_organizing_everyone_s.org][knowledge graphs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_formal.org][logic, formal]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_programming.org][logic programming]]
+* art about it
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/abstract_genes_would_be_cool.org][Abstract genes would be cool.]]

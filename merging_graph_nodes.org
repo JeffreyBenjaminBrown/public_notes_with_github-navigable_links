@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bc8fd4c3-0566-400c-96a8-0f4632e7fd1c
+:END:
+#+title: merging graph nodes
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/graph_i_e_multi_node_merges.org][graph merges, e.g. merges of whole repos of nodes]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/merges_have_subscription_consequences.org][merges have subscription consequences]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/merges_should_be_recorded_via_extra_id.org][Merges should be recorded via extra_id.]]
