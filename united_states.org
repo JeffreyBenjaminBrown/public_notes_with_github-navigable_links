@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3fb52aa0-351c-4d34-997f-5b780fcd7822
+:ROAM_ALIASES: USA
+:END:
+#+title: United States
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/united_states_government_jbb.org][United States government & jbb]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/civil_service_reform_in_the_us.org][Civil Service reform in the US]]

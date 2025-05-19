@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cc5ac46c-c0a9-4af3-9ab4-74c3e2a9cb6c
+:END:
+#+title: ping pong in Bogotá
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/club_de_ping_pong_la_decanatura.org][Club de Ping Pong La Decanatura]]

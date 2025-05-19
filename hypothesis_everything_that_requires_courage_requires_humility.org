@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2997228e-82aa-4b95-a2eb-2eff33fb0702
+:END:
+#+title: hypothesis : Everything that requires courage requires humility.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_that_require_courage.org][things that require courage]]

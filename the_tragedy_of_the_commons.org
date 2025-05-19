@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       77451ff4-9aa5-47d6-bfd7-af3a3a77f80a
+:END:
+#+title: the tragedy of the commons
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/preferring_ai_to_forums_harms_the_public_internet_to_the_benefit_of_the_involved_parties.org][Preferring AI to forums harms the internet to the benefit of the involved parties.]]

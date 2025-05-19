@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       89a88c23-c867-4338-a9dc-c2351259f892
+:ROAM_ALIASES: MHCP "Ministerio de Hacienda y Crédito Público"
+:END:
+#+title: MinHacienda
+* a.k.a.
+  = MHCP
+  = Ministerio de Hacienda y Crédito Público
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/contacts_at_minhacienda.org][contacts at MinHacienda]]

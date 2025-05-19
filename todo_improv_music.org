@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       622380e5-1a51-4fc3-81e0-096fac60f020
+:END:
+#+title: TODO & improv \\ music
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_on_who_or_what_leads.org][Improv on who leads.]]
+* alternate two simple motifs in unlike domains
+** One could be as simple as three ascending pitches, and the other a simple rhythm.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_small_transformations_for_stability_memory_music.org][Use small transformations for stability & memory.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/splash_improv.org][splash improv | action painting]]
+* vary the bass: no roots or fifths
+  Try simply moving the pedal to another note in the scale,
+  and play some interval that isn't a fifth.
+* vary the chord over a fixed bass
+* fix a (bass or both hands) rhythm
+* parameters to remember to vary
+** # of voices | density (inc. silence)
+   try waves in this
+** rhythm & dynamics
+*** ~1 Hz dynamics figures
+    a tiny rhythm to nest into bigger ones
+*** uneven chord progression rhythms
+** duration : note, theme
+   in notes, duration is independent of rhythm
+** complexity : pitch set, rhythm, theme
+** register
+** hand independence
+*** unison, parallel, timeshared voice, echo
+** big & small changes

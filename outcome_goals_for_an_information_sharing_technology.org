@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1369d33e-8671-40ed-8401-4bf7597202c1
+:END:
+#+title: outcome goals for an information-sharing coommunity
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anonymous_sharing_should_be_possible.org][Anonymous sharing should be possible.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/facilitate_and_even_incentivize_interactions_across_different_belief_communities.org][healthy interactions across different ccommunities]]
+* Some, maybe all, of these depend on people more than code.
+  That is, they depend on how people behave.
+* the list
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anonymous_sharing_should_be_possible.org][Anonymous sharing should be possible.]]
+** Telling the truth should be safe.
+** Honestly reporting your feelings should be safe.
+   Right? Even if your feelings suck? How else would they improve?
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/facilitate_and_even_incentivize_interactions_across_different_belief_communities.org][healthy interactions across different communities]]

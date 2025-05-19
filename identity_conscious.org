@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       880c2596-e4da-486d-863d-6daff64ca89c
+:ROAM_ALIASES: "conscious identity" "self"
+:END:
+#+title: identity , conscious
+* in-links
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hardship.org][hardship]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_harm.org][self-harm]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recording_too_much.org][recording too much]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/greed.org][acquisitiveness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-awareness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-awareness + self-consciousness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence.org][self-confidence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-consciousness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_criticism.org][self-criticism]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/self_criticism_jbb.org][self-criticism & jbb]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_harm.org][self-harm]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_improvement.org][self-improvement]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/self_improvement_jbb.org][self-improvement \\ personal]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/self_replicating_robots.org][self-replicating robots]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org][self-respect | independence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_sacrifice.org][self-sacrifice]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_abnegation.org][self-abnegation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_abnegation.org][self-abnegation | austerity | asceticism]]

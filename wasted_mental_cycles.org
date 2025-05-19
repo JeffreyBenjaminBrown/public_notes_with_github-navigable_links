@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       74fedaae-4cb2-40f5-bfd0-ee7582f23098
+:ROAM_ALIASES: "wasted mental cycles"
+:END:
+#+title: mental waste
+= suspected or clearly inefficient uses of my time|mind
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness_is_a_good_response_to_mental_waste.org][Mindfulness is a good response to mental waste.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mapping_knowledge_seems_like_a_great_antidote_for_obsessive_thoughts.org][Mapping knowledge seems like a great antidote for obsessive thoughts.]]
+* examples, some of mine
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humming.org][humming]]
+** counting words

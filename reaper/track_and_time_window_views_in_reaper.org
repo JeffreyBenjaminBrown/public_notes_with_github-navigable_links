@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       a37ed2de-2b22-45ff-a1b3-f91b481f1021
+:END:
+#+title: track and time window views in Reaper
+* PITFALL: Two views of the track controls might be visible at once.
+:PROPERTIES:
+:ID:       f9078ad5-9518-4672-b11a-4aabaa905e32
+:END:
+  One view is at the bottom, where each track is vertical.
+  Another is at the top left, where each track is horizontal.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org][media items views in Reaper]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/overlapping_items_in_the_same_track_reaper.org][Overlapping Items in the same track]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/time_regions_and_transport_in_Reaper.org#transport-controls][Transport controls]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/time_regions_and_transport_in_Reaper.org#nudge-leftright-c-leftright][Nudge left|right: C-(left|right)]]
+* Alt-arrow (all four directions) to scroll within a project.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org#c-m-updown-to-jump-tracks][C-M-(up|down) to jump tracks.]]
+* The Navigator : useful for big jumps in time
+** C-M-v
+** Seems to be to choose what part of the timeline the main display shows.
+** Has cool shortcuts.
+* time zoom controls
+** +/- : zoom in/out
+** C-<+ on num pad> : zoom to time selection
+** (no default shortcut) : zoom to time selection
+* track height controls
+** FAVORITE: Use ` to toggle maximize all track heights.
+** FAVORITE: Page Up / Page Down : equalize & adjust all track heights.
+** Use ~ to toggle minimize all and maximize all track heights.
+** Press @ to "Minimise all tracks."
+** Toggle height of all tracks between minimised, normal and maximised.
+   double-click vertical scroll bar
+** vertically expand and collapse the horiz view of a track's controls
+   Press S-1
+     (that's Shift and the number 1)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org#tracks-items-and-takes-can-be-assigned-colors][Tracks, items and takes can be assigned colors.]]
+* configurable : whether track "metering" is pre- or post-fader
+:PROPERTIES:
+:ID:       51286989-c0e3-4ccf-8724-86d0b7ce919a
+:END:

@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       80be0156-3e35-499e-a14b-9aa5803e715f
+:ROAM_ALIASES: "Emacs Lisp" ELisp elisp
+:END:
+#+title: big programs in Emacs, managing
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/pitfalls_in_emacs.org][PITFALLs in programming Emacs]]
+* u, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notes_on_emacs_for_hode.org][notes on Emacs for Hode]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_sql_in_emacs_lisp.org][using SQL in Emacs Lisp]]
+* TODO my questions
+** What is the event loop?
+   When can I have Emacs respond to user input? Is there a callback I can call every time the user presses anything, and another to call every time a file changes?
+   How does concurrency work, if at all?
+*** see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/threads_in_emacs.org][threads]]
+* TODO interesting-looking manual chapters
+** 1.3  Conventions
+*** 1.3.1 Some terms
+** 11   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/control_structures_in_emacs.org][control structures]]
+   tag : interactive
+** 12   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/variables_in_emacs.org][variables]]
+** 22   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/command_loop_in_emacs.org][command loop]]
+** 23   Keymaps
+** 24   Major and minor modes
+** 26   Files
+** 28   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/buffers_in_emacs.org][Buffers]]
+** 31   Positions
+** 32   Markers
+** 33   Text
+** 39   Threads
+   I wrote a bit already here:
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/threads_in_emacs.org][threads]]
+** 40   Processes
+** 41   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/emacs_display.org][Emacs display]]
+*** 41.1 Refreshing screen
+*** 41.2 Forcing redisplay
+** Appendix D: Tips and conventions
+** Appendix G: Standard keymaps
+** Appendix H: Standard hooks
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org][text properties & hidden text]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/evaluation_in_emacs.org][Evaluation in Emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/searching_for_strings_in_emacs.org][searching for strings in Emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/overlays_in_emacs.org][overlays]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/circular_lists_in_emacs.org][circular lists]]
+** "circular objects", but they all look like lists to me.
+* make things execute at specific times | under certain conditions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/modifications_to_a_variable_can_trigger_functions_in_emacs.org][Modifications to a variable can trigger functions in Emacs.]]
+** "Waiting for Elapsed Time or Input"
+   tag : sleep, sleep-for
+   https://www.gnu.org/software/emacs/manual/html_node/elisp/Waiting.html
+* type-checking is possible, manually
+  https://www.gnu.org/software/emacs/manual/html_node/elisp/Type-Predicates.html
+* records are classes without methods -- just data
+** demo according to ChatGPT
+(cl-defstruct person
+  name
+  age)
+
+(setq john (make-person :name "John Doe" :age 30))
+(person-name john) ; => "John Doe"
+(person-age john)  ; => 30
+* would be good to read the entire Emacs Lisp manual
+  https://www.gnu.org/software/emacs/manual/elisp.html
+* the Emacs manual section on managing big programs
+  https://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Maintaining
+* handy project-aware commands
+** "current project" can be defined by the Git folder structure
+   or else by EDE, which who cares what that is.
+   It ignores .gitignored files
+** C-x p g : match a regexp in all files of this project
+** C-x p r : query-replace a regexp in all files of this project
+** C-x p d : dired to the project's root
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/higher_order_functions_in_emacs_lisp.org][higher-order functions in Emacs Lisp]]
+* solutions
+** prompt the user for function input
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/interactive_emacs_function.org#the-interactive-prompt-uses-special-syntax-to-specify-type][The interactive prompt uses special syntax to specify type.]]
+** join paths in filesystem
+   (file-name-concat &args)

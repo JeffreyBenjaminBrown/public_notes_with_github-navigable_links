@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3574a0fe-7a7a-4620-aa28-e32b9ac548bc
+:END:
+#+title: broken promises
+* it [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/broken_promises_irratinoality_inconsistency_imminence.org][ + irratinoality , inconsistency = imminence]]

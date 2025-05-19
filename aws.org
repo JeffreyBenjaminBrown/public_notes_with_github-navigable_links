@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       61e0e604-502b-4177-912b-eee9ab2543d8
+:ROAM_ALIASES: AWS
+:END:
+#+title: Amazon Web Services
+* TODO [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/giving_daniel_permissions_in_aws.org][giving Daniel permissions in AWS]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/github_and_aws_cli_slow_on_claro_hogar.org][Github and AWS CLI slow on Claro Hogar]]
+* TODO refs | URLs
+** some of my AWS notes
+*** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/aws_credentials.org][AWS credentials]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_ami_amazon_machine_image.org][AWS AMI ("Amazon Machine Image")]]
+** related docs
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_vocabulary.org][AWS vocabulary]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_iam_identity_access_management.org][AWS IAM (Identity Access Management)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_s3.org][AWS S3]]
+*** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/aws_s3_cli.org][AWS S3 CLI]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/host_a_git_repo_on_aws.org][AfWS Git]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django_in_aws_esp_aws_eb.org][Django in AWS (esp. AWS EB)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/internet.org][the internet]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_virtual_machine_via_ec2.org][EC2]], esp. how to launch a virtual machine
+    EC2 is the raw virtual machine system. One can use it alone, or via one of the higher-level systems it underpins, like Lightsail.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_static_website_hosting.org][AWS static website hosting]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_lightsail.org][AWS Lightsail]]
+** all lessons
+   https://aws.amazon.com/getting-started/use-cases
+** PITFALL: don't visit
+*** AWS services overview
+    https://www.aws.training/Details/Video?id=16206&trk=gs_card
+    It's a slow video lecture series.
+** TODO ? next
+*** RESUME AT (?)
+    Deploy Your Site with the EB CLI
+*** messaging
+    There are even more tutorials on the same theme.
+**** Send messages between distributed apps
+     https://aws.amazon.com/getting-started/tutorials/send-messages-distributed-applications/?trk=gs_card
+**** Fanout event notifications
+     https://aws.amazon.com/getting-started/tutorials/send-fanout-event-notifications/?trk=gs_card
+*** Build a LAMP (linux, apache http, mysql, and a language) web app
+    https://aws.amazon.com/getting-started/projects/launch-lamp-web-app/
+    https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-tutorial-launching-and-configuring-lamp
+*** Build a serverless app
+    https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/?trk=gs_card
+* TODO Use [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/terraform_open_source_cli_for_cloud_computing.org][Terraform]]
+* for saving money
+** "requester pays" is an S3 option
+* TODO AWS services I might want to learn
+** AWS storage gateway
+   Someone describes it as a dropbox client but for S3.
+   AWS seems to suggest it does lots of other stuff.
+* PITFALL web endpoint formatting depends on region
+  A website's endpoint takes one of two almost identical forms,
+  depending on the region:
+    bucket-name.s3-website-region.amazonaws.com
+    bucket-name.s3-website.region.amazonaws.com
+                          ^
+                    the difference
+  In my case it's these:
+        jefbrown.net.s3-website-us-east-1.amazonaws.com
+  under.jefbrown.net.s3-website-us-east-1.amazonaws.com

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e3c2f000-be91-45d3-a17d-83b61ad7993b
+:ROAM_ALIASES: Contraloría
+:END:
+#+title: Contraloría (Colombia)
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/contraloria_private_notes.org][more]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dentistry_with_the_contraloria.org][dentistry with the Contraloría]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       faf9d8f2-1d0e-464f-bf6c-811d796ee6b2
+:ROAM_ALIASES: "pitfalls in SciPy" "scipy pitfalls" "pitfalls in scipy"
+:END:
+#+title: SciPy pitfalls
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sorting_and_null_missing_values_in_pandas.org][sorting and null/missing values in pandas]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pandas_sometimes_rounds_floats_displayed_values_for_no_reason.org][Pandas sometimes rounds floats' displayed values, for no reason.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bug_non_unique_labels_cause_data_truncation_in_matplotlib.org][BUG: Non-unique labels cause data truncation in matplotlib.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/read_excel_counts_hidden_sheets.org][read_excel counts hidden sheets.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pandas_does_not_verify_homogeneity_when_appending_to_csv_files.org][Pandas does not verify homogeneity when appending to CSV files.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_use_the_axis_keyword_when_applying_to_a_series.org][Don't use the "axis = " keyword when applying to a Series.]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8030a4fb-e7dd-4fa5-8a83-db6138b72ea9
+:END:
+#+title: conda (package|environment management system)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_command_history_paste_backspace_misbehaves_in_conda_python3_in_docker.org][if (command history|paste|backspace) misbehaves in `conda python3` in Docker]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ways_to_reconcile_different_versions_of_python.org][ways to reconcile different versions of Python]]

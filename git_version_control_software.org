@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       e76bfca8-f61d-45a2-908f-bad416a7c304
+:ROAM_ALIASES: git Git
+:END:
+#+title: git (version control software)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/one_page_introduction_to_git_that_i_wrote_for_a_coworker.org][introductions to Git that I wrote]]
+* show all commits by an author
+  git log --author="Jeffrey Benjamin Brown"
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fetch_all_branches_git.org][fetch all branches from all remotes \ git]]
+* undo local commit
+** the command
+   git reset HEAD~
+** what it does is cool
+   It downgrades the most recent changes from committed to unstaged.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anchor_to_create_one_in_github_flavored_markdown.org][anchors and links in Github-flavored markdown]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/diff_modulo_base.org][diff modulo base]] (integrates with Git)
+* make diff without running through diff-so-fancy
+  git --no-pager diff
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/git_submodules.org][git submodules]]: for nesting repositories
+* git add -p
+  to cherry-pick the changes in a file to commit
+* good git habits
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/check_the_branch_before_each_use_of_git.org][Check the branch before each use of git.]]
+* configure Git so Emacs is the default editor
+:PROPERTIES:
+:ID:       70269641-9c54-4bd8-93f8-6554005a913c
+:END:
+  git config --global core.editor "emacs -nw"
+    # -nw: use Emacs at the command line (not via the gui)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_git_diffs_readable_by_including_empty_lines.org][Make git diffs readable by including empty lines.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/unindexed_files_are_fragile_in_git_repos.org][Unindexed files are fragile.]]
+* Copy a commit to a different branch.
+  git checkout <new branch where I want the same commit>
+  git cherry-pick <commit id>
+* to merge upstream changes into a fork
+  git checkout master
+  git fetch upstream
+  git merge upstream/master
+    or
+      git merge remotes/upstream/master # PITFALL: Not sure
+        # why sometimes I need the `remote/` prefix.
+    or
+      git merge remotes/upstream/main
+    or something like that
+* to *rename* a branch locally and remotely
+  old_name=main # or something
+  new_name=kde  # or something
+  git push origin $new_name
+  DO MANUAL STUFF HERE
+    # Go to Github online, find the repo, go to Settings > Branches,
+    # and change the default branch.
+    # This is only possible when Github knows multiple branches,
+    # hence the earlier `push` command.
+  git branch -m $old_name $new_name
+  git push origin --delete $old_name
+    # where "origin" is the remote repo's local nickname
+* to *delete* a branch locally and remotely
+** how
+   # PITFALL: The `prune` step is necessary.
+   # See its comment for why.
+
+   remote=origin               # or something
+   branch=tricky-feature       # or something
+   git push $remote -d $branch # deletes $branch on the remote
+   git branch       -d $branch
+   git remote prune $remote    # drops $branch from local record of remote
+*** TODO PITFALL: Similarly `prune` any other clones.
+* rewriting the commit history
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/git_rebase_rewrite_history.org][git rebase]]
+** squash the last N commits into a single commit
+   N=3
+   git reset --soft HEAD~$N
+   git commit -m "new commit message"
+   git push -f
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/diff_shell_programming_concept.org][diff (shell programming concept)]]

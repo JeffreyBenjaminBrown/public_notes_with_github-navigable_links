@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d2a5f3c5-294d-4cf7-bd76-732b9c4974a9
+:END:
+#+title: air quality
+* a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/air_quality_map_of_bogota.org][map of air quality in Bogotá]]
+* gas stoves : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_atlantic_says_gas_stoves_are_unhealthy.org][The Atlantic says they are unhealthy.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/air_filter.org][air filter]]

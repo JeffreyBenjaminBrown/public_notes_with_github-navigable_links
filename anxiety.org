@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       da59dd81-02a6-4bd6-a0d6-ea9973f46377
+:END:
+#+title: anxiety
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guilt.org][guilt]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/past_anxieties_are_more_universally_funny.org][Past anxieties are more universally funny.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_smile_feels_anxious_even_when_it_looks_genuine_to_me.org][My smile feels anxious, even when it looks genuine to me.]]

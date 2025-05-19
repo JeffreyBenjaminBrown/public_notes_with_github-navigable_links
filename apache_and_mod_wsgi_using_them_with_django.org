@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       67f5af53-e680-4c66-b3c0-11a9085fcc2b
+:END:
+#+title: Apache & mod_wsgi for Django
+* refs
+** the docs on this
+https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/modwsgi/
+** my working code
+is in the tax.co docker container
+  (as of tag 2020-10-22.apache-conf-builtin)
+and maybe also in my learning-aws repo
+  (as of commit 5e7acafc661fb3396af47d97510b0690eb26465a).
+** DONE my questions to the Django forum
+https://forum.djangoproject.com/t/do-i-need-apache-if-so-im-lost-configuring-it/4791
+* PITFALL: sites can clobber each other
+"""
+Warning
+
+If multiple Django sites are run in a single mod_wsgi process, all of them will
+use the settings of whichever one happens to run first. This can be solved by
+changing:
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "{{ project_name }}.settings")
+
+in wsgi.py, to:
+
+os.environ["DJANGO_SETTINGS_MODULE"] = "{{ project_name }}.settings"
+
+or by using mod_wsgi daemon mode and ensuring that each site runs in its
+own daemon process.
+"""
+* PITFALL: Django recommend separate Apache instances
+for Django and other work, if I need Apache outside of the Django context too
+(because I'm hosting multiple sites in the same domain).
+** quote from the docs
+"""
+  If, however, you have no option but to serve media files on the same Apache
+  VirtualHost as Django, you can set up Apache to serve some URLs as static
+  media, and others using the mod_wsgi interface to Django.
+"""
+** I can for some reason ignore the VirtualHost mentioned in that passage.
+according to
+https://forum.djangoproject.com/t/do-i-need-apache-if-so-im-lost-configuring-it/4791/2
+* PITFALL: Don't use the toy Django server
+the one started with manage.py.
+Instead start Apache and let it call Django.
+* DONE first [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wsgi.org][configure wsgi]]
+* HANDY: to customize apache2.conf
+  rm /etc/apache2/apache2.conf
+  ln -s /mnt/apache/apache2.conf /etc/apache2/
+Then edit that file,
+which is now shared between host and container.
+* PITFALL: Apache does two jobs.
+It serves static pages *and* Django pages.
+** See this part of my apache2.conf:
+```
+WSGIPythonPath /mnt
+<Directory /mnt>
+  # Gives Apache access to `wsgi.py` and the rest of my code,
+  # for serving the Django pages.
+  # In particular, ensures that "import mysite" works.
+  Require all granted
+</Directory>
+
+# The wsgi script (above) should not be a filetree descendent of DocumentRoot (below),
+# because if it were, a visitor could download the code for the site.
+DocumentRoot /mnt/polls/static
+<Directory /mnt/polls/static>
+  # Gives Apache access to the `content` mentioned above,
+  # for serving static (non-Django) pages.
+  Require all granted
+</Directory>
+```
+** See "Serving files" here:
+  https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/modwsgi/

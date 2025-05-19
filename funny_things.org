@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0591e33a-f3b2-414a-ac40-c3071348758d
+:END:
+#+title: funny things
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bhutan_is_weird.org][Bhutan is weird!]]
+* The [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aestivation_hypothesis_the.org][aestivation hypothesis]] might explain the Fermi paradox.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cats_are_less_diverse_than_dogs_because_they_are_perfect.org][Cats are less diverse than dogs, because they are "perfect".]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/orcas_went_through_a_salmon_hat_fad_in_1987.org][Orcas went through a salmon hat fad in 1987.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment_as_betrayal.org][enlightenment as betrayal]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/every_moment_is_amazing.org][Consciousness => every moment is amazing.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/contrarianism.org][contrarianism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/amusingly_uncomfortable_truths.org][amusingly uncomfortable truths]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_human_nature_irrelevant.org][Is human nature irrelevant?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/astronauts_can_t_drink_soda.org][Astronauts can't drink soda.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scripted_schooling_is_effective.org][Scripted schooling is effective.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_manually_balance_the_pressure_in_the_ear.org#if-the-eustachian-tube-is-tight-clearing-your-ears-can-sound-like-a-dolphin][If the eustachian tube is sufficiently closed, manually balancing your ear pressure sounds like a dolphin.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/illinois_is_rebranding_asian_carp_as_copia_so_that_people_will_eat_it_and_reduce_its_extent.org][Illinois is rebranding Asian carp as copia, so that people will eat it and reduce its extent.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_the_world_upside_down_is_a_good_example_of_a_scientifically_meaningless_question.org]["Is the world upside down" is a good example of a scientifically meaningless question.]]
+* [[id:6e0b2662-85e7-447f-b5d8-6e533b2d3189][Outreach to [men] is just as hard. Everyone's busy.]]

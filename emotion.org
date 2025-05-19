@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       50132c61-a3f9-4e28-bdbd-e2d0e6f35f28
+:ROAM_ALIASES: feelings
+:END:
+#+title: emotion
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything.org#feelings--instances][instances]] \ feelings
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotion_frequency.org][emotion & frequency]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotional_free_lunches.org][emotional free lunches]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowing_how_self_and_other_feel_can_both_be_hard.org][Knowing how self and other feel can both be tricky.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotions_can_be_decomposed_into_sensations.org][Emotions can be decomposed into sensations.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/feel_accurate_emotions.org][Feel accurate emotions.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anger_can_usefully_displace_fear.org][Anger can usefully displace fear.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/refuse_to_feel_something_and_you_are_cut_off_from_the_people_who_do.org][Refuse to feel something and you are cut off from the people who do.]]
+* [[id:75d26e15-7a43-42bc-987e-e30d59e5bc94][[Courage] can rely on reason.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gratitude.org][gratitude]], too
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fatalism.org][fatalism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art_highlights_extremes.org][Art highlights extremes.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/poverty.org][poverty]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/feelings_private.org][& private]]
