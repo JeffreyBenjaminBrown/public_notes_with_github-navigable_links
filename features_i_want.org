@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       adb6d4a3-e7db-4880-b757-67bbe4fb425a
+:END:
+#+title: features I want
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fix_backlinnks_when_merging.org][fix backlinnks when merging]]
+* lists and sets
+** and maybe a generalization containing both
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness_fission_fusion_emptiness.org#hode--i-wish-editing-this-file-in-one-place-edited-the-text-of-links-to-it-correspondingly][this org-roam approximation of it]]
+** why
+*** search for them by any member
+    Permit searching for any collection,
+    rather than | in addition to
+    specifally list, set, etc.,
+    because you might not remember how
+    you saved the collection.
+*** recognize overlap, duplication automatically
+    Don't permit duplication.
+    Report overlap.
+* large uniform trees
+  Each tree having the same rules -- series like "content, linkers ...", and generalizations thereof.

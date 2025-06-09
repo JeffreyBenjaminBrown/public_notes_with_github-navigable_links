@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       91309a6f-d949-4419-ac3f-11668c08d11b
+:END:
+#+title: If edits seem to be having no effect, be sure I'm editing the right thing.
+* That error [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_duplication_is_dangerous.org][can result from code duplication]].

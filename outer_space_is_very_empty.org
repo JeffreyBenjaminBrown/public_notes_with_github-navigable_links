@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       29905c6e-2c87-4fbc-a57a-50e27225b99b
+:END:
+#+title: the scale of outer space
+* The average distance between stars is 20 million million miles.
+* There are maybe 200 billion stars in our galaxy, and maybe 140 billion galaxies we've seen.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neutron_star.org#a-spoonful-of-the-core-of-a-neutron-star-would-weigh-200-billion-pounds][A spoonful of the core of a neutron star would weigh 200 billion pounds.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/supernova.org#if-a-supernova-exploded-within-five-hundred-light-years-we-would-die][If a supernova exploded within five hundred light years, we would die.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_solar_system.org#only-01-percent-of-the-solar-systems-mass-is-not-in-the-sun][Only 0.1 percent of the solar system's mass is not in the sun.]]

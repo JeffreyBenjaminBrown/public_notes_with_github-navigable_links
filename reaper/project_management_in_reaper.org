@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ebbae135-2649-4194-b58e-aa122d74cb84
+:END:
+#+title: project management in Reaper
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_reaper_data.org][my Reaper data]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/project_creation_saving_import_and_export.org][project creation, saving, import and export]]
+* Folders and file types are documented.
+  see "REAPER’s Installed Folders and File Location"
+  see "REAPER File Types"
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/resource_management_memory_cpu_cycles_latency_reaper.org#many-files-can-be-format-converted-at-once][Many files can be format-converted at once.]]
+* Single tracks and whole projects can be based off of "Templates".
+:PROPERTIES:
+:ID:       0604f99a-8c15-499e-9579-6a1c01a0eda2
+:END:
+  although the term "template" might only apply to tracks
+* Project tabs
+:PROPERTIES:
+:ID:       ba7fa242-2738-4bc3-86b3-0fff1ac7f86b
+:END:
+  Useful if need to keep multiple projects open,
+  e.g. when copying media from one to another.

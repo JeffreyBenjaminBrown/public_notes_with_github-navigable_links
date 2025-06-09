@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0a8708c3-9b58-4e5e-b75b-aef5507b7491
+:END:
+#+title: compliments
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/complimenting_seems_hard.org][Complimenting seems hard.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/romantic_complements.org][romantic compliments]]

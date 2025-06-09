@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bbdfdca4-a681-4e8e-aa63-e5b701c7ce27
+:END:
+#+title: Nu syntax
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pipes_bind_more_tightly_than_semicolons_in_nu.org][Pipes bind more tightly than semicolons.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wildcards_in_nu.org][wildcards in Nu]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nu_code_blocks.org][Nu (code) blocks]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nu_code_groups.org][Nu (code) groups]] - obsolete?

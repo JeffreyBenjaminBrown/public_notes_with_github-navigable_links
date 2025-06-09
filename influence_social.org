@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a7f710b4-8981-4dec-8567-28a646da19ba
+:END:
+#+title: influence, social
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness, inc. self-forgiveness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathize_before_confronting.org][Empathize before confronting.]]

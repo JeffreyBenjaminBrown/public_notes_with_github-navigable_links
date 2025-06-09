@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ec977e2d-46b9-455f-8be0-fb3eaba4c2ca
+:END:
+#+title: problems Hode could help
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/commercial_free_internet_search_engines_suck.org][commercial "free" internet search engines suck]]
+* Taming online misinformation.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anonimity_trust_and_hode.org][how to trust an anonymous source]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/build_your_own_recommendation_algorithm.org][Build your own recommendation algorithm.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/publication_in_science_is_too_much_work.org][Scientific publication is too hard and too exclusive.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/taming_online_hostility.org][taming online hostility]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cancel_culture_hode.org][cancel culture & Hode]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bot_networks_and_hode.org][bot networks and Hode]]
+* TODO merge these notes
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_would_be_better_than_using_any_of_those_applications_individually.org][Hode vs. those applications individually.]]
+** collective note taking [dead link]
+   https://blogs.agu.org/geoedtrek/2016/12/28/collaborative-note-taking/
+** google isn't that great
+   https://news.ycombinator.com/item?id=21515181
+   https://stratechery.com/2019/the-google-squeeze/

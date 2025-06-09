@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       dae618bd-8f97-44ef-b22b-f72adef57bc8
+:END:
+#+title: play
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][play v. work]]

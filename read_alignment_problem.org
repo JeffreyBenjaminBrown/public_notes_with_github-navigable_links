@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       dc4de632-d7dd-4f1c-9d76-4b2184c8c33c
+:END:
+#+title: Read Alignment Problem (genetics)
+= the problem of assembling with a reference genome.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/measuring_the_space_of_sequences.org][Mxeasuring The Space Of Sequences]]
+* problems
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_exact_matching_problem_computer_science.org][The Exact Matching Problem (Computer Science)]]
+** The Global Alignment Problem
+*** = finding a short pattern in a long text.
+** The Local Alignment Problem
+*** = finding the most similar pair of substrings from two strings.
+*** Incredibly, the solution is nearly identical to the DP solution to the global alignment problem.
+**** The two differences:
+***** In the penalty matrix, make the diagonal > 0, the penalties < 0.
+***** Start the traceback at any maximal value (not just in the last row), and work backward only until the first 0.
+**** Most of the alignment matrix will be 0.
+* algorithms
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/offline_matching_algorithms.org][Offline matching algorithms]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/boyer_moore_inexact_matching_computer_science.org][Boyer-Moore Exact Matching (Computer Science)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/inexact_matching.org][Inexact Matching]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_dynamic_programming_to_compute_edit_distance.org][Using Dynamic Programming to Compute Edit Distance]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_dynamic_programming_for_approximate_matching.org][Using Dynamic Programming for Approximate Matching]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/indexes_and_dynamic_programming_work_well_together.org][Indexes And Dynamic Programming Work Well Together.]]

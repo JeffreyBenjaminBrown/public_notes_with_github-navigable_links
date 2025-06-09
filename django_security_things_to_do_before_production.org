@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       592838c4-5f21-41df-9a38-ccff592200f2
+:END:
+#+title: Django security, things to do before production
+* DONE see these warnings from <project name>/settings.py
+** # SECURITY WARNING: keep the secret key used in production secret!
+   tax.co.web/django/ebdjango/settings.py:
+     SECRET_KEY = ...
+** # SECURITY WARNING: don't run with debug turned on in production!
+   tax.co.web/django/ebdjango/settings.py
+   DEBUG = True
+* DONE add the domain name to ALLOWED_HOSTS in settings.py
+* DONE [[https://github.com/JeffreyBenjaminBrown/knowledge_graph_with_github-navigable_links/blob/master/tax_co_web_on_ec2.org#in-the-docker-container-update-pip-packages][in the Docker container, update pip packages]]
+* email errors to me, rather than show them to user
+* DONE maybe change MEDIA_ROOT in ~/of/webapp/django/ebdjango/settings.py
+* DONE be sure nothing secret is available in public subfolders of mnt/
+* ? change size limit for downloads, uploads
+** test that I can in fact upload all six files if needed
+** I'm not sure either of these sources are good
+   They're just the first SO results from Google.
+   https://stackoverflow.com/questions/12232078/how-to-configure-server-to-allow-large-file-downloads
+   https://stackoverflow.com/questions/9691057/php-apache-ajax-post-limit

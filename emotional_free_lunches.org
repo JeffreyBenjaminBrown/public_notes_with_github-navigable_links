@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       dca72b0d-ee2c-4666-8e87-4cf5bf58da98
+:END:
+#+title: emotional free lunches
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enthusiasm_is_funnier.org][Enthusiasm is funnier.]]

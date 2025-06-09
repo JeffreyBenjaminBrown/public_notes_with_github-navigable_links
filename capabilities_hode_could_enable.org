@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e2911eb2-2d2f-4f8b-9de8-31356bb89df1
+:END:
+#+title: capabilities Hode could enable
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/more_easily_sharing_and_building_on_others_ideas_with_hode.org][more easily sharing and building on others' ideas with Hode]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/queries_hode_could_make_possible.org][queries Hode would make possible]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fun_interesting_relationships_hode.org][relationships worth recording]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/circles_of_publication_intimacy.org][circles of publication intimacy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collective_emergent_curricula.org][collective, emergent curricula]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/better_ai_via_hode.org][better AI]]
+* recognize argument equivalence, argument classes
+  argument classes: A collection of relationships like "[person] witnessed [event]" could be collapsed to a number of witnesses, obviating the need to read a lot of very similar statements.

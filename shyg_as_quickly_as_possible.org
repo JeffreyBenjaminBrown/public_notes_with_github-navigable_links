@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       9eeea922-4545-4302-9b15-412b1e71ef86
+:END:
+#+title: Shyg as quickly as possible
+This brief essay includes hyperlinks to portions of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org][this more in-depth (5,000 words) essay on Shyg]]. This article does not go into architectural details; that one does.
+* What Shyg would be
+Shyg, which stands for Shared HyperGraph, would be a federated index of content online, and some software for building it, querying it and displaying the results.
+
+For more detail, here is [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#an-overview-of-shygs-architecture][an overview of Shyg's architecture]].
+* Shyg would be valuable even at small scales.
+** Shyg at the scale of a single user
+Even with a user base of only one user, indexing only their own data, it would permit useful queries not currently possible.
+
+As an example, in my public knowledge graph, I have a note about traveling to a lower elevation as a strategy for temporarily enhancing one's immune system. I would like to be able to search for "strategies for dealing with illnesses" and find it. But the article includes neither the word "illness" nor the word "strategy", but rather "a way to fight infection".
+
+If the article were indexed in Shyg, the search would nonetheless be feasible, because Shyg will include an ontology, and will use it to execute searches. (If you're reading this, chances are good you already know why an ontology would help, but just in case, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#sidenote-how-an-ontology-will-help][here's the idea]].)
+
+Or to take another exmaple of solo uses of Shyg, one could issue a query to "identify passages in the indexed documents that mention any chemical in the blood of any mammal". The ontology will permit the user to sidestep the prohibitively tedious step of listing every chemical and every mammal.
+
+The Shyg ontology will also facilitate more efficient storage of data, as described [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#determining-what-to-index-and-in-how-much-detail][here]].
+** Shyg at the scale of a handful of people
+A small group of non-programmers indexing their shared data in Shyg could collaborate in ways not currently possible, like "fetch every question addressed to me in any of the documents whose incompleteness is blocking anyone else," or "For every attachment to every email in which I asked a question, provide a list of everyone who was invited to a meeting in which that document featured".
+* Shyg would be extremely valuable at larger scales.
+** search better
+Shyg would enable a better search experience. Proprietary search engines suffer from a number of incentive problems: The provider is motivated to prevent the user from seeing too much of their data, or from finding the solution to their question immediately, and ads get in the way. But just as fundamentally, search engines have no formal grammar. They try to guess the user's intention from natural-ish language, which puts a hard limit on the complexity of the query that can be expressed. Shyg would overcome all of these barriers
+** write your own social media feed
+If it could read a social network like Mastodon, programming your own social media feed would be trivial: "Show me everything my friends have posted, ordered by recently," or "do that, but skip anything about baseball and anything that Mom thought was sad." (Batched lazy evaluation would transparently prevent queries with big payloads from swamping someone's bandwidth.)
+
+Programming your own social media feed in an open system like Mastodon is already possible, but only for programmers. By contrast, the query language Shyg will use, Hash -- [[https://github.com/JeffreyBenjaminBrown/hode/blob/master/docs/hash/the-hash-language.md][which already exists]], although I intend to improve it -- is simple enough for non-programmers to express detailed queries in.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#defend-against-misinformation-by-tracing-provenance][Defend against misinformation.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#recognize-bot-networks-through-multi-faceted-queries][Defend against bot networks.]]
+** Provide simplifying views of complex information.
+A common and miserable experience for people who become (even if only briefly) famous on the internet is to need to wade through a torrent of hostile and nearly information-free responses to find the few useful ones. Many simply give up and don't read their responses at all.
+But by indexing the responses with Shyg, and viewing them through an appropriate query -- perhaps something like "filter out all ad-hominem statements, and for equivalent statements, show only one representative, accompanied by the number of authors who said that" -- an otherwise unwieldy and distressing river of feedback could be made useful and benign.
+Describing how much difference to tolerate before classifying two statements as distinct will, admittedly, require an understanding of the ontology and the query language that most users will not have. But as soon as anyone publishes the details of such a query, everyone will be able to use it.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#improve-the-effectiveness-of-epistemic-institutions][Facilitate open science.]]
+* If you'd like more information
+-- in particular, if you'd like to know how Shyg would accomplish these things, not just why -- here's that [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org#some-things-shyg-will-enable][longer writeup]] again.

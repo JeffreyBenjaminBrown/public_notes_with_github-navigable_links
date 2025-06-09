@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       366e649f-c492-4acc-99ae-dc552cd78f25
+:END:
+#+title: conversation techniques
+* refs
+  https://www.wsj.com/articles/have-better-conversations-with-friendsor-anyone-11658845993?mod=djem10point
+** Increasing intimacy of questions -- 36 fast friends something.
+   https://ggia.berkeley.edu/practice/36_questions_for_increasing_closeness
+   Praised by The Economist, others.
+** [[/home/jeff/Books/Can-I-Ask-You-A-Personal-Question.2015.Jon-Steele.epub][Can I Ask You a Personal Question, by Jon Steele]]
+** Can I Ask You a Question, by Amanda Levitt
+* What's something you once did that you would never do now? What's the most recent such thing?
+* Efficient conversation has goals.
+** what I want to know about people
+*** what do they care about
+*** what can they do
+**** what do they know
+*** who do they know
+** what I want people to know about me
+*** What I offer them.
+**** What I've done.
+**** Who I know.
+*** What I care about.
+*** They like hearing me talk.
+**** Be funny.
+**** Be interesting *to them*.
+* some principles
+** Prove that you are listening.
+   Ask good questions, make good comparisons,
+   simply repeat key points, etc.
+*** Ask a question, repeat their answer in my own words, ask if I got it right.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shared_complaints_are_a_conversational_black_hole_beware_it.org][Shared complaints are a conversational black hole.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/good_conversation_has_lots_of_doorknobs.org][Doorknobs -- good conversation has lots of.]]
+** open-ended questions
+   rather than ones with yes/no answers
+** share first
+** become more intimate, slowly
+   e.g. start with mundane stuff, like vacation plans
+** show appreciation
+* some conversation starters
+** ask them (implicitly) to analyze
+*** What'ssomething you love to do?
+*** What’s a goal you’re pursuing right now?
+*** What’s a challenge you’re facing?
+*** What’s the best change you’ve made
+    during the pandemic?
+    since getting married?
+    since having kids?
+** ask them to elaborate
+*** Ask about someone's life stories, decisions
+**** Normally they talk about the recent.
+*** Tell me about your hometown.
+*** Say more about your day.
+*** Explain your work to me.
+** (in response to a raised eyebrow): Tell me about that look.

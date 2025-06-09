@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5f3ea5e8-ba24-430b-addc-0acd74dbfe52
+:ROAM_ALIASES: "drum synth"
+:END:
+#+title: percussive physical modeling software
+ordered by preference
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/modo_drums_software_synthesizer.org][Modo Drums (software synthesizer)]]
+* Chromaphone 3
+  Diverse. Can be very wacky.
+  Less convincing at a standard drum kit.

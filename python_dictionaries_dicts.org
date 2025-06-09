@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       5ae0535d-5f21-4a09-8485-0eda8eb4b73a
+:ROAM_ALIASES: "Python dict" "dict \ Python"
+:END:
+#+title: Python dictionaries
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/python_dictionaries_are_hash_tables.org][Python's 'dict' is a hash table.]]
+* get key for minimum|maximum value in dictionary
+>>> d = {320: 1, 321: 0, 322: 3}
+>>> min(d, key=d.get)
+321
+* convert dict to list
+  Pattern match on dict . items():
+  [ (k, v)
+    for k, v
+    in dict . items () ]
+* convert list to dict
+  Use a dictionary comprehension:
+
+  >>> l = [(1,2),(3,4)]
+  >>> { a:b for (a,b) in l }
+  {1: 2, 3: 4}
+* merging Python dictionaries (from *within* a dictionary) :  nwrap with **
+:PROPERTIES:
+:ID:       88971f77-9463-446d-a07b-9ff1d0f601df
+:END:
+  PITFALL: Later keys clobber earlier ones.
+  { **{1:2, 3:4},
+    5:6,    # NOTE: key-val pairs can be mixed in like this.
+    **{7:8} }
+* map over Python dictionary values
+  Use a comprehension:
+  { k: f(v)
+    for k, v
+    in my_dictionary.items () }
+* dictionary comprehension (with filter)
+  # This evaluates to {1:2}.
+  { k:v
+    for k,v in ( { 1:2,
+                   3:None }
+                 . items() ) # IMPORTANT
+    if not(v is None) }

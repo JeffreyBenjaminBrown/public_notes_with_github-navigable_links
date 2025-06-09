@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       28c1d5b1-7df9-4796-8d4d-d5a625f740a9
+:END:
+#+title: massage
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/defensive_behaviors_a_massage_should_trigger.org][defensive behaviors that receiving a massage should trigger]]

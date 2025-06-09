@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3cbe011e-4bf8-4dfe-bc63-486c3f2cf772
+:END:
+#+title: computer interface
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_someone_codes_without_his_hands.org][how someone codes without his hands]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/keyboard_computer_interface_device.org][keyboard (computer interface device)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/screen_monitor_display.org][monitor, computer]]

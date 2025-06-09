@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b1a0da9-2f2a-4a73-94f5-23fe0455b492
+:END:
+#+title: pool (concept from BPMN2)
+* see also
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bpmn2.org][BPMN2]]
+* what I gather from talking to ChatGPT
+  There's a 1-to-1 correspondence between pools and agencies.
+  The pool could, I think, simply be called "that agency's data".
+  The pools talk to each other.
+* [[https://github.com/JeffreyBenjaminBrown/mincit-notes-with-github-navigable-links/blob/master/pools_in_mincit_s_vui.org][pools in MinCIT's VUI]]

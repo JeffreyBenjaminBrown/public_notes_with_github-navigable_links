@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5cdc3669-4df4-46d1-996d-2d4f9fd7a8d1
+:END:
+#+title: poverty
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humility]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org][charity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_vow_poverty_because_even_then_you_have_a_mind_blowingly_hard_time_being_humble.org][To vow poverty because even then you have a mind-blowingly hard time being humble.]]

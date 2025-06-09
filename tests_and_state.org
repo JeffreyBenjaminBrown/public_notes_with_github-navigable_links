@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       fe18f13a-ff7e-4c7f-8592-e6e01c34e0d9
+:END:
+#+title: tests and state
+* refs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/property_based_testing_of_stateful_systems_in_haskell.org][property-based testing of stateful systems in Haskell]]
+** Tweag on testing stateful systems. Hard reading.
+*** part 1
+    https://www.tweag.io/blog/2022-01-26-property-based-testing-of-monadic-code/
+*** part 2
+    https://www.tweag.io/blog/2022-10-14-ltl-attacks/
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tests_io_and_state_something_someone_wrote.org][tests, IO and state : something someone wrote]]
+* "traces" represent state with history
+  "It is inconvenient to construct states suitable for testing by hand. An alternative is to build sequences of inputs that can be iterated over the initial state, placing the system in a state we want to test. These sequences of inputs are called traces."

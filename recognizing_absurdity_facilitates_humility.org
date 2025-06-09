@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1c0b4006-a457-4d8b-ac62-77b853cc074f
+:END:
+#+title: Recognizing absurdity facilitates humility.
+* because [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurdity_and_seriousness_are_in_tension.org][Absurdity and seriousness are in tension.]]

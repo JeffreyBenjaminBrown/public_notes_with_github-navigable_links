@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       9c31bbf8-2396-4329-a5df-be769f8679b7
+:ROAM_ALIASES: "outline-mode & Haskell" "Haskell & outline-mode"
+:END:
+#+title: using Emacs outline-mode for Haskell
+* FIRST: Evaluate this Lisp code from the Haskell code buffer.
+;; This starts outline-minor-mode
+;; with a regex for Haddock-style headings.
+(haskell-mode)
+(outline-minor-mode)
+(setq-local outline-regexp "-- [*]+")
+* commands
+** Commands I will use, and code to rebind them.
+*** PITFALL: One of these key sequences clobbers something.
+    In Haskell-mode, C-c RET is already defined.
+    That is ordinarily bound to something that can't actually run,
+    unless there is a GHCI "session associated with this buffer",
+    which I never have.
+
+    So I have redefined it to insert a new heading,
+    like C-RET in org-mode.
+*** PITFALL: Makes new key sequences without unbinding old ones.
+*** These can be evaluated here, rather than from the Haskell buffer.
+*** it
+    (define-key ;; unbind a Haskell-mode sequence I don't use
+     interactive-haskell-mode-map (kbd "C-c TAB") nil)
+
+    (define-key outline-minor-mode-map (kbd "C-c TAB")
+      'outline-cycle)
+
+    (define-key outline-minor-mode-map (kbd "C-c C-<tab>")
+      'outline-cycle-buffer)
+    (define-key outline-minor-mode-map (kbd "C-c M-<left>")
+      'outline-promote)
+    (define-key outline-minor-mode-map (kbd "C-c M-<right>")
+      'outline-demote)
+    (define-key outline-minor-mode-map (kbd "C-c M-<up>")
+      'outline-move-subtree-up)
+    (define-key outline-minor-mode-map (kbd "C-c M-<down>")
+      'outline-move-subtree-down)
+    (define-key outline-minor-mode-map (kbd "C-c C-o") 'outline-hide-other)
+    (define-key outline-minor-mode-map (kbd "C-c C-a") 'outline-show-all)
+    (define-key outline-minor-mode-map (kbd "C-c C-n") 'outline-next-visible-heading)
+    (define-key outline-minor-mode-map (kbd "C-c C-p") 'outline-previous-visible-heading)
+    (define-key outline-minor-mode-map (kbd "C-c C-u") 'outline-up-heading)
+    (define-key outline-minor-mode-map (kbd "C-c @"  ) 'outline-mark-subtree)
+    (define-key outline-minor-mode-map (kbd "C-c RET") 'outline-insert-heading)
+** Commands I doubt I will use, with their default bindings.
+outline-forward-same-level (C-c C-f)
+outline-backward-same-level (C-c C-b)
+outline-hide-subtree (C-c @ C-d)
+outline-show-children (C-c @ TAB)
+outline-show-subtree (C-c @ C-s)
+outline-show-entry (C-c @ C-e)
+outline-headers-as-kill
+outline-hide-body (C-c @ C-t)
+outline-hide-entry (C-c @ C-c)
+outline-hide-leaves (C-c @ C-l)
+outline-hide-sublevels (C-c @ C-q)
+outline-show-branches (C-c C-k)
+outline-toggle-children
+* some sample Haddock-commented Haskell
+-- Try folding and unfolding this stuff.
+
+-- * 1
+-- ** 11
+      a
+-- ** 12
+-- * 2
+     a
+-- ** 21
+-- *** 211
+       a
+-- *** 212
+-- ** 22
+      a
+-- * 3
+     a
+-- ** 31
+-- *** 311
+       a
+-- *** 312
+-- ** 32
+      a

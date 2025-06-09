@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       89a0b4e8-897e-4dea-8bf8-05bbe1c234c1
+:END:
+#+title: habituation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/every_morning_i_had_to_believe_it_all_over_again.org]["Every morning I had to believe it all over again."]]

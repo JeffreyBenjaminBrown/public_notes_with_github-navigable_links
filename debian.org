@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8fff2c7c-c059-4067-b64b-647272b17d81
+:ROAM_ALIASES: Ubuntu
+:END:
+#+title: Debian and Ubuntu
+* solved: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cargo_and_apt_stopped_working_in_docker.org][apt and cargo stopped working in Docker, could not connect]]

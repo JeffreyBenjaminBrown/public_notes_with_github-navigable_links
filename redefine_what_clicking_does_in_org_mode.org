@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0d895250-548c-410a-b1f2-3317e89e9aa5
+:END:
+#+title: redefine what clicking does in org-mode
+* ref : my Stack Exchange question
+  https://emacs.stackexchange.com/questions/76694/define-key-redefines-behavior-of-slow-mouse-click-but-not-fast-mouse-click/76695#76695
+* question history
+  I asked on Stack Exchange, <2023-04-07 Fri>.
+  I got a quick response, but it was unhelpful.
+  THen I changed the question a lot,
+  realizing that click duration matters.
+  Nobody has responded as of <2023-04-13 Thu>.
+* motivation
+  On the phone, typing "C-x 1" each time I open a new buffer
+  slows me down a lot.
+* what I tried
+  (define-key org-mode-map [mouse-1]         'jbb-org-open-at-point)
+  (define-key org-mode-map (kbd "<mouse-1>") 'jbb-org-open-at-point)
+* where the code goes (once it works)
+  Right after this line:
+
+  (define-key org-mode-map (kbd "C-c C-o")   'jbb-org-open-at-point)

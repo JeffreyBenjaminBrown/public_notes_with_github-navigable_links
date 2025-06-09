@@ -1,0 +1,78 @@
+:PROPERTIES:
+:ID:       3924c945-e600-453f-be00-b2fb24d65f17
+:ROAM_ALIASES: Go
+:END:
+#+title: Go (programming language)
+* refs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/borgo_is_an_improved_go.org][Borgo is an improved Go.]]
+** the Go docs
+   https://golang.org/doc/
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imports_in_go.org#search-for-packages-or-symbols][Search for packages or symbols.]]
+** RESUME here
+   My code and their webpage:
+
+   ~/code/go/go-experim/error.go
+   https://tour.golang.org/methods/20
+** a good list of things to read
+   https://go.dev/tour/concurrency/11
+* pros
+** static typing
+** generics (recent)
+** concurrency is built-in, lightweight, channel-based
+** small, easy to learn
+** huge user base
+* cons
+** no sum types
+* running, building and installing
+** "go run" compiles and runs, without creating a binnary
+   It's useful for the dev cycle, when making many changes.
+** "go build" creates an executable.
+** "go install" makes executables globally available.
+   Run
+     go list -f '{{.Target}}'
+   to find Go's "install path".
+   Run
+     go install
+   to put the executable there.
+   Add the Go install path to my PATH
+   to make everything there globally available.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org#execution-order][execution order]] in Go
+** tests in Go
+:PROPERTIES:
+:ID:       ae748d4d-eb68-4f48-b73b-af28eae5c323
+:END:
+   I have some example code at
+   ~/code/go/go1/greetings/greetings_test.go
+*** "[Tt]est" matters in the names of files and functions
+**** next to y.go, put y_test.go
+     The _test suffix to the basename lets Go know it's a test.
+**** test functions should start with "Test"
+*** test functions take a pointer to testing.T as an argument
+*** run tests
+    from the folder containing them, with
+      go test
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imports_in_go.org][imports in Go]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_syntax.org][Go syntax]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_programming_language.org#tests-in-go][testing in Go]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_go.org][concurrency in Go]]
+* some libraries
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_in_go.org][time in Go]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/filepaths_in_go.org#concatenate-paths-in-go][filepaths]]
+* solutions
+** print a thing's type or value
+   Use %T or %v in a function from the `fmt` package:
+
+   func describe(i I) {
+     fmt.Printf("(%v, %T)\n", i, i)
+   }
+** strings
+*** concatenate strings
+    https://golangdocs.com/concatenate-strings-in-golang
+    The easiest way is with (+):
+      "x" + " " + "y"
+*** trim the whitespace at the edges of a string
+    strings.TrimSpace
+** file IO
+   ~/code/go/experim/file_io/
+** get the stack trace
+   panic ( "optional message" )

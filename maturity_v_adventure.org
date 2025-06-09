@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       79e4ff95-ba24-43c1-8298-e4a1372070e8
+:END:
+#+title: maturity & adventure
+* Adventure becomes [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/subtlety.org][subtler]].
+* Adventure might become scarcer, outcompeted.
+  Adventure in maturity might be scarcer,
+  among an elder's greater number of competing experiences.

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       97cfad8a-0d5e-4fca-915b-c6b13ac8b788
+:ROAM_ALIASES: fear vulnerability
+:END:
+#+title: fear | vulnerability
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fawning_can_be_a_trauma_response.org][Fawning can be a trauma response.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recognize_fear_in_your_aversions.org][Recognize fear in your aversions.]]
+* things to fear
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authoritarianism.org][authoritarianism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beware_encouragement_of_bad_behavior.org][encouraging bad behavior]]
+* manifestations of fear
+  so far all rational ones
+** shyness
+:PROPERTIES:
+:ID:       4858b083-0138-426d-b12c-b36bfe513f26
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org][desperation and despair]]

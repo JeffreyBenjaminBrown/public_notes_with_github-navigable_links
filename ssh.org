@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e21896f4-2b67-4d0b-b474-80c22545c513
+:ROAM_ALIASES: "secure shell" SSH
+:END:
+#+title: ssh
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scp_secure_copy.org][scp (secure copy)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/serving_ssh_on_nixos.org][serving SSH on NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ssh_over_https_at_least_for_github.org][SSH over HTTPS, how to, for Github or maybe anything]]

@@ -1,0 +1,121 @@
+:PROPERTIES:
+:ID:       b41446ae-aca2-4b3c-a7b2-c42d16ab206d
+:END:
+#+title: 50-edo
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#50-100][50-edo and 100-edo are fat-finger friendly.]]
+* flat meantone system, fantastic at 23-limit
+* layouts
+** DONE (Right?) : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_50_x_3_50_isomorphic_2_d_pitch_layout.org][7\50 x 3\50]]
+** 6\50 x 1\50d: 31-lim in 8x6, octave 8-2
+   04 steps; 17 % 16; string 1; fret -2
+   16 steps; 5  % 4;  string 3; fret -2
+   23 steps; 11 % 8;  string 4; fret -1
+   29 steps; 3  % 2;  string 5; fret -1
+   35 steps; 13 % 8;  string 6; fret -1
+   00 steps; 1  % 1;  string 0; fret 0
+   12 steps; 19 % 16; string 2; fret 0
+   48 steps; 31 % 16; string 8; fret 0
+   43 steps; 29 % 16; string 7; fret 1
+   08 steps; 9  % 8;  string 1; fret 2
+   20 steps; 21 % 16; string 3; fret 2
+   26 steps; 23 % 16; string 4; fret 2
+   32 steps; 25 % 16; string 5; fret 2
+   38 steps; 27 % 16; string 6; fret 2
+   50 steps; 2  % 1;  string 8; fret 2
+   45 steps; 15 % 8;  string 7; fret 3
+   40 steps; 7  % 4;  string 6; fret 4
+** 6\50 x 1\50u: octave 9-4, 15-lim smart height 2.84
+*** PITFALL: That's 1\50 in the *up* direction
+*** layout
+
+             11 3  13 -- -- -- -- -- -- -- -- -- 15'--
+
+          5  -- -- -- 7  -- -- 9  -- -- -- -- -- -- 4  --
+
+          -- -- -- -- -- 15 -- -- -- -- -- -- -- -- -- --
+
+       9  -- -- -- -- -- -- 2  -- -- -- -- -- -- -- -- --
+
+    -- -- -- -- -- -- -- -- -- -- -- -- 11'3' 13'-- -- --
+
+    1  -- -- -- -- -- -- -- -- -- -- 5' -- -- -- 7' -- --
+
+          -- -- 11 3  13 -- -- -- -- -- -- -- -- -- 15'--
+
+          -- 5  -- -- -- 7  -- -- 9' -- -- -- -- -- -- 4
+
+          -- -- -- -- -- -- 15 --
+
+          9  -- -- -- -- -- -- 2
+
+** 7\50 x 2\50: Lumatone-feasible but evil major triad
+   0  steps; 1  % 1; string 0; fret 0
+   8  steps; 9  % 8; string 2; fret -3
+   16 steps; 5  % 4; string 2; fret 1
+   23 steps; 11 % 8; string 3; fret 1
+   29 steps; 3  % 2; string 5; fret -3
+   35 steps; 13 % 8; string 5; fret 0
+   40 steps; 7  % 4; string 6; fret -1
+   45 steps; 15 % 8; string 7; fret -2
+   50 steps; 2  % 1; string 8; fret -3
+** 10\50 x 3\50: guitar-feas, 31-lim 6x8, 15-lim 6x6
+:PROPERTIES:
+:ID:       81559b14-196b-441b-b89a-6b2f7ab410c2
+:END:
+*** layout
+   0  steps; 1  % 1 ;  string 0 ;   fret 0
+   50 steps; 2  % 1 ;  string 5 ;   fret 0
+   29 steps; 3  % 2 ;  string 2 ;   fret 3
+   16 steps; 5  % 4 ;  string 1 ;   fret 2
+   40 steps; 7  % 4 ;  string 4 ;   fret 0
+   8  steps; 9  % 8 ;  string - 1 ; fret 6
+   23 steps; 11 % 8 ;  string 2 ;   fret 1
+   35 steps; 13 % 8 ;  string 2 ;   fret 5
+   45 steps; 15 % 8 ;  string 3 ;   fret 5
+   4  steps; 17 % 16 ; string 1 ;   fret - 2
+   12 steps; 19 % 16 ; string 0 ;   fret 4
+   20 steps; 21 % 16 ; string 2 ;   fret 0
+   26 steps; 23 % 16 ; string 2 ;   fret 2
+   32 steps; 25 % 16 ; string 2 ;   fret 4
+   38 steps; 27 % 16 ; string 2 ;   fret 6
+   43 steps; 29 % 16 ; string 4 ;   fret 1
+   48 steps; 31 % 16 ; string 3 ;   fret 6
+*** 50/3 = 16.666 fret per octave
+*** Span of 5 frets in the 29-limit sans 17
+    and 8 frets in the full 31-limit.
+*** Octaves at (5,0) and (2,10)
+    The second is almost exactly the same fret-span as a 12-edo octave: 10/16.3333 - 7/12 = about 0.029.
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/8_50_x_5_50_isomorphic_tuning_layout_bosanquet.org][8\50 x 5\50 (Bosanquet)]]
+** 7\50 5\50: mandolin-feasible, area 6x4
+            [ 0 steps; 1 % 1 ; string 0 ; fret 0
+            , 50 steps; 2 % 1 ; string 5 ; fret 3
+            , 29 steps; 3 % 2 ; string 2 ; fret 3
+            , 16 steps; 5 % 4 ; string 3 ; fret - 1
+            , 40 steps; 7 % 4 ; string 5 ; fret 1
+            , 8 steps; 9 % 8 ; string - 1 ; fret 3
+            , 23 steps; 11 % 8 ; string 4 ; fret - 1
+            , 35 steps; 13 % 8 ; string 5 ; fret 0
+            , 45 steps; 15 % 8 ; string 5 ; fret 2
+** 19\50 x 2\50: 25-edo frets, octavess (2,6) and (4,-13), 13-limit 2x8
+:PROPERTIES:
+:ID:       c68ee78d-7cc0-4143-90a9-d55ea177da65
+:END:
+    [ 0 steps; 1 % 1 ; string 0 ; fret 0
+    , 50 steps; 2 % 1 ; string 2 ; fret 6
+    , 29 steps; 3 % 2 ; string 1 ; fret 5
+    , 16 steps; 5 % 4 ; string 0 ; fret 8
+    , 40 steps; 7 % 4 ; string 2 ; fret 1
+    , 8 steps; 9 % 8 ; string 0 ; fret 4
+    , 23 steps; 11 % 8 ; string 1 ; fret 2
+    , 35 steps; 13 % 8 ; string 1 ; fret 8
+    , 45 steps; 15 % 8 ; string 1 ; fret 13
+** 9\50 x 4\50: 12.5-edo frets, octaves (6,-1) | (2,8), 15-lim 4x8 | 6x6
+    0 steps;  1 % 1 ; string 0 ; fret 0
+   50 steps;  2 % 1 ; string 6 ; fret - 1 | string 2 fret 8
+   29 steps;  3 % 2 ; string 1 ; fret 5
+   16 steps;  5 % 4 ; string 0 ; fret 4
+   40 steps;  7 % 4 ; string 4 ; fret 1
+    8 steps;  9 % 8 ; string 0 ; fret 2
+   23 steps; 11 % 8 ; string 3 ; fret - 1 | string -1 fret 8
+   35 steps; 13 % 8 ; string 3 ; fret 2
+   45 steps; 15 % 8 ; string 5 ; fret 0

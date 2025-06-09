@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ecfeee79-13d4-42f5-adf7-b3444c755c91
+:END:
+#+title: how to estimate anticipated duration
+* source
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/daniel_kahneman.org][Daniel Kahneman]]?
+  Or was it someone quoted by Steve Levitt in his podcast interview with DK in 2021?
+* the idea
+  Estimation (e.g. of duration) is best done via indepedent chunks, rather than a wholistic intuition. (per Daniel Kahneman)
+  Then subdivide a different way and estimate again.
