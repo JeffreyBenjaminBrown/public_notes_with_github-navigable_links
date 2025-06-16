@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       4298e5f2-42de-4880-8432-8f57a9f7e2b4
+:END:
+#+title: probability
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_radically_different_would_we_be.org][How radically different would we be?]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       df2e01d2-1362-48fa-9f09-8d7d70cf31ec
+:END:
+#+title: questions about the TidalCycles language
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/broken_things_that_seem_tidalcycles.org][broken, things that seem \ TidalCycles]]
+* from list v. Listopat
+#+BEGIN_SRC haskell
+  x = 1
+  y = x + 1
+#+END_SRC
+* Timecat
+* BLOCKED [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/understand_event_part_and_whole.org][understand Event, part and whole]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/superdirt_plugin_for_supercollider.org#todo-parameters-that-have-no-effect][parameters that have no effect]]
+* What's "segment" for?
+  e.g. from here:
+    https://club.tidalcycles.org/t/creating-effects-chains-or-audio-buses/3707/3
+    d2 $ crushbus 1 (segment 128 $ range 6 1.1 (slow 4 saw))
+* What is the default amplitude?
+  0.35?

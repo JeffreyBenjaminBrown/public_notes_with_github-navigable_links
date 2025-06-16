@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       37f7be50-9b2c-4426-b288-e83225b6d5d8
+:ROAM_ALIASES: "the limits of expression"
+:END:
+#+title: expressivity voids , observed
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/female.org][_]] (link would be recorded there but that's public)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_maybe_only_expressible_through_art.org][things maybe only expressible through art]]
+* I want to use quotation marks to indicate that I read it and it can be looked up, because citation is too slow.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/who_else_is_a_parent_to_node_s_children.org][which others is a parent to _'s children]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/represent_record_or_suggest_moves.org][Represent, record, or suggest moves.]]
+* I wish editing this list in one place edited it everywhere.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org][wholeness]]  [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/fission_psychic.org][fission]]  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fusion.org][fusion]]  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org][emptiness]]
+* PITFALL: Without being extremely explicit, notes on this can turn out to be indecipherable.
+** solved
+*** represent unordered subsets, and connect every relationship to the subset consisting of its members
+    If there is only one populated relationship with those members, this relationship could be skipped.
+*** When relating x&y to the view z*, x&y should be listed as an ancestor at the same level as and before x and y.
+    Note that z might include x or y.
+**** Better: Just show x & y, but make it clear when each subexpression exists.
+     This should apply to any function (e.g. "x || y & z", and make visible all relationships involving those things. (This might be represented by connecting the set {x y z} automatically to each subset if that subset itself includes any relations*
+     (*) that have been written
+** examples
+   what did I mean by each of the following?
+*** When relating x&y to z, x&y should be listed as an ancestor at the same level as and before x and y.
+*** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/everything.org#options-perpetually-under-consideration][options perpetually under considearation]]
+*** a how_to_read property
+    example (unfold the properties to see)
+**** Mercy is a form of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transcendence.org][transcendence]].
+:PROPERTIES:
+     :HOW_TO_READ: "remind viewer to look rootward"
+:ID:       5b9caf47-ff2f-4821-8476-2dee77d51ec4
+:END:
+* relation type visible only after target of connection
+** a note in which I wanted to do this
+:PROPERTIES:
+:ID:       c0dc4e33-707e-4e4d-a6e4-baa7ffec1474
+:END:
+  * [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gender_is_a_form_of_guidance.org][Gender is a form of guidance.]]
+  ** [[id:a04116d1-bd1a-4370-b036-1cbab3492281][channeling a higher [ force | power | principle ]​]]
+** what in that note I wish I could express
+   In "gender" it's more important that the parent headline be visible than its child, but the child connects the two.
+** Conversely, sometimes you want the category to come first.
+   more often, I think
+* How to share information among people with private information.
+* a file "x & y" , if linked to files x and y, can define [a] relationship between them
+* In a words graph, backward seems a better label for that direction of reading than upward.
+* TODO give examples of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/judiciously_delete_platonic_linking_nodes.org][judiciously deleting Platonic linking nodes.]]
+* [[id:9b247ad4-a606-4bd4-a5a6-df297d91e262][Each node should [order, structure] its parents.]]
+* DONE motivations for oscillable generations view
+** The existence of [nodes in list below] makes me want to see "backward" through two levels of graph relatives from the node.
+*** one and why
+**** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/immortality_through_identity_loss_private_jbb.org][immortality through identity loss & private jbb]]
+**** why
+     it somehow obscures what I can normally see behind a privacy graph edge (jump).
+*** a second and why
+**** This very [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org][expressivity voids , observed]] file.
+* solved
+** Bad idea: "[author] would place _ distant from _ (in [view])"
+   That binds the two _s as tightly as possible, one hop.
+*** Probably better: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/represent_record_or_suggest_moves.org][Represent, record, or suggest moves.]]

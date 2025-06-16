@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1bf0f337-0bf4-42e3-87eb-219548fa6a26
+:END:
+#+title: stderr
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_pipe_stdout_and_stderr_to_the_same_file.org][to pipe stdout and stderr]]

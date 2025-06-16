@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2bf0c161-5014-4291-8db5-70801e8a8a65
+:END:
+#+title: honor
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/resist_peer_pressure.org][Resist peer pressure.]]
+* neighbors
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honesty.org][honesty]]
+** compassion
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org][justice]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love_exclusion.org][devotion]]
+** chivalry
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][moderation]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humility]]
+** reputation
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org][power]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
+** chastity
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magnanimity.org][magnanimity]]
+* opposing concepts
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/betrayal.org][betrayal]]

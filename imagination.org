@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       cc3843e9-5283-4a1e-b6ba-e58ec5026dbd
+:END:
+#+title: imagination
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/human_potential.org][human potential]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org][optimism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org][absurdity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spiritual_healing_would_require_imagination.org][Spiritual healing would require imagination.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/fantasy.org][fantasy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neuroticism.org][neuroticism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imagination_religion.org][imagination & religion]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oulipo_freedom_and_inspiration_via_constraints.org][Oulipo : freedom and inspiration via constraints]]
+* "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/boldness_is_seldom_without_some_absurdity.org][boldness is seldom without some absurdity]]"

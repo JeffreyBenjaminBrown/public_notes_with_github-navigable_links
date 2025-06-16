@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       cf3d9e97-2c7a-4c2c-a6d3-33ea4dab2654
+:ROAM_ALIASES: karma
+:END:
+#+title: There is no time, only karma.
+* defining , attempts at
+** More precisely, karma is more fundamental.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/causation_is_who.org#karma-is-inseperable-from-population-details][Karma is inseperable from population details.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/causation_is_who.org][Causation is who?]]
+** karma ~ consequences
+* technical
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_is_time_s_initial_foundational_conditions.org][Time is time's initial/foundational conditions.]]

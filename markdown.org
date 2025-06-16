@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3b636b7e-cae9-447b-bccd-b7169eeef5d9
+:END:
+#+title: markdown
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/markdown_to_pdf_how_to_convert.org][markdown to pdf, how to convert]]
+* markdown headings
+  Bigger headings should carry *fewer* leading # marks.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anchor_to_create_one_in_github_flavored_markdown.org][anchor, to create one in Github-flavored markdown]]
+* linking to another local file in Github markdown
+  En [otro documento](./algoritmo.md) describo el algoritmo.
+* lists
+** labeled or not
+*** without labels
+    use *, - or +
+*** with labels
+    use "1. " (the space matters)
+** indentation matters
+   In either case (labeled or not).

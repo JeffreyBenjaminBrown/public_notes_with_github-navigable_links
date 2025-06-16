@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       237c52c1-7bca-4b83-8b6b-b64ffe209438
+:END:
+#+title: awkwardness
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-consciousness]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/weird_awkward_nonresponse.org][weird awkward nonresponse]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awkwardness_is_funny.org][Awkwardness is funny.]]
+* oversharing
+** see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][moderation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org#did-playing-poker-help-me-understand-how-to-talk][Did playing poker help me understand how to talk?]]

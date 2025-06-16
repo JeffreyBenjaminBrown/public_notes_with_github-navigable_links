@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bf229144-c124-4807-9289-a0924eeb3883
+:END:
+#+title: guitar
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guitar_intonation_setup.org][guitar intonation setup]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_guitar.org][microtonal guitar]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/making_a_microtonal_guitar.org][making a microtonal guitar]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/luthiers.org][luthiers]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/matthew_auttrey_on_fretting_a_guitar.org][Matthew Auttrey on fretting a guitar]]

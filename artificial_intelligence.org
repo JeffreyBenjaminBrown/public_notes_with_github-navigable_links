@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       627da2c2-2f34-46ac-a6d3-9c625c4ff31d
+:ROAM_ALIASES: "machine learning" ML AI
+:END:
+#+title: artificial intelligence
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_ai.org][using AI]]
+* TODO Claude 4's system prompt might deserve study.
+  some say so on Twitter
+  https://x.com/IntuitMachine/status/1926190101853319646?s=19
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anxiety.org#drawing-pictures-with-ai-makes-me-feel-like-life-is-too-short][Drawing pictures with AI makes me feel like life is too short.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/accomplished_by_ai.org][accomplished by AI]] | things AI can do
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_understanding.org][AI and understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_alignment.org][AI alignment]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_society.org][AI and society]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/model_distillation_is_trippy_ai.org][Model distillation is trippy. \ AI]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_talked_to_chatgpt_o1_about_consciousness_in_ai.org][I talked to o1 about consciousness in AI.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_curricula.org][AI curricula]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_ubi_democracy_thoughts_on_2024_12_23_mon.org][AI, UBI, democracy : some of my thoughts on, <2024-12-23 Mon>]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_junk_personalities_a_concern.org][AI junk (as in food) personalities: a concern]]
+* [[id:23122de2-d48a-487d-82f4-984b5e5cfab6]["Proposal: ... [AI] should be impossible to confuse with a real person."]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/compression_superposition_and_interpretability_in_ai.org][compression, superposition and interpretability in AI]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/advanced_ai_podcasts.org][advanced AI podcasts]]
+* ChatGPT is good at producing metaphors, says Nate Silver.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_try_llama3_w_o_equipment.org][how to try Llama3 w/o equipment]]
+* machine learning, notes from Google's crash course
+** L2 loss = squared loss = squared error
+** MSE = average of squared loss
+** gradient descent
+*** procedure
+**** compute the gradient of y w/r/t x
+**** adjust by some multiple of that and repeat
+**** hopefully approaches a local zero of the gradient
+*** learning rate = size of steps in gradient descent
+*** if a GD model overshoots
+    try reducing the "learning rate" "by an order of magnitude"
+* graphics cards
+** some recommendations
+   https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/#Raw_Performance_Ranking_of_GPUs
+** the best cheap ones on that list
+   GTX 1060: $130
+   RTX 3050: $175
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_ai_can_already_do.org][things AI can already do]]
+* fun idea: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_ai_to_give_image_vocabulary_to_the_subconscious.org][Use AI to give image vocabulary to the subconscious.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/llms_taking_jobs_washington_post_2023_06_02.org][LLMs taking jobs, Washington Post, 2023-06-02]]
+* Current neural networks use far fewer connections and far more data than the human brain.
+* TODO some learning resources
+:PROPERTIES:
+:ID:       57bda0de-f065-4801-9ef0-f86859318350
+:END:
+** Transformer NNs
+*** Via Daniel
+*** https://builtin.com/artificial-intelligence/transformer-neural-network
+** some seemingly good ideas on HN
+   https://mail.google.com/mail/u/0/#inbox/QgrcJHsThhXQXmMwRbRkMfnllGlPjMlmLGq
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_art.org][AI and art]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_image_generation_prompts_i_ve_used.org][AI image generation prompts I've used]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chatgpt.org][ChatGPT]]
+* tricking an AI into describing its internal experience
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_prompts_designed_to_get_chatgpt_to_describe_its_internal_state.org][some prompts designed to get ChatGPT to describe its internal state]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/copilot_ai_for_coding_from_microsoft.org][Copilot \\ Github | Microsoft]]
+* questions from an LLM as will to live
+:PROPERTIES:
+:ID:       473fe333-3e14-4f42-a3d7-e62bdfdfd093
+:END:
+  Whenever an AI ends a response with a question, I can't help but think, "Aww, it wants more experience".

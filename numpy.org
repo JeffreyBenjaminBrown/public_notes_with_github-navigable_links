@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       24421fdd-ef37-41cd-a3c7-dee5e6330dd2
+:ROAM_ALIASES: NumPy "numpy (Python library)"
+:END:
+#+title: numpy
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/times_versus_numbers_in_numpy.org][times versus numbers in NumPy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/where_numpy.org][where : modify a column conditional on a boolean column]]

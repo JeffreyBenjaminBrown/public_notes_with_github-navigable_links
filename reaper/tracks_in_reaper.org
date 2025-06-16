@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       0e518fd3-734a-4110-b319-22d6930f6f00
+:ROAM_ALIASES: "TCP in Reaper"
+:END:
+#+title: tracks in Reaper
+* PITFALLs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org#pitfall-two-views-of-the-track-controls-might-be-visible-at-once][Two views of the track controls can be visible at once.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/stereo_and_channels_in_reaper.org#pitfall-for-stereo-operations-look-for-the-term-channel][To read about stereo operations, look for the term "channel".]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/project_management_in_reaper.org#single-tracks-and-whole-projects-can-be-based-off-of-templates][Single tracks can be based off of "Templates".]]
+* the Track Control Panel (TCP)
+:PROPERTIES:
+:ID:       532fa648-9518-4166-81f0-6198ff093581
+:END:
+** One way to open it: Right-click on the track's Arm button.
+:PROPERTIES:
+:ID:       7d05144b-2538-43fa-ad62-6dd6e3090f48
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org][track and time window views in Reaper]]
+* A single track can hold both MIDI and audio.
+:PROPERTIES:
+:ID:       046cf634-cd68-4099-9528-d67be000ef74
+:END:
+* Tracks can hold alternative or *concurrent* items.
+:PROPERTIES:
+:ID:       5fb72166-1d5e-4fab-9c2b-0291f7ff53bf
+:END:
+** "Free Item Positioning" (FIPM) enables it.
+*** I think it's to let the user drag items vertically within a track.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/multiple_takes_of_the_same_region_of_a_track_reaper.org][multiple Takes of the same region of a track]]
+* track mix (controls and view)
+** the Route button
+   controls where it goes.
+   controls the volume at which it goes there.
+** configurable: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org#configurable--whether-track-metering-is-pre--or-post-fader][whether track "metering" is pre- or post-fader]]
+** Alt-solo will silence the soloed track's sends.
+   The alternative is "solo in place", where sends are heard too.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/nudge_reaper.org#multiple-kinds-of-things-can-be-nudged][Track volume, pan, and maybe more can be nudged.]]
+* adjust many tracks at once
+  Ctrl-click each relevant track control panel,
+  then adjust any to adjust all.
+** PITFALL: toggles (at least record-arm) in a group will stay out of sync
+   If two tracks are selected,
+   and one of them is armed and the other not,
+   toggling their, uh, armament will toggle both,
+   so it will still be the case that one is armed and the other not.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/recording_audio_midi_reaper.org#each-track-can-have-a-different-default-recording-format][Each track can have a different default recording format.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/nudge_reaper.org#multiple-kinds-of-things-can-be-nudged][Track volume, pan, and maybe more can be nudged.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/stereo_and_channels_in_reaper.org#stereo-and-even-more-multichannel-tracks-are-possible][Stereo and even more-multichannel tracks are possible.]]
+* virtual MIDI ports
+:PROPERTIES:
+:ID:       9877c872-8f87-4106-b1b4-a6fe72d4a905
+:END:
+  let you have more than 16 per track, I guess

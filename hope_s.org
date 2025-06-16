@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       55a3533c-da70-445b-bd9a-0b950f52b85d
+:END:
+#+title: hope
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_ambition.org][hope & ambition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_is_a_skill.org][Hope is a skill.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_jobhunting.org][hope & jobhunting]]
+* instances \ hope
+:PROPERTIES:
+:ID:       3459fbda-0e97-4c14-9f0a-9b507d1e759c
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_improvement.org][self-improvement]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collective_understanding.org][collective understanding]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org][community]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_organizing_everyone_s.org][knowledge graphs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org][justice]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/utopia.org][utopia , perfect experience]]
+** dubious
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage_vs_comfort.org][courage vs. comfort]]

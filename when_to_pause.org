@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       385a4f63-eaf8-4fe1-b576-0666ea50dde3
+:END:
+#+title: when to pause
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situations_and_how_to_handle_them.org][high-pressure situations to review notes before]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intuition.org][intuition]]
+* When I'm not sure my priorities are straight, consider meditating (on it).
+  examples
+** when I have witnessed injustice and am tempted to ignore it and get on with my own work
+** when feeling like I'm ignoring something hard for something easy
+* when feeling angry, annoyed or otherwise uncharitable
+** TODO Try pointing out, kindly, how I feel to whoever is pissing me off.
+* when feeling nervous about a decision in progress
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_entering_a_password_feels_wrong_pause.org][when entering a password feels wrong]]
+** Ask for more time when an irreversible operation is about to happen.
+   Then use that time to think about how to assure the outcome is okay,
+   or how to gracefully back out.
+** when feeling pressured into a decision
+   e.g. by salespeople
+* when I notice myself *suppressing* feelings
+** of nervousness
+   e.g. if I'm about to do something that might be stupid,
+   consider in detail the potential negative consequences.
+** when tempted to ignore pain,
+   stop to consider the stakes.
+* when I find myself justifying myself
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notice_when_i_think_while_writing_something_true_enough.org][Notice when I think, while writing something, "true enough".]]

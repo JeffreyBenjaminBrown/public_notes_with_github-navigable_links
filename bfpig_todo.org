@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       efb16b7e-5be1-4990-8f2e-08d17eee3ccd
+:END:
+#+title: BFPIG, TODO
+* TODO secure a space, time
+** TODO leads Sandy got from Facebook
+   https://www.cicce.edu.co/alquiler-de-aulas/
+   https://ins.edu.co/alquiler-de-salones/
+   https://co.linkedin.com/in/alquiler-salones-clases-bogota-283537a0
+** tentative: last Thursday of the month
+** DONE cbustaca@javeriana.edu.co
+   director of comp sci at PUJ, according to
+   https://ingenieria.javeriana.edu.co/departamento-ingenieria-de-sistemas
+** efrain.ortiz@javeriana.edu.co
+   I thought he was the director of CS,
+   but can't find that now.
+* messages
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_juanita_buscando_un_espacio_para_el_bogota_functional_programming_interest_group.org][to Juanita]]
+** to strangers
+   Subject: Functional Programming Interest Group
+
+Buenas noches Dr. Bustacara,
+
+Yo soy Jeff Brown, profesor de economía acá en la PUJ, y el director tecnológico del Observatorio Fiscal de la Javeriana. Acabo de lanzar, con un ingeniero de sistemas alemán que vive acá y trabaja para Cardano (la companía que lanzó la cryptomoneda del mismo nombre), un Meetup llamado Bogotá Functional Programming Interest Group: https://www.meetup.com/functional-programming-interest-group-at-puj/
+
+Para usted le tengo dos preguntas:
+
+(1) Estoy buscando un espacio para nuestras reuniones. Desafortunadamente, el edificio Jorge Hoyos de la facultad de economía y administración no serviría, porque la seguridad es demasiado estricto -- requieren el carnet de la PUJ a cualquier persona que entre, y la idea es que el Functional Group sea abierto al público. Yo no se como es la seguridad de ustedes; será que nos podría (y que quisiera) dar un espacio en uno de sus edificios de ingeniería?
+
+(2) Busco difundir el enlace al Grupo con gente posiblemente interesada -- profesores de ingeniería de sistemas, profesionales de programación y administración de sistemas, estudiantes de posgrado. Tal vez estudiantes de pregrado, aunque creería que van a ser exigientes las presentaciones.
+
+Un cordial saludo,
+Jeff
+
+* make it known
+** the email I sent Dr. Riascos
+   https://mail.google.com/mail/u/0/#search/to%3Aalvaro.riascos%40quantil.com.co/KtbxLwGvXzhGCSwDgDHrDNMXkfDhHZbwgV
+* prepare a presentation

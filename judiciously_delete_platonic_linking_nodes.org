@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       67cc1b2b-4ec5-4012-9756-dcaafdabb41c
+:END:
+#+title: Judiciously delete Platonic linking nodes.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grounded_claims_are_cool.org][grounding]] for it
+  That is, if in the ideal conceptual space you would have a chain X Y Z, sometimes it helps to record all three, and sometimes it's actually better to omit Y. Particularly if X and Z are better understood than Y.
+* TODO examples

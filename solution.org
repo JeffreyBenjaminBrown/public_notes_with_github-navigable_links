@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       b7ff0805-4a7d-4f56-85ab-78dcdf88e8f8
+:ROAM_ALIASES: optimization solution productivity
+:END:
+#+title: solution | optimization | productivity
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/realism.org][realism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][information]]
+* flow, the mental state
+:PROPERTIES:
+:ID:       dd74aa97-289b-4fad-9540-6a7445e1484c
+:END:
+** Music is better for flow than podcasts.
+   Music lets you move between intellectually demanding tasks and easy ones without interrupting the stream.
+* anti-neighbors
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irratinoality_inconsistency.org][irrationality , inconsistency]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meaninglessness_pointlessness.org][meaninglessness | pointlessness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom.org#liberation-via-humility][liberation via humility]]
+* etymology
+** Solution     suggests discrete possibility spaces.
+** Optimization suggests continuous choice.
+* technical
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/constrained_optimization.org][how to do constrained optimization]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reevaluation_scheduling.org][scheduling reevaluation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/strategy_can_be_like_a_black_hole.org][Strategy can be like a black hole.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice_accounting.org][justice & accounting]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/elegance_constrained_optimization.org][elegance = constrained optimization]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/synthesis_ala_hegel.org][synthesis ( ala Hegel )]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][balance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/complementarity_schemes.org][complementarity]]
+* some interesting ones
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_beat_around_the_bush.org][Don't beat around the bush.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flirt_before_proposing_anything_radical.org][Flirt before proposing anything.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org][self-respect]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sexiness_does_not_feel_obligated.org][Sexiness does not feel obligated.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happy_alone_first.org][find happiness alone first]]
+* art involving it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_had_a_really_epic_missing_half.org][if you had a really epic missing half]]
+* defineable in terms of it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism_solution_transcendence.org][optimism + solution = transcendence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/economics.org#competition][competition]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hate.org#hate-might-serve-a-useful-prioritization-function][Hate might serve a useful prioritization function.]]

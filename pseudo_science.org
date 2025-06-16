@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3989a4db-9ec4-43c4-9123-dbc4ebea2378
+:END:
+#+title: pseudo-science
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_the_world_upside_down_is_a_good_example_of_a_scientifically_meaningless_question.org]["Is the world upside down" is a good example of a scientifically meaningless question.]]

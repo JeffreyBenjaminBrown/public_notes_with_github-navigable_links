@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d7d8d66e-24b4-4f53-aa98-0d6707b26254
+:END:
+#+title: patience
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immaturity.org][immaturity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/patience_v_courage.org][patience v. courage]]

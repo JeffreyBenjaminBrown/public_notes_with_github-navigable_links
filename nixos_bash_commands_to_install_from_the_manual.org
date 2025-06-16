@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       e38807e5-38c7-48e6-b8fa-f7388144b9b4
+:END:
+#+title: NixOS, bash commands to install, from the manual
+* recipes
+  alternatives
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_21_11_bash_commands_to_install_from_the_manual.org][NixOS 21.11, bash commands to install, from the manual]]
+** for NixOS 22.05
+*** start the GUI if needed
+    systemctl start display-manager
+*** set up internet if needed
+    When the GUI installer didn't work on my 2022-new PUJ desktop,
+    I ran `nmtui`, deleted all existing connections,
+    created a new ethernet connection,
+    accepted all the defaults,
+    and although I still couldn't ping google.com,
+    I was able to curl https://linuxhint.com
+*** partition
+    alternatives
+**** if using UEFI
+     You can safely ignore parted's informational message about needing to update /etc/fstab.
+     swap_size=64GB
+       # I'm giving this (my PUJ desktop) a lot of swap,
+       # because I'm short on RAM,
+       # and the 1 TB SDD is way more than I need.
+     sudo parted /dev/sda -- mklabel gpt
+     sudo parted /dev/sda -- mkpart primary             512MB      -$swap_size
+     sudo parted /dev/sda -- mkpart primary linux-swap -$swap_size 100%
+     sudo parted /dev/sda -- mkpart ESP fat32 1MB 512MB
+     sudo parted /dev/sda -- set 3 esp on
+**** if using Legacy Boot
+     swap_size=256GB
+       # I'm giving this (my PUJ desktop) a lot of swap,
+       # because I'm short on RAM,
+       # and the 1 TB SDD is way more than I need.
+     parted /dev/sda -- mklabel msdos
+     parted /dev/sda -- mkpart primary            1MB         -$swap_size
+     parted /dev/sda -- mkpart primary linux-swap -$swap_size 100%
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitfall_substitute_accurate_partition_names_into_these_nixos_installation_instructions.org#substitute-accurate-partition-names-into-these-nixos-installation-instructions][PITFALL: In the below, substitute accurate partition names into these commands.]]
+*** format
+    sudo mkfs.ext4 -L theFileSystem /dev/sdap1 # theFileSystem is an arbitrary name
+    sudo mkswap -L swap /dev/sdap2
+**** only if using UEFI
+     sudo mkfs.fat -F 32 -n boot /dev/sdap3
+*** install
+    serial
+**** sudo mount /dev/disk/by-label/theFileSystem /mnt
+**** if using UEFI, mount the boot system
+     sudo mkdir -p /mnt/boot
+     sudo mount /dev/disk/by-label/boot /mnt/boot
+**** more
+     sudo swapon /dev/sdap2
+     sudo nixos-generate-config --root /mnt
+     <edit that config>
+**** boot loader
+***** if using BIOS
+      In the configuration, set `boot.loader.grub.device`.
+***** if using UEFI
+      boot.loader.systemd-boot.enable
+**** sudo nixos-install
+**** reboot

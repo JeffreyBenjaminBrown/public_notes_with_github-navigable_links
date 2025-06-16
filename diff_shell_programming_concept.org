@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e6dc1949-5024-4fee-b031-7af412353a5e
+:END:
+#+title: diff (shell programming concept)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/diff_modulo_base.org][diff modulo base]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/when_manually_restore_the_old_part_of_a_diff_don_t_ignore_the_white_text.org][When manually restoring the old part of a diff, don't ignore the white text.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magit_diff_to_change_options.org][magit & diff // to change options]]
