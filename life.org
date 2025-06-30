@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8d624422-f901-4208-aaa7-bbbc6f1f5ba1
+:END:
+#+title: life
+* transclude: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org][death]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_life_is_change_then_to_not_change_much_is_to_be_near_death.org][If life is change, then to not change (much) is to be (near) death.]]

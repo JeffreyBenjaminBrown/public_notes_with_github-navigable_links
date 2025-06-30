@@ -1,0 +1,470 @@
+:PROPERTIES:
+:ID:       8b6e8ffc-e7ec-4c17-946b-23a73b51f3bd
+:END:
+#+title: TypeDB model, syntax, language
+* refs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#the-full-typeql-grammar-1][the full TypeQL grammar]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#an-example-defining-all-three-kinds-of-thing][a scheme definition example for all three kinds of Thing]]
+* weird vocabulary
+** A "Query" is any command.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#pitfall-in-a-get-clause-get-is-optional-but-match-is-mandatory][The "get" clause in a Get is optional, but "match" is mandatory.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#pitfall-in-old-docs-gets-are-sometimes-called-matches][In old docs "get"s are sometimes called "match"es.]]
+* general syntax
+** Whitespace is ignored.
+** Comments start with #, and can begin mid-line.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/type_names_in_typedb_can_include_both_and.org][Type names in TypeDB can include both - and _.]]
+** the full TypeQL grammar
+:PROPERTIES:
+:ID:       e86f5069-c318-4935-97ae-538da6d431bf
+:END:
+*** MAYBE https://typedb.com/docs/typeql/keywords
+    THe original page is gone, but maybe this is its replacement.
+* the type system
+** atomic datatypes, not part of the schema
+:PROPERTIES:
+:ID:       a825e88d-3815-4400-923d-a579de478811
+:END:
+   https://typedb.com/docs/typedb/2.x/fundamentals/patterns
+   long
+   double
+   boolean
+   string
+   datetime
+** The type system *supposedly* consists of three trees.
+*** PITFALL: I see two more type categories, Role and RootThing
+ConceptMap { map: {"x": EntityType(EntityType { label: "entity", is_root: true, is_abstract: true })}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },
+ConceptMap { map: {"x": RoleType(RoleType { label: ScopedLabel { scope: "relation", name: "role" }, is_root: true, is_abstract: true })}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },
+ConceptMap { map: {"x": AttributeType(AttributeType { label: "text", is_root: false, is_abstract: false, value_type: String })}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },
+ConceptMap { map: {"x": RootThingType(RootThingType)}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },
+ConceptMap { map: {"x": RelationType(RelationType { label: "relation", is_root: true, is_abstract: true })}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },
+
+*** the three top-level abstract classes
+    entity, relationship, attribute
+*** "thing" is an invisible even-more-top-level type
+    It is deprecated, and will disappear in future versions of TypeDB.
+    But I (jbb) find it useful for talking about entities, relationships and attributes all at once. When I do I will capitalize the word Thing.
+** A type is a set of constraints.
+** identity
+*** To uniquely ID a relation., its type and members are not enough.
+    Its attributes are also needed.
+    "An instance of a relation can be uniquely addressed by a combination of its type, owned attributes, and role players."
+*** "An instance of an attribute type can be uniquely addressed by its type and value."
+**** => Like-valued attributes are unique and (if needed) shared.
+     For instance, if "name" is an attribute,
+     there can only be one name equal to Bob,
+     but different people can share it.
+** Things* are said to "own" attributes.
+*** Ownership is defined using keywords "has" and "owns".
+    "has" in an object definition,
+    "owns" in a type definition.
+** Every attribute type has a value type.
+*** Chosen, I guess, from the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#atomic-datatypes-not-part-of-the-schema][atomic datatypes]].
+*** TODO Can a user define their own types?
+:PROPERTIES:
+:ID:       74db29a4-a21e-467c-8aa4-3cb62e393f41
+:END:
+    Seems kind of a silly idea.
+** DEPRECATED: Attributes can have attributes.
+   This possibility will disappear.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/uids_in_typedb.org][UIDs in TypeDB]]
+* DBs, instances (= servers?), clients and connections
+** A DB is a (schema, data) pair.
+** A TypeDB instance can contain multiple DBs.
+** PITFALL: connection limitatinos
+*** schema integrity enforcement
+    Only one Schema session can be open.
+    Only one Write transaction in a Schema session can be open.
+    An open Schema session precludes
+    opening a Data Write transaction, and vice-versa.
+*** Schema sessions can't write data, and Data sessions can't write schemas.
+    But in either, all of the other three options are available.
+*** time limits
+**** session timeout
+     Servers that don't hear from the client for long enough (the timeout period, I think they called it) close automatically. Clients automatically, periodically ping the server in the background.
+**** transaction time limit
+     Transactions are limited to, by default, 5 minutes. This is to prevent things like memory overruns.
+** TypeDB sessions are ACID-guaranteed "up to snapshot isolation".
+   snapshot isolation:
+   https://typedb.com/docs/home/acid#_isolation
+* types and rules : defining schema
+** "define" keyword
+   is for changing the schema
+** defining types
+*** Types can be extended.
+:PROPERTIES:
+:ID:       5a099383-736c-47a3-927b-11390ff0dd9e
+:END:
+    Aspects of types can be defined,
+    without redefining the whole type.
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb.org#the-syntax-laid-out-for-undefining-rules-makes-it-appear-that-the-sub-clause-is-mandatory-but-it-is-not][see my question about their docs' stated syntax]]
+**** example
+     # Here `item` already exists.
+     define item owns size;
+*** Multiple "define" statements can be in a single "define" query.
+*** define any type - syntax always applicable
+    define
+
+    <label> sub <parent type label>
+	[(, abstract)]
+	[(, owns <attribute type label> [@annotation])...]
+	[(, plays <relation type label>:<role>)...];
+*** definining relationship types
+**** the unique part
+     The "relates" clause overrides an otherwise inherited role.
+**** grammar, mostly the same as for any type
+     <label> sub (<relation type label>)
+	[(, abstract)]
+	[(, owns <attribute type label> [@annotation])...]
+	(, relates <role label>) [(, relates <role label>)...] # UNIQUE
+	[(, plays <relation type label>:<role>)...];
+**** example
+:PROPERTIES:
+:ID:       443636d0-3091-43ce-8323-bfbeabbca6fe
+:END:
+     define
+
+     # This paragraph: the part unique to relations.
+     group-membership sub relation,
+       relates user-group,
+       relates group-member;
+
+     user-group sub entity
+       plays group-membership:user-group;
+
+     subject sub entity,
+       plays group-membership:group-member;
+     user sub subject;
+**** PITFALL: Relationship definitions do not specify what types can be members.
+     That's defined in statments that define entities.
+*** special syntax for attributes
+**** scheme
+     <label> sub (<abstract attribute type label>)
+     [(, abstract)]
+     , value <value type> [, regex "<regex-expression>"] # UNIQUE
+     [(, owns <attribute type label> [@annotation])...]
+     [(, plays <relation type label>:<role>)...];
+**** example
+     define
+
+     name sub attribute, value string;
+
+     person sub entity,
+       owns name;
+**** the unique parts
+***** "value <value type>" is mandatory.
+***** TODO ? Meaning of [, regex "<regex-expression>"] in grammar
+:PROPERTIES:
+:ID:       fd190477-3cd2-4d53-b9fd-b4b31047bdd4
+:END:
+*** an example defining all three kinds of Thing
+:PROPERTIES:
+:ID:       b3f2aede-5b0c-492c-b55c-e876bc257ffc
+:END:
+    define
+
+    object           sub entity;
+    resource         sub object;
+    file             sub resource,
+       owns path,
+       owns size-kb,
+       plays object-ownership:object;
+
+    path             sub attribute, value string;
+    size-kb          sub attribute, value long;
+
+    object-ownership sub relation,
+       relates object;
+** undefining types
+*** scheme
+    undefine
+
+    <label>
+        [sub <ancestor type label>]
+	[(, owns <attribute type label> [@annotation])...]
+	[(, plays <relation type label>:<role>)...];
+**** In a "sub" clause, the ancestor need not be the immediate parent.
+*** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb.org#the-syntax-laid-out-for-undefining-rules-makes-it-appear-that-the-sub-clause-is-mandatory-but-it-is-not][The syntax in the docs for undefining rules makes it appear that the "sub" clause is mandatory, but it is not.]]
+*** Deleting part of the schema cannot render the data valid.
+    Deleting or modifying the offending data must happen first.
+*** Use the "sub" clause to delete the entire type.
+*** Use an "owns" or a "plays" clause to delete only that schema aspect.
+** renaming a type
+   Depends on the client.
+*** in Python
+    https://typedb.com/docs/clients/2.x/python/python-api-ref#_rename_type_label
+** defining rules
+:PROPERTIES:
+:ID:       c92fe381-482f-47c3-8283-dfa234211c29
+:END:
+*** scheme
+**** Seems to reuire almost no new syntax!
+     Just "when" and "then" (and some {}; symbols).
+     But I haven't read the TypeQL docs yet, just TypeDB's,
+     so I might be missing something.
+**** it
+     define
+
+     rule <rule-label>:
+     when {
+	 ## the conditions
+     } then {
+	 ## the conclusion
+     };
+*** example
+**** it
+     rule add-view-permission:
+         when {
+             $modify isa action, has name "modify_file";
+             $view isa action, has name "view_file";
+             $ac_modify (object: $obj, action: $modify) isa access;
+             $ac_view (object: $obj, action: $view) isa access;
+             (subject: $subj, access: $ac_modify) isa permission;
+         } then {
+             (subject: $subj, access: $ac_view) isa permission;
+         };
+**** what it does
+     If someone has modify access,
+     this rule infers that they also have view access.
+*** PITFALL: The rule-label is unique.
+    "Defining a rule with existing label will rewrite the old rule with the new one."
+** undefining rules
+   undefine
+
+   rule <rule-label>;
+** Modify a rule by simply redefining it.
+   That overwrites the earlier rule upon commit.
+** TODO Do rules change the data?
+:PROPERTIES:
+:ID:       20855a07-2d9c-4e23-9549-39375709c188
+:END:
+   That is, do they record their results on extant data once,
+   or do they run every time a relevant query is made?
+* to "Insert" data
+** "match" clause is optional
+** "insert" clause with no preceding match
+   insert $p isa person, has email "email@vaticle.com";
+** "insert" clause with preceding match
+   Any variable referred to by the insert clause
+   must have been defined in the match clause.
+
+   match
+     $f isa file, has path "README.md";
+   insert
+     $f has size-kb 55;
+* to "delete" data
+** The deleted data can be an entity, an ownership, or a relation.
+** The match clause is mandatory.
+** PITFALL: The `delete` statement needs an `isa` clause.
+   It's not obvious to me why that should be needed.
+   It doesn't help narrow down what you're deleting.
+** an example
+   match
+     $p isa person, has full-name "Bob";
+   delete
+     $p isa person;
+* to "Get" data
+** PITFALL: In old docs "get"s are sometimes called "match"es.
+:PROPERTIES:
+:ID:       756b88b4-5300-44a7-9b7d-154b991e0849
+:END:
+** PITFALL: In a Get clause, "get" is optional, but "match" is mandatory.
+:PROPERTIES:
+:ID:       7eb2ffaa-c82f-4717-b6a4-7095ad5a1e00
+:END:
+** scheme
+   match <pattern>
+     [get <variable> [(, <variable>)...];]
+     [sort <variable> [asc|desc];]
+     [offset <value>;]
+     [limit <value>;]
+     [group <variable>;]
+     [count;] | [sum|max|min|mean|median|std <variable>;]
+** examples
+*** matching an entity
+    match $p isa person, has full-name $f;
+*** matching a relation
+    $ac (object: $o, action: $a) isa access;
+*** a match-get clause
+    # PITFALL: Maybe the first semicolon below should be a comma, or nothing.
+    match $p isa person, has full-name $f;
+    get $p, $f; # This is silly because there's no filtering;
+                # it would be more interesting to return, say, only $f.
+                # But I wanted to show that commas separate the variables.
+** modifiers
+   Click through from where each is mentioned below for documentation on it.
+*** PITFALL: docs are redundant; I'm not sure which of these is better
+    https://typedb.com/docs/typedb/2.x/fundamentals/queries
+    https://typedb.com/docs/typeql/2.x/data/get
+*** sort           :: sort the results by a variable
+*** offset + limit :: pagination of results
+*** group          :: group results by a variable
+*** aggregation    :: process results to produce a value for an answer
+* Update = Delete + Insert
+  match
+    $p isa person, has full-name $n;
+    $n contains "inappropriate word";
+  delete
+    $p has $n;
+  insert
+    $p has full-name "deleted";
+* patterns | matching
+** limitations (ala Datalog)
+   In an insert or a delete, the match can't have any of these:
+
+   Conjunction
+   Disjunction
+   Negation
+   is keyword
+** what they return
+*** matches are deduplicated
+    If you ask for every name owned by any person,
+    the same name will not appear twice, even if two people have it.
+    If instead you ask for the person and their name,
+    then the name will appear for each such person.
+*** Two solutions can overlap in some (but not all) variables.
+    "What if there is one person with the full-name attribute like that, but it has two email attributes? Then TypeDB will find two solutions/answers."
+** syntax
+*** formula
+    A pattern is a set of statements.
+    Every statement ends with a semicolon and consists of:
+      variables,
+      keywords,
+      types,
+      values.
+*** example
+    match
+      $f isa file, has size-kb $s;
+      ?mb = $s/1024;
+      ?mb > 1;
+    Each result of this match will include $f, $s and ?mb.
+** variables
+*** syntax
+    Variables
+      start with a $ for a "concept variable",
+      or    with a ? for a "value variable".
+*** the two kinds
+**** Concept variables are types or instnaces of types.
+     Most variables are these.
+**** Value variables
+***** THey are used for, e.g., arithmetic.
+***** Their scope is limited to the query that defines them.
+** constraints
+*** are listed, separated by commas, after a variable is introduced.
+*** They can in turn define more variables.
+:PROPERTIES:
+:ID:       4470f10a-a037-4c02-98ac-24a0c7299c5c
+:END:
+** operations and functions
+*** logic
+    Logical operations operate on statements.
+    There are the usual three: negation, conjunction, and disjunction.
+**** syntax
+***** Conjunction is the default. Conjoint statements are separated by ";"s.
+***** Disjunction looks like "{_} or {_}".
+***** Negation looks like "not {_}".
+**** PITFALL: The semicolon rules are kind of strange.
+     Sometimes there's
+     See the image here:
+     https://typedb.com/docs/typedb/2.x/fundamentals/patterns#_complex_example
+*** The usual comparison operators are available.
+    ==, !=, >, >=, <, and <=
+**** PITFALL: For a time, = will still work for comparison in some situations.
+***** In most, though, it is assignment,
+      and eventually that will be the only possible use.
+***** for mor detail
+      find this quote:
+	In TypeDB version 2.18.0, the = sign as a comparison operator was deprecated
+      on this page:
+	https://typedb.com/docs/typedb/2.x/fundamentals/patterns
+*** Math operations, in order of precedence.
+    () :: parentheses
+    ^  :: exponentiation
+    *  :: multiplication
+    /  :: division
+    %  :: modulo
+    +  :: addition
+    -  :: subtraction
+*** More functions
+    min
+    max
+    floor
+    ceil
+    round
+    abs
+* inference
+** SEE ALSO for more detail
+   including transitivity and Horn logic limitations:
+   https://typedb.com/docs/typeql/2.x/schema/define-rules
+** how they work
+*** For each match of a rule's "condition", the "conclusion" defines temporary data.
+    Inferred results only last as long as the transaction spawning it.
+*** The schema is where rules are defined.
+*** Inference is recursive.
+*** Three kinds possible conclusions are possible.
+    A new relation.
+    Ownership of an attribute defined by its value.
+    Ownership of an attribute defined by a variable.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#defining-rules][syntax: defining rules]]
+** syntax: using inference in queries
+   depends on the client
+*** in the console
+    transaction typedb data read --infer true
+*** in Python
+    typedb_options = TypeDBOptions.core()  # Initialising a new set of options
+    typedb_options.infer = True  # Enabling inference in this new set of options
+    with session.transaction(TransactionType.READ, typedb_options) as transaction:
+** PITFALL: "The inference option must be enabled".
+** PITFALL: limitations
+*** "All reasoning is done within a dataset of a transaction."
+*** TODO huh? : "When using a disjunction in a rule, the disjunctive parts must be bound by variables outside the or statement. These variables are the only ones permitted in the then clause."
+*** "when" clauses can be multipartite; "then" clauses cannot.
+*** Reads can use inference. Writes cannot.
+*** abstract types can be used in conditions but not cconclusions
+**** the limitation
+     "can use abstract types in a rule as long as all the type variables that define which instances to create during materialization are concrete (non-abstract)."
+**** an example
+     define
+
+     abstract-person sub entity, abstract, plays friendship:friend; #abstract
+     friendship sub relation, relates friend;  #non-abstract
+
+     rule concrete-relation-over-abstract-players:
+     when {
+        $x isa abstract-person;
+     } then {
+        (friend: $x) isa friendship;};
+*** Negated variables are unuseable in the "then" clause.
+    "The then clause of a rule must not insert any instance which occurs negated in its when clause or in the when clause of any rule it may trigger. Attempting to define such a rule will throw an error."
+*** Conclusions must respect the schema
+    "e.g., we can’t give an attribute to an instance that can’t own that attribute type"
+** PITFALL: infinite loop footgun
+   https://typedb.com/docs/typeql/2.x/fundamentals
+   "It is possible to create a recursive logic in the line of n = n +1 by assigning attribute ownership with the value of a value variable. If triggered, such a rule can run indefinitely while the transaction lasts and can cause an out-of-memory error."
+** explainability
+   TypeDB can explain how it arrives at conclusions using inference.
+   See "explain query" here:
+   https://typedb.com/docs/typedb/2.x/development/infer
+* response formats and "interpretation"
+  https://typedb.com/docs/typedb/2.x/development/response
+  Depends on the client.
+  JSON would seem reasonable, but I skipped this section.
+  I'm not even sure what they mean by "interpretation".
+* query optimization
+  There are more techniques, see "Developing a Query" at
+  https://typedb.com/docs/typedb/2.x/development/best
+** traversal costs, cheapest first
+   Attributes
+   Entities
+   Subtypes
+   Binary relations
+   N-ary relations
+   Rules
+** constraints help
+   "Limit the number of concepts being processed by adding additional constraints to variables in match clauses."
+** Disable inference when it's not needed.
+* Advanced Patterns & Queries
+:PROPERTIES:
+:ID:       9941d24a-fc78-4854-aaef-8493f6ad1da7
+:END:
+  unread
+  https://typedb.com/docs/typeql/2.x/data/advanced

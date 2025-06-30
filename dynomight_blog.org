@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       18d42a2e-0b4b-4269-8df7-58ddc12a9e18
+:END:
+#+title: DynoMight (blog)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dynomight_website_summarizing_sapiens_book.org][DynoMight (website) summarizing Sapiens (book).]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_ideas_on_networking_minds_from_dynomight.org][Some ideas on networking minds from DynoMight.]]

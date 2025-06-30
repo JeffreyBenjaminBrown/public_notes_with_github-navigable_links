@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       cc3f38e2-b1cf-4a76-9abb-eb31daf514de
+:ROAM_ALIASES: self-awareness self-consciousness
+:END:
+#+title: self-awareness + self-consciousness
+* ways to know
+:PROPERTIES:
+:ID:       9fc09f11-ef5b-475d-a885-f0fd0b667178
+:END:
+** see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation.org][meditation]]
+** I believe [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_enhance_self_awareness.org][knowledge graphs enhance self-awareness.]]
+* self-consciousness
+** That it feels bad is weird, because self-awareness is good.
+:PROPERTIES:
+:ID:       911e181e-7e6e-4cb2-9ee2-c7bf6071ad10
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awkwardness.org][awkwardness]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/journaling_things_to_write_about.org][journaling : things to write about]]
+* Be accurate about how much power you have.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowing_how_self_and_other_feel_can_both_be_hard.org][Knowing how self and other feel can both be tricky.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_like_being_consistent_with_my_past_self.org][I like behaving in a manner consistent with my past self.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/study_your_pains.org][Study your pains.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything_i_do_is_intentional_but_every_effect_i_have_cannot.org][Everything one does is intentional, but every effect one has cannot.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/unawareness_of_self_can_be_funny.org][Unawareness (esp. feigned) of self can be funny.]]
+* personal
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_smile_feels_anxious_even_when_it_looks_genuine_to_me.org][My smile feels anxious, even when it looks genuine to me.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_pain_tolerance_is_dangerously_high.org][My pain tolerance is dangerously high.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_do_i_keep_getting_talked_into_watching_horror_films.org][How do I keep getting talked into watching horror films?]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/things_i_have_failed_to_express.org][things I have wanted to but not expressed]]

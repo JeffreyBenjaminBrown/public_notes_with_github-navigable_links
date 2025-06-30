@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       47cb3eb0-06c1-48a6-8084-9ab9190b0495
+:END:
+#+title: hardship
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_abnegation.org][self-abnegation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identity_conscious.org][self]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/conflict.org][conflict | struggle]]

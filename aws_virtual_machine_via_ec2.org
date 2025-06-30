@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       da25bd69-a967-4393-bfa7-817f4c7eaa47
+:ROAM_ALIASES: "EC2" "AWS EC2"
+:END:
+#+title: AWS virtual machine via EC2
+* EC2 =
+  EC2 is the raw virtual machine system for AWS.
+  One can use it alone,
+  or via one of the higher-level systems it underpins,
+  like Lightsail.
+* PITFALL: username and home directory depends on OS
+  so far home dir is always /home/<username>
+** for Amazon Linux, username = ec2-user
+** for Ubuntu, username = ubuntu
+* DONE scp to move files via SSH
+** zip them first
+   There's big per-file overhead.
+** some help on SO
+   https://stackoverflow.com/questions/9427553/how-to-download-a-file-from-server-using-ssh/9427762#9427762
+  or the comment above it.
+** command to run
+   For speed, maybe use the AWS EC2 CLI.
+   See my of/ec2 folder for current definitions of the .pem file and the IP address for the remote host.
+
+   scp [options] source.. host
+   scp  -i  ~/code/aws/secret/2021-03-24.pem  ubuntu@34.204.60.103://home/ubuntu/amazon.zip .
+   scp  -i  ~/code/aws/secret/2021-03-24.pem  ../data/many_tiny ec2-user@34.204.60.103://home/ec2-user
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hibernation_for_aws_ec2.org][hibernation for AWS EC2]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_ec2_wui.org][the EC2 WUI]]
+* solutions
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/aws_ec2_launch_an_instance_machine_from_the_cl.org][launch an EC2 instance from the CL]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_ami_amazon_machine_image.org#to-launch-an-ec2-instance-from-an-ami][launch an EC2 instance from an AMI]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_ami_amazon_machine_image.org#to-create-an-ami-from-an-ec2-instance][to create an AMI from an EC2 instance]]
+** How to launch a linux virtual machine on AWS, and use it via SSH.
+   serial
+*** start it from the browser
+**** EC2 -> Launch Instance
+**** Select an OS
+     Ranked highest is "Amazon Linux 2".
+     There's also Ubuntu 18.04.
+**** choose a bundle of specs
+     One of them is "free tier eligible".
+**** prepare to SSH
+     The first time, will have to make and download a key pair,
+     ending in .pem.
+     I think it needs 400 permissions (rather than 644, the default).
+**** start it. wait for it to start.
+     Click on the instance to see it.
+     The "instance state" column will soon show "running".
+*** connect via SSH
+    ssh  -i  ~/code/aws/secret/2021-04-14.1.pem  ubuntu@34.204.60.103
+**** PITFALL: Might need to chmod 400 the ssh key first.
+**** PITFALL: They suggest keeping the key in ~/.ssh/
+*** end it from the browser
+    specifically from the EC2 console at aws.org
+**** "stopping" the instance
+***** Deletes RAM, leaves disc content in place.
+***** Ceases charges for compute, but storage costs
+      continue to be charged,
+      unless the storage is on S3
+      (because that's already charged separately, I guess).
+**** PITFALL: restarting costs a full hour of compute
+     Even if it's done multiple times in an hour.
+**** "terminating" the instance
+     Deletes all contents.
+     Stops all charges.
+     Is not instantaneous.
+**** PITFALL: the SSH key becomes garbage
+     once the instance is terminated
+** describe all running instances
+:PROPERTIES:
+:ID:       ce3a8d0b-7e44-4457-a7d6-23c33288f75c
+:END:
+   aws ec2 describe-instances --profile=ec2-root > all-running-instances.json
+** get IP(v4) addresses for running instance(s)
+   First [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_virtual_machine_via_ec2.org#describe-all-running-instances][describe them all in a file]].
+   Then grep the file:
+     grep "\"PublicIp\"" all-running-instances.json
+   or write *that* to a file:
+     grep "\"PublicIp\"" all-running-instances.json \
+       | grep -o "[0-9].*[0-9]"                     \
+       | uniq                                       \
+       > ip-addresses.txt
+* justifications
+** Why Ubuntu > Amazon Linux.
+:PROPERTIES:
+:ID:       4c094d05-b478-47b2-95c3-173aed34abf6
+:END:
+   On AL I can't use:
+     Mosh
+     Eternal Terminal
+     Python > 3.7
+     Coconut (won't build on Python 3.7 without lots of work)
+     the Tmux plugins I ordinarily use

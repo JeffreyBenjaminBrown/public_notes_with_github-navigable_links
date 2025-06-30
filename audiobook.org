@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       44f930f9-fc3d-474f-9115-f56fb9268403
+:END:
+#+title: audiobook
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audiobook_services.org][audiobook services]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_move_an_audiobook_from_a_computer_to_smart_audiobook_player_on_an_android_phone.org][how to move an audiobook from a computer to Smart Audiobook Player on an Android cphone]]

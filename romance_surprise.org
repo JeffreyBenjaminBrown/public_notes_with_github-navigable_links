@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       890d9101-09c6-48f0-be54-e4e74a0ec961
+:ROAM_ALIASES: "surprise + romance"
+:END:
+#+title: romance + surprise
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_radically_different_would_we_be.org][How radically different would we be?]]
+* Surprise seems inherent to romance
+  because it requires getting to know someone.
+* Surprising gestures are often interpreted as romantic.

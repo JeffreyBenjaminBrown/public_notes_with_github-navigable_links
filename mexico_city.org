@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       55aa5236-fcca-4c67-9dc5-bbb5b675ff98
+:END:
+#+title: Mexico City
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/friends_in_mexico_city.org][friends in Mexico City]]

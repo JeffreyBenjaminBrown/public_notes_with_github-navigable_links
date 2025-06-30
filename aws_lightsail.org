@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       44da28be-3419-46e8-a07b-e46111a183f2
+:END:
+#+title: AWS Lightsail
+A higher-level interface to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_virtual_machine_via_ec2.org][AWS EC2]].
+Hides many configuration details, e.g. security.
+Has been accused of burying errors in logs and being harder to manipulate outside of its default parameters.

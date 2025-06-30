@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7dd8d9fd-8e7f-4719-a547-554eb182beb1
+:END:
+#+title: rescue smsn into org
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/will_updating_my_smsn_notes_be_hard_with_skg.org][Will updating my SmSN notes be hard with Skg?]]
+* TODO take data source into account when building docs
+  All nodes in a doc must belong to the same repo.
+* understand SmSn data
+  in universal:
+  grep for each line that starts with @
+  keep only the first word (stop at whitespace)
+  uniquify
+* build org files
+  Build trees from every uncontained node.
+  Where they overlap, pick one ancestor
+  at random to be the context.
+  Once a context is fat (easiest measure: max # of nodes),
+  remove it from the pool of containers.

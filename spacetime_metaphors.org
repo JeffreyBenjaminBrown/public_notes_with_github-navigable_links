@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a2f29c9d-b05e-4467-b07f-8fc108cbe07f
+:END:
+#+title: spacetime metaphors
+* both the space and the time as metaphors
+* hard to explain
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spacetime_probability_flag_painting_as_a_sport.org][spacetime probability flag painting as a sport]]

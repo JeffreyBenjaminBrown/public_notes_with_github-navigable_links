@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1259195a-a1a7-4249-b026-adaaa92f5e7e
+:END:
+#+title: tragedies
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_tragedy_of_the_commons.org][the tragedy of the commons]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cooperation_communication_problems_in_evolution.org][cooperation & communication problems in evolution]]

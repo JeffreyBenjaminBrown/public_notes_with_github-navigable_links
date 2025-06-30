@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8bcfda55-5ab3-4083-9a37-2a01eb216dc4
+:END:
+#+title: quantum physics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/limiting_certainty_has_quantum_effects.org][Limiting certainty has quantum effects.]]
+* to learn it
+** Quantum Country, a free online interative platform
+https://quantum.country/
+*** with, supposedly, good feedback, "metacognitive supports"
+says Andy Matuschak, somewhere in his online knowledgde graph
+https://notes.andymatuschak.org/
+* far-out
+** "topness is preserved under strong and electromagnetic interactions, but not under weak interaction"
+** Truth, a quantum flavor, is the difference between the number of top quarks and that of top antiquarks.
+   The last two words are funny if you see them as a way of escaping the concept of bottomness.

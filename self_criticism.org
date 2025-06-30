@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a963e722-1f05-46e1-a9f5-d5f874b71f8f
+:END:
+#+title: self-criticism
+* it & [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org][pride]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recognize_when_something_you_accomplished_was_hard.org][Recognize when something you accomplished was hard.]]
+** questions
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/would_effective_pride_play_at_the_border_with_self_criticism.org][Wouldn't effective pride play at the border with self-criticism?]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org#is-pride-actually-productive-or-could-it-be-separated-from-self-criticism][Is pride actually productive, or could it be separated from self-criticism?]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/self_criticism_jbb.org][self-criticism & personal]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a7f710b4-8981-4dec-8567-28a646da19ba
+:END:
+#+title: influence, social
+* leadership
+:PROPERTIES:
+:ID:       a41f56f0-6dcd-42af-8395-28c305ff493c
+:END:
+** Lead by example.
+:PROPERTIES:
+:ID:       5dab1f33-780f-447c-b594-327c9f3ac0df
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness, inc. self-forgiveness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathize_before_confronting.org][Empathize before confronting.]]

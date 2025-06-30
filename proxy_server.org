@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b938ba93-afa3-4e5a-8587-5a02573caad2
+:END:
+#+title: proxy server
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_configure_wsl_to_use_an_internet_proxy.org][How to configure Linux to use an internet proxy via cntlm.]]

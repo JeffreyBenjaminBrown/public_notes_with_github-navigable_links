@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0785a86f-14e9-4dff-901a-16c7aa487140
+:END:
+#+title: people who are good at weird stuff
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_reverend_robert_evans_memorizes_star_fields.org][The Reverend Robert Evans memorizes star fields.]]

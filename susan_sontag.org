@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       cfbe8fb4-0355-456e-af6f-7487b05db421
+:ROAM_ALIASES: Sontag
+:END:
+#+title: Susan Sontag
+* the "erotics of art"
+  "She wanted writing that engaged directly with the surface and sensuality of things, not just their deeper significance."
+* the "hermeneutics of suspicion"
+:PROPERTIES:
+:ID:       33c39bca-efd9-4e59-85bb-67e48169b817
+:END:
+* "believed that how and what we pay attention to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/direct_attention_well.org][is fundamentally a moral question]]"

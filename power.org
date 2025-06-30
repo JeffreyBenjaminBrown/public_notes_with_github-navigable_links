@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       b9775088-1bd9-490f-a062-c6cfd189b65d
+:ROAM_ALIASES: energy power force work
+:END:
+#+title: energy
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org][God]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#the-limits-of-logic--information--expression][the limits of logic | information | expression]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/public_influence.org][public image | fame | public influence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/labor_v_capital.org][labor v. capital]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][balance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tensions.org][tension]] - includes some interesting ones
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_performance_human.org][high performance (human)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org][influence, social]]
+* ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/economics.org][economics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/luck.org][luck | blessedness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/causally_power_dictates_feelings_but_experientially_feelings_precede_economics.org][Causally, power dictates feelings, but experientially, feelings precede economics.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/living_like_theres_no_tomorrow.org][presence]]
+* powerlessness <-> fatalism
+:PROPERTIES:
+:ID:       846f7aa9-2ca4-45af-88f3-522376a33e9b
+:END:
+* philosophy v. patriarchy
+:PROPERTIES:
+:ID:       ba15c32b-c09d-4943-8f0a-c853a67c81f3
+:END:
+** defeating the patriarchy
+*** Imagine the cloistered, bin-laden-in-a-cave ignorance of someone in power who refuses to perceive their immorality.
+** fantasy
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_philosophy_defeated_the_patriarchy_in_everyone_s_mind.org][if philosophy battled the patriarchy , in everyone's mind]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/fantasies_about_the_nature_of_power.org][fantasies about strange kinds of power]]

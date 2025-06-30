@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       4af09a9a-af4b-4213-b570-bda5c17e7547
+:ROAM_ALIASES: "self-confidence"
+:END:
+#+title: confidence
+* Confidence seems more important than courage.
+:PROPERTIES:
+:ID:       9c44b2d0-e6e1-41d3-bb18-37679027e7a9
+:END:
+  Ideally, surely,
+  one's measures of self and risk should be accurate.
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org#insecurity][insecurity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/teasing_can_bond_subject_and_object.org][Teasing can be bonding.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence_is_comfortable.org][Confidence is comfortable.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sexiness_does_not_feel_obligated.org][Sexiness does not feel obligated.]]
+* assertiveness
+:PROPERTIES:
+:ID:       1767a293-ee6a-47b7-b9b8-e8b2f05dd87f
+:END:
+** Good assertiveness is moved by circumstance, not sought.
+:PROPERTIES:
+:ID:       a51d5b7e-4fc5-47bc-a9ca-2524ba9acace
+:END:
+   assertiveness being against other people, but
+   creativity with the environment is to be encouraged.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       eaf41de1-a3ef-4ab9-a052-8e800f633d97
+:END:
+#+title: Chrome (web browser)
+* Chrome plugins, some
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/remove_html_elements_chrome_extension.org][Remove HTML Elements]] is a a privacy-respecting HTML element blocker.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/youtube_playback_speed_control.org][Youtube Playback Speed Control]]

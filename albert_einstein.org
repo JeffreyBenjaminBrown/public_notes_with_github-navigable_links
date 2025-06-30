@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ae840a61-4f9e-42db-a602-d45ac01529b3
+:END:
+#+title: Albert Einstein
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/einstein_founded_and_then_fought_quantum_physics.org][Einstein founded and then fought quantum physics.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/einstein_s_olympian_society.org][Einstein's Olympian Society]]

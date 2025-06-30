@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       eb4f95a0-22ac-4f8a-a149-5c1cd569db3c
+:END:
+#+title: Save the world.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org][power]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/labor_v_capital.org][labor v. capital]]
+* ? [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/build_it_with_others_to_be_less_special.org][Do it with others to be less special.]]
