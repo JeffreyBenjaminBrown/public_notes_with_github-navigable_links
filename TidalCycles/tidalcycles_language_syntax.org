@@ -1,0 +1,86 @@
+:PROPERTIES:
+:ID:       543397e7-733f-4d56-bf58-35f5e9d83b5e
+:END:
+#+title: TidalCycles language: syntax, functions, signal flow
+* see also
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/solutions_tidalcycles.org][solutions \ Tidalcycles]]
+* DONE reading
+  https://tidalcycles.org/docs/patternlib/tutorials/workshop/
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/questions_about_the_tidalcycles_language.org][questions, language]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/broken_things_that_seem_tidalcycles.org][broken things]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/silence_in_tidal.org][silence in Tidal]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/building_patterns_from_other_things_tidalcycles.org][building patterns from (usually) other things]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/mini_notation_tidalcycles.org][mini-notation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/oscillators_tidalcycles.org][oscillators | continuous signals]]
+* BROKEN: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/transitions_in_tidalcycles.org][transitions]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/randomness_in_tidalcycles.org][randomness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/voices_long_samples_and_signal_flow_in_tidal.org][voices, long samples and signal flow]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/sequentially_joining_patterns_in_tidal.org][joining patterns sequentially]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/concurrently_joining_patterns_in_tidal.org][joining patterns concurrently]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/dividing_patterns_in_Tidal.org][dividing patterns in Tidal]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/transformations_pattern_pattern_in_tidalcycles.org][transformations (Pattern -> Pattern)]], including randomness
+* transforming transformations
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/conjugate_change_the_length_of_the_slice_a_transformation_operates_on.org][conjugate : change the length of the slice a transformation operates on]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/synths_in_tidalcycles.org][synths]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/effects_in_tidalcycles.org][effects]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/non_cyclic_time_in_tidal.org][non-cyclic time]]
+* some TidalCycles functions
+** TODO every, spread and generally the "conditions" functions are what I want to generalize.
+*** every
+**** its type
+     Pattern Int
+     -> (Pattern a -> Pattern a)
+     -> Pattern a
+     -> Pattern a
+**** is documented under "conditions"
+     https://tidalcycles.org/docs/reference/conditions
+**** every' lets you change its phase (very important!)
+*** spread
+**** ::
+     (a -> t -> Pattern b)
+     -> [a]
+     -> t
+     -> Pattern b
+**** is documented under "alteration"
+     https://tidalcycles.org/docs/reference/alteration
+*** whenT
+**** ::
+     (Time -> Bool)
+     -> (Pattern a -> Pattern a)
+     -> Pattern a
+     -> Pattern a
+*** TODO within :: Arc -> (Pattern a -> Pattern a) -> Pattern a -> Pattern a
+** TODO step' is like a sequencer
+   This uses 0 to indicate superpiano, 1 for supermandolin.
+#+BEGIN_SRC haskell
+  d1 $ s (step ["superpiano","supermandolin"] "0 1 000 1")
+       |* sustain 4 # n 0
+#+END_SRC
+** `fix f` applies `f` when specified conditions are met.
+   https://userbase.tidalcycles.org/fix
+** `timeloop` lets you periodically restart a cycle
+   https://club.tidalcycles.org/t/restart-a-polymetric-sequence/3736
+* some effects I like
+  https://tidalcycles.org/docs/reference/audio_effects
+** squiz
+   Simplistic pitch shift via chopping.
+   Try giving it even numbered values.
+** the spectral conformer
+   "real" and "imag"
+   Applies the conformal map
+   (the thing that makes Mandelbrot sets, I think).
+   Weird vocoder artifacts.
+** legato
+   Based on my experiments, not code or documentation.
+*** Says how long samples should last when interrupted.
+    If less than one, the sample ends before interrupted.
+    If 2, it lasts twice as long as it took to get interrupted.
+    Etc.
+** cut
+   Assings the voice to a cut group.
+   It will end as soon as anything else in the same cut group starts.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/continus_parameter_variation_in_tidalcycles.org][continuous parameter variation]] (e.g. slide, not oscillators)
+* polyphonic distortion in Tidal
+  Probably [[:id:d41a981f-1a73-44bf-85fb-f5a80d72bea3][the bus solution -- broken link?]] will do it.
+  But see also
+    /home/jeff/code/music/Tidal/distort-a-sum.tidal-SC

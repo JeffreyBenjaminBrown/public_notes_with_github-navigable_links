@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a328d67f-f128-4d73-bc4d-76ee16a8874a
+:END:
+#+title: National Income
+* = "GDP minus capital depreciation plus net income received from abroad",
+according to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/piketty_saez_and_zucman_qje_2018_distributional_national_accounts_methods_and_estimates_for_the_united_states.org][Piketty, Saez And Zucman, Qje 2018]].
+* It is distinct from GDP,
+which incorporates neither depreciation nor income from abroad.
+* It includes income that never shows up in a bank account.
+** imputed rent to homeowners
+** taxes
+* It "excludes the capital gains caused by pure asset price changes."

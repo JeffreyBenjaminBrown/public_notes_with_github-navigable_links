@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       c90e23ae-6d45-4040-a61a-e7003ac93c78
+:ROAM_ALIASES: TidalCycles
+:END:
+#+title: TidalCycles (music software)
+* TODO the variety I want
+** synth timbres --
+   relaxed & thick, hype & thick
+   aliens (FM)
+   relaxed & muted (LPF)
+   random vibrato (program it myself in SuperCollider,
+     using the preexisting terms vibrato and vrate,
+     which might be absent from Tidal but are in SuperDirt's B3)
+** samples
+   wood block
+   kick, snare, hat, tom, crash
+** effects
+** xen rhythm (even simple 40% swing)
+** xen pitch
+** crazy fast, danceable, downbeat, ambient
+** harmony
+** TODO fast transitions
+   The easiest way seems to be to just manually evaluate different regions quickly, assuming Tidal switches fast enough.
+   For this it would help to write an Emacs routine that evaluates everything in the paragraph containing point (the cursor).
+* refs
+** the community
+   https://club.tidalcycles.org/
+** an explanation of Tidal 2.0
+   https://club.tidalcycles.org/t/tidal-2-0/4247/30?u=jeff_brown
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/superdirt_plugin_for_supercollider.org][SuperDirt (plugin for SuperCollider)]]
+** https://tidalcycles.org/
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wagsi_music_software.org][wagsi (music software)]]
+   like TidalCycles, ported to PureScript
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/yaxu_s_ongoing_remake_of_tidal.org][Yaxu's ongoing remake of Tidal]]
+* big ideas
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/hypotheses_about_what_sounds_good.org][what sounds good in TidalCycles]]
+** Simple is fun.
+   is making stuff using the simple tools,
+   not making more complex tools.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/uneven_rotations_in_time_music.org][uneven rotations in time \ music]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/concepts-for-Tidal-some-high-level-musical.org][concepts for Tidal, some high-level musical]]
+* TODO Will TLP interfere with the cpufreq changes required here?
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/dirt_superdirt_samples.org#todo-samples-i-want][samples I want]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/tidalcycles_todo.org][TODO]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/questions_about_the_tidalcycles_language.org][questions about the TidalCycles language]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/versions_and_branches_of_tidalcycles.org][versions and branches of TidalCycles]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/pitfalls_tidalcycles.org][PITFALLS \ TidalCycles]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/code_the_tidalcycles.org][code, the \\ TidalCycles]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/using_running_tidalcycles_in_emacs.org][running it]] (but not how it works, syntax, etc.)
+* the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/tidalcycles_language_syntax.org][language (and signal flow)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/questions_about_the_tidalcycles_language.org][questions about the TidalCycles language]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/solutions_tidalcycles.org][solutions]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/tidalcycles_installing_and_updating.org][installing and updating]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/TidalCycles/my_tidal_music_some_of.org][my Tidal music, some of]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c90f7198-2afe-400d-bbc7-8b2f20d8207c
+:END:
+#+title: chemistry
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/radiation.org][radiation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/atoms_mix_thoroughly.org][Atoms mix thoroughly.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/greenhouse_effect_planetary.org][greenhouse effect, planetary]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lead_is_a_neurotoxin.org][Lead is a neurotoxin.]]

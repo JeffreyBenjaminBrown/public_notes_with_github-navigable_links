@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2d9f3e3e-065f-4256-915a-84711832da5c
+:END:
+#+title: scientifically meaningless questions
+* "Is the world upside down?"
+* "Should we have called north south?"

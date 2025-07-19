@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6ab4d293-1c72-4696-9e5a-458598effc25
+:END:
+#+title: greenhouse effect, planetary
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ozone_is_a_toxin_at_low_altitudes_but_at_high_altitudes_it_soaks_up_uv.org][Ozone is a toxin at low altitudes but at high altitudes it soaks up UV.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cfcs_are_shockingly_effective_at_warming_the_climate.org][CFCs are shockingly effective at warming the climate.]]

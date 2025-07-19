@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b38b3415-5459-4b9d-a290-6be345ebb471
+:END:
+#+title: Repetitive sequences make DNA sequencing difficult.
+* why
+If something occurs in many places,
+and you sequence a part of it, where does that part go?
+If you sequence a lot of substrings of a repeated sequence,
+how many repetitions does it include?
+* and this problem is big because
+[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dna_sequences_are_very_non_random.org][DNA sequences are very non-random]]

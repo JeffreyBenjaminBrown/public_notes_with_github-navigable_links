@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       d73993b4-9c64-4365-8300-bb7b1e6e439b
+:END:
+#+title: programming languages
+Both categories are incomplete and should overlap.
+* cool ones
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lean_programming_language.org][Lean - programming language]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pharo_programming_language.org][Pharo]] looks amazing
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb.org][TypeDB]] (hypergraph database)
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flix_programming_language.org][Flix]] looks amazing
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/glicol_programming_language_for_live_coding_music_graphs.org][Glicol (for live coding music & graphs)]]
+*** Optimized for live-coding => ugly syntax.
+    or so it looks
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/haskell.org][Haskell]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_i_like_haskell.org][why I like Haskell]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/go_programming_language.org][Go]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/borgo_is_an_improved_go.org][Borgo]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idris_programming_language.org][Idris (programming language)]]
+** Prolog
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercury_programming_language.org][Mercury (programming language)]] - like Prolog but strict & pure
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/datalog.org][Datalog]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cozo_graph_db_with_datalog_query_language.org][Cozo (graph db with Datalog query language)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hamler.org][Hamler (programming language)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gleam_programming_language.org][Gleam (programming language)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/unison_programming_language.org][Unison (programming language)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/orca_text_cellular_automata_language_for_music.org][Orca (text cellular automata language for music)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nickel_configuration_language.org][Nickel (configuration language)]]
+* useful ones
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dart_programming_language.org][Dart]]: supposedly easy cross-platform programming
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rust.org][Rust]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sql.org][SQL]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typescript.org][TypeScript]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_popular_good_or_maybe_good_programming_languages.org][some popular good or maybe-good programming languages]]

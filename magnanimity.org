@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       f8ec8fd3-c9f2-4272-ab41-be9aa687d141
+:END:
+#+title: magnanimity
+* An ancient and, to me, strange bundle of qualities.
+* components
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
+** honesty and (emotional) transparency
+** courtesy, but belligerence when appropriate
+** having noble purpose, being principled
+** refusal to be petty
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org][generosity]]
+* should be [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][tempered]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magnanimity.org#too-much-of-it-is-vanity-but-too-little-is-also-bad-1][Too much of it is vanity, but too little is also bad.]]
+* Aristotle on it
+  according to Wikipedia
+** "haughty towards men of position and fortune, but courteous towards those of moderate station"
+** "open both in love and in hate"
+** "not bear a grudge"
+   Don't punch up for the sake of punching,
+   do it only as it's warranted.
+** Too much of it is vanity, but too little is also bad.
+:PROPERTIES:
+:ID:       35fde333-e3d2-47ba-acf9-95a572868d22
+:END:
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org#light-belligerence--comedy][light belligerence \ comedy]]

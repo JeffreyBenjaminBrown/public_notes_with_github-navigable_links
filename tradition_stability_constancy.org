@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       cd678fad-e062-4657-aea3-1023a438b951
+:ROAM_ALIASES: tradition stability constancy
+:END:
+#+title: tradition, stability, constancy
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][equilibrium]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irratinoality_inconsistency.org][consistency | irrationality]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/seriousness.org][seriousness, commitment, and their opposites]]

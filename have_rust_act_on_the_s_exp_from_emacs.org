@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       129f20c9-adf5-43dc-933a-3bc21babe152
+:END:
+#+title: Have Rust act on the s-exp from Emacs.
+OBSOLETE -- see TODO.org in the project for
+plans that are more complete and concise.
+* DONE Translate an s-exp into a Vector<OrgBranch>
+* Persist the DBs (TypeDB, Tantivy) while skg runs.
+** within the lifetime of the program
+   While the Rust server is running, Tantivy and TypeDB should keep running too, and should only reread any file once it has changed.
+** but not across Docker instances
+   Any database should need spinning up from the single source of truth, the user's files, each time the Docker container running the program is started.
+* Rust modifies the filetree.
+** PITFALL: work rootward
+   This has to be done starting from the leaves.
+   Their containers cannot be modified until they exist.
+** updates
+   If any of the text or content has changed,
+   update the file. Otherwise don't touch it
+   (to avoid updating its timestamp).
+** new files
+   If any heading was missing an ID, give it one.
+   Create it in the filetree.
+   Update its ID in the Vector<OrgBranch>.
+* Keep a list of files modified and added.
+* Update TypeDB
+  Include each new file,
+  and update each file whose
+  content *or links* has changed.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/saving_should_send_from_emacs_to_rust_and_then_rust_should_return_a_new_document.org][saving should bring a new document from Rust]]
+  invisibly
+* Orphaned content becomes uncontained, not deleted.

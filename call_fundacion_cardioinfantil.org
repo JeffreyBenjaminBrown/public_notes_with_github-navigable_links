@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       29b8ec16-8270-45a5-88fe-b61f829a78af
+:END:
+#+title: Fundación CardioInfantil
+* cita, sabado 24 de abril, 8 am
+  (already on calendar)
+  Dr. Javier Fernando de Castillo, cardiologo
+  Torre H, 1 floor
+  20 min early to register
+  don't come if sick
+  bring the order
+* contact info
+** phone
+*** the number that eventually worked for me
+    667 2720
+    1 - citas cardio adulto
+    2 - cardio adulto, no cirugia
+*** DONE ? their many numbers
+   667 2727 - the number on my cardiology order.
+     It redirects to other numbers.
+       746 1616 normal cita
+         After the one I should use failed,
+         I called this and chose 1, waited 20 min,
+         then got disconnected.
+       749 0404 prefencial cita
+         doesn't work, redirects to
+         667 2720
+           1 - citas cardio adulto
+             (2 weeks ago, didn't recognize the input.)
+	     2 - cardio adulto, no cirugia
+** www.cardioinfantil.org
+** Torre H is at a slightly different address
+   It's the "edificio de enfrente".
+   Cra 13b #161-85

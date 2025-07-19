@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1a97cb6c-b6ff-4439-9790-ff372bc1ee38
+:END:
+#+title: scipy (libraries for Python)
+* libraries
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pandas_python_library.org][pandas]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/matplotlib.org][matplotlib]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/numpy.org][numpy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scipy_pitfalls.org][SciPy PITFALLS]]
+* solutions that would be hard to search for by library
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/times_versus_numbers_in_numpy.org][times versus numbers in NumPy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fast_time_series_manipulations_in_numpy.org][fast time series manipulations in NumPy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/quantiles_in_scipy.org][quantiles in scipy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linear_regressions_in_python.org][linear regressions in Python]]

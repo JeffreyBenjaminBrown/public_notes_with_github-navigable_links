@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       7d5d41d4-a1bc-48f0-8b18-45077dea08f3
+:END:
+#+title: 17\53 x 3\53 (isomorphic note layout)
+* Matthew Auttrey has made "5 or 6" guitars like this
+  although most of them he then re-fretted for something else.
+* most 15-limit ratios are easy to play
+  and for those that aren't, their octaves are
+** example: 7/6 is hard, but 7/3 is easy
+   because harmonic 3 lies on the same string as 7
+* all other 15-limit ratios pretty easy
+* weird diagonal rainbow zone
+** easy to see if you pretend the 11 isn't there in the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/17_53_x_3_53_isomorphic_note_layout.org#layout][layout]]
+* layout
+:PROPERTIES:
+:ID:       7848d7bf-3426-4371-86f4-f0d948ebfea6
+:END:
+  MTV> myPrint $ map concat $ printLayout (primesOctave1 15) (show . numerator) 53 (17,3)
+
+  20 frets of a hypothetical 12-string guitar tuned this way:
+
+                    headstock
+                    this side
+         1  5  -  -  -  -  -  -  -  -  -  -
+         -  - 13  -  -  -  -  -  -  -  -  3
+         -  -  -  -  -  -  -  -  -  1  5  -
+         9  -  7  - 11  -  -  -  -  -  - 13
+         -  -  -  -  -  -  -  -  -  -  -  -
+         -  -  -  -  -  -  -  -  -  9  -  7
+         -  -  -  -  -  -  -  3 15  -  -  -
+bass     -  -  -  -  -  1  5  -  -  -  -  - treble
+strings 11  -  -  -  -  -  - 13  -  -  -  - strings
+this     -  -  -  -  -  -  -  -  -  -  -  - this
+side     -  -  -  -  -  9  -  7  - 11  -  - side
+         -  -  -  3 15  -  -  -  -  -  -  -
+         -  1  5  -  -  -  -  -  -  -  -  -
+         -  -  - 13  -  -  -  -  -  -  -  -
+         -  -  -  -  -  -  -  -  -  -  1  5
+         -  9  -  7  - 11  -  -  -  -  -  -
+        15  -  -  -  -  -  -  -  -  -  -  -
+         -  -  -  -  -  -  -  -  -  -  9  -
+         -  -  -  -  -  -  -  -  3 15  -  -
+         -  -  -  -  -  -  1  5  -  -  -  -

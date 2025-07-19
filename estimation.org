@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b0709556-766b-4fb1-b42d-7fa320dd387c
+:END:
+#+title: estimation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_estimate_e_g_duration.org][how to estimate (e.g. duration)]]

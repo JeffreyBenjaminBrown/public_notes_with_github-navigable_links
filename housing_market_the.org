@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7326b79b-7332-4ed9-955c-85bb39946fe9
+:END:
+#+title: housing market, the
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/housing_restrictions_in_the_us_make_people_less_productive.org][Housing restrictions in the US make people less productive.]]

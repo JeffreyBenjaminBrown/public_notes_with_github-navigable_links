@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       dc735cdb-6166-4f57-b7aa-b537b1ecb98f
+:END:
+#+title: lost
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lost_in_time.org][lost in time]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       906fa117-89cc-44f8-8b45-81c8a8b3941b
+:END:
+#+title: tree (shell command)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/strip_all_pyc_tag_and_files_from_tree_output.org][Strip all .pyc, TAG and __.*__ files from `tree` output.]]

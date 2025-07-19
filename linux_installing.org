@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c73d3380-7909-46bc-87de-b6e51dea11ac
+:END:
+#+title: Linux, installing
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_reinstalling.org][NixOS, installing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linux_without_a_gui.org][Linux without a GUI]]
+* if the installer fails to partition for the boot loader
+  Manually delete the existing partition with fdisk,
+  then try installing again.

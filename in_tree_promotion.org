@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ac81d8d8-4a61-4a38-ba3c-981a2148d484
+:END:
+#+title: in-tree promotion
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_a_to_do_list_should_maybe_come_first_or_last.org][In a to-do list, should "maybe" come first or last?]]
+* Be able to promote part of a category tree temporarily.
+  As a reader, you might come across "project name"
+  and be moved to skip it,
+  whereas if what you came across was
+  "promising line of work" (in that project)
+  you'd be moved to delve in.

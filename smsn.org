@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       55dae027-0053-4557-ba7e-2a36ef679cb4
+:ROAM_ALIASES: SmSn "Semantic Synchrony (software)"
+:END:
+#+TITLE: smsn
+* PITFALL: repo branch names have changed.
+  Josh explains how to deal with it here:
+  https://mail.google.com/mail/u/0/#inbox/FMfcgzGtvsdfvVSHVXXdpQjWKspHWqSK
+* refs
+** handy files/folders
+*** ~/Encfs/kb-no-encfs/
+*** ~/smsn+/smsn-mode/lisp/smsn-commands.el
+*** ? latest data
+ ~/_stale/pre-2019-07/smsn,maybe-latest-data/kb-not-encfs/neo4j
+   dec 15, 2018
+ /run/media/jeff/shuttle/smsn/kb
+   (encrypted)
+   dec 15, 2018
+ ~/home/jeff/smsn-resurrect/kb/neo4j
+   dec 10, 2019 -- IMPOSSIBLE
+ ~/_stale/pre-2019-07/smsn+/kb
+   june 15 2018
+** online
+*** smsn command reference
+    https://github.com/synchrony/smsn-mode/wiki/Command-reference
+*** installing smsn
+    https://github.com/synchrony/smsn/wiki/Installation
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rescue_smsn_into_org.org][rescue smsn into org]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_knowledge_graphs_matter.org][why knowledge graphs matter]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn_todo.org][smsn todo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn_usage.org][smsn usage]]
+* u, for smsn
+** We might feel like we know everything, but in the heart there will always be mystery.
+   Said (not verbatim) by the old woman in episode 8 of the Amazon Prime adapation of Electric Dreams.
+** Is this inspiration or hunger.
+** add this note to SmSn
+*** Where did my songs go?
+    Grep for "slick fish",
+    grep for "demographic miracle work" (doubtful)
+    I remember some of them somewhat
+      slick fish, miracle work
+    they might be in "whole songs" in "qq music"

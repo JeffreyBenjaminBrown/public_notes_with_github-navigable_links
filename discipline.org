@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       262826ac-648b-40a6-b0b5-0644ef17a3a8
+:ROAM_ALIASES: patience discipline self-control
+:END:
+#+title: discipline | patience | self-control
+* extra ID
+:PROPERTIES:
+:ID:       d7d8d66e-24b4-4f53-aa98-0d6707b26254
+:END:
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_abnegation.org][austerity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness.org][mindfulness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][peace]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][restraint]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fatalism.org][fatalism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immaturity.org][immaturity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/patience_v_courage.org][patience v. courage]]
+* technical strategies
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intentionally_seek_out_things_that_are_hard.org][Intentionally seek out things that are hard.]]
+** Make hard things easier.
+   A comfortable chair, exercise breaks, etc.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org#beware-perfectionism][Beware perfectionism.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org#cut-yourself-some-slack][Cut yourself some slack.]]
+* emotional strategies
+** not just enduring trials, but cheerfully so
+   "Patience, in Hindu philosophy, is the cheerful endurance of trying conditions"
+   --Wikipedia on patience, <2025-06-29 Sun>
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trust.org#fate][trust in God | fate]]
+** Patience relies on internal rewards.
+   One must feel good doing hard work with no immediate external payoff.
+   Therefore the payoff must be internal.
+* interpersonal patience
+** emotional control even under criticism or attack
+   "In Buddhism, patience [includes] not returning harm"
+   -- Wikipedia on patience, <2025-06-29 Sun>
+** View encounters with difficult people as valuable training.
+   "Tibetan Buddhist Thubten Zopa recommended that people train in forbearance by taking advantage of encounters with difficult people"
+   -- Wikipedia on patience <2025-06-29 Sun>
+* Self-control might be trainable like a muscle.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/practice_and_resume_building_suck.org][Practice and resume-building suck.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness.org#train-to-be-unmoved-by-temptation][Train the awareness to be unmoved by temptation.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#peaceful-motivation][peaceful motivation]]

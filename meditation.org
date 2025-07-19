@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8582cec9-74e2-4664-a6d7-946c2ba240e0
+:END:
+#+title: meditation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_calm_purpose.org][Calming the mind eases choice.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence_obliterates_micro_optimizations.org][Presence obliterates micro-optimizations.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attention.org][attention]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trainable_perceptual_skills.org][trainable perceptual skills]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_in_my_head_music_of_the_senses.org][Music in my head < music of the senses.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/effort_and_observation_are_somewhat_disjunctive.org][Effort and observation are somewhat disjunctive.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness_fission_fusion_emptiness.org#wholeness--fission--fusion--emptiness--the-list][wholeness  fission  fusion  emptiness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness_particularly_awe_in_romance_sounds_amazing.org][Mindfulness, particularly awe, in romance sounds amazing.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][peace]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sleep_biology_personal_health.org][sleep (biology, personal health)]]
+* dubious
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment.org][visions of enlightenment]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/breath_is_a_special_focus_because_it_is_semi_voluntary.org][Breath is a special focus, because it is semi-voluntary.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/normal_life_is_anti_meditation.org][normal life is anti-meditation]]
+* technical
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_and_or_meditation.org][knowledge graphs and/or meditation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mandala_for_meditation_a_text.org][mandala for meditation, a text]]

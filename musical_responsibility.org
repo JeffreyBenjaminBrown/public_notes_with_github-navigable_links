@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1714269c-56fc-4c72-9faa-eebf49c6a07f
+:END:
+#+title: music of social experience
+* musical responsibility
+:PROPERTIES:
+:ID:       c0aab161-bd95-4ede-b211-458ac934369b
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication_contains_musical_responsibilities.org][Communication contains musical responsibilities.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sometimes_the_rhythm_is_to_marinate_in_someone_s_words.org][Sometimes the rhythm is to marinate in someone's words.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/we_say_we_re_ending_it_and_can_t.org][We say we're ending it and can't.]]

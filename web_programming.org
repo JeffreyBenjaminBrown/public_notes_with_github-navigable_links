@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2cfdaafa-74d1-499c-9da2-c8880e204fcf
+:END:
+#+title: web programming
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/web_service_error_effects_on_the_time_cost_to_users_resembles_that_of_fractional_reserve_banking_on_the_money_supply.org][Web service errors' effects on the time cost to users resembles those of fractional reserve banking on the money supply.]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7e14ddd3-673c-4938-adb8-29696ab2ff96
+:END:
+#+title: 46-edo
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_isomorphic_layouts.org][46-edo isomorphic layouts]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_notation.org][46-edo notation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_some_cool_pitch_sets.org][46-edo / some cool pitch sets]]

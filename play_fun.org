@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       dae618bd-8f97-44ef-b22b-f72adef57bc8
+:ROAM_ALIASES: play fun improvisation
+:END:
+#+title: play | fun | improvisation
+* definitional
+** It is intrinsically motivated.
+* some aspects
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprise.org][novelty]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org#challenge][challenge]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_improvement.org][self-improvement]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/learning.org][learning]]
+** Some has {more, explicit} structure.
+** Some is clearly a state apart.
+** Some is collective and some is individualist.
+:PROPERTIES:
+:ID:       9e634618-e4d6-4842-94ac-98c377fb8c40
+:END:
+* some kinds
+** mimicry
+:PROPERTIES:
+:ID:       69742fd4-42e3-455a-9676-b22df32f814e
+:END:
+*** to learn to be like {a parent}
+*** as a joke
+** pretense
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][thrill]]-seeking
+** body play
+*** literal: experiments with one's own body
+    "an infant explores the ways in which his or her body works and interacts with the world" -- wikipedia on play <2025-07-09 Wed>
+*** generalized: experiment to see what a system is capable of
+** playing with the game's definition
+* some tensions
+** serious play
+:PROPERTIES:
+:ID:       411ba191-4092-431f-a8b0-eabd8b6814cf
+:END:
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org#flow-the-mental-state][flow, the mental state]]
+** time to play
+:PROPERTIES:
+:ID:       79f13632-7772-47ff-a39d-ef8dd9816d6c
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][play v. work]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom_v_commitment.org][freedom v. commitment]]
+* Get over [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/feeling_like_i_forgot_my_homework.org][feeling like I forgot my homework]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_courage_to_not_know_what_to_do.org][the courage to venture where ignorant]]
+* Mammals and birds do it "most noticeably".
+  -- wikipedia on play <2025-07-08 Tue>
+* "Play is explicitly recognized in Article 31 of the Convention on the Rights of the Child" by the UN
+  wikipedia on play, <2025-07-09 Wed>
+* Synthesize [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety_v_surprise.org][safety and surprise]].

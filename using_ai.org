@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       62d7c9c4-2022-4391-9770-cbd185d0becb
+:END:
+#+title: using AI
+* A simple correction can put it over the top.
+** example: [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/my_lion_portrait_for_monica.org][the lion papaya portrait]]
+* techniques
+** Ask the LLM to write a plan for how to change each file first.
+** explain changes
+   If I change something, unless its purpose is obvious,
+   add an explanatory comment.
+   Otherwise Claude might think it's unnecessary and remove it.
+* TODO HYPOTHESIS: push back, treat it like a person
+  light chastisement
+* some tools
+** Trae: free AI for coding that Tomás likes
+   https://www.trae.ai
+   Somehow gives free access to paid versions of ChatGPT and Claude,
+   as well as DeepSeek.
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/use_chatgpt_shell_for_emacs.org][chatgpt-shell (it covers other providers) for Emacs]]
