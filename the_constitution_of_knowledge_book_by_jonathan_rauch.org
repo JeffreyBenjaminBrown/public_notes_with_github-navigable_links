@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       3a301def-9a9b-4c2c-8bcd-aa55ae98b650
+:END:
+#+title: The Constitution of Knowledge, book by Jonathan Rauch
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wikipedia_s_governance_principles.org][Wikipedia's governance principles]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/science_advances_through_falsification_not_verification.org][Science advances through falsification, not verification.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/science_is_at_root_a_social_process.org][Science is at root a social process.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/diversity_of_opinion_makes_objectivity_easier.org][Diversity of opinion makes objectivity easier.]]
+* You can call something true if it is falsifiable and has stood up to attempts to falsify it.
+* to link into this file
+:PROPERTIES:
+:ID:       320e7816-f54b-49d5-a894-440117a1ce9f
+:END:
+  without polluting the ancestor space of this file

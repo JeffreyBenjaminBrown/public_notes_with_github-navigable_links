@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       e31ef49a-1cc3-417f-b1db-3d9f5c258abd
+:END:
+#+title: empathy
+* = understanding people
+* hard question : What do I not know about others?
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathize_before_confronting.org][Empathize before (and while!) confronting.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/people_as_priority.org][people as priority]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_to_understand_our_cognitive_differences.org][I want to understand our cognitive differences.]]
+* I want to know what people imagine.
+:PROPERTIES:
+:ID:       aa7d8bec-8ad4-4bf3-802f-3e8a38063c3e
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cognitive_overlap.org][cognitive overlap]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/refuse_to_feel_something_and_you_are_cut_off_from_the_people_who_do.org][Refuse to feel something and you are cut off from the people who do.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/it_s_fun_to_determine_when_sending_a_picture_conveys_more_and_or_better_information_than_words.org][It's fun to determine when sending a picture conveys more and/or better information (than words).]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gentle.org][gentle]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honesty_and_volunteering_v_empathy.org][honesty v. empathy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fawning_can_be_a_trauma_response.org][Fawning can be a trauma response.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/empathy_private.org][empathy & private]]
+* empathy & humility
+:PROPERTIES:
+:ID:       5b4f6b7b-1ebc-4f14-9102-6dec0e3b15c8
+:END:
+** Understand how everyone is stuck to the degree I understand my own.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org#excise-my-urge-to-change-others][Excise my urge to change others.]]

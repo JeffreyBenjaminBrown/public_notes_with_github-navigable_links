@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7b0e278c-0736-4eda-8f7a-a70d856e133a
+:ROAM_ALIASES: "microtonality in Reaper"
+:END:
+#+title: Reaper and microtonality
+* for the channel-as-octave idiom
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/fast_channel_manipulations_in_reaper.org][fast channel manipulations in Reaper]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#color-notescc-by-channel--c-s-m-c][color notes/CC by channel : C-S-M-c]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#filtering-in-reaper][the filter window]]
+* adding annotations to read when overdubbing
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#text-events-aweesome][Text Events]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org#notes-and-background-images-can-be-attached][Notes and background images can be attached]] to media items.
+* making editing easier
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#show-note-names-on-notes][show note names on notes]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/arbitrary_EDO_layouts_for_the_MIDI_editor_in_Reaper.org][arbitrary EDO layouts for the MIDI editor in Reaper]]
+* BLOCKED [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/the_microtonal_piano_roll_feature_request_i_filed_for_reaper.org][the microtonal piano roll feature request I filed for Reaper]]

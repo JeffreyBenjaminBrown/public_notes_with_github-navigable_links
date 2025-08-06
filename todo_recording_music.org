@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       bd4cc7de-0fd4-4aaf-b478-2eed42cf803a
+:END:
+#+title: TODO & recording \\ music
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/remember_to_keep_earlier_tracks_simpler_recording_improv.org][Remember to keep earlier tracks simpler.]]

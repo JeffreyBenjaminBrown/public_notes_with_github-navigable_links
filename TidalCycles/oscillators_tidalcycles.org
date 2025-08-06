@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       77aa1564-6d21-4091-b961-95f66401dc0d
+:ROAM_ALIASES: "continuous signals | oscillators \\\\ TidalCycles"
+:END:
+#+title: TidalCycles // oscillators | continuous signals
+* usually range from 0 to 1 (always?)
+* tri, saw (rises), lsaw (falls)
+* have a period equal to the unit cycle, I think
+* there are also some [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/randomness_in_tidalcycles.org][random ones]]
+* `smooth` makes a pattern continuous.
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/continus_parameter_variation_in_tidalcycles.org#for-me-to-process][an example from the forum]]
+* BROKEN : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/quantise_n_pat_rond_values_in_pat_to_multiples_of_n.org][quantise n pat : rond values in pat to multiples of n]]

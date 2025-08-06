@@ -1,0 +1,167 @@
+:PROPERTIES:
+:ID:       d5a5a3ff-977a-405b-8660-264fb4e974a3
+:ROAM_ALIASES: Hode
+:END:
+#+TITLE: Hode (application)
+* TODO : merge with
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shareable_knowledge_gardens.org][shareable knowledge gardens]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oscillable_generations_view_for_org_roam.org][oscillable generations view for org-roam]]
+** the TODO items in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam.org][org-roam]] (inc. extend)
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org][how to use a knowledge graph]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn.org][SmSn]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/features_i_want.org][features I want]]
+** build [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_with_typedb_and_emacs.org][Hode with TypeDB and Emacs]]
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epistemology.org][epistemology]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][information theory]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/networking_minds.org][networking minds]]
+* ONGOING s : * regroup {these files}* by fundamentals
+  (*) these files include
+  Hode, Skg, osc-gen, ?org
+** ?
+*** How do perspectives relate?
+**** began from
+***** Each topic is a perspective. Each subfile is a sub-perspective.
+** view options
+** Distinguish syntactic debt repayment from other children.
+*** why
+    Sometimes a branch is different from the others in that it explains, and is likely necessary for understanding, some of the syntax in the title of the node containing it.
+*** specific view required
+    It would be sufficient to use a "SDR" (syntactic debt repayment) tag that renders in a different color.
+** heralds can be multi-character
+** It is unambiguous as long as
+   as long as the characters are all the same color,
+   and different from the default.
+** Each herald should have a color.
+   Two of the same color, if adjacent, should be separated by space.
+** expressivity
+   keywords
+*** alias
+*** public default title
+    from a private node
+*** message to fellow reader
+    private to the two of them by default
+*** describe searches
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/build_hash_for_typedb.org][build Hash for TypeDB]]
+** control
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/messaging_apps_should_make_it_hard_to_send_to_the_wrong_target.org][Make it hard to send to the wrong target.]]
+*** writer controlling the read pattern
+**** if a kind of backlink could be marked worthless in that direction
+*** sometimes impose reminders on the reader
+**** each new node in an outbox automatically begins "dear [reader's name]"
+*** reader and writer must coordinate
+** record automatically
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_a_record_of_the_org_roam_files_i_read.org][record what I read]]
+** project names
+*** bootstrap
+** Should read the git diff and make it possible to see easily where a node was moved of it was deleted from a file
+** Are any of the relationships more than binary in a way that could not be easily handled by making the third and other members of the relationship into properties instead?
+** A view of a relationship
+*** Would look like a file with two top-level headlines equal to the two members of the relationship, and below each, a view child indicating its relationship to the other from its point of view
+* Private additional notes on a topic ought to explain how to modify the public view of it.
+  This way the public view would not need to be cluttered with (potentially suspicion-inducing) links to private notes.
+  But in this case changes to the public note become more difficult to integrate into one's mixed public-private view of it. For instance, what if your view includes a private grandchild and they remove its grandparent? Maybe they accounted well for all the other contents of the change but not yours. You ought to be able to see that their change affects private nodes they could not have taken into consideration. That said, their change is likely to suggest a way to resituate the orphaned private node.
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_the_org_mode_diff_easier_to_read.org][make the org-mode diff easier to read]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/einstein_s_olympian_society.org][Einstein's Olympian Society]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/promote_feels_notes_a_generalization_of_trigger_warnings.org][promote "_ feels _" notes : a generalization of trigger warnings]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing_org_roam_notes_both_reading_and_writing.org][sharing org-roam notes , both reading and writing]]
+* probing capabilities
+** DONE URI schemes' robustness to huge popularity.
+*** The org-roam URI scheme is quite robust.
+    Each URI has 32 hex characters,
+    so 16^32 = 3.4e38 unique values.
+    If each of the 8e9 people on earth had 100,000 notes,
+    there would be 8e14 notes.
+    The probability (use the birthday formula) of a collision
+    would be about 1 in a billion.
+*** The SmSN URI scheme is not.
+    It only (52*2 + 10)^16 = 4e28 unique URIs.
+    If everyone had 100,000 notes as above,
+    there would almost certainly be a collision.
+** DONE Do TypeDB from Rust in Docker
+   TypeDB has no C++ driver yet.
+** DONE Call C++ from Emacs
+   [[/home/jeff/code/emacs-ffi-to-cpp]]
+** DONE Read the org-roam db from C++
+   [[/home/jeff/code/cpp-for-org-roam-db]]
+* naming the app
+  "Why"
+* minimal hode building on org-roam and smsn
+** capabilities
+*** Make visible a count of each node's descendents.
+*** Links have two kinds of descendents: in this file and in the linked-to file.
+*** Parent relationships can also traverse multiple org- (within-file implicit tree) links.
+*** Order is hard.
+**** Disagreements about order might be hard.
+** data model
+*** Links can be used as relationships by preceding with a keyword likee ~via.
+*** Notes can have non-headline text.
+*** Any node N can be used as a relationship.
+    by making it an org-roam mid-generation,
+    and prefixing the link to N (after the bullet) with "~".
+*** Have different views of the same nodes.
+*** Perhaps in one file (i.e. view from a topic) one should be able to link to a path descending in another file.
+    e.g. under "humility", might link to "courage > thinigs that require it"
+    this link could be written "things that require courage", and indeed that could be the default name of the path "courage > things that require it". The link might appear from the view of the "humility" file as a single headline, but with some symbol indicating it is a path in another file, rather than a file itself
+*** ? For order, each note should have, for every POV from which it might be seen, a list of children.
+    arguments for and against
+**** PRO: Makes diffs highly readable:
+     If a top-level headline is moved, its children stay fixed.
+     There is only a one-line insertion and a one-line deletion.
+     This is particularly important if users receive pull requests:
+     they won't want to read complex diffs.
+**** CON: Makes files hard to read without special software.
+** things to be able to see
+*** From file F, if F links to node N, see that N also links to F.
+*** nah
+**** From link L in file F, if L links to node N, and L has children in F, show that N has children not shown in F.
+* methods + demo code
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_db_exploring_the.org][exploring the org-roam db]]
+** Emacs org-mode column view
+   https://www.gnu.org/software/emacs/manual/html_node/org/Column-View.html
+* pitching it
+** Don't mention hypergaph v. graph. Just call it a graph. The important thing is to be able to connect stuff as if in space rather than on a line.
+* capabilities
+** join SmSN, org-roam
+*** make a minimal model that can support them, plus the (untyped) user-defined relatinoship on n items and a label
+** permit someone online to judge your notes
+*** This would require identity management.
+    The simplest form would simply be "choose a name nobody else will choose".
+* There should be bubble actions.
+  Nested circles of "I think this word is like that word", so that someone could filter what they see that way.
+  They could be as vaguely personal categories as negative/positive. Different peoples' could differ a lot, with perfect validity. One could choose to see an equivalence class [on (term)] the way the majority see it, once (if you wanted) there was a sufficiently large majority who had voted.
+* [[id:3ffa3b8d-64b4-4805-9a10-4f3db3d9f56c][Who is where to me? What information do I [share, have in common, ?associate ..] with who?]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/u_hodeish_graph_voting.org][graph voting]]
+* share subcategories useful for a topic
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/define_relationships_using_ordinary_org_roam_syntax.org][Define relationships using ordinary org-roam syntax.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cold_email_advice.org][cold email advice]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/write_the_app_data_first_let_the_necessary_app_be_determined_by_the_data.org][Write the app data-first.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_truth_if_properly_qualified.org][Information (all of it) is truth ,, if properly qualified.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org][expressivity voids , observed]]
+* share git history views
+  motivation : Use TypeDB to make something simple but useful.
+  Haven't figured it out yet.
+** for smsn
+** for org
+** for plain text
+** for code
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/mind_map_merge_josh.org][mind map merge , Josh]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_tree_promotion.org][in-tree promotion]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_introductory_blurb_s.org][an introductory sketch of Hode]]
+* Golden Retriever would be a funny name.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/problems_hode_might_help.org][problems Hode might help]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_usage_and_gameification.org][Hode usage and gameification]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fun_interesting_relationships_hode.org][relationships worth recording]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/capabilities_hode_could_enable.org][things Hode would enable]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outcome_goals_for_an_information_sharing_technology.org][outcome goals for the coommunity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/feature_goals_for_an_information_sharing_technology.org][feature goals for the technology]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/instructional_videos_for_software_how_to_make.org][instructional videos for software, how to make]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_todo.org][Hode & TODO]]
+* unsolved
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graph_game.org][gameifying knowledge base curation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_sharing_and_cryptocurrency.org][information sharing and cryptocurrency]]
+* art about it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_not_as_app_but_as_perceptual_lens.org][Hode not as app but as perceptual lens]].
+* DONE
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/problems_with_hode_2021.org][problems I saw in Hode when I quit the version I was working on in 2021]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/defunct_coding_hode_in_haskell.org][abandoned : coding Hode in Haskell]]

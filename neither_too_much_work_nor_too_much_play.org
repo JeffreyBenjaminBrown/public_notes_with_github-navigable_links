@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e32322dd-0ae6-4c7c-a619-a32accac8763
+:ROAM_ALIASES: "Neither too much work nor too much play." "work-life balance" "labor v. leisure" "leisure v. labor" "work v. play"
+:END:
+#+title: play v. work
+* Both express [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happiness.org][joy]].
+* ironic transcendence
+** A good work-life balance, ironically, improves productivity.
+:PROPERTIES:
+:ID:       f42d66cf-99e2-4538-8979-8814eb875871
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comic_responsibility.org][Comic responsibility]] puts them in tension.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_should_motivate_play.org][death => play]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/proving_yourself_v_enjoying_others.org][proving yourself v. enjoying others]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_addition_to_behavior_maybe_even_perception_exhibits_a_leisure_labor_tradeoff.org][In addition to behavior, maybe even perception exhibits a leisure-labor tradeoff.]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2daee2c9-6fa3-4192-b8df-37516bcccb62
+:END:
+#+title: cognition
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/predictive_coding_cognitive_science.org][predictive coding (cognitive science)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cognitive_dissonance_and_commitment_romantic.org][cognitive dissonance and commitment (romantic)]]

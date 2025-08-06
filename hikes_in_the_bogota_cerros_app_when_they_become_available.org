@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       067cac8b-92b3-4936-bfd6-cf68fb8a3821
+:END:
+#+title: DONE investigation : when hikes in the Bogota Cerros app become available
+Each time I tested all five hikes of interest
+-- the four at La Vieja and the one at La Aguadora.
+** DONE aborted recording
+* Not Tuesday 7:40 am
+* Not Monday at 10:30 am or 9:30 pm
+** nor 10:44 am a different week
+** nor 12:19 pm the week after that <2025-02-10 Mon>
+* Not Sunday at noon or 10 pm
+  or 11 pm the next week
+  or 1 pm the week after that
+* Not Friday morning
+* Not Thursday morning or evening
+* Not Wednesday morning or evening

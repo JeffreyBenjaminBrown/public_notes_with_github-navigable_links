@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       721b9b4d-63cc-473f-8ccb-bfc8d22240d9
+:END:
+#+title: ethics
+* = FEELS like an angry subject
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/direct_attention_well.org][Direct attention well.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immaturity.org][immaturity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irratinoality_ethics.org][irratinoality & ethics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ethical_obligations_to_one_s_other_selves.org][ethical obligations to one's other (across time) selves]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/be_fascinated_by_lived_ethical_challenges.org][Be immediately fascinated by (lived) ethical challenges.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spirituality_ethics.org][spirituality + ethics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/antinormativity.org][antinormativity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moral_and_morally_motivated_are_distinct_qualities.org][Moral and morally motivated are distinct qualities.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moral_injury.org][moral injury]]
+* conscience
+:PROPERTIES:
+:ID:       99295d00-8cfa-4c7f-98af-ad1a41b4abc9
+:END:
+** Socrates relied on a last-minute intuition.
+   "Socrates' reliance on what the Greeks called his "daimōnic sign", an averting (ἀποτρεπτικός apotreptikos) inner voice heard only when he was about to make a mistake" -- Wikipedia <2025-06-28 Sat> (no citation but there's a link to another article about the daimōnic sign).
+** Good ethics is motivated by internal reward, not external.
+** Obeying it brings tranquility.
+   And disobeying it, a kind of pain.
+** It skews self-absorbed, ephemeral.
+   """
+   According to Adi Shankara in his Vivekachudamani morally right action (characterised as humbly and compassionately performing the primary duty of good to others without expectation of material or spiritual reward), helps "purify the heart" and provide mental tranquility but it alone does not give us "direct perception of the Reality".
+   """
+   Wikipedia on conscience <2025-06-28 Sat> cites that from:
+   Shankara. Crest-Jewel of Discrimination (Veka-Chudamani) (trans Prabhavananda S and Isherwood C). Vedanta Press, Hollywood. 1978. pp. 34–36, 136–37.
+** True self-awareness makes it difficult to continue evil.
+*** Therefore most evil is probably done by the not very self-aware.
+*** In Zoroastrianism, hell is self-awareness without redemption.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#does-each-person-always-do-what-seems-best][Does each person always do what seems best?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/utilitarianism.org][utilitarianism]]

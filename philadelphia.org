@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b4ca7120-18b3-4640-9b85-6255817b1da4
+:END:
+#+title: Philadelphia
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/philadelphia_police_department.org][Philadelphia police department]]

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       74d6d7d1-7749-4d60-925d-43958fcd3ee3
+:ROAM_ALIASES: pytest
+:END:
+#+title: testing in Python
+* PITFALL: Might need to specify PYTHONPATH
+  i.e. run
+    PYTHONPATH=. pytest python/something.py
+  rather than the simpler
+    pytest python/something.py
+* using pytest for programs that import other local programs
+** Put a passage like this before any local import statements:
+   import sys
+   sys.path.insert(0, '.')
+     # assuming pytest is run from the top of the project, this
+     # allows local ("python.something.something") imports to work
+** then test as normal
+   i.e. run "bash$ pytest src/path/to/testfile.py"
+   on a function with tests that look like
+   def test_something():
+     # PITFALL: The function must start with "test".
+     assert True
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/unittest_mock_python_library_for_testing.org][unittest.mock (Python library for testing with mocks)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hypothesis_python_library_for_property_testing.org][Hypothesis (Python library for property testing)]]

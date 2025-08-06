@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6560d717-9c11-47cd-9acd-cd9f000515e6
+:END:
+#+title: mosquito (insect)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mosquito_laser.org][mosquito laser]]

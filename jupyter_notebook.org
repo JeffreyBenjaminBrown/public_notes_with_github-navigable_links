@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       73d91ba7-1959-4bf2-ad08-6909db95b08b
+:END:
+#+title: Jupyter notebook
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_convert_an_ipython_notebook_file_to_plain_python.org][how to convert an iPython notebook file to plain python]]

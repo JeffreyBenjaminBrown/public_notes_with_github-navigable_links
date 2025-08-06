@@ -1,0 +1,129 @@
+:PROPERTIES:
+:ID:       5346e42f-5cf6-4af9-8efa-564cd350e104
+:ROAM_ALIASES: Hode6
+:END:
+#+title: Hode in TypeDB and Emacs (plans)
+* TODO
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/manipulate_hode_model_from_emacs.org][manipulate Hode model from Emacs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/try_python_and_typedb_hode.org][try Python and TypeDB]]
+** TODO ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/persistent_docker_data_insanity_hode.org][persistent Docker data insanity]]
+** BLOCKED [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bifurcate_hode_start_to_start_from_scratch_or_not.org][bifurcate hode-start to start from scratch or not]]
+* use org-roam for views
+** Views pulled from the data are always valid.
+** The user can push grammatically valid modifications back.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/my_own_copy_of_the_notes_from_80k_hours_s_daniel_dewey.org][notes from meeting Daniel Dewey at 80k Hours]]
+* to learn, context
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notes_from_eli_on_fractal_democracy_eos_cardano.org][notes from Eli on "fractal democracy", Eos, Cardano]]
+** NVivo
+   Stats software for qualitative analysis.
+   Ana V says it's popular.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notes_on_emacs_for_hode.org][notes on Emacs for Hode]]
+* u
+** It would be useful if authors could say of each other's statements things like this made me laugh, this surprised me, this I agree with.
+*** Also this needs evidence, or a conclusion, or suggestions for further reading. I don't know whether those should be private or public.
+** Let people log their queries globally. The register analyzes what people are trying to know, and uses that to determine what relationships to prompt for
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/making_big_programs_in_emacs.org][making big programs in Emacs]]
+* u - was top of mind
+** Asking TypeDB: Sort on transitive partially applied rels?
+   https://forum.typedb.com/t/can-typedb-sort-on-ideally-multiple-transitive-partially-applied-relationships/521
+** parsing in Python
+   I like the look of these:
+     https://pypi.org/project/parsita/ -- my favorite, judging the docs
+     https://github.com/vlasovskikh/funcparserlib
+     https://pypi.org/project/parsy/
+   and at least the spirit behind
+     https://pypi.org/project/parsec/
+** Emacs dev handbook
+   https://github.com/alphapapa/emacs-package-dev-handbook
+** interpreting JSON in Emacs
+   The regular Emacs as packaged on Nix has no JSON support.
+   Does Doom Emacs?
+   https://github.com/doomemacs/doomemacs
+** What guarantees uniqueness in TypeDB?
+   There seems to be an automatically-created "iid" field.
+** Asking about state in Emacs
+   https://www.reddit.com/r/emacs/comments/1dgxlmh/where_do_you_keep_state_when_writing_a_big_emacs/
+*** someone rec's
+    Sticking things in symbols' property lists with put (and later retrieving those values with get) can work nicely sometimes.
+    Maybe a hash map.
+*** someone else rec's
+    Private variables would be typically hode-state--* (too dashes). Public names are usually single-dashed.
+
+    If you have a bunch of internal variables representing some state, I don't think you should be shy of using structures (with defstruct) or classes. Defstruct is convenient since you get bunch of default methods so you don't have to type them yourself.
+*** another
+    buffer overlay
+    text properties
+    fields in text/buffers
+    anything about the buffer variable and storage systems
+** an Emacs note project to study
+   https://github.com/ahyatt/ekg
+** Authors will want multiple identities
+   "Me speaking on behalf of organization", "me speaking only for myself".
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/contribute_a_topological_sort_on_partially_ordered_relations_to_typedb.org][Contribute a topological sort on partially ordered relations to TypeDB]]
+* MEP, easier than the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_with_typedb_and_emacs.org#minimum-viable-extensible-product][MVEP]]: Python queries, print to screen.
+** How to extend it to involve Emacs
+   Emacs reads the file as Python updates it.
+   The user does not edit the file directly,
+   but can fold, unfold, etc. directly from the text,
+   and enter Hash-like commands into a separate buffer.
+   The file includes very brief URIs, their visibility togglable,
+   allowing users to refer to nodes quickly.
+* Minimum viable extensible product
+:PROPERTIES:
+:ID:       cfddefd6-b369-4ae0-bc6d-e047b75d4aeb
+:END:
+** First just the "is in some sense child of" relationship.
+** From Emacs you can
+*** search for text and be rewarded with candidate nodes
+*** fold and unfold children
+*** change node text
+*** add children
+*** delete child relationships
+*** delete whole nodes
+    with warnings about how many children it has,
+    and how many will be orphaned
+** Use Emacs, Python and TypeDB
+** Emacs writes Python programs and writes buffers to files, which Python and maybe TypeDB can read
+** Python writes programs for TypeDB, reads the results, and writes instructions for Emacs to update
+** Mostly Python, not Emacs, keeps track of what things mean.
+   Emacs has hidden text that says which text corresponds to which graph object.
+   But Python has the representation of the buffer -- what search was run, which nodes are children of what, etc.
+   Emacs updates by reading a file Python produces, and hiding appropriate text.
+* useful libraries
+** graphs in Python: cycle detection, topo sort
+*** packaged for NixOS
+**** igraph
+**** altgraph : a fork of graphtheory, version 0.17.4
+:PROPERTIES:
+:ID:       a0cdc132-2328-4cea-8779-434e1830c1d7
+:END:
+     https://pypi.org/project/altgraph/
+*** not packaged for NixOS
+**** graphtheory : version 1.0.3, not packaged
+     but see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_with_typedb_and_emacs.org#altgraph--a-fork-of-graphtheory-version-0174][altgraph]]
+     https://pypi.org/project/graphtheory/
+* IO
+** run a TypeDB script in Docker, outputting to a text file
+** Associate regions of Emacs buffer to TypeDB objects.
+** Communicate between Emacs and TypeDB.
+   Maybe just write TypeDB shell scripts automatically in TypeDB,
+   run them in the Docker container, write to a file,
+   and read that file in Emacs.
+** Communicate between Emacs and Docker.
+   Maybe use the TypeDB Python driver,
+   installed via pip,
+   in the same Docker container that runs TypeDB.
+* later
+** It would be nice if it could be WYSIWYG
+*** It can't, but at least some items could be feline able as editable
+**** When edited, one would have to choose whether they are replacing that thing with a new thing, or changing that thing in every other place it appears too
+** I'll need to choose some important relationships and types
+*** Types
+**** Source (of information)
+**** Verb
+**** Noun
+*** Relationships
+**** Source considers information to be of quality
+**** Does
+** Each buffer will need a data model
+*** Wherever the cursor is must correspond to an object meaningful in the graph, which means the buffer must have hidden data relating the text to graph objects

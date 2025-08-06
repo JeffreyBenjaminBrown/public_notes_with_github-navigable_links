@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       26404360-653b-408b-a227-2753a7ed0ea3
+:END:
+#+title: Azure (cloud environment from Microsoft)
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dian/my_visual_studio_subscription_comes_wtih_150_of_azure_credits.org][I have $150 of Azure credits.]]

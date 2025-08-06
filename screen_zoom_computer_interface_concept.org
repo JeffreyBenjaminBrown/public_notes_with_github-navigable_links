@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       7bd448d1-520c-4781-9ea4-59c70edbc151
+:ROAM_ALIASES: "zoom (computer screen interface concept)"
+:END:
+#+title: screen zoom (computer interface concept)
+* On Linux, screen zoom (usually?) requires a compositor.
+:PROPERTIES:
+:ID:       62036028-7e1a-4221-86bd-e5fc31041995
+:END:
+* screen zoom in xfce
+:PROPERTIES:
+:ID:       93db6988-2f49-4018-b7ff-0f39c54d6e16
+:END:
+** The builtin shortcut is Alt <mouse wheel>.
+** xdotool can send those commands from the keyboard.
+   xdotool keydown Alt click 4 click 4 keyup Alt   # zoom in
+   xdotool keydown Alt click 5 click 5 keyup Alt   # zoom out
+** I've made scripts for those xdotool commands in ~/bin.
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/xfce_keyboard_shortcuts.org#todo-adding-my-own-shortcuts-is-not-working][Adding my own keyboard shortcuts is not working.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/boomer_platform_independent_screen_zoom_application.org][boomer (platform-independent screen zoom application)]]
+* Linux desktop environments with native screen zoom
+:PROPERTIES:
+:ID:       5ec64c3d-c92f-4bd5-a280-718ac69f83f9
+:END:
+  non-exhaustive enumeration
+** kde
+** gnome
+** xfwm, xfce

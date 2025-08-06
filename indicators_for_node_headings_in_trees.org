@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ec4a7b9d-bf43-4379-9eb0-a3314ba12f20
+:END:
+#+title: indicators for node headings in [trees in graphs]
+* All prefixes should be in the system font.
+  to distinguish them from the heading.
+* Bullets with addresses should look different.
+* Text pasted with an address should be white on red, give a warning, and permit the user to give it normal colors.
+  It is allowed but discouraged.
+  The warning should be disablable by the user.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/show_number_and_kind_of_upstream_nodes.org][show number and kind of upstream nodes]]
+* Prefix a heading "RN" if it is a "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/it_this_and_these_make_tree_relationships_easy.org][relation]]" of arity N.
+:PROPERTIES:
+:ID:       2323989f-faf4-480b-845a-7e15356e5683
+:END:
+* for things open or opened-this-session
