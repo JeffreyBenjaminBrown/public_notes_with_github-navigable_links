@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4db238a2-d921-4383-9e18-76b93e80f67f
+:END:
+#+title: apology
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confession.org][confession]]
+* effective ones expressing [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/remorse.org][remorse]] include
+  per some people cited in the Wikipedia article
+** the story, including the apologizer's role
+** acknowledgement of the harm done
+** acceptance of responsibility

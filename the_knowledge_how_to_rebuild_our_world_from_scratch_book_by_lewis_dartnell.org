@@ -1,0 +1,126 @@
+:PROPERTIES:
+:ID:       14cb4309-9afa-405a-942f-a743e5a9fd9f
+:END:
+#+title: The Knowledge: How to Rebuild Our World from Scratch (book), by Lewis Dartnell
+* link for references :: The Knowledge: How to Rebuild Our World from Scratch (book), by Lewis Dartnell
+:PROPERTIES:
+:ID:       55dd37d6-32d3-445d-a389-298db33178bc
+:END:
+* TODO RESUME at
+  society could end up taking very different paths
+* <2024-09-16 Mon>
+** Make candle
+*** molten tallow into a mold, or even just dip a row of dangling wicks into hot tallow to coat them; allow them to cool and set in the air. Then repeat, building up layer after layer until you have substantial candles.
+*** Modern candles are composed of wax derived from crude oil, and the availability of beeswax will always be limited, but you can make a perfectly functional candle from rendered animal fat. Boil meat trimmings in salty water, and scoop the hardening layer of floating fat off the surface. Pig lard produces a smelly, smoky candle, but beef tallow or sheep fat are passable. Pour
+** As it burns down, more wick is exposed, producing a larger and smokier flame, unless you periodically snip the wick. The fuss-saving innovation, which didn’t occur to anyone until 1825, is to braid the fibers of the wick as a flattened strip, so that it naturally curls over and the excess is consumed by the flame.
+** Collier = someone who makes charcoal from wood
+*** Coal is the natural stuff. Charcoal burns hotter than coal, and clean, whereas coal is dirty.
+** Before buttons, clothing had to be loose fitting. They were only invented in the 1300s in Europe, and only came to Japan with the Portuguese.
+** Spinning wheels make thread. Looms weave it.
+** To make a single thread stronger, you can twist it with a second to create a two-ply twine; and, more  important, if you twist them in the direction opposite to how they were originally spun, the two intertwined strands will naturally lock togeth
+** Sill is from a moth cocoon
+* u, from LI, recursively backward
+** Turnip, as well as other fodder crops like rutabaga, kale, and kohlrabi, are biennial plants, which means they can be left in the ground over winter and plucked out to feed cattle when needed.
+** Nowadays, the function of a plow is to carefully scoop up the uppermost layer of soil across an entire field and flip it upside down, crumbling it slightly. The primary aim of this process is weed control
+** Tillage is the name for all the mechanical effort you need to put into loosening hard soil, controlling weeds, and preparing a receptive layer of topsoil (tilth) for sowing the seeds.
+** Different plants prefer different soil compositions
+** The ideal kind of soil for farming is known as loam and is a balanced mixture of roughly 40 percent sand, 40 percent silt, and 20 percent clay
+** It’s easy to get a visual check on soil composition.
+*** (search for that phrase)
+** farming is a process that transforms oil into food—with some input from sunshine—and consumes around ten calories of fossil fuel energy for every calorie of food actually eaten.
+*** The production of fertilizers, pesticides, herbicides, and the running of farm equipment all use fossil fuels
+** Farming hurts soil by fefinition
+*** Because we don't die on that soil
+**** particularly with modern sewage systems—our waste is treated to kill harmful bacteria and then discharged into rivers or seas—agriculture today is an efficient pipeline for stripping nutrients from the land and flushing them into the ocean
+**** Even if you spread much of the leftover vegetative matter back onto the fields, you’ve still removed the portion actually eaten, and year after year the land is steadily depleted. So the very nature of farming necessitates that you are progressively removing mineral nutrients, bleeding the soil of its vitality
+** such as wheat and maize have been optimized for the production of nutrition and are now poorly adapted for life without us
+*** they do not “breed true,” and so new hybrid seeds must be bought to plant each year. What you really want to gather in the immediate aftermath, therefore, are heirloom crops: traditional varieties that can be reliably propagated from one year to the nex
+* a familiar fridge
+  Evaporation (e.g. boiling) requires/draws heat from its environment. Do that on the inside, and then condense on the outside, and the inside gets cool and the tube exports heat to the outside (through black radiator fins).
+* a low-tech fridge
+  The Zeer pot, common in Africa, consists of a lidded clay tub inside an unglazed larger one, with the gap between them filled with damp sand. As the moisture evaporates it draws heat out of the inner container, lowering its temperature, so the Zeer pot can postpone the spoilage of fruits or vegetables at market by a week or more.
+* preserving food
+** Canning with pressure is especially effective.
+   For the safest preservation, food that isn’t already acidic or pickled should be pressure-canned, exposing it to temperatures above the normal boiling point, as this completely sterilizes the contents and kills even temperature-resistant spores of microbes like those responsible for botulism.
+** the reason that we use tin cans, or at least tin-coated steel, today is that this is one of the few metals that will not corrode with the acidity of foods
+** regardless of the nutrient source, alcohol from fermentation can only reach a concentration of around 12 percent before the yeast cells essentially poison themselves with their own ethanol excretion.
+** Soaking grass seeds in water makes them germinate, breaking down their starch into sugars.
+** starch is a chain of sugar subunits
+** how to isolate yeast for baking
+   Make up a mixture of one cup of flour (whole-grain is best for this initial process) and half to two-thirds of a cup of water; cover and allow it to sit in a warm place. Check after twelve hours for signs of growth and fermentation, such as bubbles forming. If none are apparent, stir and wait another half day. Once you get fermentation, throw half of the culture away and replace with fresh flour and water in the same proportions, repeating this refill twice a day. This gives the culture more nutrients to reproduce and continually doubles the size of the microbial territory to expand into. After about a week, once you have a healthy-smelling culture reliably growing and frothing after every replenishment, like a microbial pet thriving on the feed left in its bowl, you are ready to extract some of the dough and bake bread.
+   ...
+   Your resultant sourdough is not a pure culture of a single isolate, but actually a balanced community of lactobacillus bacteria, able to break down the complex storage molecules of the grain, and yeast living on the byproducts of the lactobacilli and releasing carbon dioxide gas to leaven the bread
+** basic bread
+   is ludicrously simple: grind some grass seeds into a powdery flour, mix with water into a pasty dough, then roll out and cook slowly, perhaps even just on a hot stone by the fire. This makes an unleavened flatbread,
+** Sugar preserves by reducing water availability.
+   "many other foodstuffs are also preserved by low water availability. Large amounts of dissolved compounds like sugars make a solution very concentrated, which acts to draw water out of microbial cells and stop all but the hardiest strains from growing. This is exactly the principle behind jams:"
+** to make sugar
+   sugar can be extracted from tropical sugar cane or the root of the temperate-growing sugar beet by trickling water through the crushed plant to dissolve the sugar and then recovering the crystals of it by drying
+** "The opposite approach [to, say, pickling], preserving food with alkalinity, is much less prevalent because it saponifies the fats—see soap-making in Chapter 5—and so grossly changes the flavor and texture of the food."
+** Whirling a bucket is enough to centrifuge the "buttermlik" from the (rest of the?) milk.
+   Or let it sit somewhere cool for around a day.
+** Butter is buttermilk fat separated from the water, with salt added.
+   The process of churning is simply to get the droplets of fat to stick together and exclude the remaining fluid, or buttermilk. This can be achieved by rolling a jar back and forth across the floor, or shaking it, but a more effective post-apocalyptic makeshift solution would be to use an electric drill with a paint-stirring paddle. Strain the butter out of the buttermilk, add salt for preservation, and then knead it until all the water has been squeezed out and the salt mixed throughout.
+** In temperate climes, salt costs energy.
+   But if it's hot you can just sit saltwater, and if it's cold enough, frozen saltwater will be a layer of ice above a layer of brine.
+** Cheese dominates yogurt and butter for preservation.
+   Yogurt and butter are stable for a few days to around a month, respectively, whereas cheese can safely preserve the nutrients of milk for many months: it is the perfect rickets-busting storage medium.
+** to make cheese, the crucial point is dessication
+   "is to preserve the nutrients in milk by removing its water component. Rennin, an enzyme from the first stomach of a calf, is used to break down the proteins in milk and so curdle it. The curds are strained off and pressed into a solid lump, which is then allowed to mature"
+* agriculture
+** Bread crust, like searing on steak, is also a result of the Mallard reaction.
+** Bone meal (crushed, boiled bones) makes good fertilizer.
+   It has lots of phosphorus, which plants need.
+   Treating it with sulfuric acid makes it easier for them to use.
+** compost uses aerobic bacteria
+   which is why it needs turning.
+** threshing
+*** is separating grain from the rest of the plant
+*** the simplest way is to [beat it]
+    lay the harvest out on a clean floor and beat it with a flail—a long handle with one or more shorter sticks attached at the end with leather or chain hinges
+** after threshing, winnow
+*** "his threshing process leaves all the grain mixed in with the empty husks, and you must now separate the wheat from the chaff"
+*** "your low-tech option is to simply toss the threshed material into the air on a windy day—the lighter chaff and straw are carried a short distance away on the breeze and the dense grain falls more or less straight back down. Modern machinery creates its own artificial wind"
+** we’ve distorted their biology so much that they are now as reliant upon us for their survival as we are upon them for our own. Every crop we grow today ...
+** cereal crops are all grasses
+   even corn
+** Legumes, unlike other crops, put nitrogen back into the ground.
+   And they include alfalfa, clover and peanuts.
+** "a crop rotation [of] several stages" "breaks the cycle of diseases and pests"
+   In Britain, the cycle
+     legumes, wheat, root crops, barley
+   worked best. This is the "Nortfolk four-course rotation".
+** "with a root vegetable, you can plant a crop and still be able to rip out weeds between the rows"
+** "the adoption of the humble turnip and other root crops for fodder heralded a revolution in medieval agriculture. Not only are these more effective than grazing for fattening up livestock over the summer, but they also provide a reliable energy-rich feed throughout the winter."
+   Before their introduction, every late autumn medieval Europe witnessed the mass slaughter of livestock, as there was simply insufficient food to keep the animals from starving before spring.
+** human waste as fertilizer requires treatment
+   "you can’t start gleefully smearing untreated sewage across crops you intend to eat later: you’ll simply complete the life cycle of numerous human pathogens and trigger widespread outbreaks of disease."
+   Urine should be separated from feces, as it "is sterile and so can be diluted and applied directly to the land."
+** Composting produces heat that kills parasites.
+** bioreactors are not high-tech
+   "In a compost heap the objective is to keep everything well aerated so that oxygen-needing bacteria and fungi can readily decompose the matter. But if instead you hold the waste in a closed vessel, blocking oxygen from getting in, anaerobic bacteria thrive and partly convert the organic material into flammable methane gas."
+   This was common in Europe in WWII.
+* electricity
+** An inverter converts DC to AC
+** An alternative design of rechargeable lead-acid battery, known as a deep cycle, discharges at a much slower rate and can have almost its entire capacity repeatedly drained and recharged without problems
+** A car alternator provides a steady 12v across it's terminals no matter how fast it spins.
+** Car batteries "are easily damaged if persistently allowed to discharge by more than about 5 percent."
+* Although the potency of a pharmaceutical will decline as the active ingredient in the tablet chemically degrades, there’s no great risk that it’ll harm you.
+* [after cleaning it] pull the lips of the injury together and administer the superglue only along the surface to bridge the gap and hold it closed.
+* Antibiotics marketed for farm and pet animals, and even for fish aquariums, are exactly the same as for humans
+* Gasoline goes bad! Oxidation makes a gummy residue, and condensation permits mold to grow. These can be filtered.
+* [not exposed to] moisture and oxygen), so unmilled whole wheat grains remain good for decades
+* Just a few drops of a 5 percent liquid bleach solution that has sodium hypochlorite listed as the main active ingredient will disinfect a whole liter of water in an hour.
+* some plastic can be re-molded
+  "thermosetting plastics and thermosoftening plastics (or simply thermoplastics). Thermosetting plastics are nigh on impossible to recycle: when heated they decompose into a complex mixture of different organic compounds, many pretty noxious. Thermoplastics, however, once cleaned, can be melted and re-formed into new products."
+  "the quality of plastic products degrades with exposure to sunlight and the oxygen in the air, and they become weaker and more brittle each time they are recycled."
+* Without light, algae won't grow in water.
+* steel expands as it rusts, rupturing the concrete from the inside
+  as mildly acidic rainwater soaks through, and humic acids released by rotting vegetation seep into the concrete foundations, the embedded steel begins to rust inside the structures
+* Freezeing and thawing wears down mountains.
+  just like pavement -- water gets into cracks and freezes, expanding to make more cracks
+* Genetic analyses suggest that the Maoris and (more interestingly) most Native Americans descend from a founding population on the order of 140 people, around half of them female.
+* "the observation that first hinted at the deep coupling between electricity and magnetism [was] the twitching of compass needles left next to a wire carrying current
+* "One of the major catalysts for the Renaissance in the fifteenth and sixteenth centuries was the trickle of ancient learning back into Western Europe."
+  "Much of this knowledge, lost with the fall of the Roman Empire, was preserved and propagated by Arab scholars carefully translating and copying texts; other manuscripts were rediscovered by European scholars."
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_meiji_restoration_was_a_blistering_industrialization.org][The Meiji Restoration was a blistering industrialization.]]

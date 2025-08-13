@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       70642496-6430-451d-9053-e5993891d2e6
+:END:
+#+title: neuroticism
+* =? unhealthy [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imagination.org][imagination]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][fear]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/i_let_monogamy_entirely_in_my_head_prevent_me_from_getting_peoples_numbers.org][I let monogamy -- entirely in my head -- prevent me from getting peoples' numbers.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/procrastination.org#procrastination---perfectionism--failure][procrastination <- (perfectionism ~ failure)]]

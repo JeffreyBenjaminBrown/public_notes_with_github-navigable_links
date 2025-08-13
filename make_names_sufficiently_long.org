@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       59478b79-70e8-4422-8ed8-78a62d801a98
+:END:
+#+title: Make names long enough.
+* NOT obvious: They should be easy to find and replace,
+  which implies they should not be substrings of other tokens.
+* Obvious:     They should be sufficiently informative.
+* example
+  "Action" turned out to be a worse type name than "ScAction",
+  and renaming it took me like 15 minutes.

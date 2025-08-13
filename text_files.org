@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       653777d1-b361-4660-a83e-19cdb8860b2d
+:END:
+#+title: text files
+* Why, and what to do if, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/binary_files.org#pitfall-if-a-file-has-null-values-its-considered-binary][the OS considers a file binary when I don't want it to]].

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       efd9d055-de2d-4604-9d0c-ec24361e3297
+:END:
+#+title: negativity
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/2025_05_08_thu_i_am_exploring_the_dark_side.org#initial-impressions--justification][why to study it]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sign_marbling.org][sign marbling]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sign_marbling.org#emotional-valence-is-not-always-obvious][Emotional valence is not always obvious.]]
+* instances \ negativity
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anger.org][anger]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org][death]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org][depression]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fatalism.org][fatalism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][fear]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guilt.org][guilt]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/remorse.org][remorse and regret]]
+* responses
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apology.org][apology]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/repression_psychology.org][repression]], a response to many of them
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/projection.org][projection (error)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_harm.org][self-harm]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/denial.org][denial]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rationalization.org][rationalization]]
+* nihilism
+:PROPERTIES:
+:ID:       27f9e7f9-f2d4-48f2-80f9-d3443080681f
+:END:
+** materialism
+:PROPERTIES:
+:ID:       f9097e8f-68bd-47c8-b9d6-5deec9bfdfb3
+:END:
+** => [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fatalism.org][fatalism]]
+** objects
+   = things people are nihilistic about
+*** morality
+*** knowledge
+*** meaning | fulfillment
+*** politics

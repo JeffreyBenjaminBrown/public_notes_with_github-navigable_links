@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       2b15a3ec-086b-4c66-af57-a03e706e1d84
+:ROAM_ALIASES: happiness fulfillment
+:END:
+#+title: joy
+* TODO merge with [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/pleasure.org][pleasure]]
+* kinds & sources
+** gratitude
+:PROPERTIES:
+:ID:       004af7c1-02db-4545-8691-f00135b9ed48
+:END:
+*** People say gratitude exercises work.
+    Thinking of things to be grateful for
+    makes them happier.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org#compartmentalize-the-bad-think-of-the-good-in-other-contexts][Compartmentalize the bad. Think of the good in other contexts.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awe.org][awe | wonder]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/living_like_theres_no_tomorrow.org][presence]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org][art]]
+*** But [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org#todo-art-is-not-always-for-pleasure][art is not always for pleasure.]]
+* nearby [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotion.org][feelings]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_s.org][hope]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety.org][safety]]
+* methods
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happiness_must_be_a_priority.org][Happiness must be a priority.]]
+* tensions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][play v. work]] (both express joy)
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/proving_yourself_v_enjoying_others.org][proving yourself v. enjoying others]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fulfillment_is_the_other_side_of_hunger.org][joy v. hunger]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/introspect-and-reprogram.org][introspect & reprogram]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotional_ambition.org][emotional ambition]]
+* [[:id:b2c221c4-2ece-4334-a7a7-2bf6876128f5][leisure v. labor -- broken link?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/big_ideas.org][shareable big ideas]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happy_alone_first.org][happy alone first]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/orgasm.org][orgasm]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/extreme_and_strange_happiness.org][Is extreme happiness necessarily strange?]]
+* priavte \ jbb
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/social_jbb.org][social \ jbb]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/creative_jbb.org][creative \ jbb]]
+* fantasy
+** I would be happier in a world where muscle density varied widely.
+   Shoulderpads could hide weapons.
+* Joys are immortal.
+:PROPERTIES:
+:ID:       1a59f217-71bd-4ccc-8d6a-a63f9c823378
+:END:
+** For every time, there is a later time during which {dance, music, art} is {fun, deeply symbolic, ..}.
+* Joy might be hereditary.
+  source: "Biological Connection to the Feeling of Happiness". Journal of Clinical and Diagnostic Research. 1 October 2020.

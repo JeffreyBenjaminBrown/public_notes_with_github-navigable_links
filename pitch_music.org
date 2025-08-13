@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       a7c0c661-120a-4e78-9c55-bd2a718a3503
+:END:
+#+title: pitch \ music
+* Walking diatonic bass is nice
+* u : a "substitution sequencer"
+  https://llllllll.co/t/lamination/58652
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonality.org][microtonality]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_7_12_tone_scale_families.org]["the" 7 12-tone scale families]]
+* melody
+** Melodic octaves in the bass are cool.
+   e.g. 12-edo 0 7 7_ (where postfix _ means an octave below)
+* chord families I like
+** the diatonic scales
+** the symmetric (12-edo) scales
+*** aug maj7 9 lives here
+*** dim maj7 9 lives here
+*** whole tone
+** whole, dim, aug, quartal
+** things with 11:8 or 13:8
+** close and open voicings
+** something weird in the bass
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_unsolved_to_rank_chords_in_an_edo_by_harmonicity.org][How (unsolved) to rank chords in an EDO by harmonicity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_burnside_s_lemma_to_count_triads.org][using Burnside's lemma to count chords and scales]]

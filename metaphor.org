@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2ac7f271-eea5-4d23-852f-798322eff6e2
+:END:
+#+title: metaphor
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god_as_metaphor_for_religious_community.org][God as metaphor for {community, conscience}.]]

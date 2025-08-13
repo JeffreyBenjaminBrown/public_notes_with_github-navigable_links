@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cd31d188-3857-469e-8af8-07ce8d4242d9
+:END:
+#+title: intuition
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notice_when_i_think_while_writing_something_true_enough.org][Notice when I think, while writing something, "true enough".]]
+* The intuition recognizes [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/incongruity.org][incongruity]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authenticity.org][authenticity]]

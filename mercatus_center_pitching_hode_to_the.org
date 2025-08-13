@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       de60b7a7-d32d-4773-a26d-bf18ae12336b
+:END:
+#+title: Mercatus Center, pitching Hode to the
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_in_under_295_characters_for_the_mercatus_center.org][Hode in under 295 characters, for the Mercatus Center]]
+* pieces Mercatus did not ask for
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_as_quickly_as_possible.org][Hode as quickly as possible]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shyg_long_essay_on.org][Mercatus Center, essay on Hode for]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/stashed_unused_text_for_pitching_hode_to_mercatus_center.org][stashed unused text]]
+* what they ask
+** the relevant part of my background
+The first part of the proposal should be about you. Tell us your personal story, and how it relates to what you wish to do. We probably don't care much about your formal education, credentials, or awards, unless they're particularly germane to who you are or your idea. Do tell us your background briefly, but credentials are not what will impress us.
+** a mainstream belief I hold
+Second, what is one mainstream or "consensus" view that you absolutely agree with? (This is our version of a "trick" question, reversing the now-fashionable contrarianism.)
+** the idea: what's new in it, what it solves, maybe budget stuff
+The third part should be about your idea. Convince us that this is a great idea worth investing in, and tell us what is new or unusual in your vision and understanding. What's the problem you intend to solve? If you have a ballpark budget (with revenue sources and expenses), let us know the bare basics now; we won't hold you to it strictly.
+* TODO before publishing
+** mention improving on X/Wikipedia/Elsevier
+** Compare faster to AI
+*** what I sent Bran when he asked
+Shyg would differ from AI by being explicit, legible information. You can see what's known, you can verify it, recognize errors. You can see how results are computed, rather than trying to trust an oracle. Both AI and Google are oracular -- sometimes it's clear that Google is not finding what you want, or not front-loading it, and it's known that AI hallucinates, without any recognition that it is doing so.
+
+That's not to say Shyg won't contain dubious information, but the provenance of that information, and all sorts of commentary about it, will be indexed alongside, which should make it much easier to determine trustworthiness.
+** Can I give more examples where it is useful to a small, maybe unit, userbase?
+** Do the footnotes make sense?
+** Are bullets formatted correctly?
+** Did I call it Shyg or Hode?
+* responses
+** about me
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/blurb_about_me_for_pitching_shyg_to_the_mercatus_center.org][blurb about me, for pitching Shyg to the Mercatus Center]]
+*** TODO ? talk about econometrics
+    thinking about what problems data can solve
+** a mainstream belief I hold
+Our chief institutions for determining what is true are science, journalism, law and government. It is critical that they function well, and equally critical that they be widely understood and trusted.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mercatus_center_short_essay_on_shyg_for.org][Mercatus Center, short essay on Shyg for]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7884d437-6065-4e05-bf06-e2a0771cf507
+:ROAM_ALIASES: "magic + love"
+:END:
+#+title: love + magic
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprise.org][surprise]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_had_a_really_epic_missing_half.org][if you had a really epic missing half]]

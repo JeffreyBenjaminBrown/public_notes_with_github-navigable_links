@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       09d7af48-b851-4f73-b29c-82cd08449437
+:ROAM_ALIASES: kill
+:END:
+#+title: kill (bash command)
+* kill all processes matching a regex (here "emacs")
+** alternatives
+*** use `awk` to extract each PID, then `xargs` each into `kill`
+    ps -ef | grep -i emacs | awk '{print $2}' | xargs kill
+*** use `awk` to stick `kill` in front of each PID, then send to `sh`
+    ps -ef | grep "emacs" | awk '{print "kill " $2}' | sh
+* pkill -f : for when a process won't be killed by name
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/firefox_web_browser.org#to-kill-all-firefox-instances][Firefox, for instance, is like this.]]
+  In that case use `pkill`.
+    pkill -f firefox

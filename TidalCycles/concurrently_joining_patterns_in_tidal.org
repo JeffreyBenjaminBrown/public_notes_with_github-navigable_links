@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       562d6768-0321-4cfa-9a3a-4c581b3ed6a5
+:END:
+#+title: concurrently joining patterns in Tidal
+* (<>) is the operator
+* stack : [Pattern a] -> Pattern a
+* superimpose :: (Pattern a -> Pattern a) -> Pattern a -> Pattern a
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/TidalCycles/steady_beat_falling_sample_speed_distorted_echo_swing.org][superimpose a swung echo]]
+#+BEGIN_SRC haskell
+d1 $ superimpose
+      ( late (2/12) .
+	(|* distort 0.3) .
+	(|* speed "[3,5]") .
+	(|* gain 0.7) )
+      $ s "<bd bass> hh sn:1 <<bleep <numbers:1 numbers:2>> hh>" |* slow 16 (speed "[1!3 0.8] [0.7 0.6]")
+#+END_SRC
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/TidalCycles/stereo_beat_with_superimposed_faster_comb.org][stereo beat with superimposed faster comb]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/layer-apply-list-of-functions-in-parallel.org][layer : apply list of functions in parallel]]
+  * achievable by other means
+* for various characters x, `|x|`, `|x` and `x|` (e.g. |*|)
+  On which side the bar lies determines which pattern divides time.
+  If it's on both sides, both patterns divide time.
+** The examples in the documentation are helpful.
+   https://tidalcycles.org/docs/patternlib/tutorials/pattern_structure
+** Two interesting operators: |> and <|
+   They take values from one side but metric divisions from the other.

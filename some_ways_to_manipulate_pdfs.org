@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       f3e205be-1323-4ca1-89b9-fc99ab1d8956
+:ROAM_ALIASES: "pdf manipulation editing"
+:END:
+#+title: some ways to (create and) manipulate PDFs
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitfalls_when_converting_pdfs.org][PITFALLS when converting PDFs]]
+* insert text or an image into a PDF
+  tag signature
+** use Xournal
+   Tools (M-t) -> Image (i Enter)
+   Then click where I want the top left corner,
+     and drag the bottom right one.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_to_pdf_how_to_export.org][org to pdf, how to export]]
+* text or [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/markdown_to_pdf_how_to_convert.org][markdown to pdf, how to convert]]
+* to extract tables from PDFs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tabula_software_to_extract_tables_from_pdfs.org][Tabula (software to extract tables from PDFs)]]
+* to remove encryption from a PDF
+  qpdf --password=YOURPASSWORD-HERE --decrypt input.pdf output.pdf
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_concatenate_mixed_format_images_into_a_pdf.org][how to concatenate mixed-format images into a pdf]]
+* to concatenate pdfs with pdftk
+  pdftk file1.pdf file2.pdf file3.pdf cat output newfile.pdf
+* to cut and concatenate pages with pdftk
+  pdftk input.pdf cat 1-7 9 11-end output merged.pdf
+  pdftk big.pdf cat 5-6 output middle.pdf
+* to convert a pdf to grayscale
+** ghostscript: works!
+gs \
+ -dAutoRotatePages=/None \
+ -sOutputFile=gray/output.pdf \
+ -sDEVICE=pdfwrite \
+ -sColorConversionStrategy=Gray \
+ -dProcessColorModel=/DeviceGray \
+ -dCompatibilityLevel=1.4 \
+ -dNOPAUSE \
+ -dBATCH \
+ input.pdf
+** gimp: works, but uses a lot of memory
+image / mode / grayscale
+** imagemagick ("convert"): perfect for jpgs, bad for pdfs
+convert -colorspace GRAY color.pdf gray.pdf
+convert -colorspace GRAY dian.pdf gray/dian.pdf
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/downsample_images_and_pdfs_with_ghostscript.org][downsample images and pdfs with ghostscript]]

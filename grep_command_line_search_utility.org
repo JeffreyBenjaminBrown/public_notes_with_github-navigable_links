@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ee83ddd1-aeaa-46e9-a6a7-d180ac16471f
+:ROAM_ALIASES: grep
+:END:
+#+title: grep (command line search utility)
+* if grep exits abnormally, try ripgrep (rg)
+  Someone on SO:
+    https://stackoverflow.com/q/45526670/916142
+  believes it can search in different formats
+  (UTF-8, UTF-16, Latin-1) simultaneously.
+* grep excluding nonreadable file types
+  find . -type f -not \( -name "*.csv" -o -name "*.xlsx" -o -name "*.tgz" -o -name "*.zip" -o -name "*.ssv" -o -name "*.sav" -o -name "*.pyc" -o -name "*.pdf" -o -name "*.jpeg" -o -name "*.odt" -o -name "*.pack" -o -name "*.ods" -o -name "*.ipynb" -o -name "*.idx" -o -name "*.docx" -o -name "*.dta" \) -print0 | xargs -0 grep "xxx" --color
+* grep for within-file (not within-lilne) conjunction
+  all files containing both A and B, not necessarily on the same line
+  Here A = "aws" and B = "iam"
+  grep "aws" -r . -l | xargs grep "iam"
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grep_for_within_line_disjunction.org][grep for within-line disjunction]] (grep or)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/strip_all_pyc_tag_and_files_from_tree_output.org][tree-grep]] : Strip some files from `tree` output.

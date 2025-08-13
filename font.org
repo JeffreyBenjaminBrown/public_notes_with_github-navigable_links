@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       052023e9-b265-4736-86fa-15dfeda8d01d
+:END:
+#+title: font
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_the_shell_font_bigger.org][make the shell font bigger]]

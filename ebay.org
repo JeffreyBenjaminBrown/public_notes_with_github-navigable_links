@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       23616b14-325a-465d-b309-fe479cca9509
+:END:
+#+title: Ebay
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/ask_ebay_why_i_m_locked_out.org][ask Ebay why I'm locked out]]

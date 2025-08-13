@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       e7a68f0b-f932-4978-9636-88a4ecbe639c
+:END:
+#+title: art
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
+* TODO Art is not always for pleasure.
+:PROPERTIES:
+:ID:       fe4939fe-8b94-4b78-914f-f2b83d7ff9f4
+:END:
+  It can help someone understand.
+  It can help someone grieve.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/some_private_art.org][some private art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_maybe_only_expressible_through_art.org][things maybe only expressible through art]]
+* some kinds
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org][drama]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org][music]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sculpture.org][sculpture]]
+** fantasy
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org#patriarchy][philosophy v. patriarchy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_constraints_help_art.org][how constraints help \ art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/abstract_art.org][abstract art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art_highlights_extremes.org][Art highlights extremes.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org#art-can-resist-preconception][Art can resist preconception.]]
+* weird
+** Empathizing with the future in one's choice of punctuation scheme.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isaiah_64_8_esv_we_are_your_clay.org][Isaiah 64:8 ESV, "we are your clay"]]
+* Art is a floor on freedom.
+:PROPERTIES:
+:ID:       4ab66dd2-71c7-4afe-a7ee-bd6b34b6fc8d
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_art.org][AI and art]]

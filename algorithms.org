@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e1f7f6e9-3a9a-4804-91f5-7751d7f4e9b8
+:END:
+#+title: algorithms
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/genetics.org][algorithms for DNA sequencing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hash_algorithm.org][hash (algorithm)]]

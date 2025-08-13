@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       77a1ba6e-d657-4579-afe7-d5a95ce7bb74
+:END:
+#+title: Erlang questions, unresolved
+* How can you compile a program "from a module"?
+  https://learnyousomeerlang.com/modules#what-are-modules
+  "You can call the compiler from many places: $ erlc flags file.erl when in the command line, compile:file(FileName) when in the shell or in a module, c() when in the shell, etc."
+* Why is i that [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#will-get-one-if-an-unexported-function-is-used-internally-in-spawn-calls][PITFALL: Will get an "unused function" error if an unexported function is only used internally in `spawn` calls.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#todo-header-inclusion-why-why-not][Header inclusion exists. What is it good for? Bad at?]]
+* [[:id:4f24a108-e586-4ca6-b5aa-68bd283197bb][What are the arguments to `process_flag/2` for? -- broken link?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#todo-much-of-this-chapter-i-did-not-understand][Much of the chapter on errors and processes I did not understand.]]
+* [[:id:f959b645-fcf5-4154-abf7-1eb2f5b039d4][Why does spawn/1 hang while spawn/3 doesn't? -- broken link?]]
+* Why is it that [[:id:78a858b9-cc4b-4902-bcb3-2c6ebec287df][When a process is made system, so are all its calling functions. -- broken link?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_erlang.org#todo-is-that-the-only-kind-of-message-a-monitor-relationship-generates][Is 'DOWN' the only kind of message a monitor relationship generates?]]

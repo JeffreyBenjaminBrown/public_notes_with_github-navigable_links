@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       0fb050fc-28b8-48a6-914b-6d5970490d46
+:END:
+#+title: microtonal guitar
+* ONGOING [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/making_a_microtonal_guitar.org][making a microtonal guitar]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guitar_intonation_setup.org][guitar intonation setup]]
+* install a guitar bridge where the nut usually is.
+** Problem: interferes with truss rod access
+   unless the truss rod is "heel-adjusted"
+   rather than adjusted from the headstock.
+** Problem: bridges are wider than nuts.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/luthiers.org][luthiers]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_agile_pendulum_10_string_guitar.org][Agile Pendulum 10-string guitar]] : cheap, dual truss, multiscale
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_chapman_stick.org][microtonal Chapman Stick]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fret_markers_my_preferred_system_of.org][fret markers, my preferred system of]]
+* asking about a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_tapping_instrument_proposal.org][custom 58-edo tapping instrument]]
+* TODO logarithmic isomorphic fret markings
+** the question
+   What isomorphic fret marking pattern makes it easy to identify intervals of 2, 4, 8, 16, etc. frets, without being hard to see? (Another base would be fine too.)
+** an idea
+   Let "red" and "blue" = two colors that contrast maximally with the neck.
+   Blue, none, white, none, red, none, white, none: 8 frets, any gap easy to see.
+   Next 8 are the same, but each piece of tape is colored black in the middle. This should make it easy to see any gap of up to 16 frets.
+   Then back to normal. (For factors of 2 beyond 16 I can just eyeball it.)
+* some many-stringed guitars
+** the Jackson SLAT8
+   https://www.jacksonguitars.com/gear/shape/soloist/x-series-soloist-archtop-slat8-ms/2916767503
+** the Schecter Reaper-7
+   https://www.schecterguitars.com/guitars/reaper-7-multiscale-satin-inferno-burst-detail
+* TODO ask about Metatonal and neck standards
+** first check the website
+** almost sent Facebook group
+I read about replacing necks on guitars. It often requires reducing the size of the joint on the neck so it fits in the socket on the guitar. I don't have equipment for that, and I don't know any competent luthiers around here.
+
+Are there brands of guitars that reliably use "standard" sockets for the neck? Are replacement necks from Metatonal Music that size?
+
+If I buy a replacement neck from Metatonal Music, is there a
+
+[Related: https://www.facebook.com/groups/497105067092502/permalink/2086475328155460]
+* things that can work as movable fretwire
+** violin marking tape
+   Supposedly easier than zipties.
+   https://www.ebay.co.uk/itm/Desktop-Positioning-Tape-Whiteboard-Violin-Fingering-Marking-Tape-Pinstripe-Arts-/363175705221?_trksid=p2349624.m46890.l49292
+** zipties
+*** advice from others
+   Use needlenose pliers to crimp the tie at the corners where it bends around the fretboard.
+   Use them also to tighten.
+   Trimming the fret-like portion of the ziptie on the bridge side with scissors can help. (Don't trim the side that you fret because that would change the intonation.)
+*** TODO How to make them grip better?
+    Score the back of the neck?
+    Put grip liner under them?
+* TODO how to remove frets
+** with a razor, score around where the fret joins the fretboard
+   both on the face and on the sides of the neck
+** use masking tape to protect the neck around the fret
+   when heating with soldering iron
+** clean the fret slots once the frets are out
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_i_used_zipties_to_turn_a_12_edo_guitar_into_a_24_edo_one.org][How I used zipties to turn a 12-edo guitar into a 24-edo one]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/removing_frets_contacting_luthiers_in_bogota_about.org][removing frets: contacting luthiers in Bogota about]]

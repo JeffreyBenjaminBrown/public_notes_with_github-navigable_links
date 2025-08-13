@@ -1,0 +1,125 @@
+:PROPERTIES:
+:ID:       ef70d582-7780-40fc-b205-8df6d11193e7
+:END:
+#+title: emacs on Termux, a config (.el) file for
+;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;;
+;; ;; ;; ;; ;; TODO  ;; ;; ;; ;; ;; ;; ;; ;;
+;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;;
+
+;; So that copy and paste works from Emacs-in-Bash to other apps.
+;; Requires installing xclip-mode.
+;; (xclip-mode 1)
+
+
+;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;;
+;; ;; ;; ;; ;; primordial  ;; ;; ;; ;; ;; ;;
+;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;;
+
+(require 'use-package)
+(require 'org)
+(package-initialize)
+
+(setq package-archives
+      '(("Org"          . "https://orgmode.org/elpa/")
+	("Elpa"         . "https://elpa.gnu.org/packages/")
+        ("Melpa Stable" . "https://stable.melpa.org/packages/")
+        ("Melpa"        . "https://melpa.org/packages/")))
+(setq package-archive-priorities
+      '(("Org"          . 20)
+        ("Melpa"        . 15)
+        ("Melpa Stable" . 10)
+        ("Elpa"         . 5)))
+
+(menu-bar-mode -1) ;; Whether to show it. (t for true, -1 for nil.)
+(column-number-mode 1)
+(setq kill-whole-line t) ;; cursor at start => C-k kills the newline too
+(add-hook 'before-save-hook 'delete-trailing-whitespace)
+(add-hook 'org-mode-hook 'toggle-truncate-lines)
+(put 'narrow-to-region 'disabled nil)
+(put 'downcase-region 'disabled nil)
+(put 'upcase-region 'disabled nil)
+(put 'scroll-left 'disabled nil)
+(show-paren-mode 1)
+(tool-bar-mode -1) ;; hide some icons I never use
+(load-theme 'manoj-dark)
+(global-auto-revert-mode t) ;; reload files when changed
+
+
+(defun jbb-org-open-at-point ()
+  (interactive)
+  (if ;; This if-else clause testing the major mode is basically unnecessary,
+      ;; because `jbb-org-open-at-point`
+      ;; will only be called via the shortcut defined next,
+      ;; which is only available from org-mode.
+      (equal "org-mode" (symbol-name major-mode))
+      (progn (call-interactively 'org-open-at-point)
+	     (delete-other-windows))
+    (message ("jbb-org-open-at-point does nothing outside of org-mode."))
+))
+
+(define-key org-mode-map (kbd "C-c C-o") 'jbb-org-open-at-point)
+
+
+;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;;
+;; ;; ;; ;; ;; org-roam ;; ;; ;; ;; ;; ;; ;;
+;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;;
+
+(require 'org-roam)
+(setq org-roam-database-connector 'sqlite-builtin)
+(use-package org-roam
+  :ensure t
+  :hook
+  (after-init . org-roam-mode)
+  :custom
+  (setq org-roam-db-location (file-truename "~"))
+  (org-roam-directory (file-truename "~/org-roam/")))
+(setq org-roam-v2-ack t) ;; indicates I migrated
+(org-roam-db-autosync-mode)
+
+;; TODO: A lot of global-set-key commands in this file use the wrong syntax,
+;; omitting the # symbol. This way works.
+;; (So does the lambda expression way, but it's needlessly verbose.)
+(global-set-key (kbd "C-c C-l") #'org-insert-link)
+(global-set-key (kbd "C-c n l") #'org-store-link)
+(setq org-id-link-to-org-use-id t) ;; make stored links refer to IDs
+(global-set-key (kbd "C-c n f") #'org-roam-node-find)
+(global-set-key (kbd "C-c n i") #'org-roam-node-insert) ;; insert a *link*
+(global-set-key (kbd "C-c n d") #'org-roam-db-sync) ;; update the db
+(global-set-key (kbd "C-c n b") #'org-roam-buffer-toggle) ;; show backlinks
+
+(setq org-roam-capture-templates
+      ;; These folder names are dumb, but to change them I would need
+      ;; to change every link involving them.
+      '( ("u" "public" plain "%?"
+          :if-new (file+head "tech/${slug}.org"
+                             "#+title: ${title}\n")
+          :unnarrowed t)
+("r" "private" plain "%?"
+          :if-new (file+head "pers/${slug}.org"
+                             "#+title: ${title}\n")
+          :unnarrowed t)
+("o" "ofiscal" plain "%?"
+          :if-new (file+head "ofiscal/${slug}.org"
+                             "#+title: ${title}\n")
+          :unnarrowed t)
+))
+
+
+;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;;
+;; ;; ;; ;; ;; auto-generated ;; ;; ;; ;; ;;
+;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;; ;;
+
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(org-startup-folded t)
+ '(org-todo-keywords '((sequence "TODO" "BLOCKED" "DONE")))
+ '(package-selected-packages '(org-roam use-package)))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2aafd0d3-96d9-4be2-a2b5-a2dfe15017f7
+:END:
+#+title: labor
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/conflict.org][conflict]]
+   Labor is fighty.
+* markets
+:PROPERTIES:
+:ID:       25ad86bb-571c-4a03-8324-817a4f5b9aff
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/labor_v_capital.org][labor v. capital]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][labor v. leisure]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/llms_taking_jobs_washington_post_2023_06_02.org][LLMs taking jobs, Washington Post, 2023-06-02]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/skepticism.org][skepticism]]
