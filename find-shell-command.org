@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       c2a51944-ffb9-4404-a814-cdfbaa99b1b8
+:ROAM_ALIASES: "searching in the shell" find
+:END:
+#+title: find (shell command)
+* rga: ripgrep, but it searches lots of formats at once
+  https://github.com/phiresky/ripgrep-all
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/find_grep_emacs_command.org][find-grep]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/find_sed.org][find-sed]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/find_sed.org#find-sed-without-touching-files-that-dont-need-modification][find-sed without touching files that don't need modification]]
+* -L : follow symbolic links
+  tag symlink
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shell_tools_for_structured_data.org][shell tools for structured data]] (CSV, JSON, etc.)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grep_command_line_search_utility.org][grep (command line search utility)]]
+* find, show all file extensions in filetree
+  find . -type f | sed 's/.*\.//' | grep -v "/" | sort | uniq -c
+* find: exclude a type of file
+  use the ! symbol to negate the next option
+  for example, this:
+    find . -type d ! -name "__pycache__"
+  excludes anything called __pycache__
+** example: grep in all files except unreadable ones
+   find . -type f -not \( -name "*.csv" -o -name "*.xlsx" -o -name "*.tgz" -o -name "*.zip" -o -name "*.ssv" -o -name "*.sav" -o -name "*.pyc" -o -name "*.pdf" -o -name "*.jpeg" -o -name "*.odt" -o -name "*.pack" -o -name "*.ods" -o -name "*.ipynb" -o -name "*.idx" -o -name "*.docx" -o -name "*.dta" \) -print0 | xargs -0 grep "output/" --color
+* `find -exec`: do something to every found result
+** example: copy a file into every folder found
+   find . -type d -exec cp __init__.py {} \;
+* to find all numbers in code
+  In tmux, run
+    egrep "[0-9]+" -r build -r common -r draw -r regime *.py -C 5 --exclude="*test*"
+  and then read that screen. (Dumping it to a file would mean losing the colors,
+  which makes the reading process much slower.)
+* to find a disjunction of patterns
+  tag or
+  find . -type f \( -name "*.hs" -o -name "*.rs" \)

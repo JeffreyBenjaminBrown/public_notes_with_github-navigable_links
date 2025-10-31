@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       83b141c3-2ab2-41de-ac02-e1a0e995f574
+:ROAM_ALIASES: "delete old NixOS configurations" "NixOS / delete configs" "NixOS / garbage collection" "delete NixOS configs"
+:END:
+#+title: garbage collection in NixOS
+* how to collect garbage in NixOS
+:PROPERTIES:
+:ID:       d014e570-e8da-4661-8111-01d19947e2b2
+:END:
+  The sudo is important -- otherwise lots of stuff survives.
+
+  sudo nix-collect-garbage --delete-older-than 3d
+    # keep the last week
+  sudo nix-collect-garbage -d
+    # keep only latest config
+* how to delete profiles when some are named
+  # Delete the garbage profiles.
+  # PITFALL: This doesn't delete all profiles, which is good.
+  # Among maybe a few others,
+  # it leaves this important one untouched:
+  #   /nix/var/nix/profiles/system-profiles/system
+  sudo rm /nix/var/nix/profiles/system-profiles/*
+
+  Be sure I'm on a good wifi connection.
+
+  # Rebuild my profiles (BEFORE collecting garbage!)
+  ~/nix/jbb/bash/rebuild-branches.sh
+
+  # Delete old generations
+  sudo nix-env -p /nix/var/nix/profiles/system \
+    --delete-generations +1
+
+  sudo nix-collect-garbage -d
+
+  # Rebuild boot menu
+  sudo nixos-rebuild boot
+
+  # Verify there's only one generation left -- but it's always two
+  sudo nix-env -p /nix/var/nix/profiles/system --list-generations
+
+  # List boot configs
+  ls /boot/loader/entries
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_garbage_collection_problem_my_system_bloats.org][NixOS garbage collection problem: My system bloats.]]

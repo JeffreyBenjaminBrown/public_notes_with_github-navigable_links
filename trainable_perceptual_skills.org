@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7ab03ad0-c357-446c-81a3-1a0c619e7ffe
+:END:
+#+title: trainable perceptual skills
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org][optimism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_calm_purpose.org][inner peace => calm purpose]]
+* Recognize unease (in oneself or other).
+* Recognize being [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/being_of_two_minds_about_it.org][of two minds about something]].

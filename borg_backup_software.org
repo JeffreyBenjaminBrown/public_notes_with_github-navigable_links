@@ -1,0 +1,162 @@
+:PROPERTIES:
+:ID:       927c1e3d-410e-4556-a1f5-560791950164
+:ROAM_ALIASES: borg
+:END:
+#+title: borg (backup software)
+* TODO asking about changing passphrase in Borg
+:PROPERTIES:
+:ID:       2e44ac14-b823-44ee-849a-033b574ee38b
+:END:
+** latest
+*** I don't have a keys/ subfolder in .config/borg
+    That is, I didn't choose to encrypt that way.
+    There's a way where you just need a password (what I used),
+    and another way where you need a password to use your keyfiles,
+    such that an attacker can only gain access if they have both.
+*** message
+I'd like to recreate my borg repo with a different security mode. Can it be done? The documentation for `borg init`[1] states that encryption settings are fixed at creation time, and I don't see options for continuing where an earlier repo left off.
+[1] https://borgbackup.readthedocs.io/en/stable/usage/init.html#borg-init
+** the email I sent
+   https://mail.google.com/mail/u/0/#sent/KtbxLzFrKtrzcwhbxBhCNXBDFTrDSpRbjV
+** the message in it
+Is running `borg key change-passphrase` and deleting old copies of the repo enough, or do I need a new repo?
+
+I'd like to change the password that encrypts my current Borg repo. I've read the documentation for `borg key change-passphrase`[1] and still don't understand if it does what I'm hoping. I don't want to create a new repo, because (please correct me if I'm wrong) there's no easy way to incorporate the old repo's history of backups into the new one.
+
+If I run `borg key change-passphrase` and delete any compromised old copies of the repo, will new copies of the repo still be readable by someone who has the old password and not the new one?
+
+[1] https://borgbackup.readthedocs.io/en/stable/usage/key.html
+* ONGOING to give an explicit list of paths to back up
+borg create \
+  "$borg_ssd::$(date +%Y-%m-%d).hp24" \
+  --paths-from /home/jeff/excluded-from-borg/files-to-backup.txt
+* path grammar
+** example covering everything I need, with explanations.
+   sh:/home/jeff/Documents/REAPER Media/**/*.[wW][aA][vV]$
+*** This line can be included directly in the exclude file
+    Not every line of that file need be preceded with `sh:`.
+*** The `sh:` indicates that it's "shell syntax" (for regex).
+*** The `/**/` matches 0 or more levels of folder.
+*** The [wW][aA]vV] covers .wav, .Wav, .WAV, etc.
+* keyfiles and passphrases
+** the idea
+   If the repo is encoded with keyfiles,
+   then it can only be used by someone with the keys,
+   and with the *passphrase to use those keys*.
+** backup keys with `borg key export`
+* export BORG_PASSPHRASE
+  export BORG_PASSPHRASE=<insert password here>>
+  From a shell in which that is run,
+  borg will not need to prompt for a passphrase every time I run it.
+* borg mount - AWESOME for inspection
+  mkdir /tmp/borg # a destination folder, with ordinary permissions
+
+  borg mount "$borg_ssd"::2022-04-21.hp17 /tmp/borg
+
+  # Now look around.
+  Use du to check file sizes, just like it was a normal folder -- even though it has almost no data.
+
+  # unmount it
+  fusermount -u some-folder
+* how to test a copy of a borg repo
+** the problem
+   I copied the borg dir to a USB drive,
+   then updated the info on that USB drive,
+   then tried to update the original.
+   My attempt was rejected as a possible security threat.
+** the reason it was detected as weird, I believe
+   is that ~/.cache/borg had a record of all backups made,
+   and when I tried to add a backup to the repo on disk,
+   it saw that that repo was missing one of the backups.
+** the mystery
+:PROPERTIES:
+:ID:       0548f067-16e4-47d2-b59a-da72b97d7f80
+:END:
+   Even after I hid ~/.cache/borg,
+   I still wasn't permitted to update the less up-to-date repo.
+** a solution: Always use (a copy of) the latest data.
+   When I copied the more up-to-date borg repo from the USB
+   back to the hard drive,
+   and tried to update that repo, it worked fine.
+   I did not even have to touch ~/.cache/borg.
+   (Note that this leaves [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/borg_backup_software.org#the-mystery][the mystery]] above unsolved.)
+* borg init --encryption=repokey /path/to/repo
+  That gives the simplest encryption option,
+  in which an attacker only needs your password.
+  In others, they'd need the password and the keyfile.
+* borg create
+** PITFALL: By default it treats symlinks exactly how I like.
+   e.g. if `l` is a link into `p` and `p` is not backed up,
+   `l` is archived as, effectively, a dead link --
+   a link into something the archive doesn't know about --
+   rather than copying the content of the link.
+** TODO : use include ("pattern") files
+:PROPERTIES:
+:ID:       ed35d973-21fd-499f-a548-25a8fadacd41
+:END:
+   I have not figured out how.
+*** HYPOTHESIS : Could "patterns-from" conflict with "exclude-from"?
+*** include files have a certain syntax:
+    https://borgbackup.readthedocs.io/en/stable/usage/help.html#borg-patterns
+    the most important symbol of which is, I think, '+'.
+*** "patterns-from" might render "exclude-from" redundant
+*** code that seems at least grammatically correct
+    --patterns-from /mnt/d/borg-repo/include.txt \
+    --exclude-from  /mnt/d/borg-repo/exclude.txt
+* borg extract
+** PITFALL: The paths should not begin with a leading slash.
+   Hence "home/" below, not "/home/".
+** syntax
+   borg extract /path/to/borg/repo::name-of-image [paths]
+     example:
+       REPO=/run/media/jeff/ssd_500g_samsung//borg-repo
+       borg extract $REPO::2022-04-14.hp17 home/jeff/org-roam
+   The paths are optional. If not present, the entire thing is extracted.
+* borg list
+** list archives in repo
+   borg list /path/to/borg/repo
+** list paths in archive
+*** list all archives
+    borg list /path/to/borg/repo
+*** list all paths in archive
+    borg list /path/to/borg/repo::archive-name
+*** list all paths under path in archive
+    borg list /path/to/borg/repo::archive-name /path/in/archive
+* borg recreate
+** idea
+  Recreate a backup -- with, say, a different "exclude' pattern.
+** refs
+  https://borgbackup.readthedocs.io/en/stable/usage/recreate.html#borg-recreate
+  https://github.com/borgbackup/borg/issues/2858
+** example: exclude more files
+:PROPERTIES:
+:ID:       a723c225-dd11-4039-9224-a2dabc158022
+:END:
+*** human-readable notes
+**** DONE: Recreated ~/borg-repo-ssd on <2025-03-31 Mon>
+**** NEXT: Do the same to the repo on the HDD.
+**** PITFALL: Copy it locally first.
+     Even locally it takes hours.
+**** PROBLEM: When moving the repo to a different disk,
+     I haven't been able to get past Borg's security checks.
+**** IDEA
+     edit /home/jeff/.cache/borg/43a56878b0607ac798dc2c85312111391736de70ab21d33c675569a1724cf643/config
+     I found the repo ID by running
+       borg config path-to-repo ID
+     Might also want to use
+       BORG_RELOCATED_REPO_ACCESS_IS_OK=yes
+     as suggested here:
+       https://github.com/borgbackup/borg/issues/1426
+*** scripting
+    borg_hdd=/home/jeff/borg-sandbox/borg-repo-hdd
+    export BORG_PASSPHRASE=[[Write password here.]]
+
+    for archive in $(borg list --short "$borg_hdd"); do
+      echo "Recreating $archive..."
+      borg recreate "$borg_hdd"::"$archive"                \
+	--exclude-from /home/jeff/bin/exclude-for-borg.txt \
+	--stats --verbose || break
+	# `|| break` stops the process if something fails
+    done
+    borg compact "$borg_hdd"
+    export BORG_PASSPHRASE=""

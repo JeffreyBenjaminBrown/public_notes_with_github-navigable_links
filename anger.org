@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       eabe22b3-ed71-4c11-9ac3-2a673226a5d1
+:END:
+#+title: anger
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+* Much of it can be avoided by prior [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/assertiveness.org][assertiveness]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ethics.org][ethics]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/things_that_make_me_angry.org][things that make me angry]] ,, personal

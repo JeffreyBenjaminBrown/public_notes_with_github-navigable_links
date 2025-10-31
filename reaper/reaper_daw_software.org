@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       b2c146a9-789f-4c62-aa0e-0a6ca0e3034f
+:ROAM_ALIASES: Reaper
+:END:
+#+title: Reaper (the DAW)
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_did_i_break_a_midi_track_in_reaper.org][How did I break a MIDI track in Reaper?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/what_i_use_to_run_lumatone_in_reaper_on_nixos.org][What I use to run Lumatone in Reaper on NixOS.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/plugins_in_reaper.org][plugins in Reaper]]
+* reading the manual
+** TODO RESUME here
+   right after the gray box at the bottom of
+   chapter 13 (editing MIDI), page 230, section 13.11
+     Navigating the MIDI Editor Main Window
+*** TODO read about macros
+    If they offer an interface like M-x in Emacs,
+    then I can use them when the shorctut I hoped for is unavailable.
+*** Skipped
+**** and don't care: chapters 4, 5
+**** TODO (but out of order)
+     chapter 6, FX
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/using_reaper.org][usage \ Reaper]]
+* refs
+** in my filesystem
+    [[~/many-small/manuals/Reaper/]]
+    [[~/Documents/REAPER Media]]
+    [[~/.config/REAPER]]
+* PITFALL : The action menu is context-dependent.
+  It returns different results if your focus is on the MIDI editor window. Doing that and experimenting with some names that sounded maybe ballpark let me find all the actions.
+* BLOCKED my feature requests
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#bigger-piano-roll-in-reaper-i-asked-for-a][bigger piano roll in Reaper, I asked for a]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_is_surprisingly_configurable.org#todo-settings-can-be-backed-up][Settings can be backed up.]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/questions_reaper.org][questions]] about Reaper
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/set_reaper_up_to_use_a_tablet.org][set Reaper up to use a tablet]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/pitfalls_reaper.org][PITFALLs]] in Reaper
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/vocabulary_in_reaper.org][vocab]] in Reaper

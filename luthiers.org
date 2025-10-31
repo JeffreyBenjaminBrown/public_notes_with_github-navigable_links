@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       29b8dc74-09ee-418c-9bb8-98bd4a3313b4
+:ROAM_ALIASES: "guitar builders"
+:END:
+#+title: luthiers
+* Orlando Pimentel: luthier in Zipaquira, Christian considers excellent.
+  On Whatsapp, Christian sent me his contact info.
+* Jeff Kosmoski will CNC-mill a fretboard.
+* Markus Reuters, touchguitars.com
+  rec'd on HN
+* Novax, Traugott, hybrid-guitars.com
+  rec'd on HN
+* Strandberg
+  rec'd on HN
+* Fred Carlson at Beyond the Trees
+  was recommended by Neil Cosman at Bourgeois Guitars
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/halo_guitars.org][Halo Guitars]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/krappy_guitars.org][Krappy Guitars]]

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       30478629-506c-4acf-aec8-b74e977a2234
+:END:
+#+title: NAH : how to take notes on people and communication (experiences)
+* I don't believe any of this any more.
+* how to create the note
+** fields for the file on them
+*** outbox
+    Things I'd like to talk to them about.
+**** TODO See also "interests", which [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hypothesis_person_interests_person_outbox.org][might dominate]] this field.
+*** contact info
+*** schedule
+*** contact history, most recent at top
+    Include the medium used, in case a medium fails.
+*** interests
+*** history
+*** shared history
+*** relationships
+*** creations (inc. writings)
+** link to that note from any notes I might search for them
+   e.g. groups
+* Review the note before meeting.
+* when to modify the note
+** After interaction, bump their name to the top of my [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/people_i_like_talking_to_find_interesting.org][contacts of interest]].
+** When I receive something from someone, take a note.
+   Record that they can provide that,
+   because I might need to know that they can provide that.

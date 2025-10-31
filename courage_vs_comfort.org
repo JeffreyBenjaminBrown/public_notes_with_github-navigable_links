@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f532dbb0-3a30-4692-b657-2213898787e8
+:END:
+#+title: courage vs. comfort
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recognize_fear_in_your_aversions.org][Recognize fear in your aversions.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/merely_shifting_attention_can_require_courage.org][Merely shifting attention can require courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comfort.org][comfort]]

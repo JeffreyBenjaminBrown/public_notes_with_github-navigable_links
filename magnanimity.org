@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       f8ec8fd3-c9f2-4272-ab41-be9aa687d141
+:END:
+#+title: magnanimity
+* MERGE ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/assertiveness.org][assertiveness]]
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org#light-belligerence--comedy][comedy / light belligerence]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][daring]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flirtation.org][flirtation]]
+* Magnanimity is related to justice, like what you owe yourself.
+:PROPERTIES:
+:ID:       44ab3398-1386-4164-813a-d11462ccb427
+:END:
+* An ancient and, to me, strange bundle of qualities.
+* components
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honesty.org][honesty]] and (emotional) transparency
+** courtesy, but belligerence when appropriate
+** having noble purpose, being principled
+** refusal to be petty
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org][generosity]]
+* is* separate from
+  (*) surprisingly
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humility]]
+* should be [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][tempered]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magnanimity.org#too-much-of-it-is-vanity-but-too-little-is-also-bad-1][Too much of it is vanity, but too little is also bad.]]
+* Aristotle on it
+  according to Wikipedia
+** "haughty towards men of position and fortune, but courteous towards those of moderate station"
+** "open both in love and in hate"
+** "not bear a grudge"
+   Don't punch up for the sake of punching,
+   do it only as it's warranted.
+** Too much of it is vanity, but too little is also bad.
+:PROPERTIES:
+:ID:       35fde333-e3d2-47ba-acf9-95a572868d22
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/tinder_jbb.org#i-could-feel-owed-more-adventures-by-reality-myself][to feel owed more adventures by {reality, oneself}]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time.org#legend][legend]]

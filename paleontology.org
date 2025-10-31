@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b31e0b2c-9bce-428a-b96f-832d0ea1e6e7
+:END:
+#+title: paleontology
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/evolution.org][evolution]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/there_were_also_separate_continents_before_pangea.org][There were also separate continents before Pangea.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_natural_coal_is_300_million_to_360_million_years_old.org][All natural coal is 300 million to 360 million years old.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/australia_had_even_crazier_wildlife_just_before_humans.org][Australia had even crazier wildlife just before humans.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_americas_had_crazy_wildlife_just_before_humans.org][The Americas had crazy wildlife just before humans.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humans_spread_from_alaska_to_all_of_america_in_4k_years.org][Humans spread from Alaska to all of the Americas in 4k years.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/most_human_genetic_diversity_is_in_africa.org][Most human genetic diversity is in Africa.]]

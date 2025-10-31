@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       f9cd3a15-4683-4bf1-b5c2-2344c22cf712
+:ROAM_ALIASES: npm
+:END:
+#+title: Javascript (programming language)
+* loops in Javascript
+** PITFALL: "for ... of" and "for ... in" are different!
+   "for ... in" loops over keys/indices.
+   "for ... of" loops over values.
+
+   for (let c in consumables) {
+     row . appendChild (
+       mkCell_text (
+         "th",
+         consumables[c] ) ) // with "of" instead of "in", I could just
+                            // write 'c' instead of 'consumables[c]'
+   }
+** loop over numeric range
+   C-style, plus a "let":
+
+   for (let ri = 0; ri < table.rows.length; ri++) {
+     table.rows [ri] . deleteCell (colIndex)
+   }
+* PITFALLs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django.org#dictionaries-cannot-be-passed-from-django-to-js][Dictionaries cannot be passed from Django to JS.]]
+* how to append a linebreak (<br>) to an element
+** a solution
+   Make a dummy element and set its inner HTML:
+
+     title = document.createElement("span");
+     title.innerHTML = "<br/><br/>" + table_name + "<br/>";
+     hostForm.append(title)
+** TODO Would this behave better without the slashes?
+* how to append text to a document itself
+** make a dummy element and append it to "document . body"
+   dummy = document . createElement ( "span" )
+   dummy . innerHTML = ( "hello" )
+   document . body . appendChild ( dummy )
+* how to make one input update another
+  <body>
+    <script>
+      function mkInput_numeric ( value = null ) {
+        let input = document . createElement ( "input" )
+        input . step = "any"
+        input . type = "number"
+        if (value != null) {input . value = value }
+        else               {input . value = 0 }
+        return input
+      }
+
+      in1 = mkInput_numeric ( 1 )
+      in2 = mkInput_numeric ( 2 )
+      in1.addEventListener(
+        'change',
+        function() { in2.value = in1.value * 3 } )
+      in2.addEventListener(
+        'change',
+        function() { in1.value = in2.value / 3 } )
+      document . body . appendChild ( in1 )
+      document . body . appendChild ( in2 )
+    </script>
+  </body>
+* npm
+** [[id:0c1ac91a-76eb-4e0c-9cc0-64dbc25418af][Installing [Claude] via npm globally, bypassing NixOS.]]

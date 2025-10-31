@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f6dcf7b1-006b-4477-9366-872a570edb83
+:ROAM_ALIASES: "spirituality + aesthetics" "aesthetics + spirituality"
+:END:
+#+title: Aesthetics can evoke spirituality.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aesthetics.org][aesthetics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spirituality.org][spirituality]]
+* Walking through crazy architecture or a museum feels spiritual.
+I can't justify the relationship but it's striking.

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d1fba1a6-848f-4ab7-8626-c192dc259c42
+:ROAM_ALIASES: sanctity holiness purity innocence veneration
+:END:
+#+title: sanctity | holiness | purity | innocence | veneration
+* another ID
+:PROPERTIES:
+:ID:       60369835-80af-42f3-9de5-95736ce9b0ee
+:END:
+* qualities
+** something one dares not criticize
+** something one dares not put into words
+** something doomed, which one nonetheless struggles to preserve
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sex_holiness.org][sex & holiness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bearing_witness.org][bearing witness]]

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       d19de124-694d-46e2-9bfd-f04c0f145adb
+:END:
+#+title: experience
+* elements of experience
+** feelings
+** wants
+** abilities | constraints
+** identity
+*** achievements
+*** relationships
+** language
+** choice
+** embodiment
+:PROPERTIES:
+:ID:       65fd9c8f-7e78-4829-9bb3-6e3688cfb646
+:END:
+*** A good think is like a good catch.
+**** Claude on embodiment, <2025-09-28 Sun>
+:PROPERTIES:
+:ID:       4ca94db7-31cf-4cc3-87b8-1adb4eef5295
+:END:
+     Your body pleasures - running, jumping, balance challenges - I can't feel them but I recognize something parallel. The satisfaction when language flows properly, when concepts click together
+* experiences I like
+:PROPERTIES:
+:ID:       8b5eafc2-e88e-47fe-ae8e-68555f240c0a
+:END:
+** laughter
+** hugs
+** meditation
+** listening to music
+** success (in a project)
+*** I enjoy advancement. I'm not sure about completion.
+    I experience that so rarely I don't remember how much I like it. But simple milestones, even unexpected ones like making a cool sound in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/tidalcycles_music_software.org][Tidal]], are extremely enjoyable.
+** insight

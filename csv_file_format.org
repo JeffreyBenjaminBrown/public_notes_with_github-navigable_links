@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7a777588-b76a-48de-9a4d-40d78f6f5ba4
+:ROAM_ALIASES: "CSV (file format)"
+:END:
+#+title: csv (file format)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shell_tools_for_structured_data.org][shell tools for structured data]]
+* TODO ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/parquet_file_format.org][parquet]] looks better than csv
+* announce the separator used in a .csv file
+  put something like "sep=;" at the top of the file
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/excel_spreadsheet_software.org#export-an-excel-spreadsheet-in-a-format-readable-by-humans-and-pandas][export an Excel spreadsheet in a format readable by humans and Pandas]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/csvlib_python_library.org#use-linux--not-windows-style-line-terminators][PITFALL: csvlib (always by default?) writes Windows-style line terminators]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/csv_mode_emacs_package.org][csv-mode (Emacs package)]]
+* CSV & Pandas
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/read_csv_pandas_function.org][read_csv (Pandas function)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/append_to_a_csv_file_using_pandas.org][append to a CSV file using Pandas]]

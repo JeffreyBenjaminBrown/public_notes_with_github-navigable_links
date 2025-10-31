@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       e7a68f0b-f932-4978-9636-88a4ecbe639c
+:END:
+#+title: art
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
+* TODO Art is not always for pleasure.
+:PROPERTIES:
+:ID:       fe4939fe-8b94-4b78-914f-f2b83d7ff9f4
+:END:
+  It can help someone understand.
+  It can help someone grieve.
+* Ideally?, [[:id:bc33441c-e184-4040-b265-0fca45248871][art breaks down ossified perception -- broken link?]].
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/some_private_art.org][some private art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_maybe_only_expressible_through_art.org][things maybe only expressible through art]]
+* some kinds
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org][drama]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][comedy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org][music]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sculpture.org][sculpture]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/fantasy.org][fantasy]]
+:PROPERTIES:
+:ID:       538d409f-9808-40ac-ae3b-1c34f5613c01
+:END:
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org#patriarchy][philosophy v. patriarchy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magnanimity.org][magnanimity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_constraints_help_art.org][how constraints help \ art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/abstract_art.org][abstract art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art_highlights_extremes.org][Art highlights extremes.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org#art-can-resist-preconception][Art can resist preconception.]]
+* weird
+** Empathizing with the future in one's choice of punctuation scheme.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isaiah_64_8_esv_we_are_your_clay.org][Isaiah 64:8 ESV, "we are your clay"]]
+* Art is a floor on freedom.
+:PROPERTIES:
+:ID:       4ab66dd2-71c7-4afe-a7ee-bd6b34b6fc8d
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_art.org][AI and art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surreal.org][surreal]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org][absurd]]
+* An extreme form: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org#intimate-conflicts][intimate conflicts]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#the-best-art-for-studying-empathy-probably-are-novels-with-a-diverse-realistic-set-of-characters][The best art for studying empathy, probably, are novels with a diverse. realistic set of characters.]]
+* {able,willing,free} to speak only through it
+* Those who resist tyranny through art work toward a payoff possibly after their time.
+:PROPERTIES:
+:ID:       8dc03133-c2c7-46e2-8ec2-8441394dd2df
+:END:

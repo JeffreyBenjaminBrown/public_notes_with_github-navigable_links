@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       776b4780-a8b8-42af-ba5a-b3703a2fc248
+:ROAM_ALIASES: "Ukraine-Russia war"
+:END:
+#+title: Creating can take courage.
+* The courage to suck.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_courage_to_not_know_what_to_do.org][The courage to not know what to do.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_courage_to_be_still.org][The courage to be still.]]
+* The courage to love a work.
+  Scary because it might lead to
+  a bigger investment than you had envisioned.

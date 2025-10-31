@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b928ca41-2cf7-47bb-be26-2ee550574d94
+:END:
+#+title: subsistence
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/living_for_the_sleep.org][living for the sleep]] (an emotional subsistence)

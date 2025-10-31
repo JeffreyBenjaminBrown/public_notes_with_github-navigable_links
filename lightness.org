@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       bc330f51-3f45-47df-95c2-6fa24e4a8a9f
+:ROAM_ALIASES: lightness arbitrariness
+:END:
+#+title: lightness | arbitrariness
+* definition (weak)
+** arbitrariness
+** ease of change
+** lack of guidance
+* things that have it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meaninglessness_pointlessness.org][meaning]]
+*** maybe because it is symbolic
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/choice.org][volition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/language.org][language]]

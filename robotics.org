@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f739e243-936f-4d42-9675-2fa49a63f233
+:END:
+#+title: robotics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/monoculture_is_friendlier_to_automation.org][Monoculture is friendlier to automation.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/robots_as_a_response_to_loneliness.org][robots as a response to loneliness]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4e748426-9ff0-4e7b-8192-b582a2ae7f95
+:END:
+#+title: community
+* Be with masters.
+:PROPERTIES:
+:ID:       8dcdbd8b-990f-4b64-b3c9-e9712fcf54be
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outreach.org][outreach]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety.org][safety]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community_building.org][community-building]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/embarrassing_ambitions.org][embarrassing ambitions & community]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_radically_different_would_we_be.org][How radically different would we be?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collective_understanding.org][collective understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cooperation.org][cooperation]]
+* goal : synergistic community
+** where the same person you would choose for one thing you choose for another

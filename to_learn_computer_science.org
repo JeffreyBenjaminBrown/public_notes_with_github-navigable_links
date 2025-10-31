@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f0689a2d-925c-4360-a428-d4f0857b9680
+:ROAM_ALIASES: "computer science & to learn"
+:END:
+#+title: to learn & computer science
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tests_and_io_computer_programming.org][tests and IO (computer programming)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pyright.org][Pyright]] > mypy
+* make.py or shake

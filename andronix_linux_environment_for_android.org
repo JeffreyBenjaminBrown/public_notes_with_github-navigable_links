@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       05d01ae3-fcc9-474f-80f2-bc0fa47896d3
+:ROAM_ALIASES: Andronix
+:END:
+#+title: Andronix (Linux environment for Android)
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/get_org_roam_on_phone.org][org-roam on phone via Termux]]
+* seems to suck
+** Maybe that's because it just hasn't caught up to Android 14.
+* TODO delete my phone-based Discord account
+  so I can associate the phone with my gmail account,
+  which I need to do to use the Andronix discord server
+* TODO ask about Termux storage permissions
+Hello,
+
+I'm trying now to install the modded Ubuntu XFCE from Andronix. When I copy that long `curl` command into Termux, the command tells me to give Termux storage permission. But when I find the App Permissions widget for Termux, I see that Notifications are allowed and Microphone is not, and no other permissions are made available. I can choose to give it Microphone permission from there. But Storage is not one of the options.
+
+I'm using a Samsung A15 running Android 14. I installed Termux via the Google Play Store, because when I tried to install from F-Droid it said my version of Android (version 14) was too new. Then I installed Andronix (also from the Play Store, for no good reason).
+
+Thank you,
+Jeff
+* getting data into it
+** If it's not set up, run termux-setup-storage
+   from within Termux:
+   https://docs.andronix.app/troubleshoot/internal-storage
+** That should create a folder called ~/storage/
+   which provides access to (I guess) the phone's root storage --
+   Documents, Downloads etc. are subfolders.
+* The graphical environment does not seem to work.
+  I've been starting it with vncserver-start
+  VNC serves a graphical environment
+  that can be read from a remote desktop app.
+  Running the command seems to bring me into Ubuntu,
+  nested within Termux.
+  I've then been using Emacs from inside that Ubuntu,
+  rather than using the GUI.
+  It runs for a little while, then crashes.
+  But I don't need it anyway.
+* to start it
+  From Termux, run ./start-andronix.sh.
+  "Start Ubuntu XFCE Modded OS by running ./start-andronix.sh."

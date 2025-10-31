@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       bc8fd4c3-0566-400c-96a8-0f4632e7fd1c
+:END:
+#+title: merging graph nodes
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/graph_i_e_multi_node_merges.org][graph merges, e.g. merges of whole repos of nodes]]
+* PITFALL: add_missing_info_to_trees replaces IDs with PIDs
+* Merges should be recorded via extra_id.
+* the idea
+The result has all the content of both nodes,
+and both IDs.
+Links to either node now go to the merged node.
+Merging is flat and simple -- reordering content,
+or merging content within the merged notes
+(potentially at different levels)
+can only be done manually.
+* Both nodes must be locally owned.

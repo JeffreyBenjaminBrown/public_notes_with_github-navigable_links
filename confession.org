@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2337a584-9297-4087-9664-a10dbeeafca3
+:END:
+#+title: confession
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apology.org][apology]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_confession_peace.org][Humility -> confession -> peace.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confession_liberation.org][confession & liberation]]

@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       4606bf23-6261-4596-95bc-faf1e9d64b3d
+:ROAM_ALIASES: "music exercises"
+:END:
+#+title: musical exercises
+* TODO the "sound good" constraint
+  Keep the rhythm, don't do anything so complex that it drags.
+  Keep it melodic. Classical-sounding chord changes.
+    Only the melody gets extremely microtonal sometimes.
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/splash_improv.org][splash improv]]
+* TODO break patterns
+** slow weird harmony
+   Carefully, slowly, pick tones I would never pick.
+** fast weird hands
+   Quickly, use patterns in my hands that I would never use,
+   or that I would never use that quickly,
+   even if the notes are "wrong".
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_to_emulate.org][music to emulate]]
+* TODO sensitivity exercises
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_study_the_pitches_of_an_edo.org][to study the pitches (of an edo)]]
+** vary the size of a change
+   What's a maximal scale change? A minimal velocity change? etc.
+* juggle the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_fundamentals.org][musical fundamentals]]
+* TODO memory games \ music
+** complexity waves
+   lengthen and shorten a motif
+** Increase the number of (interpolated, interspersed) voices
+** increase number of working elements from the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_fundamentals.org][musical fundamentals]]
+* across the Lumatone
+** (number of voices X speed) X hand
+   e.g.
+     1 fast bass voice + 2 slow high voices
+** cover the full horizontal range
+** cover the full vertical range
+*** with any number of hands
+* groove, then radical change
+  while groove-meditating, think of something really different
+* TODO drift a groove
+* rhythm > pitch
+* blind
+** and two-handed
+* across hands
+** TODO separation/independence
+   Give adequate attention* to both.
+   * = complexity of rhythm, harmony, dynamics
+       bichords
+** TODO call and repeat
+** TODO unisons
+   esp. with hands spread wide (2 octaves)
+** a single (big) chord, (fast) melody
+** share a voice between two hands
+** TODO cross hands
+* pedal tones, inc. high ones

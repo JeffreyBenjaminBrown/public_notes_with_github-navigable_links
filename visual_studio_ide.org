@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9d5f643d-5b42-41cd-8acd-a965e5a11c21
+:ROAM_ALIASES: "Visual Studio"
+:END:
+#+title: Visual Studio (IDE)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disable_automatic_updates_in_visual_studio.org][disable automatic updates in Visual Studio]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_a_vs_project_has_no_properties_to_configure_rebuild_it.org][If a VS project "has no properties" to configure, "rebuild" it.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/copilot_ai_for_coding_from_microsoft.org][Copilot in Visual Studio]]
+* It won't do bash scripting.
+  Open a file ending in .sh
+    and there's no syntax highlighting.
+  Try o put "#!/bin/bash" at the top
+    and you can't even go to the next line.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dian/my_visual_studio_subscription_comes_wtih_150_of_azure_credits.org][My subscription comes wtih $150 of Azure credits.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dian/visual_studio_installation_nightmare_2024_02_06_tue_2024_03_06_wed_and_counting.org][TODO VS installation nightmare <2024-02-06 Tue> - <2024-03-06 Wed> and counting]]

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       0d863b6d-1652-4ffb-897a-99e73198ce16
+:ROAM_ALIASES: generosity charity
+:END:
+#+title: kindness
+* care
+:PROPERTIES:
+:ID:       e8c7577d-224a-4c79-89fc-2939fd51fdfc
+:END:
+** caring v. doing
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org#i-still-care-and-_-usually-knows-it][I still care, and _ (usually?) knows it.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/defense.org][defense | caution]]
+*** [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/jbb.org#safeguard-the-culture][Safeguard the culture.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_that_matters_is_how_we_make_each_other_feel.org][All that matters is how we make each other feel.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org#universal-baseline-love][universal baseline love]]
+* ? humility -> generosity
+:PROPERTIES:
+:ID:       b0cc1399-7e8d-4a7f-b388-04c505ca198a
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_we_were_reasonable_we_would_give_everything_away.org][If we were (reasonable?) we would give (everything?) away.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/jaime_garzon_s_recklessness.org][Jaime Garzon's recklessness]]
+*** danger (fear)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identify_with_something_beyond_the_self.org][Identify with something beyond the self.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/if_planning_to_break_up_doing_it_earlier_is_kinder.org][If going to break up, doing it earlier is kinder.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/poverty.org][poverty]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/between_making_a_plan_and_meeting_keep_touching_base.org][Between making a plan and meeting, keep touching base.]]
+* technical & linguistic
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/charitable_interpretation_and_redundancy_in_language.org][charitable interpretation and redundancy in language]]

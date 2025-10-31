@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       cd8e2baf-26de-4f29-a459-928d78c5b46a
+:ROAM_ALIASES: "takes in Reaper"
+:END:
+#+title: multiple Takes of the same region of a track \ Reaper
+* see in the manual
+  one
+** the many appearances of the word "take"
+** in particular
+*** the four in Chapter 3 (Recording)
+*** all of Chapter 8 (Takes)
+**** Recording Multiple Takes
+**** Displaying Multiple Takes
+**** Using Color Coded Takes
+**** Working With Multiple Takes
+*** more
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/vocabulary_in_reaper.org#one-take--one-of-a-number-of-attempted-recordings-of-the-same-passage][one "take" = one of a number of attempted recordings of the same passage]]
+* TODO Why is it recommended to disable FIPM when recording takes
+:PROPERTIES:
+:ID:       1451eea7-a81e-45d1-9c70-92eab4ae7de3
+:END:
+  and then enable it when selecting from them?
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org#tracks-items-and-takes-can-be-assigned-colors][Items and takes can be assigned colors.]]
+* shortcuts
+** [[id:fdc1864d-aafb-49c0-a15a-2be55de37905][C-l : "Show all takes [in a track] (when [there is] room)"]]

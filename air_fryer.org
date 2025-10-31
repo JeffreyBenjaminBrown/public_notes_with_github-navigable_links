@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2f190ead-8b35-45d9-9015-922eb3dfcc84
+:END:
+#+title: air fryer
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/air_fryer_if_any_food_is_at_all_stuck_wash_with_boiling_water.org][If any food is at all stuck, wash with boiling water.]]
