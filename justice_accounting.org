@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       18b442b7-427d-4057-8fb7-e5b715e955f5
+:ROAM_ALIASES: karma
+:END:
+#+title: justice & accounting
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/there_is_no_time_outside_of_karma.org][There is no time, only karma.]]

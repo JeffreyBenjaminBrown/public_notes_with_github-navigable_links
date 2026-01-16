@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2ecf9f86-4369-428f-b775-134eda3a1d1a
+:END:
+#+title: Not something you get by trying.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/luck.org][luck]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/longevity.org][longevity]]

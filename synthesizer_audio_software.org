@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b61142c9-d27f-41f0-b0d6-3f4ef273090a
+:END:
+#+title: synthesizer (audio software)
+* some synths
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pianoteq_soft_synth.org][Pianoteq]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/percussive_physical_modeling_software.org][percussive physical modeling software]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/montevideo_synth_axe.org][Axe (my synth)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_synth_plugins.org][microtonal synth plugins]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pd_can_be_used_as_a_plugin.org][PD can be used as a plugin]]

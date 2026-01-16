@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1896c1b6-11a5-4a10-a350-1713acbbd6c6
+:END:
+#+title: kindness in perception
+* This is a creative act.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness, inc. self-forgiveness]]

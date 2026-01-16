@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       40a2de02-6388-4795-8280-62f4888cf7b0
+:END:
+#+title: AI and understanding
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moving_the_eiffel_tower_from_paris_to_rome_in_an_ai.org][Moving the Eiffel Tower from Paris to Rome in an AI]]
+* evidence that language models model reality
+** https://thegradient.pub/othello/
+* Modeling reality might be an unplanned-for side effect.
+  Even for something that was only explicitly trained to predict the next word, the best way to do that might be to model reality.
+* LLMs make mistakes in the ballpark of the truth.
+  For instance, if someone studied chemistry, it might misremember that they studied biology, but not film.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/model_collapse.org][model collapse]]

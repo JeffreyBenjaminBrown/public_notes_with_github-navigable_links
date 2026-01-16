@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       f73e26f5-f37e-4aa8-91e6-cd7ee9eb1e56
+:END:
+#+title: rhythm
+* the least freq at which phase-180 notes are (accented, alone)
+** where (definitions)
+   smaller|faster such scale ~ more complex
+   accented|alone ~ alone as opposed to with phase-0 notes
+** So too can the appearance of a lone frequency-1/n (for large n) next to an accented note at a more primary time (frequency 1/k for k larger than n) still constitute presence specifically at that high frequency, even if the more primary time is accented more heavily, particularly if the two are otherwise alone in the nearby 1/n neighborhood
+* intersectionality
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sports.org][sport]] rhythm
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org][drama]] rhythm
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/heaven.org][paradise]] rhythm
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neither_too_much_work_nor_too_much_play.org][work-leisure]] rhythm
+   "The boring door is now closed."
+* the number of timbres seen as available to a voice
+  a listener can be made to perceive this in volume too, temporarily,
+  even if in fact a continuum of volume values is possible
+* the ratio of one voice('s notes) to another('s)
+* The rhythm section carries more responsibility.
+** This has implications for bass/treble,
+   that is, for how to vary phrasing
+   as a function of an instrument's current pitch register.
+* Coordination ~ speaking with one voice.
+:PROPERTIES:
+:ID:       ac0ca8e6-26f1-4890-8986-05b6b7bf05b4
+:END:
+* More complex sounding but nearly as simple to play as accented and not is a sawtooth wave in the dynamics.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trimurti_hinduism.org][Trimurti \ Hinduism]]

@@ -1,0 +1,107 @@
+:PROPERTIES:
+:ID:       3a009c94-db3a-4707-933b-e6c9ba4d4fee
+:END:
+#+title: social skills
+* Praise publicly.
+* introductions
+:PROPERTIES:
+:ID:       7bd7090c-5877-4828-9e83-3ca6c3b13b09
+:END:
+** introducing oneself
+** introducing others
+*** Who do I want to meet who?
+:PROPERTIES:
+:ID:       0bfaba38-98b6-4425-9f8d-7f40fa3d3858
+:END:
+* instances | components
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ethics.org][ethics]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magnanimity.org][magnanimity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
+** invitation
+:PROPERTIES:
+:ID:       05866bea-de37-4b95-9cb0-0e74a252d4ad
+:END:
+*** Inviting people to parties.
+:PROPERTIES:
+:ID:       c85b2b5c-3b0d-4a13-b652-de95ac880de7
+:END:
+**** Poll for availability. Start early.
+     At least poll the most-wanted guests.
+**** Ask for {time, topic, food, accommodation} preferences.
+**** First, invite who I owe it to.
+**** Try to complete sets.
+     If I invite X,
+     and Y who knows X would feel bad about not being invited,
+     consider inviting Y.
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org#choosing-people][choosing people]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cold_email_advice.org][cold email advice]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flirtation.org][flirtation]]
+*** how to invite people [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/lcr_for_president.org#how-to-invite-people-to-campaign-events][to campaign events]]
+*** Invite each individual in a group separately.
+    Even if they're married.
+    Otherwise, one (or more!)
+      might think I'm mostly talking to the other.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org][empathy]]
+* problems | constraints
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mortality_should_impact_one_s_priorities.org][mortality pressure]] -> exclusivity
+:PROPERTIES:
+:ID:       1b378386-ec8d-4eb7-9eda-41cefd39dc9a
+:END:
+* understanding people
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-awareness]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/social_anxieties.org][social anxieties]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_i_only_want_to_be_with_someone_with_others_or_vice_versa_recognize_it.org][If I only want to be with someone with others, or vice-versa, recognize it.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flexibility.org][flexibility]]
+* feelings, problematic
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/social_anxieties.org][social anxieties]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/alienation.org][alienation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awkwardness.org][awkwardness]]
+* feelings, more
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org#presence--courage][presence & courage]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence.org][confidence]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence.org#rejection-is-succcess][Rejection is succcess.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org][empathy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transparency.org][transparency]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/defense.org][caution]]
+* mysteries
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/why_am_i_sluggish_to_respond_to_warmth_smiles_etc.org][Why am I sluggish to respond to warmth (smiles, etc)?]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/mysteries_problems.org#social-problems--jbb][social problems]], personal
+* mechanisms
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/play_fun.org][play]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org][sharing]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attractiveness.org][attractiveness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][restraint]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org][communication]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/tinder_jbb.org][dating , personal]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org][influence, social]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honor.org][honor]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][comedy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outreach.org][outreach]]
+* social skills and power
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/what_to_do_when_someone_at_work_doesn_t_respond_to_a_request.org][What to do when someone at work doesn't respond to a request.]]
+** horrible [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lessons_from_getting_banned_from_microtonal_guitarist.org][lessons from getting banned from Microtonal Guitarist]]
+* gradualism | incrementalism
+:PROPERTIES:
+:ID:       09fd57db-4e26-4e5f-962b-2ed21ecca04b
+:ROAM_ALIASES: gradualism incrementalism
+:END:
+** reveal gradually
+:PROPERTIES:
+:ID:       0180e344-0ac2-403c-8266-62cdd2e22068
+:END:
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negotiation.org#dont-reveal-a-common-interest-too-soon-if-there-is-prejudice][Don't reveal a common interest too soon if there is prejudice.]]
+*** Don't collapse the discovery experience.
+    i.e. don't state too much detail up front.
+* appreciative, not pursuant
+:PROPERTIES:
+:ID:       65135c08-8490-4046-bf07-c3eaf15c76e4
+:END:
+* Its [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/education.org#learning-processes-are-interesting][learning processes are interesting.]]
+** "socialization" = learning social skills
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/even_turned_down_invitations_pay_off.org][Even turned-down invitations pay off.]]
+* dangers
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org#the-narcissism-of-small-differences]["the narcissism of small differences"]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/i_am_afraid_of_reaching_out.org][I am afraid of reaching out.]]
+* DONE abandonded
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_take_notes_on_people_and_communication.org][how to take notes on people and communication]]

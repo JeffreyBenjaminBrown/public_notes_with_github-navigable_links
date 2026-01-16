@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5b7900ff-1792-47d1-a55a-8435f8766baf
+:END:
+#+title: Don't build premature structure when mapping knowledge.
+* see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#the-path-from-root-to-leaves-should-not-obscure-the-leaves][The path from root to leaves should not obscure the leaves.]]
+* the idea
+  Wait until a note has a substantial amount of stuff
+  before subdividing it.
+  Otherwise the data becomes hard to navigate,
+  and it's likely that the categories I impose before needing them
+  will turn out not to be optimal once the data reaches that size.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn.org][SmSn]] doesn't really need this precaution
+  because there's no file|atom distinction.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       56b6ed8e-36b8-4b71-9402-7cd4de11f252
+:END:
+#+title: listening
+* Hold speaker and story in mind at once.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org#prove-that-you-are-listening][Prove that you are listening.]]
+* components of listening
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][patience]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gratitude.org][gratitude]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org][empathy]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org#be-aware-of-the-troubles-of-everyone-present-simultaneously][Be aware of the troubles of everyone (present) simultaneously.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imagination.org][imagination]]

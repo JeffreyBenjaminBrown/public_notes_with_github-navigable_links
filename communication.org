@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       caefb984-a505-49ac-b6ce-c0307b38b3e4
+:ROAM_ALIASES: "expression , how to"
+:END:
+#+title: communication
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org][writing and reading, how]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org][sharing]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org][empathy]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/public_influence.org][public influence]]
+* how to converse ~ how to write
+* good advice
+** Prove that you are listening.
+:PROPERTIES:
+:ID:       bc2103ef-e441-4f8c-bb55-75316b76e8cf
+:END:
+   Ask good questions, make good comparisons,
+   simply repeat key points, etc.
+*** Ask a question, listen, repeat the answer in my own words, ask if I got it right.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shared_complaints_are_a_conversational_black_hole_beware_it.org][Shared complaints are a conversational black hole.]]
+** {Give, recognize, accept} opportunities in conversation.
+*** Ask open-ended questions.
+    rather than (only) ones with yes/no answers
+*** DONE first conceived as
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/good_conversation_has_lots_of_doorknobs.org][Doorknobs -- good conversation has lots of.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gratitude.org][Show appreciation]].
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/closeness.org#share-more-deeply-first-and-slowly][Share (more deeply) first and slowly.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/speeches_at_beginnings_and_ending_are_important.org][Speeches at beginnings and ending are important.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/etiquette_information_processing_optimization.org][etiquette, information processing optimization]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#investigate-someone-for-better-empathy][investigate for empathy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/listening.org][listening]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identifying_and_responding_to_communication_styles.org][identifying and responding to communication styles]]
+* tensions
+*
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy_v_communication.org][empathy v. communication]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org#sharing-v-presence][sharing v. presence]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org][perception]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/does_efficient_conversation_have_conscious_goals.org][Does efficient conversation have (conscious) goals?]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org#balance-clarifies-how-much-to-share][Neither overshare nor undershare.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/complimenting_seems_hard.org][Is complimenting hard?]]
+* impediments
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org#social--self-consciousness][self-consciousness]]
+* mechanisms
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication_contains_musical_responsibilities.org][Communication contains musical opportunities.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/conversation_starters.org][conversation techniques]]
+** Did playing poker help me understand how to talk?
+:PROPERTIES:
+:ID:       49b25a29-788c-4b7b-a869-333435a7b646
+:END:
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org#every-word-should-have-a-purpose][Every word should have a purpose.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negotiation.org][negotiation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sermons.org][sermons]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bearing_witness.org][bearing witness]]
+* technical
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication_tech_for_voters.org][communication tech for voters]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/charitable_interpretation_and_redundancy_in_language.org][charitable interpretation and redundancy in language]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org#whether-to-send-a-message-to-a-group][whether to send a message to a group]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org#organizing-people][organizing people]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org#in-conversation-dont-let-the-subject-change-so-fast-it-confuses][Don't let the subject change so fast it confuses.]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/2025_10_11_sat_tripping_7_5_mg_mushrooms.org#i-feel-like-a-conceptual-love-cannon][Blast love.]]
+* If it seems too far-out to share, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grounded_claims_are_cool.org][ground the claim]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/programming_idioms.org#declarative--imperative][Declarative > imperative, in communication as in CS.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_promises_of_giants_book_by_john_amaechi.org#feedback-social][feedback, social]]
+* ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dance.org#bid-when-dancing][bid when dancing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#humility-in-channeling][humility in channeling]]

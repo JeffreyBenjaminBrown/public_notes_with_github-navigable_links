@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       071510cf-6bb9-45a2-85d9-4d7f25a54626
+:END:
+#+title: F-Droid
+* PITFALL: Installing things "from F-Droid" does not seem to involve using the app.
+** example
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_i_installed_termux_on_my_phone.org][How I installed Termux on my phone.]]

@@ -1,0 +1,67 @@
+:PROPERTIES:
+:ID:       a7f710b4-8981-4dec-8567-28a646da19ba
+:END:
+#+title: influence, social
+* books on influence
+** https://x.com/romanhelmetguy/status/1940578100104032440?t=jviHlEEa0EeczFYyjmiqVw&s=19
+* good advice
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathize_before_confronting.org][Empathize before confronting.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trust_loudly.org][Trust loudly. Appreciate loudly.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org#lead-by-example-1][Lead by example.]]
+** Consider triangles.
+   For each person coming, ask who we mutually know.
+* leadership
+:PROPERTIES:
+:ID:       a41f56f0-6dcd-42af-8395-28c305ff493c
+:END:
+** TODO Invent a virtuous algorithm leaders want to follow.
+:PROPERTIES:
+:ID:       54ed3645-2c10-40ac-a6b0-c49384be070c
+:END:
+   Be willing to change course. Explain your learning.
+   Requires proof that people can love this.
+** Lead by example.
+:PROPERTIES:
+:ID:       5dab1f33-780f-447c-b594-327c9f3ac0df
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/speeches_at_beginnings_and_ending_are_important.org][Speeches at beginnings and ending are important.]]
+** vulnerability in leadership
+:PROPERTIES:
+:ID:       4df6a6ac-1f99-4903-a8e4-c738421e3b8c
+:END:
+*** what it is
+    making clear one's intent and the uncertainty of whether it can be achieved
+*** It helps.
+    It makes people more likely to help, more invested.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/speeches_at_beginnings_and_ending_are_important.org][Speeches at beginnings and ending are important.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness, inc. self-forgiveness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negotiation.org][negotiation]]
+* organizing people
+:PROPERTIES:
+:ID:       2285e62f-1ae9-4b2b-b3b0-cf9d973c6534
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spaced_repetition_scheme_for_contacts.org][spaced repetition for contacts : an idea]]
+** whether to send a message to a group
+:PROPERTIES:
+:ID:       bba21091-bbfa-4749-b929-0ac844934e62
+:END:
+*** Who do I want to talk together about it?
+*** Who do I think would feel safe hearing it?
+*** How do I feel safe revealing it to?
+** throwing parties
+:PROPERTIES:
+:ID:       1602c421-8ee0-475b-81d4-6ff4e81a15c4
+:ROAM_ALIASES: "parties, throwing"
+:END:
+*** Ask peoples' availability.
+    Make a spreadsheet.
+    Compute sums at each date, because they are useful summary stats,
+    but when comparing any two such stats,
+    consider who is part of the difference.
+*** discrete affirmative action
+    Offer to a few people in private who I think might have trouble making it to reimburse their expenses.
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/inviting_people_i_m_on_the_fence_about.org][inviting people I'm on the fence about]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_complain_about_people.org][How to complain (about people).]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presenting_data.org][presenting data]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dance.org#i-want-to-follow][I want to follow.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/theo_von_interviews_louis_ck_2025_october.org#i-might-have-gotten-their-permission-but-it-still-wasnt-okay]["I might have gotten their permission but it still wasn't okay."]]

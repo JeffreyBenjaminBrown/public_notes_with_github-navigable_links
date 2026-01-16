@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       b9f666f2-0035-42df-b674-86049697e9e0
+:ROAM_ALIASES: war "national defense" caution
+:END:
+#+title: defense | caution
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negativity.org#double-negative][double negative]]
+* Know what I'm getting into before accepting an invitation.
+:PROPERTIES:
+:ID:       5d29ffa5-0c60-4243-801c-043f717c7f9a
+:END:
+  e.g. when invited to a video call,
+  know who else is invited -- journalists? politicians?
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/assertiveness.org][assertiveness]]
+* situational
+** In a bus, before sealing myself into my chair, know who is on it.
+   And during the ride think about them, perhaps to get their number.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/on_a_schedule_calling_is_better_than_being_called.org][On a schedule, calling is better than being called.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/skepticism.org][skepticism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recent_changes_in_weapons_technology_have_tilted_the_odds_in_war_in_favor_of_defenders.org][War favors defense lately (2022).]]
+* Deception and uncertainty can both explain question-dodging.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intent_as_posterior_construction.org][intent as posterior construction]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intent_as_posterior_construction.org#undecidedness-on-a-sensitive-topic-could-be-honest-cowardice][Someone's undecidedness on a sensitive topic could be honest cowardice.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org#safeguard-the-culture][Safeguard the culture.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org#in-conversation-dont-let-the-subject-change-so-fast-it-confuses][In conversation, don't let the subject change so fast it confuses.]]
+* Avoid both impropriety *and its appearance*.
+:PROPERTIES:
+:ID:       48cc5878-027d-42eb-9683-5dfa4ca89414
+:END:
+** Explain, "It was good to meet you *and your husband*."
+:PROPERTIES:
+:ID:       0b9305a4-1b09-4757-b5e6-2d15b42ca06a
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org#intelligence-can-feel-like-a-shield][Intelligence can feel like a shield.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org#the-gaze-of-others-imposes-a-kind-of-discipline][The gaze of others imposes a kind of discipline.]]

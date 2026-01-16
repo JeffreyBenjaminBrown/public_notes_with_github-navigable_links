@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7cc0b99e-d0a0-4a3f-bcd0-f529a67855e8
+:END:
+#+title: outreach , public notes on
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/spaced_repetition_for_contacts_practicing.org][spaced repetition for contacts : practicing]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/outbox.org][outbox]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/some_masters.org][some masters]]
+* good advice
+** Be positively encouraged by the failure fraction.
+   "Every rejection is an accomplishment."
+   It's natural that not everyone has the time, imagination, or fit (with my interests) to sustain an interesting conversation. If I never run into disinterest I'm not reaching out enough. And if I do it doesn't mean they dislike me; they're probably flattered and|or wish they could take the opportunity.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/get_contact_info_from_everyone.org][Get contact info from everyone!]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/get_contact_info_from_everyone.org#its-okay-to-use-a-little-timeprocessing-to-plan-your-speech-at-the-end-asking-for-everyones-number][It's okay to use a little time/processing to plan your speech at the end asking for everyone's number.]]
+* Am I violent to my instinct to write someone just after seeing them?
+:PROPERTIES:
+:ID:       3804f96e-3cbd-4566-bd70-45ba27faaa26
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/conversation_starters.org][conversation starters]]
+* [[id:6e0b2662-85e7-447f-b5d8-6e533b2d3189][Outreach to [men] is just as hard. Everyone's busy.]]
+* message to long-lost friends: "I still like you."
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#mindfulness-helps-empathy][Mindfulness helps.]]

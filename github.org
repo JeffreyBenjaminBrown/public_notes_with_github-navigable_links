@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f7b815da-77db-4abb-9268-6f4ac7758897
+:END:
+#+title: GitHub
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_dotfiles_on_github_a_guide.org][using dotfiles on GitHub:a guide]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/github_and_aws_cli_slow_on_claro_hogar.org][Github and AWS CLI slow on Claro Hogar]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/github_credentials.org][Github & credentials]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/prevent_git_credential_validators_from_popping_up_whenever_i_deal_with_a_remote_on_github_over_http.org][Prevent git credential validators from popping up whenever I deal with a remote on GitHub over HTTP.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ssh_over_https_at_least_for_github.org][SSH over HTTPS, how to, for Github or maybe anything]]

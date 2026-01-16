@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1b1590ef-a95e-4fdb-9a7c-33a856d11709
+:END:
+#+title: knots
+* animations of knots
+  https://www.animatedknots.com/bowline-knot
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/better_shoelace_knots.org][better shoelace knots]]
+* The constrictor knot is cool.
+:PROPERTIES:
+:ID:       d93dae82-c99d-4996-bce1-87ded7e658dc
+:END:
+* Memorizing the over-under sequence helped a lot.
+** for learning the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knots.org#the-constrictor-knot-is-cool][constrictor knot]]

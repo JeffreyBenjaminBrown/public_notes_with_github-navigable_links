@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       af4b9da0-9605-46c0-9822-68f252ec7276
+:ROAM_ALIASES: "things AI can do"
+:END:
+#+title: accomplished by AI
+* AI seems great for nutritional advice.
+* AI accomplishments / social skills
+:PROPERTIES:
+:ID:       370fc155-72ba-4394-b3cd-92186871ab29
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/2025_01_13_mon_i_used_ai_to_help_decide_not_to_send_a_message.org][I used AI to help decide not to send a message.]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/i_used_ai_to_talk_me_into_and_explain_how_to_end_a_relationship_i_wanted_to_end.org][relationship advice]]

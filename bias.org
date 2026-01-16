@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       27e8eac8-c5aa-464b-b34e-44589338931b
+:END:
+#+title: bias
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org#art-can-resist-preconception][Art can resist preconception.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/errors.org][errors \ information]]
+* instances
+** maybe useful
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org][optimism]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org#bias-toward-wholeness][toward wholeness]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][toward action]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beautiful_things.org][beautiful]] ones
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/judgment_taste.org][style]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art_highlights_extremes.org][extremes, corner solutions !! balances, chaotic equilibria]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/far_out.org][far out]]ness
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org][drama]]tic effect
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org#interiority][interiority]]
+** destructive ones
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_abnegation.org][self-abnegation]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org#evil][evil]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negativity.org#nihilism--cynicism][nihilism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness.org#recognize-bias-in-yourself-and-others][Recognize bias, in yourself and others.]]
+* etymology
+** can mean a "diagonal direction in fabric"

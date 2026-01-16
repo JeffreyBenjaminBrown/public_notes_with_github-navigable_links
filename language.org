@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c543ecbc-9af5-4a9f-a7b2-fce74104c5cc
+:ROAM_ALIASES: linguistics
+:END:
+#+title: language
+* Toki Pona is cool.
+** It is a natural language with on the order of 150 words.
+** It is also new, so perhaps not that natural.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/charitable_interpretation_and_redundancy_in_language.org][charitable interpretation and redundancy in language]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/programming_languages.org][programming languages]]
+* the Sapir-Whorf hypothesis: language influences thought.
+  https://en.wikipedia.org/wiki/Linguistic_relativity
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_english_pronunciation_tips_for_spanish_speakers.org][some English pronunciation tips for Spanish speakers]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spanish_vocab.org][Spanish vocabulary]]
+* advantages and disadvantages of specific natural languages
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solved_in_english_it_takes_a_long_time_to_know_whether_a_list_is_conjoined_or_disjoined.org][(solved) In English it takes a long time to know whether a list is conjoined or disjoined.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identifiers.org][identifier symbols]]

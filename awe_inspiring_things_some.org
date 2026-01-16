@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       61d5fd0a-27b3-40cd-9807-5a9fcf0f4e35
+:END:
+#+title: awe-inspiring things, some
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_am_nothing_before_the_world.org][I am nothing before the world.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humility]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/evolution.org][evolution]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org][death]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aesthetics_can_evoke_spirituality.org][spirituality + aesthetics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_quantity_of_suffering_it_took_to_generate_the_human_species_is_incomprehensible.org][the suffering it took to create humanity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consciousness.org][consciousness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/every_moment_is_amazing.org][Consciousness => every moment is amazing.]]
+* DNA
+* biodiversity
+* chemistry's existence
+  "The 'habitable' region for chemistry in parameter space is estimated to be roughly 1 part in 10¹⁰ to 10²⁰ depending on which parameters you vary together."
+* the wave-particle duality
+* non-invertible cryptographic functions
+* that math is helpful
+* that other minds can be modeled
+* dreaming
+* Godel's incompleteness theorem
+* the astronomical scale
+* the subatomic scale
+* giraffes moving fast
+* that insects can get trapped in a drop of water
+* quantum entanglement
+  information transfer without signal
+* time dilation
+  moving clocks run slower
+* caterpillar metamorphosis
+  it *liquefies* and reconstructs itself
+* the placebo effect
+* hearing
+* black holes
+* the Banach-Tarski paradox
+* fractals
+* light's speed limits that of information
+* prime numbers are kind of random
+* the anthropic principle
+* self-rewriting code
+* the cosmic microwave background
+* the uncertainty principle
+* evolution
+* glasses are liquids
+* children learning language effortlessly
+* the bystander effect : more witnesses -> less help
+* money is a social construct
+* global supply chains
+* self-fulfilling prophecies
+* ancient text
+** and reconstructing dead languages from it
+* language
+** and linguistic universality
+   = that every language can express any thought
+* thinking without language
+* arbitrary group assignments create tribalism
+* betting markets
+* recursive theory of mind
+  I know that you know that I know ...
+* the Dunbar number
+  ~150 stable relationships
+* the uniqueness of human cumulative culture
+* collective action problems
+* the endowment effect
+  = owning something makes you value it more
+* cognitive dissonance
+* tacit, inarticulable knowledge
+* loss aversion
+  losses hurt ~2x more than gains feel good
+* the mere exposure effect
+  familiarity breeds liking
+* writing systems were independently invented ~5 times
+* Schelling points
+  coordination without communication
+* metaphor
+* earthquakes
+* weather
+** lightning
+* seasons
+** the importance of axial tilt
+* homosexuality in animals
+* intuition
+* common sense
+* desire
+* conscience
+* the enormous number of unknown people you would like
+* character development
+** how power changes it
+** how hatred changes it
+** how a healthy social environment changes it
+** how discovering a passion changes it
+   art, science, family
+* mathematical chaos
+* superfluids climbing out of containers
+* the Turing halting problem (some questions are undecidable)

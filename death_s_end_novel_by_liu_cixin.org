@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       0c4d2228-2f6e-47d7-a678-79620ce812dc
+:END:
+#+title: Death's End, novel by Liu Cixin
+* u from phone
+** Yu Weining, asst chief of PIA
+** Thomas Wade, PIA Chief
+** Mikhail Vadimov
+*** Director of Tech Planning at the PSC Intel agency (PIA)
+** Dr He
+*** Running The Stars Our Destination's branch in Beijing
+* characters
+** Constantinople, 1453 AD
+*** Emperor Constantine
+    under siege in Constantinople
+*** Phrantzes
+    one of Constantine's most trusted ministers
+*** Helena
+    Introduced by Phrantzes to Constantine.
+    A protitue (believes the emperor?).
+    Claims to be able to kill the sultan with magic.
+** Yang Dong
+   notes on [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_three_body_problem_novel.org#yang-dong][Yang Dong from Book 1]]
+** Dr. Zhang
+   Doctor to Yun Tianming
+** Yun Tianming
+   Shy.
+   Sick.
+   His sister wants him to euthenize himself,
+   so their dad won't spend all his money on Tianming's hospital bills.
+** Lao Li
+   Friend to Yun Tianming.
+   Had himself euthenized.
+** Hu Wen
+   A college classmate of Yun Tianming's.
+   Gregarious. Tianming's friend because he was friends with everyone.
+   Introduced Tianming to Cheng Xin.
+   Gave Tianming a lot of money after founding a company based on a beverage that was Tianming's idea.
+** Cheng Xin
+   Tianming's college crush.
+** _ Say, UN Secretary General
+   notes on [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_dark_forest_novel_by_liu_cixin.org#_-say-un-secretary-general][Secretary General Say from Book 1]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       13a32bc2-eaf6-41c6-bec3-389d1116d487
+:END:
+#+title: Portland, Oregon
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/some_people_in_portland.org][some people in Portland]]

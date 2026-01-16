@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       82a343cf-33c4-4c00-8d39-3fa241f1353d
+:END:
+#+title: Trimurti \ Hinduism
+notes from reading Wikipedia
+* creation, preservation, destruction
+  In some space this is an incomplete covering.
+* "viewpoints"
+** I'm surprised Brahmanism is not listed here.
+   At least one other page calls Brahma the Creator.
+** Shaivism
+*** creation, preservation, dissolution, grace, illusion
+    Shiva does each of the first three as different personalities,
+    among them the other two gods of the trinity and not himself.
+    The (non-Shavists?) associate Shiva only with destruction.
+** Vaishnavism
+*** Shiva and Brahma are both forms of Vishnu.
+** Shaktism
+*** A female create-preserve-destroy trio is supreme.
+*** "Consorts of the Trimurti"
+**** (Brahma : create) ~ (Saraswati : learning, arts, and music)
+**** (Vishnu : preserve) ~ (Lakshmi : ?(pleasure & greatness) )
+***** where (pleasure & greatness) = all of these
+****** *light*, fortune, wealth, fertility, auspiciousness, material fulfillment
+****** prosperity, glory, magnificence, joy, exaltation, greatness
+****** spiritual fulfillment
+***** Feels nearby: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time.org#it-has-an-abundance-of-now][Spacetime has an abundance of now.]]
+***** It's weird to me how much Lakshmi seems to outshine Saraswati.
+**** (Shiva : destroyer) ~ (Parvati : power, war, beauty, love)
+** Smartism
+*** different gods
+**** Wikipedia on Trimurti says Smartism added Shakti and Surya, and eventually Kartikeya
+**** Wikipedia on Smarta Tradition says Ganesha, Shiva, Shakti, Vishnu, Surya

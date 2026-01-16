@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5498fb6a-fcf2-49e4-a6d0-aa30a615301d
+:END:
+#+title: rushing paleontologist as metaphor for knowledge graph reading
+* TODO Why is this so hard?
+* clarification
+  scanning a lot of area, being selective about what they delve into
+* Don't get sidetracked by writes of lesser value than reading.
+* source
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/your_inner_fish_book_by_neil_shubin.org][Your Inner Fish , book by Neil Shubin]]

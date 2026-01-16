@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       2c400b23-7036-42e3-b521-ea0edf70c5ac
+:END:
+#+title: A Philosophy of Software Design, book by John Ousterhout
+* RESUME at page 73
+  "real" pages run from 19 to 203
+* "The best modules are those whose interfaces are much simpler than their implementations."
+* informal aspects of an interface
+** definition
+   Informal aspects of an interface
+   are things the user must know
+   that cannot be encoded in the programming language itself.
+** "For most interfaces the informal aspects are more complex than the formal aspects."
+** "look for designs that minimize the amount of information that is important"
+** Some deeep programs have no interface!
+   e.g. garbage collection in Java
+* The knowledge required should structure modules.
+  "When designing modules, focus on the knowledge that’s needed to perform each task, not the order in which tasks occur."
+** "temporal decomposition often results in information leakage."
+   If modules correspond to the stages of an operation,
+   then a change to one of them is likely to imply a change to all.
+* "information hiding can often be improved by making a class slightlylarger."
+* "general-purpose classes [are] almost always better than special-purpose alternatives ... [and] are simpler and deeper "
+* Specialization can be pushed up or down.
+** An example of pushing it up: general foundation methods.
+   A text editor has commands for replace, insert character, delete next character, delete previous. That specialization can be kept above (in the callers of) a simple general module for maintaining the buffer text, with only two methods: insert and delete.
+** An example of pushing it down: device drivers.
+   A filesystem must allow reads and writes. Their implementation depends on the details of the device being accessed. Those details can be pushed down into device-specific drivers, all of which provide the same (simple) interface for reads and writes.
+* Eliminate special cases.
+** Example ? represent absent selection as selction from 0 to 0
+   This prevents having to check whether the selection exists.
+   Nut I'm skeptical.
+* "Different Layer, Different Abstraction"
+** red flag: pass-through methods
+   "A pass-through method is one that does nothing except pass its
+arguments to another method, usually with the same API as the pass-
+through method. This typically indicates that there is not a clean
+division of responsibility between the classes."
+** A "dispatcher" can reasonably duplicate the signatures of its callees.
+   e.g. if it chooses which callee to call based on which enum constructor it receives

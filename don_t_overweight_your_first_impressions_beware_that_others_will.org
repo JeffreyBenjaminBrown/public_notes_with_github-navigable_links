@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       816bb2e3-64c6-4632-96c8-54ac642d7d43
+:END:
+#+title: Beware overweighting of first impressions, in yourself and others.
+* "When we know little about someone we tend to overweight that information, rather than postponing judgment and trying to find out more."
+  -- [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/modern_romance_an_investigation_book_by_aziz_ansari_and_eric_klinenberg.org][Modern Romance: An Investigation - book by Aziz Ansari and Eric Klinenberg]]

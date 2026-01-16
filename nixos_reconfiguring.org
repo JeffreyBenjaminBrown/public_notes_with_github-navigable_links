@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       17e1cea2-480d-4cda-ad7c-ffbb7f5c3989
+:END:
+#+title: NixOS ,, configuring | reconfiguring
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_rebuild_command.org][nixos-rebuild (command)]]
+* find the possible completions given a NixOS package prefix
+  Here the prefix is "emacsPackages":
+
+  $ nix repl '<nixpkgs>'
+  > :l <nixpkgs/nixos>
+  > emacsPackages.<TAB>
+* find the possible completions given a NixOS option prefix
+  Here the prefix is "system.autoUpgrade":
+
+  [jeff@jbb-dell:~/nix/nixpkgs]$ nixos-option system.autoUpgrade
+  This attribute set contains:
+  allowReboot
+  channel
+  dates
+  enable
+  flags
+  flake
+  randomizedDelaySec
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_how_to_upgrade_channels.org][NixOS, how to upgrade (channels)]]
+* name a new configuration with `-p`
+  For instance,
+  sudo nixos-rebuild switch -p no_music_config_although_packages
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/configuring_kde_in_nixos.org][configuring KDE in NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/xmonad_window_manager.org#using-xmonad-and-xfce-in-nixos][using xmonad and xfce in NixOS]]

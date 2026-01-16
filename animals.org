@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       b6b05dc0-b157-455e-a7b2-3a1959fe1957
+:END:
+#+title: animals
+* biodiversity
+:PROPERTIES:
+:ID:       e66faca5-8154-4852-9fe1-22c7815fdb6f
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/animals_and_understanding.org][animals and understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cooperation_across_species.org][cooperation across species]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cool_things_chimps_do.org][cool things chimps do]]
+* animals crossing
+:PROPERTIES:
+:ID:       9cfc7c3d-f52a-4a38-805d-ab2475b7fef8
+:END:
+* A balance of processing between creatures.
+:PROPERTIES:
+:ID:       ebaa2fda-4ebd-4a7c-bca2-a1b091ddbe02
+:END:
+** Balanced mind states, familiar in sequence, becomes strange in parallel.
+   It's common to balance (consciously or not)
+     one's own processing across time of different states of mind
+     such as [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/animals.org#process-examples][the examples]].
+   Differently,
+     an objective observer or simulator -- both godlike conceptions --
+     world would have to dedicate processing between such states in parallel.
+** process examples
+:PROPERTIES:
+:ID:       48ca133b-8986-483c-8d47-b8a64213b571
+:END:
+   "I like the taste of crab."
+   "I can fly!"
+   "There is a past."
+   "I have made my family proud."
+   "I once understood more."
+   ...

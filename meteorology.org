@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       87e4aa2a-ed78-4fc4-b599-5d61c302ff19
+:ROAM_ALIASES: "weather <- meteorology" "atmosphere <- meteorology"
+:END:
+#+title: meteorology
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/greenhouse_effect_planetary.org][greenhouse effect, planetary]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ufos.org][UFOs]]

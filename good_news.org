@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4bf34033-e7c1-495b-b2f0-dc426543fb5c
+:END:
+#+title: good news
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humanity_appears_to_have_passed_peak_agricultural_land.org][Humanity appears to have passed "peak agricultural land".]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recent_changes_in_weapons_technology_have_tilted_the_odds_in_war_in_favor_of_defenders.org][Recent changes in weapons technology have tilted the odds in war in favor of defenders.]]

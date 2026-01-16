@@ -1,0 +1,78 @@
+:PROPERTIES:
+:ID:       b7ff0805-4a7d-4f56-85ab-78dcdf88e8f8
+:ROAM_ALIASES: optimization solution productivity
+:END:
+#+title: solution | optimization | productivity
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/realism.org][realism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][information]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situations_and_how_to_handle_them.org][pressure: anticipate and handle]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/play_fun.org#gambling][gambling]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scarcity_of_time_exclusivity.org#security-is-never-a-matter-of-certainty][Security is never a matter of certainty.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_prioritize_tasks.org][how to prioritize tasks]]
+* moderation of optimization
+:PROPERTIES:
+:ID:       9bfea9d6-eb20-47b4-b6f0-ea09b4524a12
+:END:
+** feels like slack
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/choice.org#over-optimisation--solution--kill-impede-mental-peace-bandwidth][overoptimisation v. mental peace]]
+* Beware perfectionism.
+:PROPERTIES:
+:ID:       d59f21b1-2b7d-40e7-8f98-739c366b8280
+:END:
+** = Don't make the perfect the enemy of the good.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/choice.org#over-optimisation--solution--kill-impede-mental-peace-bandwidth][overoptimisation v. mental peace]]
+* flow, the mental state
+:PROPERTIES:
+:ID:       dd74aa97-289b-4fad-9540-6a7445e1484c
+:END:
+** Music is better for (the listener's) flow than podcasts.
+*** why
+    Music lets you move between intellectually demanding tasks and easy ones without interrupting the stream.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/weird_things.org][weird]]
+    Channeling the podcasters by listening would also be an interesting flow state.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intuition.org][intuition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org#detachment-can-heighten-perception][Detachment can heighten perception.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/being_present_with_someone_is_special.org][Being present with someone is special.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org#is-too-much-self-awareness-bad][Is too much self-awareness bad?]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org#the-senses-come-alive][The senses come alive.]]
+* anti-neighbors
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irratinoality_inconsistency.org][irrationality , inconsistency]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meaninglessness_pointlessness.org][meaninglessness | pointlessness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom.org#liberation-via-humility][liberation via humility]]
+* etymology
+** Solution     suggests discrete possibility spaces.
+** Optimization suggests continuous choice.
+* technical
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/constrained_optimization.org][how to do constrained optimization]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reevaluation_scheduling.org][scheduling reevaluation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/strategy_can_be_like_a_black_hole.org][Strategy can be like a black hole.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice_accounting.org][justice & accounting]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/elegance_constrained_optimization.org][elegance = constrained optimization]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/synthesis_ala_hegel.org][synthesis ( ala Hegel )]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][balance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/complementarity_schemes.org][complementarity]]
+* some interesting ones
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_beat_around_the_bush.org][Don't beat around the bush.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flirt_before_proposing_anything_radical.org][Flirt before proposing anything.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org][self-respect]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sexiness_does_not_feel_obligated.org][Sexiness does not feel obligated.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happy_alone_first.org][find happiness alone first]]
+* art involving it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_had_a_really_epic_missing_half.org][if you had a really epic missing half]]
+* defineable in terms of it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism_solution_transcendence.org][optimism + solution = transcendence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/economics.org#competition][competition]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hate.org#hate-might-serve-a-useful-prioritization-function][Hate might serve a useful prioritization function.]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/mysteries_problems.org#do-i-oversave-and-underspend][Do I oversave and underspend?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/partial_completion_is_of_almost_no_value_in_many_projects.org][investment payoffs ::: continuous v. lumpy, delayed]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/procrastination.org][procrastination]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org#it-is-right-to-spend-non-uniformly-over-time][It is right to spend non-uniformly over time.]]
+* compromise
+:PROPERTIES:
+:ID:       2de14a2f-0ad7-4851-be44-1324730239b2
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][Creative]] [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org][optimism]] can help.
+:PROPERTIES:
+:ID:       945b43e1-5df9-44a0-ad6c-0fedd11ab8ae
+:END:

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       dd2c33b3-21a1-45bd-ab86-c110c40a932f
+:END:
+#+title: drugs
+* some legal pharmaceuticals
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/when_to_buy_drugs_at_colsubsidio.org][when to buy drugs at Colsubsidio]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/warfarin.org][warfarin]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flonase.org][Flonase (allergy medication)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/psilocybin_may_extend_lifespan.org][Psilocybin may extend lifespan.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lost.org#too-far-away][too far away]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lost.org][lost]]
+* Drugs can feel like a false home.
+  The drugged state is like a place,
+  but [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time.org#place-presumes-reality][place presumes reality]],
+  whereas a drugged state cannot (right?) be revisited with fidelity.
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/fantasies_about_the_nature_of_power.org#the-feeling-of-having-pulled-one-over-on-the-world][the feeling of having pulled one over on the world]]

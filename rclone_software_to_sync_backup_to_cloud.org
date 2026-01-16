@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       2ef344eb-104c-4b53-bc07-72d61640de9e
+:ROAM_ALIASES: rclone
+:END:
+#+title: rclone (software, to sync backup to cloud)
+* TODO PITFALL: Sometimes the dest swallows the source, sometimes it is made to equal the source. I don't know when.
+  This:
+    rclone sync /run/media/jeff/_Toshi-2020-2TB/borg-repo \
+                  gborg:by-rclone/borg-repo
+  seems to cause the second argument to be equal to the first.
+  But this:
+    rclone sync /home/jeff/tempf gborg:by-rclone/tempf/
+  put a file called tempf *in* the gborg folder called that,
+  and this:
+    rclone sync /home/jeff/enc,org.zip \
+                gborg:by-rclone/enc,org.zip
+  put the file enc,org.zip *in* a folder of the same name.
+
+  Note that in the last two commands,
+  one has a trailing slash on the destination and the other doesn't,
+  so that's not the problem.
+* refs
+** make a Google Drive repo for rclone
+   https://rclone.org/drive/
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/my_rclone_backup_strategy.org][my rclone backup strategy]]
+* how I configured it
+  `rclone config` from the command line.
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/my_rclone_secrets.org][my rclone secrets]]
+** It has "drive.file" access to my Google Drive.
+   That was the third option offered, of five:
+     / Access to files created by rclone only.
+   3 | These are visible in the drive website.
+     | File authorization is revoked when the user deauthorizes the app.
+     \ "drive.file"
+** PITFALL: Don't specify a root folder.
+   I don't know what it's for,
+   and when I tried it I got errors,
+   which I could not resolve by editing the remote.
+   (I tried replacing the root folder I had specified with "" and /,
+   neither of which worked).
+   I had to delete it and create a new one.
+* how to specify paths
+:PROPERTIES:
+:ID:       bba47939-d4d7-492d-88cd-e00990a7929b
+:END:
+** Local paths are specified normally.
+   Relative paths work.
+** Remote paths are specified as <name of remote>:<path in remote>.
+   So, for me, they look like
+     gborg:path/to/something
+** TODO This looks like something wrong in the documentation.
+   The documentation says "Paths are specified as drive:path".
+   But when I tried that it didn't work.
+   I had to use the name of my rclone ("repo"? "config"?), not "drive".
+* solutions
+** error "Failed to create file system for" ... "didn't find section in config file"
+   https://github.com/rclone/rclone/issues/290
+*** solution
+    I was using the wrong remote name.
+    Use `rclone config` to (among other things)
+    list remote names.
+** how to sync
+   The syntax is just like the Linux `cp` command:
+   rclone sync <source> <dest>
+*** example: copy local folder to remote folder
+    rclone sync . gborg:by-rclone/borg-repo
+** folder size, how to find
+   Like "du", but more detail.
+   rclone size [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rclone_software_to_sync_backup_to_cloud.org#how-to-specify-paths][<path>]]
+** folder, more information about, how to get
+   rclone about [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rclone_software_to_sync_backup_to_cloud.org#how-to-specify-paths][<path>]]
+** show last modification time
+:PROPERTIES:
+:ID:       fb6790c5-575f-4915-bf5e-87ed3daa50bf
+:END:
+   rclone lsf --format t gborg:by-rclone/borg-repo-alt
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/how_i_synced_to_google_drive_before_rclone.org][how I synced to Google Drive before rclone]]

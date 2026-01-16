@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       004af7c1-02db-4545-8691-f00135b9ed48
+:ROAM_ALIASES: appreciation
+:END:
+#+title: gratitude
+* gratitude
+** People say gratitude exercises work.
+   Thinking of things to be grateful for
+   makes them happier.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honor.org#thank-those-who-make-possible-the-gathering][Thank those who make possible the gathering.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org#compartmentalize-the-bad-think-of-the-good-in-other-contexts][Compartmentalize the bad. Think of the good in other contexts.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/leisure.org][leisure]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/funny_tradeoffs_in_my_life.org][funny tradeoffs in my life]]

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       9474deb6-b25e-4a47-ab2f-4f6408fba57f
+:END:
+#+title: video (medium)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_create_an_mp4_from_a_wav_and_a_png.org][how to create an .mp4 from a .wav and a .png]]
+* how to film
+:PROPERTIES:
+:ID:       7c57ccdf-ff0e-4362-bc1d-4a2eaf7157f7
+:END:
+** respect the space
+:PROPERTIES:
+:ID:       b2906030-b897-4495-aae1-3bba39d40a84
+:END:
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#swinging-close-to-the-camera-is-freaky][Swinging close to the camera is freaky.]]
+*** Don't stand up in the middle of a video.
+:PROPERTIES:
+:ID:       d206b9f1-016e-4dd2-a083-dc12d98dd157
+:END:
+    At least not if it puts my head out of the frame.
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_eval_my_latest_music_video_as_of_2025_10_12_sun.org#example-in-this-video][example from video]]
+** Camera should be from the lit side of the room.
+:PROPERTIES:
+:ID:       7f2060e4-05ad-4453-95d3-4ecd9d5e768a
+:END:
+** ? disclose (art) gradually
+:PROPERTIES:
+:ID:       0f0efb2e-ec94-4206-86c9-a5de72c7db2c
+:END:
+   Get feedback from friends before sharing widely.
+* video formats
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mp4.org][mp4]]

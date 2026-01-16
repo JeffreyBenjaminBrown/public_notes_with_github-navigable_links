@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       724f8301-90c4-46fd-8e9e-5d4fe15e03cd
+:ROAM_ALIASES: Lumatone
+:END:
+#+title: Lumatone (microtonal keyboard)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/what_i_use_to_run_lumatone_in_reaper_on_nixos.org][What I use to run Lumatone in Reaper on NixOS.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/paul_christian_s_webapp_lights_up_enharmonic_notes_on_a_lumatone.org][Paul Christian's webapp lights up enharmonic notes on a Lumatone.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collect_data_to_adjust_velocity_curve.org][collect data to adjust velocity curve]]
+* my current Lumatone layout bank settings
+  1   : 12-edo, 5 right 6 downright
+  2   : 12-edo, 4 right 5 downright
+  3   : 19-edo, 6 right 7 downright (4 black)
+  4   : 36-edo
+  5   : 41-edo
+  6   : 43-edo
+  7   : 46-edo
+  8   : 48-edo
+  9   : 46-edo, I think -- OUT OF ORDER
+  10  : 58-edo
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bad_keys_lumatone_my.org][bad keys \\ Lumatone, my]]
+* try changing [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/velocityintrvltbl_lumatone.org][VelocityIntrvlTbl \ Lumatone]]
+* sysex to change Lumatone key colors
+** gist on Github
+   https://gist.github.com/meta-meta/f331dc60ea5f100985bd6b79290d3e18?fbclid=IwAR0ILUqzFkCDyRvkQ8ygUZj3vRy1jzdnGilu59gsoNuMQBpcsmD9dQ2h0Wg
+** announced on FB
+   https://www.facebook.com/groups/lumatone.keyboard/posts/6086983238077524/
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi_controls_i_would_like.org][MIDI controls I would like]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_exercises.org][musical exercises]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lumatone_keyboard_geometry.org][Lumatone keyboard geometry]] (and physics)
+** tag pictures images
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_pack_the_lumatone.org][how to pack the Lumatone]]
+* how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi-keyboard-esp-usb-in-linux-how-to-use.org][Use a USB MIDI keyboard in Linux]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/setting_up_pianoteq_for_the_lumatone.org][setting up Pianoteq for the Lumatone]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/insrance_policy_for_my_music_gear.org][insrance policy for my music gear]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_lumatone_format.org][the Lumatone format]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lumatone_settings_my.org][my Lumatone settings]]
+* to use the Lumatone Editor on NixOS
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/run_a_static_binary_on_nixos.org#todo-do-i-need-a-shellnix][Do I need a `shell.nix`?]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/run_a_static_binary_on_nixos.org][run a static binary on NixOS]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lumatone_editor_trying_to_package_for_nix.org][Lumatone Editor, trying to package for Nix]]
+* some patches online at PatchStorage
+  https://patchstorage.com/requests/lumatone/#comment-5421
+** a Facebook thread about them
+   https://m.facebook.com/groups/lumatone.keyboard/permalink/4570811183028078/
+* TODO ? I got a coupon:
+  https://mail.google.com/mail/u/0/#inbox/FMfcgzGmtXDbztmDNXnqVnkbxmlVRcXt
+* Vincenzo Sicurella can draw layouts easily.
+* DONE solved problems
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lumatone_seen_as_network_connection_not_in_jack_graph.org][Lumatone seen as network connection, not in JACK graph]]

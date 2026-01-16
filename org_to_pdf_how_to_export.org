@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       82f83486-bbc2-41d8-bcf8-8203059cffcd
+:END:
+#+title: org to pdf, how to export
+serial
+* first export to markdown from emacs:
+  alternatives
+** TODO - org-export-as-markdown
+*** why
+    Creates a buffer with the markdown content.
+    Handy because I'm likely to want to edit it to delete the TOC.
+*** process
+**** Run that.
+**** Fix underscores.
+     alternatives
+***** fast: sed
+****** a dumb way
+sed -i "s/<\/sub>//g" el_trabajo_que_entrego_dian.md
+sed -i "s/<sub>/_/g"  el_trabajo_que_entrego_dian.md
+****** TODO a smarter way, incomplete
+       See [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sed_only_in_lines_containing_pattern.org][sed only in lines containing pattern]]
+       So in my case it would be
+         sed -i "/^\*\** / s/<\/sub>//g" filename.md
+         sed -i "/^\*\** / s/<sub>/_/g"  filename.md
+***** slow: interactive
+      In the buffer, delete every </sub>, and replace every <sub> with _.
+** NAH - org-export-to-markdown
+   creates a file with a different extension
+* then use pandoc
+  pandoc --pdf-engine=pdfroff --output=output.pdf input.md
+** ref: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/markdown_to_pdf_how_to_convert.org][markdown to pdf, how to convert]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       94ad699e-517a-4424-b3bf-7a0f0427f385
+:ROAM_ALIASES: luck blessedness
+:END:
+#+title: luck
+* Luck can be a valid observation of someone's history.
+:PROPERTIES:
+:ID:       4c92fdab-f573-4a6f-b83e-00eb798b3b60
+:END:
+  albeit probably not a skill
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org#blessedness][blessedness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_spirit_must_be_heard_into_the_whispers.org][A spirit must be heard into the whispers.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/not_something_you_get_by_trying.org][Not something you get by trying.]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/maybe_karma_and_luck_can_be_reconciled.org][maybe karma and luck can be reconciled]]

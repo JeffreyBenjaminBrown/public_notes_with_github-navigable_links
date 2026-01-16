@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       31569c10-7b37-4fb0-89b5-522c19b0b184
+:ROAM_ALIASES: "exams for programmers, some" "assessments of programming skills, some"
+:END:
+#+title: tests for programmers, some
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_cs_skills_assessment.org][a CS skills assessment, with a moderate focus on Python]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_data_science_skills_assessment.org][a data science skills assessment]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/test_a_cto.org][test a CTO]] (incomplete)

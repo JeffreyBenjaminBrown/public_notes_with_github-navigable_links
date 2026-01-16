@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4c25a3eb-4f21-4c20-9fee-2a18275ca089
+:ROAM_ALIASES: choice volition behavior
+:END:
+#+title: choice | volition | behavior
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/free_will_seems_illusory.org][Free will seems illusory.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/people_as_priority.org][people as priority]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/specialization_graph_search.org][specialization & graph search]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ethics.org][ethics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wasted_mental_cycles.org][mental waste]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/my_priorities.org][my priorities]] , private
+* Over{-optimisation, -solution, -kill} impede mental peace, bandwidth.
+:PROPERTIES:
+:ID:       b0a80dfd-0fbf-4ba7-b9b7-6ec65d2619fa
+:END:
+  Rather than maximize whatever the object of thought is, maximize terminating the thought well enough. That is, sacrifice the last, costliest gains one could have gotten from further optimizing, in return for the mental space to think about other stuff.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/procrastination.org][procrastination]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/behavioral_manipulations.org][behavioral manipulations]]

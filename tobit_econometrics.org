@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       aba698b5-e763-44c0-8e9b-8db50c779e1e
+:ROAM_ALIASES: Tobit
+:END:
+#+title: Tobit (econometrics)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tobit_in_python.org][Tobit in Python]]

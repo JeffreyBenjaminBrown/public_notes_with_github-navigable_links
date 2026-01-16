@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       255a4912-7dbf-47f4-bff3-3917432616ef
+:ROAM_ALIASES: style judgment taste wisdom
+:END:
+#+title: judgment | wisdom | taste
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bias.org][bias]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][information]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org][logic]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][patience]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aesthetics.org][aesthetics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_responsibility.org][musical responsibility]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comic_responsibility.org][comic responsibility]]
+* empathy for other {viewers, ..}
+** Feel what someone else would want to happen next.
+:PROPERTIES:
+:ID:       41ec1d8d-f77b-4805-afa4-78493f8c0a7d
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/video_medium.org#respect-the-space][Respect the space.]]
+* not clearly operationalizable
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_spirit_has_to_get_into_the_whispers.org][A spirit has to get into the whispers.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/feel_the_multiverse.org][Feel the multiverse.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#learn-to-retreat-to-less-complexity][Learn to retreat to less complexity.]]
+* emptiness + acceptance => better attention
+:PROPERTIES:
+:ID:       5d7ed16d-7962-4cd1-b6ce-eb54088f506d
+:END:
+** Physically carrying less makes me feel more open to others.
+   Literally able to use more processing on them.
+   (Unless I spend a lot of time thinking about what I wish I had.)
+** Probably true of sensory experience, too.

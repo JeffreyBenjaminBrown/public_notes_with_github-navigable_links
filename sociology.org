@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4d96ed8b-e9d9-4809-b865-49057fba568e
+:END:
+#+title: sociology
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/futurology.org][futurology]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprising_societal_changes.org][surprising societal changes]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/opting_out_of_immediate_spatial_reality.org][opting out of immediate spatial reality]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/crazy_collective_decisions.org][crazy collective decisions|outcomes]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/crazy_things_nations_have_done.org][crazy things nations have done]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_correlation_between_weight_and_income_in_rich_countries_is_driven_almost_entirely_by_women.org][The correlation between weight and income in rich countries is driven almost entirely by women.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/demographics.org][demographics]]
+* Decompose the sides of a debate.
+  Both|all are presumably coalitions with diverse
+  [motivations, experiences, capabilities].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#if-individuals-are-carried-on-society-scale-currents-see-it][If individuals are carried on society-scale {art} currents, see it.]]

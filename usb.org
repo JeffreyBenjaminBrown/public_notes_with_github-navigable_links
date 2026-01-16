@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d9643a9e-ff85-480c-9f26-902f0c30059a
+:ROAM_ALIASES: "universal serial bus"
+:END:
+#+title: USB
+* USB dimensions
+** USB-A: old, big, rectangular
+** USB-C: 8.4 x 2.6 mm, symmetrical
+** USB-micro: 6.85 x 1.8 mm, asymmetric
+:PROPERTIES:
+:ID:       721e3d45-65eb-43f3-8ea0-b84a20c8b304
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_bad_usb_cable_can_look_like_a_software_problem.org][A bad USB cable can look like a software problem.]]

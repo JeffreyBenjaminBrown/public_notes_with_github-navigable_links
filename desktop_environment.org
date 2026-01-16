@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca120a7a-cc2c-42fc-a9c7-408b17dcaa2f
+:ROAM_ALIASES: "display manager" "window manager" "graphical user interface"
+:END:
+#+title: desktop environment
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_a_window_spills_off_screen_and_its_title_bar_is_unreachable.org][if a window in KDE spills off-screen and its title bar is unreachable]]
+* to launch the display manager from a bare xterm
+  systemctl start display-manager.service
+* If I can't start the desktop environment but can start a terminal
+  Using more recent kernel packages might do the trick:
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/error_unit_window_manager_not_found.org][Error: "Unit window-manager not found"]]

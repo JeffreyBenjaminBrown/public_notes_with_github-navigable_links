@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       60076c1c-6434-4b94-a8bb-5d05605d3bdc
+:END:
+#+title: malevolence
+* the appearance of evil
+* Beneficent malevolence might be cool.
+:PROPERTIES:
+:ID:       ec329a31-f738-490a-af4c-a75d8ff79d77
+:END:

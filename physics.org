@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       63f9d861-b563-426f-826a-ba2153429314
+:END:
+#+title: physics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/acoustics.org][acoustics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/entropy_is_not_entirely_negative.org][Entropy is not entirely negative.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/physics_in_vacuum.org][on the moon | in a vacuum]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/astronomy.org][astronomy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/radiation.org][radiation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/relativity.org][relativity]]
+** the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lorentz_transformation.org][Lorentz transformation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/quantum_physics.org][quantum physics]]
+* Torque is change in angular momentum.
+* phase transitions
+:PROPERTIES:
+:ID:       e9a3af7d-4bcb-46f8-b2a3-690d408dcdcf
+:END:

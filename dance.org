@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       5c1dc0d8-b3a2-4dae-9c2d-7bda2d9789c0
+:END:
+#+title: dance
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happiness.org][joy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_responsibility.org#musical-responsibility][musical responsibility]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org][sharing]]
+* methods
+** Use momentum to save energy.
+** Vary durations.
+** Freeze sometimes.
+** Vary the spotlit muscle.
+** Match one muscle's duty cycle to a musical voice.
+   while others stay full duty
+* TODO styles to learn
+** popping, gliding, animation, waving, tutting, liquid
+* bid when dancing
+:PROPERTIES:
+:ID:       3ae5ed8a-a2dc-438e-88de-eeceff9c26d2
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flirtation.org][flirtation]]
+* instances, concrete
+** a cool floaty dance
+   https://www.facebook.com/share/r/1DUuuiQ8mD/
+** something to study
+   https://www.facebook.com/share/r/1FscJoSycB/
+* instances, abstract
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#star-system-and-interstar-system][star-system and interstar-system]]
+** catcher
+:PROPERTIES:
+:ID:       58a3b3ce-dc2c-4699-9dcf-37e10a84544d
+:END:
+*** baseball
+*** those (sports?) where people catch a high-jumping dog
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org#dance-in-crowds-like-boids][Dance in crowds like boids.]]
+* I want to follow.
+:PROPERTIES:
+:ID:       163b1666-3e8a-4223-bb50-aeabe85264f8
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dance_private.org][& private]]

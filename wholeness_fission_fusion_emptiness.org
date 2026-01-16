@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8bf642b8-c720-475d-9972-ff7d5553ff10
+:END:
+#+title: wholeness fission fusion emptiness // a no-links title for
+Notes should be to the below, not the above.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode.org][Hode]] : I wish editing this file in one place edited the text of links to it correspondingly.
+:PROPERTIES:
+:ID:       b88b2b9c-b219-493b-a4a6-d3c709a6cb7b
+:END:
+  allowing a user to find it by searching for any of them
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org][wholeness]]  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fission_psychic.org][fission]]  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fusion.org][fusion]]  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org][emptiness]] , the list
+:PROPERTIES:
+:ID:       fcc04ddf-843f-4953-b23c-b525a9d6d652
+:END:

@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       da86234d-a3cc-4a8d-a5e3-4d9f51a0aa91
+:END:
+#+title: Lumatone settings, my
+* using
+**  1-34edo.7right.3downright.ltn
+**  2-41edo.7right.3downright.+9notes.+1channels.ltn
+**  3-46edo.4right.11downright.+29notes.ltn
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_4_46_x_7_46.org#on-the-lumatone][on the Lumatone]]
+**  4-46edo.4right.11downright.+15notes.ltn
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_4_46_x_7_46.org#on-the-lumatone][on the Lumatone]]
+**  5-46edo.4right.11downright.+1notes.ltn
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isomorphic_layout_4_46_x_7_46.org#on-the-lumatone][on the Lumatone]]
+**  6-24edo.5right.4downright.ltn
+**  7-31edo.5right.3downright.ltn
+**  8-50edo.8right.5downright.ltn
+**  9-53edo.9right.4downright.ltn
+** 10-58edo.6right.11downright.ltn
+* others
+** 41edo.6right.-1downright.ltn
+   If I transpose it up 6\41,
+   which the MIDI I put in front of Pianoteq does,
+   then the way it's colored now,
+   if we call the "first red"
+   the white key that the reds "spew rightward out of",
+   then that's F.
+   (So the actually-red keys are G, A, B, C, D, and E.)
+
+   That's according to my tuner app.
+   I haven't tried the math.
+** 41edo.7right.3downright.+9notes.+1channels.ltn
+** 41edo.7right.3downright.ltn
+** 50edo.8right.5downright.+20notes.ltn
+** 53edo.9right.4downright.+11notes.+1channels.ltn

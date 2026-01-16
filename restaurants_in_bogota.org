@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       7c28ad7b-347f-49d9-b999-764bf1b9ec73
+:ROAM_ALIASES: "Bogotá bars and restaurants" "bars and restaurants in Bogotá"
+:END:
+#+title: restaurants and bars in Bogotá
+* near MinCIT
+** DONE [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solar_del_brevo.org][Solar del Brevo]]: too salty
+* in La Macarena
+** Bangkok (Juan Felipe Rodriguez rec's)
+   thai
+** Mon Fermina (Juan Felipe Rodriguez rec's)
+   "one of the best Italian places in Bogotá"
+* Yerbamate: carnes, 71 & 11, JC Mendoza rec'd
+* El Garnachan
+** latest menu as of <2025-11-22 Sat>
+   https://drive.google.com/file/d/1UJIpqQm2SEcgbPGEGnXuzTyILsfZT0Jo
+** Devin from there is in my contacts.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/revellion_people_at.org][Revellion (bar in Bogotá)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aprissa_pizza.org][Aprissa Pizza]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/crepes_waffles.org][Crepes & Waffles]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/curry_masala_restaurant_in_parkway_bogota_colombia.org][Curry Masala]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/el_corral_restaurant_in_bogota.org][El Corral]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/la_fonda_mexicana_restaurant_in_bogota.org][La Fonda Mexicana]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/veggie_beans_and_shakes.org][Veggie Beans and Shakes]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/de_local_restaurant_bogota.org][De Local (restaurant, Bogotá)]]
+* [[https://github.com/JeffreyBenjaminBrown/stale_notes_with_github-navigable_links/blob/master/salma_falafels_restaurant_bogota.org][Salma Falafels (restaurant, Bogotá)]]
+* DONE and why
+** bad : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/soy_sushi_restaurant_in_paulo_vi_bogota_colombia.org][Soy Sushi]]
+** bad : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ago_sushi_restaurant_in_bogota.org][Ago Sushi]]
+** gone : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/burgett_restaurant_in_paulo_vi_bogota_colombia.org][Burgett]]

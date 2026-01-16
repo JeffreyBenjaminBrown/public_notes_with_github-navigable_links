@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       880c2596-e4da-486d-863d-6daff64ca89c
+:ROAM_ALIASES: "conscious identity" "self"
+:END:
+#+title: identity , conscious
+* in-links
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hardship.org][hardship]]
+* u
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/free_will_seems_illusory.org][Free will seems illusory, or redefine the self.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/closeness.org#ones-sense-of-the-absurd-is-personal][One's sense of the absurd is personal.]]
+* Be yourself.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outreach.org#am-i-violent-to-my-instinct-to-write-someone-just-after-seeing-them][Am I violent to my instinct to write someone just after seeing them?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org#if-escapism-comes-from-an-excess-of-self-can-impermanence-help][If escapism comes from an excess of self, can impermanence help?]]
+* Selfward is sometimes the least educational choice.
+:PROPERTIES:
+:ID:       a39b2ed1-188e-4d65-95f7-d1a4dacc6437
+:END:
+** At least some of the selfward choices available at any time can be.
+* entitlement
+:PROPERTIES:
+:ID:       8bfda5c9-c1d5-433d-ade1-7e2dad8a895d
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org#taking-something-for-granted-impedes-creativity][Taking something for granted makes creativity hard.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authenticity.org][authenticity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org][pride]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/greed.org][acquisitiveness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-awareness + self-consciousness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence.org][self-confidence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][self-control]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-consciousness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_criticism.org][self-criticism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org#self-modulation-badly-filed][self-modulation]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/self_criticism_jbb.org][self-criticism & jbb]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_harm.org][self-harm]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_improvement.org][self-improvement]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/self_improvement_jbb.org][self-improvement \\ personal]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/self_replicating_robots.org][self-replicating robots]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org][self-respect | independence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_sacrifice.org][self-sacrifice]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_abnegation.org][self-abnegation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_abnegation.org][self-abnegation | austerity | asceticism]]
+* self-construction
+:PROPERTIES:
+:ID:       b396cc04-93b1-4e9c-84df-03e997a3eda0
+:END:
+** Does self-talk {conjure, defend, obscure} the self?
+:PROPERTIES:
+:ID:       cf075eee-56aa-4861-a280-6b8fe648f4ce
+:END:
+   Maybe the words in my head tie me to my sense of myself.
+   They certainly tie me to *a* sense of myself.
+   The self that remains when I quiet those words,
+     might be one I know less well, and
+     might be a {more general, bigger, more empathetic} one.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#the-self][self-reconception]]
+* trans-raciality
+** "Blacker than most actually-black people."

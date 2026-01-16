@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ed2e83cd-85ed-408a-bc28-21c8d4272f68
+:END:
+#+title: respect
+* authority
+* reverence
+** Ask Claude: look up synonyms, search for them in my graph, put those here.
+:PROPERTIES:
+:ID:       58d0f444-0d8b-4e24-ad13-1d4980323366
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_more_general_takeaway_from_the_transgender_debate_would_seem_to_be_not_to_try_to_change_what_someone_wants.org][The more general takeaway from the transgender debate would seem to be not to try to change what someone wants.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/seriousness.org#respect--fear][respect ~ fear]]

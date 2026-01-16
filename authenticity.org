@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       18eb5d5a-d546-40f1-96f9-bb56bc11eea0
+:END:
+#+title: authenticity
+* = congruity between beliefs, wishes and actions
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org#you-dont-have-to-promise-more-than-you-offer][You don't have to promise more than you offer.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org][self-respect]]
+* Authenticity opposes conformity.
+:PROPERTIES:
+:ID:       7a8f0a9a-45c0-4624-a441-eeff41747607
+:ROAM_ALIASES: "Conformity opposes authenticity."
+:END:
+* neighbors
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intuition.org][intuition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-awareness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honor.org][honor]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honesty.org][honesty]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/realism.org][Realism]] helps it.
+* anti-values
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org#compromise][compromise]]
+* ?~ [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org#shyness][shyness]]

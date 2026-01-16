@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       73dcc71c-3277-445b-b6ec-05830e955dad
+:END:
+#+title: testing (computer science)
+* Writing the test first seems great for AI.
+:PROPERTIES:
+:ID:       d1b504e5-c775-40ab-a8d0-05c9548bc81a
+:END:
+  The few times I've tried it,
+  beginning the task by writing a failing test it can code against
+  caused it to code the solution surprisingly quickly.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tests_and_io_computer_programming.org][tests and IO (computer programming)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tests_and_state.org][tests and state]]

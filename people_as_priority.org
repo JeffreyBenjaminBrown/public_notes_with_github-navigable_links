@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fa615844-39a9-4f57-8758-4fea2dcdec31
+:END:
+#+title: people as priority
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_that_matters_is_how_we_make_each_other_feel.org][All that matters is how we make each other feel.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/workaholism_insecurity.org][workaholism & insecurity]]

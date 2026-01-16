@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       24fcf76a-fafa-4cb2-8312-43719f7aa207
+:ROAM_ALIASES: separation fission
+:END:
+#+title: separation | fission
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org#ritual-of-forgetting][ritual of forgetting]]
+* fission = becoming separated
+* across-person separation
+:PROPERTIES:
+:ID:       6ca119e0-3810-4b73-b9fe-a705001608fe
+  :ROAM_ALIASES: "social separation"
+:END:
+** magic
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sometimes_the_rhythm_is_to_marinate_in_someone_s_words.org][Sometimes the rhythm is to marinate in someone's words.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/we_say_we_re_ending_it_and_can_t.org][We say we're ending it and can't.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negotiation.org][negotiation]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/separation_fission_private.org][private && separation | fission]]
+* within-person separation
+** straddler of worlds
+*** immigrants
+*** working parents
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time.org#self-across-time][self across time]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/being_of_two_minds_about_it.org][being of two minds about something]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irratinoality_inconsistency.org][irrationality , inconsistency]]
+* tech
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/permit_two_users_views_of_a_topic_to_diverge_yet_still_share_diffs_involving_it.org][Permit two users' views of a topic to diverge, yet still share diffs involving it.]]

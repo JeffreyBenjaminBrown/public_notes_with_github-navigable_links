@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7c70d045-6b4f-4957-a524-cf4c63204c84
+:END:
+#+title: neurology
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/neurology_jbb.org][neurology \ jbb]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nita_farahany_says_scary_neurotech_is_here_and_more_is_around_the_corner.org][Nita Farahany says scary neurotech is here, and more is around the corner.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/is_vr_associated_with_bradilalia_asking_academics.org][Is VR associated with bradilalia? Asking academics.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_convenient_cognitive_tests.org][some convenient cognitive tests]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neurologically_seeing_resembles_constrained_dreaming.org][Neurologically, seeing resembles constrained dreaming.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/there_is_backprop_in_single_biological_neurons.org][There is backprop* in single biological neurons.]]

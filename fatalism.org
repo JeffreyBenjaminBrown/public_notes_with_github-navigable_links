@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f1a5c61e-6aa2-4a74-9113-2404c8d6f674
+:END:
+#+title: fatalism
+* definition(s)
+** a belief that something is inevitable
+** Commitment to an unsatisfying but not-worst strategy.
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trust.org#fate][fate]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negativity.org#nihilism--cynicism][nihilism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recognize_sunk_costs.org][Recognize sunk costs.]]
+* TODO ? merge [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org][despair]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#peace--realism][peace & realism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/idealism_fatalism.org][idealism ! fatalism]]
+* subjugation to destiny
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org#powerlessness---fatalism][powerlessness <-> fatalism]]
+* art, sport, video games
+  Fatalism does not define them,
+  but it encourages them.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org#rational-fatalist-forgiveness][rational fatalist forgiveness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org#rational-temporary-depression][rational temporary depression]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pleasure.org#hedonism--fatalism--evidence][hedonism ~ fatalism]]

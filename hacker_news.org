@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0c6b8080-1c83-460e-83d6-9ad584d12304
+:END:
+#+title: Hacker News
+news.ycombinator.com
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hackyournews_ai_summaries_of_the_top_hn_stories.org][HackYourNews - AI summaries of the top HN stories]]

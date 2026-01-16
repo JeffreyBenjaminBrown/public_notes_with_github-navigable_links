@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7dd67daf-1939-48eb-875a-fd68362f7c59
+:END:
+#+title: resilience
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/detachment.org][Detachment]] can help.
+* Framing can help.
+** e.g. [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence.org#rejection-is-succcess][Rejection is succcess.]]

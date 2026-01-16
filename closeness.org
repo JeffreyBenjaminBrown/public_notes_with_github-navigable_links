@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       7c1233c5-02e7-451e-9265-fe35fe97855c
+:ROAM_ALIASES: intimacy
+:END:
+#+title: closeness
+* recent, unintegrated
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/know_what_to_keep_private.org][Know what to keep private.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org][sharing]]
+* Share (more deeply) first and slowly.
+:PROPERTIES:
+:ID:       1f0f9d50-d7ec-4ced-862e-7a15d5b9aaa9
+:END:
+** example
+   start with mundane stuff, like vacation plans
+** shades of tit-for-tat
+   the economic strategy for the repeated prisoner's dilemma
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org#intimate-conflicts][intimate conflicts]]
+* is grounded in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][vulnerability]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trust.org][trust]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/privacy.org][privacy]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/what_feels_vulnerable_for_me_to_share.org][What feels vulnerable for me to share?]]
+* 36 questions for increasing closeness
+  These are famous.
+  https://ggia.berkeley.edu/practice/36_questions_for_increasing_closeness
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dependency.org][dependency]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confession.org][confession]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_things_take_courage_to_share.org][Some things take courage to share.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org#emotional-vulnerability-requires-courage][Emotional vulnerability requires courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/we_know_more_than_we_can_tell_tacit_knowledge.org][tacit knowledge]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intimacy_is_permissions.org][intimate permission]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety_v_surprise.org][safety v. surprise]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happiness.org][happiness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/choose_consciously_with_whom_to_speak_about_personal_things.org][Choose consciously with whom to speak about personal things.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intimacy_is_near_aloneness.org][Intimacy is near aloneness.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lessons_about_intimacy_are_funny.org][Lessons about intimacy are funny.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing_emotions_i_feel_vulnerable_about_is_intense.org][Sharing emotions I feel vulnerable about is intense.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/teasing.org][teasing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_an_app_had_to_take_off_in_our_minds.org][if an app had to take off in our minds]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/extreme_otherness.org][extreme otherness]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/intimacy_personal.org][intimacy & personal]]
+* One's sense of the absurd is personal.
+:PROPERTIES:
+:ID:       2d6d5616-2f98-4b5f-8999-382b5371514a
+:END:
+** = an intimate thing to reveal
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org#light-belligerence--comedy][light comedic belligerence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][restraint]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org#erotic-patience][erotic patience]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/theo_von_interviews_louis_ck_2025_october.org#i-might-have-gotten-their-permission-but-it-still-wasnt-okay]["I might have gotten their permission but it still wasn't okay."]]
+* I want someone to be with me in my thoughts and feelings.
+:PROPERTIES:
+:ID:       2915fdb9-d676-45f5-b19e-1db0e2b7af15
+:END:
+** And I want to want to return the favor.
+   not a typo
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/closeness_personal.org][& personal]]

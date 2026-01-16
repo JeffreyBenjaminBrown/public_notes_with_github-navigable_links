@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       b745d109-6d7f-4638-beab-97bd26c8a936
+:ROAM_ALIASES: awe wonder amazement
+:END:
+#+title: awe | wonder
+* extra ID
+:PROPERTIES:
+:ID:       792aec5d-797b-4ff7-bc48-ea814d22c4a1
+:END:
+* neighbors
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprise.org][surprise]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][fear]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/blindness.org][confusion]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#the-way-the-edge-of-knowing-feels][the way the edge of knowing feels]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beautiful_things.org][beauty]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sanctity_purity_innocence.org#another-id][holiness]]
+** the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sublime.org][sublime]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/far_out.org][far out]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/seriousness.org][seriousness]]
+** the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org][absurd]]
+* maybe see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org][art]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dissociation.org][dissociation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance.org][romance]]
+* A functional explanation of awe.
+** elaboration
+   It draws attention away from the self
+   and toward a complex reality
+     that it helps to understand.
+** Wikipedia says this story has the most empirical support
+   among the evolutionary theories of awe
+   <2025-10-21 Tue>
+* Awe seems to have good effects.
+** the quote
+*** wikipedia on awe, <2025-10-21 Tue>
+*** it
+    A more recent study found that experiencing awe increased perceptions of time and led to a greater willingness to donate time, but not to donate money.[20] The greater willingness to donate time appeared to be driven by decreased impatience after experiencing awe. Experiencing awe also led participants to report greater momentary life satisfaction and stronger preferences for experiential versus material goods (e.g. prefer a massage to a watch).[20] Awe, unlike most other positive emotions, has been shown to increase systematic processing, rather than heuristic processing, leading participants who experience awe to become less susceptible to weak arguments.[14]
+** it makes people more
+*** happy
+*** selfless
+*** patient
+*** present
+    more interested in experiences than material
+*** rational
+    less susceptible to weak arguments
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awe_inspiring_things_some.org][awe-inspiring things, some]]
+* awe and oceanity v. cognitive closure and concreteness
+  Wikipedia on awe, <2025-10-21 Tue>:
+  """ ... found that people who regularly experience awe ("awe-prone") have a lower need for cognitive closure and are more likely to describe themselves in oceanic (e.g. "I am an inhabitant of the planet Earth"), individuated, and universal terms, as opposed to more specific terms (e.g. "I have blonde hair")."""
+* mutual awe
+:PROPERTIES:
+:ID:       b0ee873b-f076-4c7e-a1e1-8aa03bdaee35
+:END:
+  I want to amaze, and to be amazed by others,
+    and to help them amaze themselves,
+    and to be so helped.

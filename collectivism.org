@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d4040ce4-85fd-4c3e-a059-3cef7162cd3f
+:END:
+#+title: collectivism
+* conformity
+:PROPERTIES:
+:ID:       cbe6ddfe-2a91-45aa-9090-849f0c92d672
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authenticity.org#authenticity-opposes-conformity][Authenticity opposes conformity.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collective_understanding.org][collective understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collective_action_and_spillover_when_fighting_inflation.org][collective action and spillover when fighting inflation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org][community]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/play_fun.org#some-is-collective-and-some-is-individualist][Some play is collective and some is individualist.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_s.org#collect-geographic-and-historical-viewpoints][Collect geographic viewpoints.]]

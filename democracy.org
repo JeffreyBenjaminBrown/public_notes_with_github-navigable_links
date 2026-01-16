@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       dbd8e69f-2a09-4edc-b52d-14be842a54de
+:ROAM_ALIASES: voting
+:END:
+#+title: democracy
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication_tech_for_voters.org][communication tech for voters]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/preregister_your_cabinet_heads_of_departments_etc.org][Preregister your cabinet, heads of departments, etc.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/there_is_a_synergy_between_ranked_choice_voting_and_nonpartisan_primaries.org][There is a synergy between ranked choice voting and nonpartisan primaries.]]

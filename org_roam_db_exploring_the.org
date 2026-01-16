@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       66a0b19d-a524-4ad0-b920-65fc701f78c4
+:END:
+#+title: exploring the org-roam db
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/schemas_of_the_org_roam_db_tables.org][schemas of the org-roam db tables]]
+* scratch work
+  (org-roam-db-query (sql-vector-to-get-parents)
+    ;; a file
+    "66a0b19d-a524-4ad0-b920-65fc701f78c4")
+  (org-roam-db-query (sql-vector-to-get-parents)
+    ;; child of an interior node
+    "e16a716d-7359-4c7b-b04e-026e73f8d54d")
+  (get-parents-as-sql "66a0b19d-a524-4ad0-b920-65fc701f78c4")
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scalar_and_list_placeholders_are_different_in_emacs_lisp.org][Scalar and list placeholders are different in Emacs Lisp.]]
+* discoveries
+  See [[https://github.com/JeffreyBenjaminBrown/stale_notes_with_github-navigable_links/blob/master/osc_gen_test_file_a.org][OGTF-a]] for the work.
+** In `nodes`, `pos`
+   is the first character of the line.
+** In `links`, `pos`
+   is the first character of the link.
+   It is relative to the file containing the link.
+** Headlines with IDs are not considered linked to from the containing file with an ID.
+   This makes sense -- it means `links` really tracks only links,
+   which you can jump like hypertext,
+   and not org-mode containment.
+** To get the real text of a node, including links, find the ITEM property in the `proerties` column of `nodes`.
+** Links anywhere in the subtree below a node call that node the source
+   but the `pos` is still relative to the file containing the node.
+* to view it
+** from Bash
+   evaluate `sqlite3 org-roam.db` in bash
+** from Emacs
+*** Evaluate my code at
+    ~/hodal/osc-gen/main.el
+*** then run a query like [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_db_exploring_the.org#some-queries][one of these]]
+* some queries
+:PROPERTIES:
+:ID:       14f2fdb7-25cd-4f69-abe6-c228d7f49ec7
+:END:
+** five things
+   (org-roam-db-query-to-buffer
+     [:select [id title file properties] :from nodes :limit 5])
+** view a non-title node, internal to a file
+      (org-roam-db-query-to-buffer
+	 [:select [id title file level pos todo priority scheduled deadline properties olp]
+          :from nodes
+	 :where (= id "e663a892-7596-49c4-8b2e-d9fd9efb6cb2")])
+** view a title node
+      (org-roam-db-query-to-buffer
+	 [:select [id title file level pos todo priority scheduled deadline properties olp]
+          :from nodes
+	 :where (= id "ef673990-4aa1-466f-ac5f-f0296b02e716")])
+** some links
+   (org-roam-db-query-to-buffer
+     [:select [pos source dest type properties]
+      :from links :limit 5])
+** some files
+   (org-roam-db-query-to-buffer
+     [:select [file title hash atime mtime]
+      :from files :limit 5])
+* PITFALL: some text fields strip links of their ids and brackets
+** the idea
+   If a headline's text includes a link, it is stripped of its id and brackets. At least in some cases (e.g. the `nodes` table) it can be recovered elsewhere.
+** example from `nodes` table
+   This appears in the `properties` field:
+   ((CATEGORY . health_personal_project)
+    (ID . e663a892-7596-49c4-8b2e-d9fd9efb6cb2)
+    (BLOCKED . )
+    (FILE . /home/jeff/org-roam/personal/health_personal_project.org)
+    (PRIORITY . B)
+    (ITEM . see [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/dra_mejive_majjul_neurologo.org][dermatologist]] about itchy spot on arm))
+   But that ITEM property appears to usually be absent -- because, I imagine, you can usually retrieve it from the title.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/schemas_of_the_org_roam_db_tables.org#schema-links][The `properties` field in the `links` table does this too.]]
+   And I'm not sure how to recover the links in that case.

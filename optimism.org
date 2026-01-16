@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       8d5c9418-f228-4595-b423-05acd9921b10
+:END:
+#+title: optimism
+* MERGE: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_s.org][hope]]
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gratitude.org][gratitude]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awe.org][awe | wonder]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/utopia.org][utopia , perfect experience]]
+* Can (should?) be informed by the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#truth--the-flavor-of-truth][flavor of truth]].
+** e.g. [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/animals.org#biodiversity][biodiversity]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/why_did_these_thoughts_not_even_occur_to_me.org][why did these thoughts not even occur to me]] , personal
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_optimism.org][comedy & optimism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imaginative_hope_is_funny.org][Creative hope is funny.]]
+* some optimistic art
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/masterful_chess_in_a_plane_some_can_t_even_see.org][Masterful chess in a plane some can't even see.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism_solution_transcendence.org][optimism + solution -> transcendence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/highly_disperse_positive_emotional_gambles.org][highly disperse positive emotional gambles]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/be_fascinated_by_lived_ethical_challenges.org][Be immediately fascinated by (lived) ethical challenges.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/walking_office_work_exercise_utopia.org][walking office work exercise utopia]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dance_private.org#imagine-a-like-minded-dance-partner][Imagine a like-minded dance partner.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org#humility-might-make-room-for-greater-optimism][Humility might make room for greater optimism.]]
+* Compartmentalize the bad. Think of the good in other contexts.
+:PROPERTIES:
+:ID:       39cf29f5-d7b2-415b-ace0-1b8f878df8df
+:END:
+  "Optimistic people compartmentalize helplessness, whereas pessimistic people assume that failure in one area of life means failure in life as a whole. Optimistic people also allow good events to brighten every area of their lives rather than just the particular area in which the event occurred."
+  Wikipedia on learned optimism, <2025-07-09 Wed>:
+    https://en.wikipedia.org/wiki/Learned_optimism
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/abundance.org][abundance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org#creative-optimism-can-help][It can facilitate compromise.]]
+* Imagine loving someone madly.
+:PROPERTIES:
+:ID:       b9516303-cc2b-4ec1-a8f4-5ef43601081f
+:END:
+* A smaller pool of better candidates can* be better**.
+:PROPERTIES:
+:ID:       a15e33ed-0d75-4995-ac1d-df9202a5ca9e
+:END:
+  clarifications
+** (*) can, will not necessarily
+** (**) be better than the bigger platform
+   e.g. LinkedIn, Tinder
+** as one sentence
+   Even if, as a statistic, my positive response rate is lower in the better pool, I might still that way waste less time than on a bigger platform.

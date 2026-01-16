@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       493cafdc-71f1-4205-81ba-1f2e9b911f0c
+:ROAM_ALIASES: "hidden text & text properties in Emacs" "Emacs / hidden text & text properties" "read-only , hidden text , text properties \ in Emacs"
+:END:
+#+title: text properties , read-only , hidden text \ in Emacs
+* TODO [[:id:5aada471-bf64-4e6e-911d-292c4a7eb77c][try invisible characters \ Hode -- broken link?]]
+* refs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/i_coded_a_useful_demo_of_hidden_text_in_emacs.org][I coded a useful demo of hidden text in Emacs.]]
+** examining text properties
+:PROPERTIES:
+:ID:       f73009cb-b872-49a3-a397-1b109a613bcc
+:END:
+   https://www.gnu.org/software/emacs/manual/html_node/elisp/Examining-Properties.html
+*** PITFALL: Some functions that should be here are [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#search-based-on-text-properties][here]] instead.
+** changing text properties
+:PROPERTIES:
+:ID:       4e5aa8bf-566b-4f85-b561-cf0304c816ae
+:END:
+   https://www.gnu.org/software/emacs/manual/html_node/elisp/Changing-Properties.html
+** search based on text properties
+:PROPERTIES:
+:ID:       1df09291-386b-4cf9-bf4d-68768d2b31a2
+:END:
+   https://www.gnu.org/software/emacs/manual/html_node/elisp/Property-Search.html
+* read-only
+** make a region read-only
+   (put-text-property start end 'read-only t))
+** PITFALL: Can make it impossible to append characters.
+   If the last character of the line is read-only,
+   the only way to append text is from the next line.
+   If that next line also begins read-only,
+   or does not exist, there's no way.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/demo_a_playground_for_hidden_characters_in_emacs.org][demo : hidden character playground in Emacs]]
+* assignment
+  docs: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#changing-text-properties][changing text properties]]
+** put-text-property start end prop value
+   Clobbers any earlier value under prop.
+** add-text-properties start end props
+   Clobbers any earlier values under those props, but not others.
+** remove-text-properties start end props
+   PITFALL: The props argument is weird. See docs.
+** remove-list-of-text-properties start end list-of-properties
+** set-text-properties start end props
+   completely replaces the property list
+** propertize string &rest properties
+   returns a copy of string
+   with the text properties properties added.
+* examining properties
+** PITfALL: refs are mixed up
+   Some things that ought to be in "examining" are in "search'.
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#examining-text-properties][examining text properties]]
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#search-based-on-text-properties][search based on text properties]]
+** examine a character
+*** get-text-property
+    Gets the property at a character.
+*** text-properties-at
+    the entire property list of the character
+** test a range of text
+   these are in the wrong place: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/text_properties_hidden_text.org#search-based-on-text-properties][search based on text properties]]
+*** text-property-any start end prop value
+    returns non-nil if at least one character between start and end has a property prop whose value is value
+*** text-property-not-all start end prop value
+    returns non-nil if at least one character between start and end does not have a property prop with value value
+** default-text-properties
+** object-intervals
+   I don't understand but maybe useful.
+   https://www.gnu.org/software/emacs/manual/html_node/elisp/Examining-Properties.html
+* searching for properties
+** "These functions do not move point"
+   "instead, they return a position" ... "between two characters with different properties"
+** search for *any* kind of change
+*** next-property-change pos
+    scans the text forward from position pos in the string or buffer object until it finds a change in *any* text property
+    "returns the position of the first character beyond pos whose properties are not identical to ..."
+*** previous-property-change pos
+** search for a change in a specific property
+*** next-single-property-change pos prop
+*** previous-single-property-change pos prop
+** search for a *range* of text
+*** text-property-search-forward prop &optional value predicate not-current
+    Search for the next region of text whose property prop is a match for value (which defaults to nil), according to predicate.
+*** text-property-search-backward
+    similar to -forward

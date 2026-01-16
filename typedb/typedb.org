@@ -1,0 +1,117 @@
+:PROPERTIES:
+:ID:       46d56f38-e6a8-43aa-8c74-efccddfb0770
+:ROAM_ALIASES: "Vaticle makes TypeDB"
+:END:
+#+title: TypeDB
+* refs
+** language guide
+   https://typedb.com/docs/typeql-reference/
+** gallery
+   https://typedb.com/features
+** TypeQL challenges
+*** https://typedb.com/blog/advent-of-typeql-day-1
+** TypeDB podcast
+*** https://m.youtube.com/watch?v=2YUUPm_O3mU
+* to run an interactive session
+  typedb console \
+    --address http://localhost:1729 \
+    --username admin \
+    --password password \
+    --tls-disabled
+* TODO ask TypeDB forum
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_this_how_i_should_write_cardinality_constraints_on_roles.org][Is this how I should write cardinality constraints on roles?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb_via_rust.org][TypeDB via Rust]]
+* TODO RESUME | unread
+** reviewing my notes
+*** already reviewed and ordered
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org][TypeDB model and language]]
+** reading the Python docs at the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_python_client.org#navigating-responses][responses section of the API reference]]
+** reading the TypeQL docs at "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#advanced-patterns--queries][Advanced Patterns & Queries]]"
+   (I'm already done with the TypeDB docs.)
+* TODO grok : data model ideas I didn't understand
+  values, concepts, fetch v. get, more
+  https://forum.typedb.com/t/how-to-get-the-unique-identifier-of-a-thing-in-the-graph/554/8
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/contribute_a_topological_sort_on_partially_ordered_relations_to_typedb.org][Contribute a topological sort on partially ordered relations to TypeDB]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/build_hash_for_typedb.org][build Hash for TypeDB]]
+* TODO build [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_with_typedb_and_emacs.org][Hode in TypeDB and Emacs]]
+* refs
+** getting started
+*** TypeDB Core, installing and launching
+    https://typedb.com/docs/typedb/2.x/installation.html
+*** client, installing a
+    https://typedb.com/docs/clients/2.x/clients
+** TypeDB
+   https://typedb.com/docs/typedb/2.x/overview.html
+** TypeQL
+   https://typedb.com/docs/typeql/2.x/overview
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#the-full-typeql-grammar-1][the full TypeQL grammar]]
+** Console
+:PROPERTIES:
+:ID:       c091cef4-e8d0-4880-96a5-6239c7e07604
+:END:
+   https://typedb.com/docs/manual/console
+* PITFALLs
+** Docs use "query" to mean more than read ops.
+** "fetch" and "get" do different things!
+   I don't understand the difference, but here are examples:
+
+     tx.query.get (
+       "match $n isa note; get $n;" )
+     tx.query.fetch (
+       "match $p isa person; fetch $p: name;")
+** The official Docker image is too old for the Python driver.
+   That is, the most recent Python it makes available (via apt)
+   is one for which no TypeDB Python driver exists.
+   I solved this by building a new Docker image,
+   using Ubuntu, that installs TypeDB via apt.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/getting_started_typedb.org][running it]] | getting started
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org][model and language]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_python_client.org][Python client]]
+* some [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/solutions_in_typedb_some.org][solutions in TypeDB]]
+* TODO experiments to run
+** DONE Roles are inherited.
+   That is, I don't have to define that a type can play a role,
+   if I already stated that its parent can.
+** DONE If you delete an entity, the relationships it was in persist!
+   with holes
+** DONE Attributes are not unique per owner!
+   This suggests they aren't:
+   "A person can have more than one attribute of type full-name. Every instance of attribute will get to the results."
+   https://typedb.com/docs/typedb/2.x/development/best
+** Try [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#they-can-in-turn-define-more-variables][defining new variables]] in a constraint on an earlier variable.
+** Try [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#types-can-be-extended][defining (schema) a standalone]] ownership or role membership.
+   after having defined the relevant types.
+*** then try a standalone data insertion of ownership or role membership
+** Is the optional [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#todo--meaning-of--regex-regex-expression-in-grammar][regex]] part of an attribute definition a constraint?
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_python_client.org#todo-experiments][Python client experiments]]
+** try writing an Emacs client
+* TODO questions
+** How to enforce attribute uniqueness (various kinds)?
+*** global attribute uniqueness
+    The attribute might uniquely ID its owner.
+*** within-type (and subtypes) attribute uniqueness
+*** within-entity attribute uniqueness
+*** within-type relationship uniqueness defined by members
+    rather than members *and* attributes
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#todo-do-rules-change-the-data][Do rules change the data?]]
+** DONE meh
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_model_and_language.org#todo-can-a-user-define-their-own-types][Can a user define their own types?]]
+* TODO report errors and maybe-errors in docs
+** Unfinished sentence: "The first instance og the"
+*** where
+    https://typedb.com/docs/typedb/2.x/fundamentals/patterns
+*** the quote
+    Then the match clause returns all matched combinations, including all permutations: 20 results in total. The first instance og the
+    [and then a new section titled "Variables" begins)
+** Should the "or" clause in the image at the link end in a semicolon?
+   https://typedb.com/docs/typedb/2.x/fundamentals/patterns#_complex_example
+** The syntax laid out for undefining rules makes it appear that the "sub" clause is mandatory, but it is not.
+:PROPERTIES:
+:ID:       149fcd59-17f1-4b4d-9f3b-18f8cb66e406
+:END:
+   https://typedb.com/docs/typedb/2.x/development/schema
+*** For instance, the following undefine query, with no "sub" clause, is valid according to that page.
+    undefine
+
+    item owns tag;
+** The TypeQL docs are almost entirely redundant to the TypeDB docs.

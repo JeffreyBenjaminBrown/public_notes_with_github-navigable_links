@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       f9e983fa-e5f4-4861-9ad3-7fffd016b4f8
+:END:
+#+title: Evolution's Rainbow (book) by Joan Roughgarden
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance.org#finding-the-best-v-finding-the-best-match]["finding the best" v. "finding the best match"]]
+** I read it here first.
+:PROPERTIES:
+:ID:       948a2441-846a-4203-83ae-ccff4f08bb37
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sex.org#diversity-is-a-purpose-of-sex-and-purity-is-not][Diversity is a purpose of sex, and purity is not.]]
+* violence
+** all ? male lions
+*** Male lions form coalitions to possess a harem of females for a few years, until another gang evicts them.
+**** A new coalition will kill up to a quarter of the cubs, to bring the females into mating condition.
+** (all males of?) some monkey (species?)
+*** In some monkeys and apes the males are horrible to the females, beating females who mate with other males. But some apes and monkeys are very different.
+    I believe I meant whole species when I wrote that.
+* group parenting
+** Some species of birds parent in groups sized from 2 to 8 parents, evenly divided by sex.
+* reversed male-female behavior
+** In pipefish they reverse in many senses.
+   In pipefish the "operational sex ratio" is reversed, because male's are busy caring for the (unhatched?) young and females produce more eggs than males can keep up with. In those species the females are bigger, more colorful, polyandrous (keeping "harems" of males) and compete (violently?) with each other.
+** male pregnancy
+*** Some males (in the ocean) carry the eggs in their cheeks.
+*** In seahorses the female deposits embryos into the male's sac, where they are kept in a regulated environment until birth. The male's become pregnant.
+*** In some species, females deposit eggs in the male's pouch, where they hatch later.
+* fusion
+** Anglerfish: a tiny male, or sometimes several, fuse permanently with the large female.
+* gender fluidity
+** A Chinese species of Ginger switches gender twice a day.
+** In some species, sex is determined by the temperature in which the eggs are raised.

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       c1bce8f8-db3d-4fb7-b8ee-5508ef638bb7
+:END:
+#+title: Michigan Office of the Great Seal
+Is part of the Secretary of State's office.
+* Involved in the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apostille_process.org][apostille process]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/michigan_office_of_the_great_seal.org#from-the-locations-and-hours-page][This phone number worked well]].
+* top of the OGS website
+This is a sub-domain of the SOS website.
+https://www.michigan.gov/sos/0,4670,7-127-1633_95527_95528---,00.html
+* the SOS apostille order form
+https://www.michigan.gov/documents/sos/OGS_AUTHENTICATION_REQUEST_FORM_654334_7.pdf
+* location, hours and some contact info
+https://www.michigan.gov/sos/0,4670,7-127-1633_95527_95528-21230--,00.html
+* contact info
+** from the Locations and Hours page
+:PROPERTIES:
+:ID:       e20f25f5-a63f-4987-9869-cf70c29934ec
+:END:
+*** This phone number worked great!
+Was very innformed, answered all my questions fast.
+517-241-1832
+*** main office phone: 888-767-6424 (SOS-MICH)
+*** main (only?) email: mdos-notary@michigan.gov
+** the Document Authentication page offers a separate phone number
+which I haven't tried.
+517-335-8656

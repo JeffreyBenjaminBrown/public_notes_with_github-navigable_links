@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3570b8e0-1c1b-482c-bbb1-18c0151e2e4f
+:END:
+#+title: political science
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ubi.org][UBI]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/leftist_politics_have_tended_to_be_dominant_but_the_definition_of_left_has_varied.org][Leftist politics have tended to be dominant but the definition of "left" has varied.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lenin_and_mussolini_were_both_newspaper_editors_before_being_sictators.org][Lenin and Mussolini were both newspaper editors before being sictators.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/political_economy.org][political economy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/charter_cities_in_vr.org][charter cities in VR]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/crazy_things_nations_have_done.org][crazy things nations have done]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nationalism_xenophobia.org][nationalism & xenophobia]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authoritarianism.org][authoritarianism]]
+* popular political debates
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transgender.org][transgender]]
+* governance
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/civil_service_reform_in_the_us.org][Civil Service reform in the US]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/parliamentary_government.org][parliamentary government]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/head_of_state_vs_head_of_government.org][head of state vs. head of government]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/democracy.org][democracy]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/public_influence.org][public influence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irratinoality_inconsistency.org#politics-are-irrational][Politics are irrational.]]
+* centrism
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rates_of_support_for_political_violence_on_the_left_and_the_right_are_equally_low_acts_of_it_come_more_from_the_right_than_the_left.org][Rates of support for political violence on the left and the right are equally low.]]

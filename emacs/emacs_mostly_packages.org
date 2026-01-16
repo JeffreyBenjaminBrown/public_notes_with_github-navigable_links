@@ -1,0 +1,124 @@
+:PROPERTIES:
+:ID:       5dd27b65-8dba-4c85-82f2-fad3464b3462
+:ROAM_ALIASES: Emacs
+:END:
+#+title: Emacs (programamble text editor)
+* TODO bugs I've run into
+** TODO collect here
+** strategies
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/run_emacs_under_gdb.org][run Emacs under GDB]]
+* PITFALL: Variable names in a function carry into a function it calls, if that called function has no definition to mask the name.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/randomize_the_order_of_some_org_branches_how_to.org][randomize the order of some org branches, how to]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/run_emacs_under_gdb.org][run Emacs under GDB]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chatgpt_says_i_can_use_avy_to_jump_to_the_start_of_words.org][ChatGPT says I can use 'avy' to jump to the start of words.]]
+* Emacs FFIs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consider_using_a_rest_api_rather_than_an_ffi_in_emacs.org][Consider using a REST API rather than an FFI in Emacs.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs_ffi_to_cpp.org][Emacs FFI to C++]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_emacs_ffi_to_c_is_cumbersome.org][The Emacs FFI to C is very inconvenient.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/haskell_emacs.org][haskell-emacs]] has bit-rotted.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/registers_and_bookmarks_in_emacs.org][registers and bookmarks in emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/making_big_programs_in_emacs.org][making big programs in Emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/outline_mode_for_emacs.org][outline-mode for Emacs]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/broken_cannot_rebind_c_c_tab_in_outline_minor_mode.org][BROKEN: Cannot rebind `C-c @ TAB` in outline-minor-mode]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitfalls_in_python.org#sometimes-python-mode-cant-handle-triple-quotes][PITFALL: Currently (<2022-07-06 Wed>) Python mode can't handle triple quotes. Don't use them for a while.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/sexp_and_list_commands_in_emacs.org][sexp and list commands in Emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/erlang_programming_language.org#erlang-and-emacs][Erlang and Emacs]]
+* some big single-page manuals
+  https://www.emacsdocs.org/
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/regex_in_emacs.org][regex in Emacs]]
+* TODO There are [[https://github.com/JeffreyBenjaminBrown/stale_notes_with_github-navigable_links/blob/master/emacs_switch_major_modes_without_losing_folding_information.org][cool tricks buried here]].
+* TODO ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org-drill-does-spaced-repetition.org][org-drill does spaced repetition]]
+* TODO ? orderless in Emacs
+:PROPERTIES:
+:ID:       2ff6f8b0-1089-468f-bb3b-86646342fb73
+:END:
+  https://github.com/oantolin/orderless
+* TODO Emacs: how to override elpy's C-c C-d?
+(require 'org) ;; so that the next line knows what org-mode-map is
+(eval-after-load 'org
+  (progn
+    (define-key org-mode-map (kbd "C-c C-d")
+      ;; disable because it conflicts with my assignment for smart-hungry-delete-forward-char
+      nil)))
+(require 'elpy)
+(eval-after-load 'python
+  (progn
+    (define-key elpy-mode-map (kbd "C-c C-d")
+      ;; disable because it conflicts with my assignment for smart-hungry-delete-forward-char
+      nil)))
+* TODO do I want org-roam to work with company? helm? both?
+:PROPERTIES:
+:ID:       80c451e8-da34-4d5f-8483-f3e3b56ff16b
+:END:
+* PIFALL: might need (require '<package name>) when first installinga
+  Evaluating that may have allowed me to get some packages working that otherwise weren't. But later I was able to run them without having that expression in my .emacs file.
+* TODO ask about | look for
+** next/previous non-whitespace
+** something to show brackets, parens, etc. in another color?
+** I would like the highlight to remain after changing the indentation of a lot of adjacent bullets, so that I can do it again.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/emacs_packages.org][Emacs packages]]
+* remember, commands
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/find_grep_emacs_command.org][find-grep (Emacs command)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/special_characters_in_emacs.org][special characters in Emacs]]
+   tag ñíáéóú tilde circumflex Spanish
+** Alt-(up / down) : make two paragraphs trade places in Emacs
+   similar to org-mode with bullets
+** M-m: first non-whitespace char in line
+** C-c C-(f/b): org next/previous same level
+** Up, down and search work in the minibuffer after M-x.
+* solutions
+** another view of the same buffer : "indirect buffer"
+   Has a separate point, separate markers, etc. but same text.
+** to disable blinking cursor
+   (setq visible-cursor nil) ;; Dumb name! It just stops blinking.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/emacs_help.org][Emacs / help]]
+** to jump between lines fast
+*** not a great solution : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/key_leap_emacs_minor_mode.org][key-leap (Emacs minor mode)]]
+    Slow, too hard to read.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/insert_a_column_of_increasing_numbers_in_emacs.org][insert a column of increasing numbers in Emacs]]
+** to insert (write) date, and maybe time, at point
+:PROPERTIES:
+:ID:       76f955ac-1f33-4b6b-bedb-e85852a486b9
+:END:
+*** it'll probably take a little editing, given my preferences
+*** the commands
+	C-c .              ;; writes date
+	M-x org-time-stamp ;; writes date
+    C-u C-c .              ;; writes date and time
+    C-u M-x org-time-stamp ;; writes date and time
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/grepping_folders_in_emacs.org][grepping folders in Emacs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/programmatically_hide_lines_from_a_file_in_emacs.org][hide lines programmatically from a file in Emacs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/python_programming.org#to-tagbuild-a-tags-file-python-code-for-use-in-emacs][to tag(build a tags file) python code for use in emacs]]
+** wrap lines at word boundaries
+   M-x visual-line-mode
+** run Emacs in terminal, without opening an X window
+:PROPERTIES:
+:ID:       8402b50d-74ca-4279-b4d6-dde1cebdae65
+:END:
+   emacs -nw
+   emacs -nw --no-init-file
+** run Emacs without using an init file
+   emacs --no-init-file
+** test major mode
+*** PITFALL: It might be better to define the keymap.
+**** why
+     Rather than writing a function that tests the major mode
+     and only works if it's equal to some value,
+     I can define that function globally,
+     and define a keyboard shortcut for it in that major mode.
+**** how
+     (define-key org-mode-map (kbd "C-c C-o") 'jbb-org-open-at-point)
+*** define a function that does nothing outside of some major mode
+    (defun jbb-org-open-at-point ()
+      (interactive)
+      (if ;; Here's the test
+          (equal "org-mode" (symbol-name major-mode))
+          (progn (call-interactively 'org-open-at-point)
+   	      (delete-other-windows))
+	(message ("jbb-org-open-at-point does nothing outside of org-mode."))
+    ))
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/rectangles_in_emacs.org][rectangles in Emacs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/switching_buffers_in_emacs.org][switching buffers in Emacs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/yasnippet_hide_lines_my_hack_for_emacs_tidalcycles.org][yasnippet + hide-lines, my hack for Emacs & TidalCycles]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_find_a_file_recursively_via_regex_in_emacs.org][find (recursively) a filename via regex]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/minor_life_optimizations.org#emacs-on-android][Emacs on Android]]

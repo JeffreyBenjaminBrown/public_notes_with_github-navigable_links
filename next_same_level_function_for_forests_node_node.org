@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       1c84728d-cc81-4749-a538-5c71875b6345
+:END:
+#+title: next-bfs function for forests : node -> node
+* the algorithm, from the bottom up
+  If the node has a next sibling, that one.
+  Otherwise if there is a
+    parent with a
+    next sibling with a
+    child, return the first such child.
+  Else if there is a
+    grandparent with a
+    next sibling with a
+    child with a
+    child, the first such grandchild.
+  Etc. until exhausting the forest.
+  If no such node is found,
+    then go to the first node at the next depth,
+    starting from the root and traversing each first child.
+* the algorithm, from the top down
+  It's probably easiest to do this on a forest
+  by making each root a child of the same parent.
+  This way there's no need to distinguish 'next sibling'
+  from 'next root'.

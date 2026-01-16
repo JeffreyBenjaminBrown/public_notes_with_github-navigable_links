@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5357b637-c959-455f-b171-429390edbc04
+:ROAM_ALIASES: conflict struggle
+:END:
+#+title: conflict | struggle
+* the difference
+  Struggle need involve only one agent
+  (v. the environment),
+  whereas conflict needs two.
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/defense.org][defense]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tensions.org][tension]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd_struggle.org][absurd & conflict​]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honor.org][honor]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/assertiveness.org#the-good-kind-is-moved-by-circumstance-not-sought][Good assertiveness is moved by circumstance, not sought.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathize_before_confronting.org][Empathize before (and while!) confronting.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authoritarianism.org#alternative-id][fascism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/skepticism.org][skepticism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/judgment_taste.org#emptiness--acceptance--better-attention][emptiness + acceptance => better attention]]
+  Put your burden down.
+* fantasy
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_philosophy_defeated_the_patriarchy_in_everyone_s_mind.org][if philosophy battled the patriarchy , in everyone's mind]]

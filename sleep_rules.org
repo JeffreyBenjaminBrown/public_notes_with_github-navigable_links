@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d46951af-774d-4083-9a52-4096ba605010
+:ROAM_ALIASES: "sleep hygiene"
+:END:
+#+title: sleep rules
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/calming_music_helps_me_prepare_to_sleep.org][Calming music helps me prepare to sleep.]]
+* end the day calm
+** It's smart to end the day socially.
+   Ending it with any kind of work -- personal coding, even music -- makes my mind hyper and reluctant to sleep.
+** Music, exercise, work -- late, they're all bad.
+* caffeine won't let me sleep (deeply) for 15 hours
+  at least if I take a 90 minute nap
+* eat immediately in morning
+* get up once the sun's up and my last sleep cycle was short
+* sleep no more than 9 hours in the day
+* do not start a nap after 4 pm
+* Matcha keeps me from sleeping.
+:PROPERTIES:
+:ID:       ef04b320-be97-4d34-95df-89855fed298e
+:END:
+  Even a tiny amount, a teaspoon,
+  seems to stick in my system forever.
+  The last time it imposed at least a 3 hour delay.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3ecf152a-e06e-465e-9c51-7bbddeaf07f4
+:ROAM_ALIASES: "Colombian NGOs"
+:END:
+#+title: Colombia's state-adjacent entities
+* PITFALL: Some, but maybe not all, of these are NGOs.
+* [[https://github.com/JeffreyBenjaminBrown/knowledge_graph_with_github-navigable_links/blob/master/colifri.org][Colifri]]
+* [[https://github.com/JeffreyBenjaminBrown/knowledge_graph_with_github-navigable_links/blob/master/fedesarrollo.org][Fedesarrollo]]
