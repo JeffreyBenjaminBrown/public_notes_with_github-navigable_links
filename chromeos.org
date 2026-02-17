@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b0b7e71e-eca8-4968-b87c-7fb2e07eb313
+:END:
+#+title: ChromeOS
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/jailbreaking_a_chromebook.org][jailbreaking a Chromebook]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chromium_operating_system.org][Chromium (operating system)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/usb_booting_my_dell_chromebook_3120.org][USB-booting my Dell Chromebook 3120]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_the_shell_in_chromeos.org][using the shell in ChromeOS]]
+* to increase magnification \ ChromeOS
+  alternatives
+** C-M-< Brightness up>
+** C-M-<2-finger scroll>
+** press Ctrl + Alt, then scroll with 2 fingers up on the touchpad.

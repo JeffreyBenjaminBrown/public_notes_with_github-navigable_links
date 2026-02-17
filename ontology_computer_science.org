@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       97a9d5f6-feae-4d02-8800-41f36dd5f2b8
+:END:
+#+title: ontology (computer science)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_resources_for_learning_about_how_to_create_an_ontology.org][some resources for learning about how to create an ontology]]

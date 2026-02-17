@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d15721e0-23be-484c-a1a2-0719eec04baf
+:ROAM_ALIASES: muebles
+:END:
+#+title: furniture
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/moderatto_home_furniture_store_in_bogota.org][Moderatto Home (furniture store in Bogotá)]]

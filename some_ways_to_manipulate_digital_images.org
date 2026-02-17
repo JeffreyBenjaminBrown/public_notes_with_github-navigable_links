@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       b5d11fbe-75dc-4c31-8d0d-c44689328ff1
+:END:
+#+title: some ways to manipulate digital images
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitfalls_when_converting_pdfs.org][PITFALLS when converting (to or from) PDFs]]
+* shear a rectangular grid to fit the Lumatone hex layout
+:PROPERTIES:
+:ID:       68b3f341-f369-4b6f-841a-b77c37715a86
+:END:
+** the math, the right way, I think
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_transform_a_rectangular_grid_to_a_hexagonal_one.org][to transform a rectangular grid to a hexagonal one]]
+** my algorithm
+*** start like this
+    a=0.3 # controls the angle of rotation
+    convert affine.png -affine 1,-$a,$a,1,0,0 -transform out.png
+*** adjust the diagonal
+    to stretch in either dimension as necessary,
+    in order to get what look like equilateral triangles
+    from what is rectangles in the input
+*** adjust the angle
+*** repeat until happy
+** earlier, not so useful now
+*** the algorithm, I think
+**** Start from the identity
+     convert affine.png -affine 1, 0, 0, 1, 0, 0 -transform out.png
+				sx rx ry sy tx ty
+**** first scale
+     play with sx until the grid is hexagons
+**** then rotate
+     Computed R*S, where S is the scaling matrix,
+     and R is the rotation matrix:
+     [ cos t, -sin t ]
+     [ sin t,  cos t ]
+*** snippets
+    serial, newest on top
+**** trying yet again, <2023-02-20 Mon>
+     convert affine.png -affine 1.0,-0.37,-0.3,1,0,0 -transform out.png
+**** seems to work better now?
+     convert affine.png -affine 1.,-0.3,-0.3,1,0,0 -transform out.png
+**** seemed to work once
+     convert affine.png -affine 1.5,-0.38,-0.3,1,0,0 -transform out.png
+** The 6 parameters to the -affine option
+   are these:
+     sx,rx,ry,sy,tx,ty
+
+  What they mean:
+                                          | sx  rx  0 |
+        | x', y', 1 |  =  | x, y, 1 |  *  | ry  sy  0 |
+                                          | tx  ty  1 |
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/crop_an_image_in_imagemagick.org][crop an image in ImageMagick]]
+* how to draw sloppy lines on an image
+** use GIMP
+   Open it in GIMP.
+   Choose the pencil/lapiz tool.
+   Zoom in via the app (not via KDE).
+   Draw with my finger on the HP touchscreen.
+    It's far more precise than the mouse.
+** Edit it in Whatsapp
+* how to format a headshot for a Colombian visa
+:PROPERTIES:
+:ID:       53bb194e-7b52-48ad-91a8-1621010c4462
+:END:
+  Use the Passport Photo Editor app.
+* how to downsample a jpeg
+  First check its dimensions with `file`.
+  Then choose new dimensions, and run
+  `magick convert input.jpg -resize 600x400\> output.jpg`
+#+BEGIN_SRC bash
+for i in *.jpg; do
+  magick convert $i -resize 1020x765\> $i.small.jpg
+done
+#+END_SRC
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_concatenate_mixed_format_images_into_a_pdf.org][how to concatenate mixed-format images into a pdf]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/downsample_images_and_pdfs_with_ghostscript.org][downsample images and pdfs with ghostscript]]
+* how to find the dimensions of a pic
+Run "file", look for "height" and "width".
+
+bash$ file contract-1.jpg
+contract-1.jpg: JPEG image data, Exif standard: [TIFF image data, big-endian, direntries=13, height=4032, bps=0, manufacturer=HUAWEI, model=TRT-L53, xresolution=186, yresolution=194, resolutionunit=2, software=TRT-L53C469B196, datetime=2020:08:13 15:56:05, GPS-Data, width=3016], baseline, precision 8, 3016x4032, components 3
+* imagemagick can do [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linear_algebra.org#affine-transformations][affine transformations]], e.g. "shear"
+  https://legacy.imagemagick.org/Usage/distorts/affine/#affine_shear
+** tags: matrix, linear, stretch

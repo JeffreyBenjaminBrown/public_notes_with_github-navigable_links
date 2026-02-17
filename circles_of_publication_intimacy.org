@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       87573557-33fa-4aae-93e9-7f99ffb5c9ed
+:END:
+#+title: circles of publication intimacy
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intimacy_is_permissions.org][Intimacy is permissions.]]
+* How your writings reach who ought to be under your control.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/circles_of_publication_intimacy_could_protect_people_from_cancellation.org][These could protect people from cancellation.]]

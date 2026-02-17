@@ -1,0 +1,184 @@
+:PROPERTIES:
+:ID:       4bf53fb8-abb2-4bd2-9b56-d2374fbb931d
+:END:
+#+title: skg // sharing & privacy
+* some kinds of *Col should be necessarily indef, others nec'y def.
+** subscribeeCol : def
+** subscribersCol : indefinitive
+   The relationship is, rather, edited from the other member.
+** overridesCol : def
+** overriddenCol : indef
+** aliasCol : def
+** IDCol : indef
+* TODO viewing and editing the data
+** indicate if 'unjudged subscribed content' exists
+   This is the condition under which a subscribee (shown as such)
+   would have visible content. To judge subscribed-to content
+   is to either hide it or move it to one's own graph --
+   maybe to the corresponding subscriber, but not necessarily.
+** trees : 'sharing view'
+*** shows up to 4 'sharing view branches'
+**** what it subscribes to
+     Divide the content of each subscribed-to node into.
+     This branch has the only fully recursive content view.
+***** unintegrated content
+      These are content of the subscribed-to node
+      that have not been incorporated into the user's view.
+      They are only visible to the user here
+      (or, if multiply contained,
+      from other nodes not belonging to the user).
+***** hidden content
+      divide the hidden content of each subscribed-to node int
+****** content visible elsewhere
+       The subscribing node does not contain it,
+       but some other node of the user's does.
+****** buried content
+       This content is still visible,
+       but only from the subscribed-to node.
+**** what subscribes to it
+     Don't begin with each one's content;
+     let the user request such expansions.
+**** what it hides
+     Body warning : "Probably no reason to manipulate these manually."
+**** what it is hidden from
+*** two of those are 'read-only' and optional
+**** namely, 'what subscribes to it' and 'what it is hidden from'
+**** They can be edited in the view, but to no effect on saving.
+     Saving should restore them.
+     The way to change those is to change,
+     respectively, the subscriber or the hider.
+**** They need not be included in the sharing view if empty.
+     But the other two must be displayed even if they are empty,
+     to permit manual editing.
+*** edits to the writeable branches are maximally simple
+    If either branch has a node added or deleted,
+    then that single relationship is added or deleted.
+    This will change the view on re-render,
+    but has no other implications for the graph.
+**** possibly-surprising implications
+     Because the subscriber's content and hidden are not changed,
+       anything newly subscribe to this way
+         is shown entirely as 'unincoroporated content',
+       and it continues
+         (todo ? is this useful? if not, it's space-inefficient)
+         to hide any node H it no longer has a reason to hide
+         because H is not contained in any of its subscriptions
+* move nodes across repos : directly edit the metadata
+  If the definitive node has a different source upon saving,
+  and it was local to begin with, both repos are updated.
+  If it was not local to begin with, the save is not allowed.
+* two kinds of edits create hide relationships
+** in brief
+   Delete from your lens, or delete from the subscribee.
+** elaboration
+*** suppose
+**** F is a foreign node
+**** L is a local overriding subscriber to F
+*** one way : delete H from the local overriding subscriber
+    If L and F both contain H,
+    then deleting H from L creates an 'L hides H' relationship.
+*** another : delete H from the unintegrated branch of a subscription branch
+**** the mechanics
+     If F contains C and L neither contains nor hides C,
+     then deleting C from
+       the unintegrated branch of L's subscription-view of F
+     creates an 'L hides C' relationship.
+**** PITFALL: moving v. deleting
+     No distinction is made between
+       deleting something from
+       and moving it out of
+     the subscription view.
+     Copying it elsewhere while deleting it is up to the user.
+     Moving it from the unintegrated branch
+               to the hidden branch
+       of the subscription
+       has the same effect, in the graph and visually,
+         as deleting it from the unintegrated branch,
+         except that its position in 'unintegrated' might differ.
+* directly edit subscribes and overrides relationships
+  Same as aliases.
+  No need for either to always imply the other,
+  but it does seem natural for an overrider
+  to subscribe to what it overrides.
+* edit foreign node
+  = quietly create overriding subscriber
+** wrote later, de novo, short
+   should do these
+*** create a skgnode for the viewnode
+    with a new ID, the contents the user saved,
+    a subscription to the edited foreign node,
+    and an overrides of the edited foreign node.
+** wrote earlier, longer
+*** identifying edited foreign nodes
+    The user can edit the content of a foreign node F.
+    When they save the buffer,
+    its title and content are scanned for modifications.
+*** creating an overriding subscriber
+    L begins with a subscription to F,
+    a list of content (which probably mostly duplicates F's),
+    and a list of 'hidden' nodes,
+    which begin as any content in F not in L.
+*** replace foreign node with overriding subscriber
+    Purely a view operation; does not change the graph.
+    (But because the overriding subscriber is in the local graph,
+      the local graph now indicates that
+      this substitution happens in every view.)
+    In the view, the foreign node is replaced
+      with a new local overriding subscriber,
+      and an indication that that's what the replacement is.
+* visit a link to an overridden node
+  Every place a node would be fetched,
+  check first whether it is overridden (by the user!).
+* What about a subscribee's subscribees?
+  rather than Subscribee,
+  could be 'in theirs and not yours',
+  with nodes and its own SubscribeeCol.
+  Easiest to generalize: "[name]'s and not [grandparent, subscriber?'s name]'s"
+* extant code to change
+** AWAITS simple critical fixes
+*** extend noneclobber_skgnode
+    to handle the sharing relations in schema.tql.
+* conceptual, but can probably ignore
+**  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/interactions_between_links_subscriptions_and_comments.org][interactions between links, subscriptions and comments]]
+* AWAITS not critical
+** 'locally invisible' vs. 'locally visible'
+   All of one's own nodes are locally visible.
+   If one's node S overrides another's node T,
+   and T recursively contains T' but S' hides that from view,
+   then S' might be locally visible or locally invisible.
+   It is locally visible if, in the repos one sees
+     (not just the ones one can edit)
+     there exists node N, such that
+       N recursively contains S', and
+       N is not overridden.
+** allow publishing online
+   Make a page for each node.
+   For each uncontained node, the page should be saved in text from a recursive traversal, with anchors to anything that needs it. (My org-roam publishing code makes github-style anchors.)
+   Generate for each node an initial "nodes linking here" branch, and a second "nodes subscribing here" branch. Private nodes should be excluded from this public view of the public notes. (They could be included in a private view of the public notes.)
+** a way to recognize when a .skg file was moved outside of skg
+*** search for the node in the repo it is indexed under
+*** if not found
+    then search all the other repos,
+    and update the index
+* DONE can ignore
+** don't worry about foreign moves of already incorporated nodes
+   If they moved something but you merged it with something of your own, maybe don't show the move, because you already placed it and you're already tracking it.
+** 'overrides' might be unnecessary
+   If a user has a node that subscribes to this one,
+   they probably want to see that one rather than this one.
+* DONE accomplished
+** multi repo
+*** in config, include for each repo
+    Path to repo.
+    Author-repo shorthand.
+    Owned by user (bool).
+**** later
+     Color.
+     Privacy level (for filtering, later).
+** orgnode metadata: include source repo
+   Used for display in Emacs,
+   but ignored by Rust when Emacs sends the buffer back,
+   instead computed anew.
+** beware merges
+   mergeing should only be possible if the user owns both
+** on save, check that edits are only to owned repos

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d192f9f7-ec93-4c00-984d-b7e332b56ac0
+:END:
+#+title: history
+* Remember that people expected a different future.
+** -- Roy Foster, paraphrased
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprising_societal_changes.org][surprising societal changes]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/germany_after_wwi_was_absurdly_chaotic.org][Germany after WWI was absurdly chaotic.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/civil_service_reform_in_the_us.org][Civil Service reform in the US]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_german_tank_problem.org][German tank problem, the]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smoot_hawley_led_japan_to_invade_china.org][Smoot-Hawley led Japan to invade China.]]
+* <2025-02-07 Fri> rewriting my memory from scratch
+  I got as far as the word "animals".
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_us_assassination_of_osama_bin_laden.org][the US assassination of Osama bin Laden]]

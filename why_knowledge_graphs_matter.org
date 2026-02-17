@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       667bf4ea-d99d-41bb-98a9-368a86877e3e
+:END:
+#+title: why open knowledge graphs matter
+* TODO merge with notes on
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation.org][meditation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode.org][Hode]] (application)
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_write.org][why write]]
+* u
+** You should think in writing. And you should merge your writing with others's.
+* counterarguments
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org#is-too-much-self-awareness-bad][Is too much self-awareness bad?]]
+* Org etc. are a futuristic, artistic way to organize thought.
+** The artistic part is the freedom one enjoys/confronts when choosing the categories and other structure of a tree.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_enhance_self_awareness.org][Knowledge graphs enhance self-awareness.]]
+* Knowledge graphs are attention-efficient.
+* Your writing knows things you don't.
+  Just like anything,
+  you lose ideas after enough time, unless revising them.
+* Users can control their own views.
+** duh
+*** against The Feed Algorithm
+    Rather than only seeing their opaque algorithmic,
+    often destructive, and usually at least somewhat dumb "feed".
+* Users can search better.
+  They needn't but can learn a search language.
+* Users can curate their view of each Platonic topic.
+  I believe we should journal and meditate.
+  Knowledge mapping is similar to them, and permits accretion.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/data_providers_should_see_what_data_people_need_from_them.org][Data providers should see what data people need from them.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_object_of_a_search_query_should_have_some_input_into_the_process.org][The object person of a search should have some input into the process.]]
+* Users can query to judge sources.
+** The viewer can see what they themselves, or others, have marked as false among a writer's earlier posts, and the evidence for or against.
+* science, how distributed knowledge graphs could help
+** These smell much like the benefits of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/preregistration.org][preregistration]].
+** some reasons
+*** Quicker publishing (like Twitter or ArXiV)
+*** solves the problem of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/losing_negative_results_scientific_publishing_problem.org][losing negative results (scientific publishing problem)]]
+*** don't duplicate effort
+    In particular, if crawling bots recognize statement equivalence, this would permit a fact-checker to simultaneously debunk myriad voicings of a false claim. All of them, if the crawling were sufficiently extensive and the equivalence recognition sufficiently robust.
+*** lets you see what kinds of research have proven too hard to finish.
+* hypothetical
+** Cut through spam.
+   Crowdsource the identification of bots and (human-powered)
+   content farms.
+   By contrast, if a single provider controls all data and traffic,
+   there is an incentive to let them exist,
+   or at least fight them less than is socially optimal.

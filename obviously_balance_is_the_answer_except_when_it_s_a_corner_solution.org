@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2993e63f-bbc3-4c4e-9068-8f175e1a5710
+:END:
+#+title: Obviously, the answer is balance, except when a corner solution is.
+* elaboration
+  But it can be helpful for someone stuck at a corner solution to remember that balance might be optimal. And maybe vice-versa.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][moderation]]

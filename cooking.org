@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       95fc4b53-483e-475e-a86c-2818c0917166
+:END:
+#+title: cooking
+* ONGOING [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/soup.org][soup]]
+* ONGOING [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beans.org][beans]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/asparagus.org][asparagus]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pineapple_cheese_salad_2025_09_07_sun.org][pineapple cheese salad <2025-09-07 Sun>]]
+* Add extra salt to the rice, if at all.
+  before (re-)heating the rice,
+  and stir the salted rice before adding the other food.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/coconut_oil.org#how-to-use-it][refined coconut oil is better for high heat cooking]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recipes_some.org][recipes, some]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cheese_food.org][cheese dangers]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cast_iron_pans_how_to_use.org][cast-iron pans, how to use]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hot_sauce_recipe.org][hot sauce recipe]]

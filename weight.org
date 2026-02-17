@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0d7a27cc-5912-4423-981c-c4c030098037
+:ROAM_ALIASES: weight heaviness
+:END:
+#+title: weight | heaviness
+* some senses of heaviness
+** heavy [[:id:a55842c2-536e-4581-b04b-026715e646d1][obligations -- broken link?]]
+** heavy [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/secrets_public_notes_on.org][secrets]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org][depression]]

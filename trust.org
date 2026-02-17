@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       10f35302-f321-48ac-b3bb-cbc6647e7575
+:END:
+#+title: trust
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/closeness.org][intimacy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][fear]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fatalism.org][fatalism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/skepticism.org][skepticism]]
+* trust & mystery
+:PROPERTIES:
+:ID:       9ab45cf3-66a9-43b0-ad0c-f35f1ba8aafe
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org#trust-in-god--god-is-mysterious]['trust in God' & 'God is mysterious']]
+* fate
+:PROPERTIES:
+:ID:       cd9ea78e-bc53-426e-9011-70a5d8d1ccde
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trust.org][trust]] in God
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negativity.org#futility--pessimism][futility | pessimism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_s.org][hope]]
+* Trust facilitates many things.
+:PROPERTIES:
+:ID:       d8d3de1c-12fc-4848-9618-f3924c2edc3d
+:END:

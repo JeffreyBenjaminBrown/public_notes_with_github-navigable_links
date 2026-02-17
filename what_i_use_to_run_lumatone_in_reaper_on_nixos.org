@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e5fb5a80-228b-4753-819a-b2f1517a0101
+:ROAM_ALIASES: "Lumatone : What I use to run in Reaper on NixOS." "Reaper : What I use to play Lumatone on NixOS." "NixOS : What I use to use the Lumatone in Reaper."
+:END:
+#+title: What I use to run Lumatone in Reaper on NixOS.
+* As of <2025-06-12 Thu> the elements below are more than sufficient.
+  `cpufreq-set` is not necessary.
+* elements
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disable_cpu_throttling_for_each_core.org][cpufreq-set]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a2jmidid_and_aconnect.org][a2jmidid]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/qjackctl.org][QJackCtl]]

@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       cc387929-e03c-40fb-80b6-5f8f2dafa96d
+:ROAM_ALIASES: meaning meaninglessness pointlessness
+:END:
+#+title: meaning
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happiness.org][fulfillment]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org#care][care]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/philosophy.org][philosophy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org][justice]]
+* Mmeaning depends on the observer.
+* Others provide meaning and focus, both consciously and less so.
+:PROPERTIES:
+:ID:       7a5de32a-80cc-4e27-b92d-8a336e04f516
+:END:
+** More consciously in the long term.
+** Less consciously in the immediate term.
+   Another's presence changes
+   the character of one's purpose in the moment.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/abstract_art.org][abstract art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pointlessness_is_funny.org][Pointlessness is funny.]]
+* So much depends on interpretation.
+:PROPERTIES:
+:ID:       218a6d41-d17e-4036-b145-60c7541ec312
+:END:
+** and hence on facial expressions, and hence on presence
+   Meeting in preson matters, in part, because so much depends on facial cues, which you can't simulate in your imagination on a call.
+   Even on a video call, the lag does real harm.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org#art-is-a-floor-on-freedom][Art is a floor on freedom.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org][drama]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][comedy]]

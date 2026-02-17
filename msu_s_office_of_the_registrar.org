@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       bf2861b0-ee95-45cd-8b75-a147269a2f14
+:END:
+#+title: MSU's Office of the Registrar
+* Some relevant staff
+[[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/rhonda-miller.org][Rhonda Miller]]
+[[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/holly_purves.org][Holly Purves]]
+* In charge of graduation evidence
+** certificate of graduation
+A simple PDF that can be sent the same day, for free.
+** duplicate diploma
+Duplicate diploma costs about $50 and takes six weeks.
+** apostille
+They'll copy the diploma and send it to the Michigan Secretary of State Office of the Great Seal for the apostille.

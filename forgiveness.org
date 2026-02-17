@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       8647bcfc-d5ef-45c3-b6ad-fc7789f0fad2
+:ROAM_ALIASES: forgiveness
+:END:
+#+title: forgiveness, inc. self-forgiveness
+* Its generalization* is cool.
+  namely:
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#forgiveness][Generalizing, forgiveness is a way to reconceive of a relationship.]]
+* Forgiveness is a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][relax]]ation.
+* humility -> forgiveness -> freedom
+:PROPERTIES:
+:ID:       26290712-1bf6-4d1a-bac6-37b9ea24e574
+:END:
+** Self-forgiveness is a strange kind of humility.
+:PROPERTIES:
+:ID:       ec4c1f30-249d-406d-acfb-1c69e68405ec
+:END:
+* {Forgiveness, mercy} is a form of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transcendence.org][transcendence]].
+:PROPERTIES:
+:ID:       5b9caf47-ff2f-4821-8476-2dee77d51ec4
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_your_time_and_or_energy_were_not_enough_it_s_not_your_fault.org][If your time, energy and/or information were not enough, it's not your fault.]]
+* rational fatalist forgiveness
+:PROPERTIES:
+:ID:       831e6de2-9288-4fec-8a26-b3e6530a9067
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recognize_sunk_costs.org][Recognize sunk costs.]]
+** You'll (usually) be better off as a friend of the wrongdoer.
+   Forgiveness in these conditions would be optimal if
+   the world also would be better off.
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apology.org][apology]]

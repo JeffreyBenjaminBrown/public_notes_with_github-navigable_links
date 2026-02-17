@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c0d492d7-3e76-45d2-b87a-85cff9bab58a
+:END:
+#+title: truth & love
+* Do they usually align?
+** Are cases in which they oppose worth studying?
+** It seems like the rare edge case when they are in tension.
+* Be known and loved in more ways than expected.
+:PROPERTIES:
+:ID:       aed6c6df-ef34-4a57-9da9-04170751aba5
+:END:
+* "Before speaking, ask: Is it true? kind? necessary?"
+:PROPERTIES:
+:ID:       a3ed4a13-de45-4613-be50-9506ba6d8dc5
+:END:
+** What's the harm in saying true, kind, unnecessary things?
+*** Maybe leaving the (obvious love) true kind things mostly nonverbal speaks them louder.
+*** Maybe that wasn't the intent behind [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_v_love.org#before-speaking-ask-is-it-true-kind-necessary][it]], rather there are only certain subsets of those things permitted.

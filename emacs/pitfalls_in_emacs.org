@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8ab91ced-7ba8-430d-a7dd-809b5395b2e0
+:END:
+#+title: PITFALLs in programming Emacs
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lisp_has_multiple_kinds_of_equality.org][Lisp has multiple kinds of equality.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scalar_and_list_placeholders_are_different_in_emacs_lisp.org][Scalar and list placeholders are different in Emacs Lisp.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/evaluation_in_emacs.org#pitfall-evaluation-and-mutability-are-hairy-sequence-matters][Evaluation and mutability are hairy. Sequence matters.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/variables_in_emacs.org#pitfall-setq-affects-the-current-binding][`setq` affects the nearest (not shadowed) binding.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/pitfall_avoid_half_initialized_values_emacs.org][Avoid half-initialized values. \ Emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/scoping_rules_seem_complicated_in_emacs.org][Scoping rules seem complicated in Emacs.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/in_emacs_commands_and_functions_are_different.org][In Emacs, commands and functions are different.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/the_current_buffer_is_not_necessarily_displauyed_in_emacs.org][The current buffer is not necessarily displauyed.]]

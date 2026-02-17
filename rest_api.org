@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fd81c79e-2f0b-49cf-b387-4cba1e5e0a85
+:END:
+#+title: REST API
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consider_using_a_rest_api_rather_than_an_ffi_in_emacs.org][Consider using a REST API rather than an FFI in Emacs.]]

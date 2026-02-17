@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4fc78cc5-5920-4d61-a50c-25b5cfa41468
+:ROAM_ALIASES: statistics inference
+:END:
+#+title: econometrics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/multi_sample_estimation_econometrics.org][Multi-Sample Estimation (econometrics)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_do_calculus.org][the do-calculus]]: estimating interventional distributions from obsevational data
+  i.e. from data in which one cannot intervene
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tobit_econometrics.org][Tobit]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/econometrics_in_python.org][econometrics in Python]]

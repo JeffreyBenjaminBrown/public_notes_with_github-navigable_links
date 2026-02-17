@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       974d25f4-56a0-4dd9-a066-7790dd40d0f7
+:END:
+#+title: biology
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ring_species.org][ring species]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_ability_to_select_embryos_will_incentivize_increasing_variability_in_the_fitness_of_each_rather_than_maximizing_average_fitness.org][embryo selection => variability > average fitness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/animals.org][animals]]
+* sub-disciplines
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/genetics.org][bioinformatics]]
+** [[:id:7669abd1-2539-4768-ae39-1825ced6bc86][humanity -- broken link?]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/evolution.org][evolution]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cell_biology.org][cell biology]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neurology.org][neurology]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sleep_biology_personal_health.org][sleep]]
+* organs
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ear_human_organ.org][ear]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nose_human_organ.org][nose]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/easy_macroscopic_diy_medicine.org][easy macroscopic DIY medicine]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/astronauts_can_t_drink_soda.org][Astronauts can't drink soda.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_humans_babies_suck.org][Why humans babies suck.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intermittent_fasting.org][Intermittent fasting]] should reduce tooth rot.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/delay_caffeine_ingestion_in_the_morning.org][Delay caffein ingestion in the morning.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bubonic_plague_has_the_freedom_to_be_unusually_lethal.org][Bubonic plague is free to be unusually lethal in humans.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_snakes_move.org][how snakes move]]
+* humanity
+** organs
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ear_human_organ.org][ear (human organ)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nose_human_organ.org][nose (human organ)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/among_animals_fructose_is_uniquely_bad_for_humans.org][Among animals, fructose is uniquely bad for humans.]]
+* "Carcinization" = evolving into crabs.
+  And "decarcinization" is the reverse.

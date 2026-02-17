@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c73a2101-5ca7-45a0-ab85-51ad3953523c
+:END:
+#+title: Frequency is sometimes offered as a dubious explanation.
+= either false or at least non-obvious
+* "Just do it when the time is right," as if that explains how.
+* example: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reevaluation_scheduling.org][scheduling reevaluation]]

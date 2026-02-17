@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0b2a7ebf-4fc3-4a82-9fd9-6d0a63087392
+:END:
+#+title: Mao Zedong
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_more_books_you_read_the_stupider_you_become_mao_zedong.org]["The more books you read, the stupider you become." -- Mao Zedong]]

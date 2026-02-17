@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       71f10a68-23b7-4847-b02d-a5da42696337
+:END:
+#+title: cryptocurrency
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_forked_internet_would_cause_blockchain_problems.org][A forked internet would cause blockchain problems.]]

@@ -1,0 +1,121 @@
+:PROPERTIES:
+:ID:       96b1ca65-3afd-4840-8d84-a0642b1a1b4e
+:ROAM_ALIASES: "skg git diff" "git diff skg"
+:END:
+#+title: diffs in skg
+= git diff views, both personal and when viewing others' data
+* deleted content justifications for a diff
+** view definition
+*** Any node with deleted content shows a "deletion justifier collection".
+*** what the DJC says
+**** in a nutshell
+     "For every child d of my child D of nodes <d>eleted from my parent, d is <c>ontained in my child C."
+**** elaboration on the nutshell
+     That top node, a "deletion justifier collection" (DJC) node,
+       describes the diff of its parent,
+       the "node with deletions to justify" (NWDJ).
+     The DJC's children are "deletion justifiers" (DJs).
+     Each DJ has a "new container" child like C,
+       and a collection like D of nodes d that were deleted from the NWDJ,
+       such that each d is contained (whether newly or not) in C.
+     All the nodes deleted from the NWDJ would be shown,
+       not just among the NWDJ's contents with a "was deleted" glyph,
+       but also grouped under the DJs (whose contents can overlap).
+** Deleted branches now orphaned are specially signaled.
+** Deleted nodes are not children of the node that contained them.
+   But they can be found as grandchildren,
+   either under at least one DJC midparent,
+   or under the orphan collector midparent.
+** AWAITS later : maybe ordering matters
+   and it would help to order each group of deletions under a DJ
+   in the order in which they were deleted from its parent,
+   to eyeball sequences of contiguous branches that were moved.
+* de novo <2025-10-19 Sun>
+** heralds
+*** two base diff herald dimensions
+**** green "{+" and red "{-" for content changes, just like git
+     augments each definitive content list,
+     by showing a green + next to each new node,
+     a red - next to each removed node,
+     exactly like git diff dow, and pulling that data from git.
+**** green "+" and red "-" for existence changes
+*** interactions
+**** +{+ could be abbreviated to +
+     Both would mean '
+     this node is new, just like its containment here'.
+     example:
+       * a
+       ** +{+ b
+     means the node 'b' is new,
+     and so is the fact that it is now a child of 'a'.
+**** +{- makes no sense
+     if a node is new, it can't have been removed from a container
+**** -{+ makes no sense
+     if a node no longer exists,
+     it can't be a new member of a container
+**** -{- could be abbreviated to -
+*** so there are only four heralds needed
+    '+'
+    '{+'
+    '-'
+    '{-'
+*** for roots, only two of those heralds are possible
+    '+' and '-'
+** diff view of an existing node
+*** 2 kinds of backward view from removed nodes that still exist
+**** along 'contains'
+     Lets the user show a backward view from any removed node,
+     to see where it might still exist.
+**** along 'hyperlinks_to'
+    If the removed node included links,
+    also lets the user see where else links to those targets apepar.
+*** janky magit integration
+    Lets the user jump to the view of that file in magit.
+**** for better magit integration
+     have magit display IDs as their titles
+** diff view of something deleted
+   contains these braches
+*** what it contained
+*** what contained it
+* ? diff-sharing interaction
+** ? diff : social v. personal
+   Is the diff problem for people the same as the diff problem across time?
+   a.k.a. "across-person diff ~? within-person across-time diff"
+   You'll want to see how someone's subscription(s) to your node differ(s) from your node.
+** when someone else's graph changes
+*** make aware of git diff
+**** track the last-read commit
+     When you read someone's note, you can tell your subscription "I am up to date on this", and it stores the commit that applied when you said that. The next time you look at it, if it has been updated, it uses the diff between the earlier version and the latest to show what's changed.
+**** be able to construct a whole document from either commit
+*** views to navigate a diff of someone's graph
+    at two different commits
+**** from the high level: a list of all involved nodes,
+     probably with statistics for each:
+     new, deleted, moved
+     change in in-link, out-link counts
+     change in content volume
+**** from the perspeective of a node that in both commits
+  it is every node that changed
+  {new, moved there, moved away, deleted}.
+  Deleted things can be seen the way they were.
+  Moved things can be seen in both ways.
+  New things just have an indicator that they are new.
+**** from the perspective of a new node
+     it should show which of its contents are new,
+     and which were brought in.
+**** from the perspective of a deleted node
+     we should see its former contents,
+     and have access to what became of them
+* later
+** backlinks could be shown the same way
+   at least five colors
+*** red backlinks are collections that no longer exist
+*** green backlinks are new ones
+*** gray backlinks are unchanged
+*** *another* color for backlinks that were moved among siblings
+*** something to indicate that a removed backlink was replaced by a less direct path
+** When deleted siblings went to a new common place,
+   the diff view should group those deletions under a midparent indicating the new common parent
+** smarter diff traversal
+   treating nodes as first class entities,
+   able to jump easily from any [change involving a node] to any of its brethren in an equivalence class, where equivalence is modulo insertion or deletion, modulo link text and any other links present in the same node, and modulo appearance as base content, subscription or unsubscription.

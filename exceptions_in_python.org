@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       a6cb3f8e-a4af-4e9c-bb05-42f4f5a2f7f2
+:ROAM_ALIASES: "Python exceptions"
+:END:
+#+title: exceptions in Python
+* a list of builtin exceptions
+  https://docs.python.org/3/library/exceptions.html
+* syntax, or at least most of it
+** raise error
+   raise ValueError("0/0")
+** try-catch
+   try:
+     print(x)
+   except NameError as e:
+     print(e)
+   except Exception:
+     # PITFALL: Anything inheriting from this must come earlier.
+     print("something else happened")
+   except: # This default clause cannot be reached,
+           # because every error inherits from Exception,
+           # but it is syntactically fine.
+     print("Something else went wrong")
+   else:
+     # *Only* executes if no Exception is found.
+     # TODO: I'm not actually sure this can be mixed with "finally".
+     print("No exception was found.")
+   finally: # executes whether or not an Exception arises.
+     print("The 'try except' is finished")

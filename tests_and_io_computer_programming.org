@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0cbd3c1b-d692-47c7-a209-97287840c296
+:END:
+#+title: tests and IO (computer programming)
+* [[https://github.com/JeffreyBenjaminBrown/knowledge_graph_with_github-navigable_links/blob/master/tax_co.org#todo-my-tests-in-taxco-dont-compose][My tests in tax.co don't compose.]]
+* Mocks in unit tests => need integration tests too.
+* Mocks, fakes and stubs.
+* tests that use the local filesystem
+** are better than ones that use more -- the internet, say
+** should clean up after themselves
+** usually use temporary directories
+* tests that use more than the local filesystem
+  https://cs-syd.eu/posts/2021-10-24-your-testing-portfolio
+* using NixOS to test systems with networking
+  https://nix.dev/tutorials/integration-testing-using-virtual-machines
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/unittest_mock_python_library_for_testing.org][unittest.mock (Python library)]] is kind of magical
+* io-sim on Hackage
+  https://engineering.iog.io/2023-04-14-io-sim-annoucement/
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tests_io_and_state_something_someone_wrote.org][tests, IO and state : something someone wrote]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6972d099-7ff6-47ba-ac67-1898ef5fd549
+:END:
+#+title: science
+* a list of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sciences.org][sciences, fields of study, schools of thought]]
+* science , how
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/science_and_research_institutions.org][methods and institutions for science and research]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/understanding_novel_ideas_requires_imagination.org][Understanding novel ideas requires imagination.]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humility]]
+* problems in science
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/publication_in_science_is_too_much_work.org][Publication in science is too much work.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/academia.org][academia]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scientific_agent_loop.org][scientific agent loop]]

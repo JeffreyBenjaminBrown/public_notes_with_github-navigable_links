@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       536dfe54-2086-43e3-b87f-3f7cfd4283fd
+:END:
+#+title: nmcli
+* commands I'm using lately
+** to connect
+*** nmcli dev wifi connect <network> password <password>
+*** some existing connections
+**** nmcli connection up "Jeff's Galaxy"
+     can't do cargo (rust)
+**** nmcli connection up WIFI_MOVILES_MINCIT
+     can ssh to github,
+     can't do cargo (rust)
+     can't do apt (ubuntu, debian)
+**** nmcli connection up MCIT-INVITADOS
+     can't do Git
+     can do apt
+     can do cargo (as of <2025-04-29 Tue>;
+                   earlier it couldn't)
+**** nmcli connection up CLARO-5669
+*** for more wifi connections
+    see /etc/NetworkManager/system-connections
+** to see what's connected
+   nmcli connection show --active
+** other commands
+nmcli radio wifi on # or off
+nmcli device set wlan0 managed yes # maybe change wlan0
+nmcli device wifi list
+nmcli device wifi rescan
+nmcli device wifi connect "SSID_NAME" password "PASSWORD"

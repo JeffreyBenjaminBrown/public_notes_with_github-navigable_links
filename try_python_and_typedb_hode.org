@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       215bd079-8522-4489-aa19-9aa9efdc4fec
+:END:
+#+title: try Python and TypeDB \ Hode
+Don't bother trying to integrate Emacs initially.
+Just do these things from Python.
+* advanced, to do once I have Emacs interactivity
+** Save graph. Restore from new Docker container.
+** readable import/export format
+*** Export graph to readable text.
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/solutions_in_typedb_some.org#in-bash-write-it-to-a-file][In Bash, how to write the schema to a file.]]
+*** Import the graph from readable text.
+*** Make the diff readable.
+    This could simply involve substituting
+    (or adding) the text fields
+    wherever the UID fields appear.
+** extend schema interactively
+*** Create a new type in an existing graph.
+*** Create a new kind of relationship in an existing graph.
+** Query interactively for the kinds of entities, relations.
+* DONE
+** Create a UID field.
+   Mark it "unique".
+** Create an "expression" type.
+   Two fields: UID and text.
+** Create a "child of" relationship template.
+** Create a simple tree of expressions.
+   As simple as this 7-node tree,
+   where prefixes are parents:
+   A AA AB AAA AAB ABA ABB
+** Query for the children of some node in the tree.
+   Should be a middle node.
+** Success: Make a type with _ and - in the name.
+   => I can use _s to indicate holes in a relation.
+** Delete an expression.
+tdb.data_delete ( # TRICKY: Delete requires a seemingly-redundant second "isa" clause.
+  hd.DB_NAME,
+  " ".join ( [
+    "match $n isa note, has uid '_:i=,9aBa8C5jMmd';"
+    "delete $n isa note;" ] ) )

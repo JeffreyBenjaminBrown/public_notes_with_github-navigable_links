@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7abaf6b7-7c59-4744-bddb-8a3bdfb11d8d
+:ROAM_ALIASES: contradiction paradox
+:END:
+#+title: contradiction | paradox
+* MERGE: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tensions.org][tension]]
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irony.org][irony]]
+* Moderation can feel like contradiction.
+:PROPERTIES:
+:ID:       c091416d-a789-46d4-bb10-f64c2156a469
+:END:
+** e.g. [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awkwardness.org#flirting-through-dance-while-watching-the-stage][flirting through dance while watching the stage]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org#know-and-accept-your-contradictions-or-change][Know and accept your contradictions ... or change.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org#moderation-of-optimization][moderation of optimization]]

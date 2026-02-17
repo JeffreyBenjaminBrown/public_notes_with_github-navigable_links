@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       06b856e9-50fb-4025-9276-cd0b2b945fa8
+:END:
+#+title: Knowing how self and other feel can both be hard.
+* Knowing how you feel requires recognizing that feelings change.
+  Otherwise, past stories about yourself can trap your self-image.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mistakes_and_lies_in_romance.org][mistakes and lies in romance]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       efead690-715e-4243-9dd9-9f6a53566263
+:END:
+#+title: aesthetics
+* Debated: It might be intrinsic or socially constructed.
+* They differ across cultures.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aesthetics_can_evoke_spirituality.org][spirituality + aesthetics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/incongruity.org][incongruity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/contrast_is_funny.org][Contrast can be funny.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org#pleasure-balance-higher-purpose][pleasure ~balance~ higher purpose]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_in_my_head_music_of_the_senses.org][Music in my head < music of the senses.]]

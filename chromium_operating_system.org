@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       99ed813a-b5f9-4671-a2dd-4e9d1608411c
+:END:
+#+title: Chromium (operating system)
+* open source, forked from [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chromeos.org][ChromeOS]]
+* Chromium tricks
+  https://github.com/dnschneid/crouton?fbclid=IwAR0RDEF8Qqi27LL93nFv1RVXUCPhiZ1FMXpp_cYXuqX_NU4Ws3IJ9MoHQZY

@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       8dfe7370-d359-4d4b-99f0-09cd9b0a9822
+:END:
+#+title: solutions \ Tidalcycles
+* default values, and maybe how to change them
+  e.g. amp <- 0.4
+  https://club.tidalcycles.org/t/default-amp-value/4326
+* to add mini-notation parameter functions (ala "pan")
+** edit bin/generate-params.hs
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/organizing_tidal_code_hierarchically.org][organize code (in a file) hierarchically]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/software_mixer_for_superdirt.org][software mixer for SuperDirt]]
+* a way to print all extant synthdefs and effects
+  tag show list
+  https://club.tidalcycles.org/t/print-tidals-synths-and-fx/4798
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/truncating_long_samples_cut_and_legato.org][truncating long samples : `cut` and `legato`]]
+* my hz for synths function
+** defining it
+#+begin_src haskell
+  let hz :: Pattern p => p Note -> p ValueMap
+      hz hzPat = n $ fmap f hzPat where
+	f freq = log freq / log 2 * 12
+#+end_src
+** using it
+ #+begin_src haskell
+   d1 $ s "supersquare"
+     |*| slow 4 (hz "1 2 3 4")
+     |+| n "1 2 3 4"
+ #+end_src
+* polymeters in Tidal
+  https://club.tidalcycles.org/t/thinking-time-in-addition-vs-division-meshuggah-style-prog-metal-in-tidal/4664/6
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/continus_parameter_variation_in_tidalcycles.org][continus parameter variation in Tidalcycles]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/state_in_tidal_cycling_through_lists.org]["state" in Tidal: cycle through a list at each new note]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/effects_buses_in_tidalcycles.org][effects buses in TidalCycles]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b2daa5a3-95bd-4922-9610-c735376bd60a
+:END:
+#+title: to learn
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spanish_vocab.org][Spanish vocabulary]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/reading.org][to read | to absorb]]
+* science
+** biology
+** physics
+** astronomy
+* history
+* tech, making stuff
+* current events
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_learn_computer_science.org][to learn & computer science]]

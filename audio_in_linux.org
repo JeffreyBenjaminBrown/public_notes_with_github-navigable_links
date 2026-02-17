@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       806df746-7d4d-4992-8321-06b4dfaea265
+:END:
+#+title: audio in Linux
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audio_in_nixos.org][audio in NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/qjackctl.org][qjackctl]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_windows_only_vst_plugin_in_linux.org][how to use a Windows-only plugin in Linux]]

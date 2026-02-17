@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       518698de-1faa-4dd9-bc70-c06bc2ab34a3
+:END:
+#+title: Thrill of the Fight (VR boxing game)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_first_impressiosns_of_thrill_of_the_fight_on_the_oculus_quest_2.org][my first impressiosns of Thrill of the Fight and the Oculus Quest 2]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/vr_boxing_massively_improved_my_cardiovascular_health.org][VR boxing massively improved my cardiovascular health.]]

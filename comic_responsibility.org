@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ff5f634a-f8fa-482c-95a7-6be10e55e58d
+:END:
+#+title: comic responsibility
+* methods / some kinds
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][moderation]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org#recognize-when-it-would-be-better-not-to-make-a-joke][Recognize when it would be better not to make a joke.]]
+** Don't miss a good opportunity for a joke.
+** Recognize when {someone, a situation} needs a joke.

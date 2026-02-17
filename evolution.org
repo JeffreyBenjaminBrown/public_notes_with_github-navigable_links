@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3b1ec239-3bdf-4d05-a300-3494971e39e9
+:END:
+#+title: evolution
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/psychedelics_as_mushroom_survival_strategy.org][psychedelics as mushroom survival strategy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_sea_mammals_forgot_how_to_smell.org][Some sea mammals forgot how to smell.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cooperation_communication_problems_in_evolution.org][reproduction, cooperation & communication problems in evolution]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cats_are_less_diverse_than_dogs_because_they_are_perfect.org][Cats are less diverse than dogs, because they are "perfect".]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/standing_narrow_hips_humans_give_birth_early.org][Standing => narrow hips => humans give birth early => prolonged infancy.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/religious_fictions_allow_large_scale_cooperation.org][Religious fictions allow large-scale cooperation.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/foragers_may_have_been_smarter.org][Human foragers may have been smarter than us.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/most_human_genetic_diversity_is_in_africa.org][Most human genetic diversity is in Africa.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_quantity_of_suffering_it_took_to_generate_the_human_species_is_incomprehensible.org][The quantity of suffering it took to generate the human species is incomprehensible.]]

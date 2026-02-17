@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       b24215c5-beab-427e-9ff1-8d92ea2d1159
+:END:
+#+title: mobility exercises
+* see also
+  maybe stale: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neck_exercises.org][neck exercises]]
+* a list
+** seated ankle propellers
+** neck-wrist axes
+   2
+** hip rolls
+   + elbow-propellers
+** shoulder rolls
+   + wrist axes
+** spine twists
+*** TODO + something
+** cat-cow
+*** TODO + something
+** knee rolls
+*** TODO + something
+** big straight-elbow arm circles
+*** TODO + stick one leg out to the side?
+** Egyptian shoulders
+** Egyptian hips
+** squats
+* a writeup, incomplete, focused on the spine
+The mobility exercises that are good for the spine are everything that move it or a joint around it -- so thorax, neck, shoulders and hips. The spine itself has three axes of motion: bending forward and back, bending sideways, and twisting. The first you can get with the cat/cow yoga pose. Go back and forth 30 or 40 times. The second people don't do very much for some reason, but it would be the same thing. Sit on the edge of a bed and lean over to either side as far as you can, back and forth 30 or 40 times. (They say for each exercise do 1 rep for every year of age but I don't think they have in mind people older than 40 when they say that.) For the third axis, sitting in a chair and twisting back and forth gets it. You might as well get your neck with this one at the same time.
+
+Your neck is just like your spine, and you can do both at the same time in general, although some people like to do them sepearately. I find I do get my neck better if I do it on its own, but it's a marginal change. (Actually I get my writsts at the same time, but you said your problem was your back so I'm sticking to the back.) The neck has two extra degrees of freedom: moving your head forward and backward like a parrot, without tilting it, and moving it side to side without tilting it, like an Indian dancer. I never hear mention of the second one.
+
+For your hips there are hip rotations, and the easiest way to describe it is absurd but, I believe, effective: Imagine a pole is sticking out of your anus, and sweep the end of the pole in circles as wide as you can.
+
+There are also leg rotations, which I've never tried to describe, but here goes: Put your hands on the seat of a chair and do whatever approximation to the splits you can do. In my case my legs form an angle a little wider than 90 degrees. Turn to your right, and point both feet as far as you can to the right. This causes your legs to swivel in their sockets. Then to the left. That's one rep. Do 30 or 40, like always.
+
+Those exercise every degree of freedom relevant to the spine. Beyond that, protecting the spine is a matter of being warm (blood flow) before doing anything strenuous, keeping your back straight when you pick up stuff. It doesn't have to be vertical -- indeed, that's impossible, despite a lot of advice to the contrary. Just straight.
+
+From experience with no theoretical basis I'm aware of, I (and Bran Hossfield) find that flexing your abs and back in certain circumstances can relieve pressure on the spine.
+
+The last set of joints relative to the spine are the shoulders. There are a few exercises:
+
+Move the shoulders in circles, around the axis formed by your collarbone. Be sure to do both directions. I do 10 one way, 10 the other, 10 the first, 10 the second (so 40 total).
+
+Make big circles with your arms, bending outward as far as they can go (safely) at each point in the circle -- so at some point they are crossing in front of your chest and pulling your shoulders inward. Again, both directions.
+
+The Egyptian. This is impossible to describe but fortunately there are videos online.
+
+I believe that's every spine-relevant mobility exercise.
+
+The purpose of these mobility exercises is not to stretch. You can do them in a way that stretches if you want, but if you do, don't be heroic about it. Even if you only cover 90% of your range of motion, that should be plenty to work all the synovial fluid (and other good stuff, I believe) into where it needs to go. With most of them I go as far as I can go easily and not any farther.

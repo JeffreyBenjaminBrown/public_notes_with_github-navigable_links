@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8c536cba-421f-41c9-b40b-6b6f1e15c1d2
+:END:
+#+title: small acts of altruism
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/implement_graph_aware_search_for_org_roam.org][implement graph-aware search for org-roam]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/write_about_microtonal_reaper_on_xen_wiki.org][write about microtonal Reaper on xen wiki]]
+* Real World Haskell code repo: Add the fix I asked for.
+  https://github.com/wkoszek/book-real-world-haskell/issues/2

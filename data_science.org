@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9f56873c-b871-49d3-b2ed-93ac63133284
+:END:
+#+title: data science
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presenting_data.org][presenting data]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tests_for_programmers_some.org][tests for programmers, some]]
+* a data differ
+  https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html

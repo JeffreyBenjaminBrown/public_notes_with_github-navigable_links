@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       65f7223e-3193-4b1a-8681-eac83ccbdd76
+:END:
+#+title: Mindmapping seems psychologically healthy.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_and_or_meditation.org][Mindmapping resembles meditation and journaling.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/maybe_mapping_knowledge_helps_me_regain_sleepiness.org][Mindmapping can be calming.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindmapping_inspires_awe_and_humility.org][Mindmapping inspires awe and humility.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindmapping_illuminates_one_s_personal_evolution.org][Mindmapping illuminates one's personal evolution.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mapping_knowledge_seems_like_a_great_antidote_for_obsessive_thoughts.org][Mindmapping counteracts obsessive thoughts.]]

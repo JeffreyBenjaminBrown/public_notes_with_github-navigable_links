@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       8cd7a9de-4652-4728-b57f-748e61cf94e7
+:ROAM_ALIASES: "medicine & health"
+:END:
+#+title: health & medicine
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/there_should_be_a_nonexperimental_drug_pathway.org][There should be a nonexperimental drug pathway.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/longevity.org][longevity]]
+* ?technical
+* biomechanics
+** Tensegrity, engage stomach muscles to not need a lower back pillow.
+   Use the stomach to form the spine into a balanced arch.
+** Exhale from the nose for the sake of others.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spiritual_healing.org][psychological healing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/skin_health.org][skin health]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/exercise.org][exercise]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fasting.org][fasting]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cell_biology.org][cell biology]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/otorinolaringologia.org][otorhinolaryngology]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/medicine.org][drugs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_performance_human.org][high performance (human)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_tiny_walk_after_a_meal_smooths_blood_sugar_levels.org][A tiny walk after a meal is healthy, smooths blood sugar levels.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/air_filter.org][air filter]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/flatulence.org][flatulence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fruits_with_a_laxative_effect.org][fruits with a laxative effect]]
+* some of Bryan Johnson anti-aging routine
+  https://twitter.com/maxhertan/status/1595213398358171649?t=JSQ6fwfB_HJChyBN7BshSw&s=19

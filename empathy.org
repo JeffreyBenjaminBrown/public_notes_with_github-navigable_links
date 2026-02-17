@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       e31ef49a-1cc3-417f-b1db-3d9f5c258abd
+:END:
+#+title: empathy
+* ?= understanding people
+** Can you empathize without understanding someone?
+   Esp. when you know that you don't understand them.
+   It is, at the least, very hard.
+* If individuals are carried on society-scale currents, see it.
+:PROPERTIES:
+:ID:       a4fc3e89-d131-43b1-89ad-23d7c5e02caf
+:END:
+** Pop culture reflecting|affecting society's mood.
+* Hedonism assists empathy.
+:PROPERTIES:
+:ID:       b30be695-64d9-43f1-ae81-22193ecb9a65
+:END:
+  Understanding it does, at least.
+* ? Even if it cannot be addressed directly, comment on it artistically.
+  comedy, drama, metaphor, mimicry
+* Investigate someone for better empathy.
+:PROPERTIES:
+:ID:       75e8bdbb-b62f-4456-849e-0e2ffd2154bf
+:END:
+** Collect information to reduce the amount of conjecture required to take another's perspective.
+** TODO Try taking someone's perspective, and list what I wish I knew about what they know/believe/feel, esp. what I could ask about.
+* The best art for studying empathy, probably, are novels with a diverse. realistic set of characters.
+:PROPERTIES:
+:ID:       cd901214-ae81-4976-a44c-e9a528e133f7
+:END:
+** candidates
+*** Middlemarch by George Elliot
+*** more by Robert Rothstein
+* I have never seen evil that could not be explained with some degree of love.
+:PROPERTIES:
+:ID:       13b7c3bb-a47f-4dc6-9a76-8f443e417b44
+:END:
+  Although in some cases the explanation seemed easily falsifiable,
+  and I did not try.
+* hard question : What do I not know about others?
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathize_before_confronting.org][Empathize before (and while!) confronting.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/people_as_priority.org][people as priority]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_to_understand_our_cognitive_differences.org][I want to understand our cognitive differences.]]
+* I want to know what people imagine.
+:PROPERTIES:
+:ID:       aa7d8bec-8ad4-4bf3-802f-3e8a38063c3e
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cognitive_overlap.org][cognitive overlap]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/refuse_to_feel_something_and_you_are_cut_off_from_the_people_who_do.org][Refuse to feel something and you are cut off from the people who do.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/it_s_fun_to_determine_when_sending_a_picture_conveys_more_and_or_better_information_than_words.org][It's fun to determine when sending a picture conveys more and/or better information (than words).]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gentle.org][gentle]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honesty_and_volunteering_v_empathy.org][honesty v. empathy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fawning_can_be_a_trauma_response.org][Fawning can be a trauma response.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/empathy_private.org][empathy & private]]
+* empathy & humility
+:PROPERTIES:
+:ID:       5b4f6b7b-1ebc-4f14-9102-6dec0e3b15c8
+:END:
+** Understand how everyone is stuck to the degree I understand my own.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org#excise-my-urge-to-change-others][Excise my urge to change others.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy_v_communication.org][empathy v. communication]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attribution.org][attribution]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awkwardness.org#it-signals-misaligned-models-between-people][Awkwardness signals misaligned models between people.]]
+* empathy & music
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#rap-battles-with-mimicry][(rap) battles with mimicry]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/violence.org#unwanted-attention-is-a-neighbor-of-brutality][Unwanted attention is a neighbor of brutality.]]
+* Patience, empathy, gratitude, imagination => good [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/listening.org][listener]].
+* Mindfulness helps empathy.
+:PROPERTIES:
+:ID:       61598ab8-c24b-4cc1-9db1-b5a9d320a76b
+:END:
+** multi-channel concurrent perception
+*** Allow approach. Make eye contact, smile. If they are looking, say hello.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/judgment_taste.org#feel-what-someone-else-would-want-to-happen-next][Feel what someone else would want to happen next.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/judgment_taste.org][taste]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org#_--evil][_ => evil]]
+* failures
+** [[id:0c1160ab-63e3-4c26-bfdb-13c7acfd5d3f][drumming in the stairwell when I should have meditated on [person]​]]
+* To others, you reside somewhat in art, not just spacetime.
+:PROPERTIES:
+:ID:       4a65e41d-4bae-4adf-84e5-6172a0aaa791
+:END:
+** Art and dreams?
+** elaboration
+   When they think of a certain
+   color scheme, kind of music, mood, fashion,
+   they think of you.
+** corrollaries
+   Whatever _ thought about {baldness},
+   they thought it about all of us.
+** maybe
+*** Like a raga, "When I say hi to you, this color comes into my perception, and then this one ..."
+:PROPERTIES:
+:ID:       9a3f3452-b8dc-47ed-9be0-f4b76ed1be12
+:END:
+    And maybe even if you don't see it, they do,
+    and the time passed thus is large to them.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_s.org#collect-geographic-and-historical-viewpoints][Collect geographic viewpoints.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org#be-aware-of-the-troubles-of-everyone-present-simultaneously][Be aware of the troubles of everyone (present) simultaneously.]]

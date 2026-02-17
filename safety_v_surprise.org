@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       dbcb9dd5-9a00-4fe1-bd6f-f585ac8321d7
+:ROAM_ALIASES: "surprise v. safety"
+:END:
+#+title: safety v. surprise
+* They *seem* in tension.
+* sometimes tension, sometimes synergy
+** some places they are synergetic
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org][art]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/play_fun.org][improvisation]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/learning.org][learning]]

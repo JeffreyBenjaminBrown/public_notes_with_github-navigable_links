@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b6bf1730-52f0-4b58-9b39-cc39c5a74980
+:END:
+#+title: Synlab
+Does Covid testing at Bogotá's El Dorado (main) airport.
+[[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/un_scheduling_covid_tests_with_synlab.org][un-scheduling covid tests with Synlab]]

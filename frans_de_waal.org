@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8f59b9de-9c79-4bae-9b97-802a0db6ed2a
+:END:
+#+title: Frans de Waal
+* primatologist, died 2024
+* Said [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chimps_accept_transgender_chimps.org][chimps accept transgender chimps.]]
+* Discovered and documented that [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chimpanzees_forgive.org][chimpanzees forgive.]]

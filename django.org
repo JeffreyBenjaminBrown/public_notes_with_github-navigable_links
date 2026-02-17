@@ -1,0 +1,485 @@
+:PROPERTIES:
+:ID:       642c3c9b-ca40-4459-9044-97c9f214c15a
+:END:
+#+title: Django (Python web framework)
+* TODO
+** Django Formsets: good for dynamic tables
+   with "a little bit of Javascript",
+   according to Ken Whitesall:
+   https://forum.djangoproject.com/t/how-to-read-non-django-html-form-data/8864/6
+** remote-pdb: use pdb from Django
+   https://forum.djangoproject.com/t/how-to-read-non-django-html-form-data/8864/9
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django_in_aws_esp_aws_eb.org][Django in AWS (esp. AWS EB)]]
+** find, display pictures
+*** Substitute folder path into image name.
+    See, e.g., how "name_augmented" is passed from polls.views to the silly-form templates.
+*** how I embedded pictures into a Django page
+    See polls.embed_pictures
+**** first set up the environment
+***** The image file is at /mnt/tax/to-serve/test.png.
+***** I added modified apache2.conf:
+ ```
+ DocumentRoot /mnt/tax/to-serve
+ <Directory /mnt/tax/to-serve>
+   Require all granted
+ </Directory>
+ ```
+***** After that I could visit it at http://localhost:8000/test.png
+***** Surprisingly, I did not have to modify my django settings.py
+      I thought I'd need to, e.g., define`STATICFILES_DIRS`.
+**** then, .html files should then refer to the image just like a post-domain URL
+     e.g. for this example, I could visit the file at localhost/test.png,
+     so I should refer to the file as simply "/test.png".
+     PITFALL: The leading slash is important.
+** downloads from Django
+   See the "download" function in run_make/views.py
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/file_uploads_in_django.org][File Uploads In Django]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django_security_things_to_do_before_production.org][Django security, things to do before production]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forms_in_django.org][forms in Django]]
+* PITFALLs
+** Django won't complain if a template is missing context.
+   For instance, if I call this:
+     return django.shortcuts.render (
+       request,
+       'run_make/thank_for_spec.html',
+       { 'user_email' :  user_email } )
+   then the "thank_for_spec" template can interpret the value of `user_email` via the weird double-bracket `{{user_email}}` syntax. If it tries also to interpret `{{user_name}}` when that was not provided, Django won't complain. The render will simply substitute an empty string.
+** danger reusing templates across form-submitting views
+*** the problem
+    Where the form data gets sent is encoded in the `action=` argument to the <form> element in the template. Trying to use the same template at two different URLs will mean the data from both URLs is sent to only one of them -- whichever one is encoded in the action= argument.
+*** a solution
+    The template could take the receiving URL as an argument from Django.
+** Dictionaries cannot be passed from Django to JS.
+:PROPERTIES:
+:ID:       1e202d74-c770-4194-98e1-88845d1cd021
+:END:
+* refs
+:PROPERTIES:
+:ID:       13067dc1-a022-4626-a6de-676f07ce3252
+:END:
+** All Django documentation
+ https://docs.djangoproject.com/en/3.1/
+*** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apache_and_mod_wsgi_using_them_with_django.org][Apache and mod_wsgi: Using Them with Django]]
+*** TODO "Sending emails"
+*** TODO "Integrating media"
+*** TODO ? "Caching"
+** further reading
+*** Request and response objects \ Django documentation \ Django
+   https://docs.djangoproject.com/en/3.0/ref/request-response/
+*** avoiding race conditions
+   https://docs.djangoproject.com/en/3.0/ref/models/expressions/#avoiding-race-conditions-using-f
+*** generic views in Django
+https://docs.djangoproject.com/en/3.0/topics/class-based-views/
+** my project
+ ~/code/aws/python-web-app
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/paths_in_django.org][paths in Django]]
+* requests in Django
+** a way to extract a value from a GET or POST in Django
+   q = request.GET .get("key", <default value>)
+   q = request.POST.get("key", <default value>)
+* models
+** get a list of all models
+from django.db import connection
+tables = connection.introspection.table_names()
+seen_models = connection.introspection.installed_models(tables)
+* Tutorial: Writing your first Django app
+https://docs.djangoproject.com/en/3.0/intro/
+** PITFALL: my filetree does't quite match the tutorial's
+ (I *think* this is right.)
+ They suggest a "mysite" folder,
+ and next to it, the "polls" (app) folder.
+ I'm doing that, but "mysite" is called "ebdjango".
+** part 1
+*** PITFALL: Django is for building a site, not serving it
+  The "Django development server" is useful for  testing,
+  but they suggest using something like Apache in production.
+*** filetree and URL structure
+**** Apps can be in multiple projects,
+and a project can contain multiple apps.
+***** apps "can live anywhere on your Python path"
+:PROPERTIES:
+:ID:       32559301-8128-44b0-a309-ca33c8909f31
+:END:
+about the Python path:
+  https://docs.python.org/3/tutorial/modules.html#tut-searchpath)
+**** A Django project is a folder that includes
+***** the following top-level files or folders:
+  db.sqlite3
+  <site-name>/ # without the <> marks
+  manage.py
+***** maybe a folder for each app located in the project
+  Initially there are no such folders.
+  There never need to be, because [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django.org#apps-can-live-anywhere-on-your-python-path][apps can live anywhere on your Python path]]
+**** <project-root>/<site-name>/ needs to "know" about an app,
+  as described in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django.org#connect-the-view-to-the-website][connect the view to the website]].
+  Once it does, the app becomes available as a top-level
+  subdomain of the project.
+**** Each app corresponds to a top-level subdomain of the project URL.
+  For instance, when I host my django project from
+  localhost:8000, since 'polls' is an app in it, the URL
+  localhost:8000/polls/ takes me to that app.
+  (The trailing / is optional, but I believe preferred.)
+*** create a new project
+  django-admin startproject <desired name of new project>
+**** PITFALL: avoid certain module names
+   e.g. "django" or "test"
+*** run the (toy) devel server
+**** PITFALL: The devl server *usually* doesn't need restarting
+   but certain changes, like adding a file,
+   require a manual restart
+**** PITFALL: Don't do this in production.
+I've already got the Docker image and my code set up to use Apache instead.
+Under those conditions, I just start Apache, which will call Django for me.
+**** how to run it
+***** From inside a Docker container, do this:
+     python manage.py runserver 0.0.0.0:8000
+****** That broadcasts to the 8000 port on all addresses,
+   at least if the container was started (`docker run`) with the options
+       -p 8000:8000 -d -h 127.0.0.1
+***** From the host system (not using Docker) this is sufficient:
+     python manage.py runserver
+*** create a new app
+**** How: from the folder containing manage.py, run
+  python manage.py startapp <chosen app name>
+**** What that does
+  is create a new folder there, with that name,
+  populating it with some Django boilerplate
+  that can then be customized.
+*** create a view
+  Add some code to the app's views.py file.
+  Example: my file `python-web-app/polls/views.py`
+**** the laborious way
+  from django.http import HttpResponse
+
+  def index(request):
+      return HttpResponse("Hello, world. You're at the polls index.")
+**** easier: subclass any of Django's *View classes
+  (Described in a later section of the tutorial.)
+  Example: see the `index()` function for my "polls" app
+*** connect the view to the website
+:PROPERTIES:
+:ID:       ad943b01-c966-44f1-b5c9-74ef6eafb0f2
+:END:
+**** the idea
+  When Django receives a request for URL,
+  it crawls
+    <project-root>/<site-name>//urls.py
+  and then (probably)
+    <some app folder>/urls.py
+  to figure out what to do.
+***** a little more detail
+   Given a path, Django first searhes <project-root>/<site-name>/urls.py
+     for a matching prefix.
+   If the second argument is an include() expression, as in
+       path('polls/', include('polls.urls'))
+   then Django will look in the indicated file.
+   Eventually it should bottom out at an expression like
+       path('', views.index, name='index'),
+   at which point it visits the "name" function in the file that's the second arg.
+**** sample code
+  see the "index" viewpattern in `<project-root>/<app-name>//urls.py`,
+  and the "polls" urlpattern in `<project-root>/<site-name>/urls.py`.
+**** PITFALL: "Patterns don’t search GET and POST parameters, or the domain name."
+   For example, in a request to https://www.example.com/myapp/, the URLconf will look for myapp/. In a request to https://www.example.com/myapp/?page=3, the URLconf will also look for myapp/.
+  My guess: The stuff after the '?' becomes arguments to the function called by the function found after looking up the part before the '?'.
+*** PITFALL: probably still need [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django.org#to-install-an-app-in-a-project][to (install?) the app in the project]]
+In this trivial case, the website actually already works.
+But if I try to use the database,
+it will complain that I haven't installed the app in anything.
+*** visit the view
+  e.g. visit http://127.0.0.1:8000/polls/
+    or equivalently, http://localhost:8000/polls/
+  ("polls" is one of my pages.)
+** part 2
+*** <project-root>/<site-name>/settings.py
+    uses SQLite by default.
+**** PITFALL: for production, switch to something heavier-duty
+ like Postgresql
+**** choose TIME_ZONE from this list
+ https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+**** contains (among other things) a list of installed Django apps
+**** if any apps must use the database, run "migrate" to (make the db?)
+ python manage.py migrate
+*** mysite/app/models.py
+    explains the structure of a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_django_database.org][Django Database]]
+*** to (install?) an app in a project
+:PROPERTIES:
+:ID:       d7718be6-7488-4a0e-8592-61b0a69a98f8
+:END:
+**** modify mysite/settings.py
+    INSTALLED_APPS = [
+ +    'polls.apps.PollsConfig', # the new app
+      'django.contrib.admin',
+      'django.contrib.auth',
+     ...
+**** then make migrations for the app, and execute them
+     see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/django_database_migrations.org][Django Database Migrations]]
+*** the "Django shell"
+    start it with
+      python manage.py shell
+**** *LIES*: according to part 2 of the tutorial it's nearly an ordinary python REPL
+ https://docs.djangoproject.com/en/3.0/intro/
+"manage.py sets the DJANGO_SETTINGS_MODULE environment variable,
+which gives Django the Python import path to your mysite/settings.py file."
+**** it loads 1031 libraries
+by running this:
+  import os
+  for i in sys.modules.keys(): print(i)
+(Running the same code in a shell opened with python3 shows only 61.)
+**** shell commands like `ls` are available in it
+**** tab completion after a dot is not available in it
+*** populate and modify the database, using the Django shell
+**** from polls.models import Choice, Question
+***** PITFALL: Every appearance of the word "question" and "choice" below,
+including in longer field names, was automatically generated
+based on our class names Question and Choice.
+**** Question.objects.all()
+**** instantiate a Question
+ that is, make a member of the already-defined Question class
+
+from django.utils import timezone
+q = Question( question_text="What's new?",
+              pub_date=timezone.now() )
+q.save() # write `q` to the database
+**** modify a question
+In [4]: Question.objects.all()[0]
+Out[4]: <Question: What's up?>
+
+In [5]: q = Question.objects.all()[0]
+
+In [6]: q.question_text = "What's going down?"
+
+In [9]: q.save()
+**** filter objects
+ Question.objects.filter( question_text__startswith='What')
+ Question.objects.filter(id=1)
+ from django.utils import timezone
+ current_year = timezone.now().year
+ Question.objects.get( pub_date__year = current_year )
+   # PITFALL: __ here is used like it was (.)
+ Question.objects.get(pk=1)
+   # works regardless what the primary key is called
+ q = Question.objects.get(pk=1)
+**** execute a user-defined method
+ q . was_published_recently()
+**** sets of associated rows
+***** PITFALL: The definition of the host object does not (necessarily? ever?) know about its contents from other tables.
+ For instance, in the tutorial's example "polls" app,
+ there are Question and Choice types.
+ Every Choice includes a field that is a Question.
+ Thus every Question has (potentially) multiple Choices associated with it,
+ but the definition of the Question type refers nowhere to Choice.
+***** given a row, view associated rows from another table
+ q.choice_set.create(choice_text='The usual', votes=0)
+ q.choice_set.create(choice_text='Conquering the world', votes=0)
+ q.choice_set.create(choice_text='So much winning', votes=0)
+***** fold such a set
+ q.choice_set.count()
+**** "field lookups"
+ lots of automatically created names
+ https://docs.djangoproject.com/en/3.0/topics/db/queries/#field-lookups-intro
+***** example
+ Choice.objects.filter( question__pub_date__year = current_year)
+***** double underscores are like dot in these names
+***** class names are used to generate fields in other classes
+**** delete a set of foreign keys
+This deletes not every choice, but every choice associated with q:
+
+ c = q . choice_set . filter( choice_text__startswith = 'Conquering')
+ c . delete()
+*** to use the website to restructure the database
+**** create a superuser (offline)
+ python manage.py createsuperuser
+**** make an app admin-modifiable (offline)
+ use django.contrib.admin.site.register
+ see sample code at polls/admin.py
+**** visit admin site
+ 127.0.0.1:8000/admin
+** part 3
+*** Many (most?) of my notes for this section are in the code
+Specifically in
+  polls/urls.py
+  polls/views.py
+  polls/templates/polls/*.html
+*** the term URLCONF
+  ROOT_URLCONF is defined in settings.py -- e.g.
+    ROOT_URLCONF = 'ebdjango.urls'
+  Each urls.py file is another URLCONF.
+  They can refer to each other in a tree shape.
+    (I assume cycles aren't allowed.)
+*** how Django matches a `urlpattern`
+  It starts at <project-name>.urls.urlpatterns(),
+  where it looks up the first part of the URL.
+  That will probably lead it to a function in another urls.py file,
+  e.g. <app-name>.urls.urlpatterns(), which might lead to yet another.
+  Eventually it bottoms out at a view -- e.g. see polls.urls.urlpatterns.
+*** TODO How do capture patterns like <int:pk> work when the view the urls lead to is not a function but a View object?
+**** I've answered the question in a special case
+  Namely, in the special case of the code in the polls/ project.
+
+  There, the "pk" variable clearly indicates which object to load.
+  For instance, consider the url pattern
+    path('<int:pk>/', # Matches an integer and
+          views.DetailView.as_view(),
+          name='detail'),
+
+  which correspond to the view
+    class DetailView(generic.DetailView):
+      model = Question
+      template_name = 'polls/detail.html'
+
+  In this case, "pk" must indicate which Question to load into the view.
+
+  But in general I don't know what they correspond to.
+  Maybe "pk" is the only name that will work for this kind of View?
+**** my question
+Clearly the part before the : is a type, and the part after is its name.
+In the case where the url leads to an ordinary function,
+the value matching the pattern is passed to the corresponding argument name.
+This is the case, e.g., for the line
+    path('<int:question_id>/vote/', views.vote, name='vote'),
+in polls/urls.py, which calls the ordinary function
+    def vote(request, question_id):
+in polls/views.py.
+
+But the sequence of urlconfs might end up "calling" something that's not
+an ordinary function, but instead a subtype of the View class.
+This is the case, e.g., in the line
+    path('<int:pk>/', # Matches an integer and
+          views.DetailView.as_view(),
+          name='detail'),
+from polls.urls, which corresponds to the View
+    class DetailView(generic.DetailView):
+      model = Question
+      template_name = 'polls/detail.html'
+in polls.views. And the string "pk" appears nowhere in that class def!
+*** each view must either
+**** return an HttpResponse
+which contains  the content for the requested page
+**** raise an Http404 exception
+*** (HTML) templates
+  Templates \ Django documentation \ Django:
+    https://docs.djangoproject.com/en/3.0/topics/templates/
+  To separate the design (HTML) from the code (Python) for views.
+**** Calling Python code from HTML code
+***** dot-lookup syntax is overloaded
+ The (.) operator first tries one kind of lookup, then another ...
+
+ "The template system uses dot-lookup syntax to access variable attributes. In the example of {{ question.question_text }}, first Django does a dictionary lookup on the object question. Failing that, it tries an attribute lookup – which works, in this case. If attribute lookup had failed, it would’ve tried a list-index lookup."
+***** (at least some) Python functions are called from HTML without parens
+ Example:
+
+ `question.choice_set.all` in the template (HTML)
+ is interpreted as the Python code `question.choice_set.all()`,
+ which returns an iterable of (Python) Choice objects
+  and is suitable for use in the {% for %} (HTML) tag.
+**** the purpose: separate format from content
+The functions in views.py ideally only describe content,
+and leave the formatting to the templates.
+That way the format of many views can be changed in one place.
+**** PITFALL: the folders and namespacing for templates are confusing
+ By default, DjangoTemplates looks for a `templates` folder in each installed app.
+ Put the index template at `polls/templates/polls/index.html`.
+ "You can refer to this template within Django as polls/index.html."
+**** rendering
+ One can fetch the template explicitly or implicitly:
+
+   def index(request):
+     latest_question_list = Question.objects.order_by('-pub_date')[:5]
+     context = { 'latest_question_list': latest_question_list }
+
+     # fetch the template implicitly
+     return render(request, 'polls/index.html', context)
+
+     # equivalent: fetch and render from the template explicitly
+     template = loader.get_template('polls/index.html')
+     return HttpResponse(
+       template.render(context, request))
+**** get-or-404
+***** explicitdef detail(request, question_id):
+   try:
+     question = Question.objects.get( pk=question_id )
+   except Question.DoesNotExist:
+     raise Http404( "Question does not exist" )
+   return render( request,
+                  'polls/detail.html',
+                  {'question': question} )
+***** shorthand
+ def detail(request, question_id):
+   question = get_object_or_404( Question, pk=question_id )
+   return render( request,
+                  'polls/detail.html',
+                  {'question': question} )
+**** relative links
+ polls/index.html has a passage like this (minus the comment)
+     <ul>
+     {% for question in latest_question_list %}
+       <!--
+       This would work too, but absolute links are hard to refactor.
+       <li><a href="/polls/{{ question.id }}/">{{ question.question_text }}</a></li>
+       The next line is better. It relies on the "detail" line in polls/urls.py.
+       -->
+       <li><a href="{% url 'detail' question.id %}">{{ question.question_text }}</a></li>
+     {% endfor %}
+     </ul>
+** part 4: views, forms, gets, posts and more
+*** Most of my notes are in the code, esp. these files:
+(in descending order of importance | volume of edits)
+polls/views.py
+polls/templates/polls/*.html
+polls/urls.py
+*** see code
+esp. templates/polls/detail_2.html
+*** csrf_token
+  Use these around to prevent "cross site request forgery" attacks.
+
+  "all POST forms that are targeted at
+   internal URLs should use the {% csrf_token %} template tag"
+
+  e.g.
+    <form action="..."
+          method="post">
+      {% csrf_token %}
+      ... do stuff ...
+    </form>
+*** Follow every POST with a redirect.
+  Always return an HttpResponseRedirect after successfully dealing
+  with POST data. This prevents data from being posted twice if a
+  user hits the Back button. (This advice is not Django-specific.)
+** part 5: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/testing_in_django.org][Testing in Django]]
+** part 6: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/static_files_in_django_esp_for_stylesheets_and_images.org][Static Files in Django, esp. for Stylesheets and Images]]
+** part 7: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/customizing_the_django_admin_form.org][Customizing The Django Admin Form]]
+* The "topic guides"
+https://docs.djangoproject.com/en/3.0/topics/
+** TODO Resume at
+The page called "Models":
+  https://docs.djangoproject.com/en/3.0/topics/db/models/
+  The section called "Relationships"
+** inter-file connections
+*** SUPPOSE throughout these notes that at the root of the project
+ there's manage.py,
+ there's a folder called "site"
+   (in my sample code, this corresponds to <project-root>/<site-name>/)
+ and there's a folder call "app"
+   (in my sample code, this corresponds to polls/)
+*** models must be defined at app/models.py
+*** models must be registered at site/settings.py
+ by changing the INSTALLED_APPS variable
+*** each time a new model is added
+ When you add new apps to INSTALLED_APPS,
+ be sure to run
+   manage.py migrate,
+ optionally making migrations for them first with manage.py makemigrations.
+** PITFALLS
+*** changing the PK creates a new object
+ https://docs.djangoproject.com/en/3.0/topics/db/models/
+ "The primary key field is read-only. If you change the value of the primary key on an existing object and then save it, a new object will be created alongside the old one. For example..."
+* TODO ? authentication for Apache via Django
+https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/apache-auth/
+"""
+Django provides a handler to allow Apache to authenticate users directly
+against Django’s authentication backends.
+"""
+* solutions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ways_to_reconcile_different_versions_of_python.org][ways to reconcile different versions of Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/load_local_modules_into_the_django_shell.org][load local modules into the Django shell]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1effb039-5b2a-4862-9fd1-420af4d6888e
+:ROAM_ALIASES: "FRP (functional reactive programming)"
+:END:
+#+title: functional reactive programming
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dunai_reactive_monad_generalizes_many_frp_idioms.org][Dunai: reactive monad generalizes many FRP idioms.]]

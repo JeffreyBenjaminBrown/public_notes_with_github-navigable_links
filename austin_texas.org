@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0d4e593c-d8c6-4a71-8c2b-a531c69da1de
+:END:
+#+title: Austin, Texas
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/people_i_know_in_austin.org][people I know in Austin]]

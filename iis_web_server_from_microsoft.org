@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c37ed90e-10cb-4254-a575-c472a512e698
+:ROAM_ALIASES: "Internet Information Services"
+:END:
+#+title: IIS (web server from Microsoft)
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dian/syga_s_iis_logs.org][IIS & private]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e4eaf8af-b544-4db1-8e75-a24f534f6a8d
+:END:
+#+title: Actions Menu, the \ Reaper
+* Use (?) to access it.
+* TODO PITFALL : It appears not to show all shortcuts.
+:PROPERTIES:
+:ID:       806855a8-3035-489d-8ad5-95c0c7cf169e
+:END:
+  Is it only for user-defined ones?
+* It displays, and can change, *settings*.
+  This is surprising -- it looks designed just to change shortcuts.
+** How to change a setting.
+   If it's a toggle, its value (on or off) is shown on the right.
+   Double-click on that value to toggle it.
+*** PITFALL: The window disappears when you do this.
+    That happens before you can visually confirm the change you made.
+* It displays, and can change, shortcuts.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/actions_menu_the_reaper.org#todo-pitfall--it-appears-not-to-show-all-shortcuts][PITFALL : It appears not to show all shortcuts.]]

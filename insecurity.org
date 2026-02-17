@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       28181732-11ed-4a6a-a998-84d40d32affb
+:ROAM_ALIASES: inadequacy
+:END:
+#+title: insecurity
+* insecurity (self-image)
+= a feeling of being insufficient or unworthy
+** Its appropriateness depends on a somewhat [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lightness.org][arbitrary]] judgment call.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/workaholism_insecurity.org][insecurity => workaholism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/closeness.org#i-want-someone-to-be-with-me-in-my-thoughts-and-feelings][I want someone to be with me in my thoughts and feelings.]]

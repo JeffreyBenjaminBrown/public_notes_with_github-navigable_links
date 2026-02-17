@@ -1,0 +1,281 @@
+:PROPERTIES:
+:ID:       0022503a-7ad9-4779-8006-661464de9f91
+:END:
+#+title: Gleam (programming language)
+* TODO CONFIG PROBLEMS
+** what happened
+:PROPERTIES:
+:ID:       24d4a5b8-9ca4-4072-bdd2-bf57d12ff2c5
+:END:
+   I couldn't compile the OTP repo. Someone recommended more recent versions. So I [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_packages_create_build_install_publish.org#3---commands-to-build-it][installed via my nixpkgs clone]] the packages gleam and rebar3, and commented them out of my Nix config.
+   But that wasn't recent enough, and I could not easily add a new Nix package for the newest Gleam.
+** the upshot
+   I may need to uninstall gleam and rebar3 before enabling them in my Nix config.
+* TODO suggest in Gleam OTP README
+** Check this blog post.
+   https://gleam.run/news/gleam-v0.12-and-gleam-otp-v0.1-released/
+** How to get it.
+*** Add gleam_otp to the `deps` section of a project's rebar.config file.
+**** an example
+     {deps, [
+       {gleam_stdlib, "0.16.0"},
+       {gleam_otp, "0.1.6"}
+     ]}.
+**** TODO Why does version 0.2.0 not work, but 0.1.6 does?
+*** (In general, to find the name of a library, search for it on hex/hexdocs.)
+    https://hexdocs.pm/
+*** Run `rebar3 get-deps`.
+*** Now when you run `rebar3 shell` (or a number of other rebar3 commands)
+*** (Thanks to Reddit user u/TanklesXXL.)
+* why
+  It's like Erlang with strong types.
+* the Discord is helpful
+  https://discord.com/invite/Fm8Pwmy
+* refs
+** The Gleam.Run documentation hub
+   https://gleam.run/documentation/
+** The OTP documentation
+   https://hexdocs.pm/gleam_otp/
+** I downloaded lots of sample code.
+   /home/jeff/code/concurrent-langs/gleam/by-others
+* TODO what about concurrency?
+** An old post on the Gleam blog describes using OTP a little.
+   https://gleam.run/news/gleam-v0.12-and-gleam-otp-v0.1-released/
+** what the Gleam Book suggested
+   "To find out more about Erlang fault tolerance see the Gleam OTP project and the Learn You Some Erlang chapter on supervisors."
+   https://gleam.run/book/tour/assert.html
+** where I could file an issue
+   https://github.com/gleam-lang/suggestions/issues/
+* the language
+** types
+*** constants
+    pub const numberOfDucks : Int = 100
+*** Booleans and Boolean logic
+**** && and // are lazy
+     unlike Erlang.
+**** most operators are not builtin
+     e.g. `not` is not builtin.
+     Instead see the module
+       gleam/bool
+*** numbers
+**** the operators for floats and ints are different
+     The float operators look the same followed by a period.
+**** Numeric underscores are permitted.
+**** blocks return the value of their last expression
+     but every expression in the block is evaluated.
+
+     let value: Bool = {
+         "Hello"
+         42 + 12
+         False
+     } // => False
+*** tuples
+**** use postfix `.n` to access the (n-1)th value in a tuple
+*** Result : like Haskell's Either
+**** definition
+     pub type Result(value, reason) {
+       Ok(value)
+       Error(reason)
+     }
+**** `try` short-circuits Result computations.
+     try int_a = parse_int(a)
+     try int_b = parse_int(b)
+     try int_c = parse_int(c)
+     Ok(int_a + int_b + int_c)
+*** functions
+**** a template
+     pub fn add(x: Int, y: Int) -> Int {
+       x + y
+     }
+**** functions as arguments look funny
+     pub fn twice ( f: fn(t) -> t,
+                    x: t )
+                    -> t {
+       f ( f ( x ) )
+     }
+**** (|>) is like ($) in Haskell but backwards
+***** the idea
+      These are equivalent:
+
+      iodata.to_string(iodata.reverse(iodata.new(string)))
+
+      string
+      |> iodata.new
+      |> iodata.reverse
+      |> iodata.to_string
+**** PITFALL: argument labels (optional) can differ from argument variable names
+     pub fn replace(
+       in string: String,
+       each pattern: String,
+       with replacement: String,
+     ) {
+       // The variables `string`, `pattern`, and `replacement` are in scope here
+     }
+
+     replace(in: "A,B,C", each: ",", with: " ")
+**** anonymous functions
+     #lambda
+***** a template
+      fn(x, y) { x + y }
+***** "Function capture": some nice shorthand
+****** ref
+       https://gleam.run/book/tour/functions.html#function-capturing
+****** what it's shorthand for
+       anonymous arity-1 functions that do nothing but
+       hand their argument to a higher-arity function
+****** how it works
+       if the anonymous function is of one argument,
+       and just hands that argument to some multi-argument function,
+       you can skip the `fn` formalism:
+
+       pub fn run() {
+         // This is the same as add(add(add(1, 3), 6), 9)
+         1
+         |> add(_, 3)
+         |> add(_, 6)
+         |> add(_, 9)
+       }
+****** PITFALL: there's a confusing varriety
+       This usage:
+
+       pub fn run() {
+         // This is the same as add(add(add(1, 3), 6), 9)
+         1
+         |> add(_, 3)
+         |> add(_, 6)
+         |> add(_, 9)
+       }
+
+       """
+       is so common that there is a special shorthand for it.
+
+       pub fn run() {
+         // This is the same as the example above
+         1
+         |> add(3)
+         |> add(6)
+         |> add(9)
+       }
+       The pipe operator will first check to see if the left hand value
+       could be used as the first argument to the call,
+       e.g. a |> b(1, 2) would become b(a, 1, 2).
+
+       If not it falls back to calling the result of the right hand side
+       as a function , e.g. b(1, 2)(a).
+       """
+*** user-defined types
+**** template
+     pub type Cat {
+       Cat(name: String, cuteness: Int)
+     }
+**** Sum type definitions separate constructors with newlines.
+     pub type Bool {
+       True
+       False
+     }
+**** Access fields of product types with (.).
+     let cat = Cat(name: "Nubi", cuteness: 2001)
+     cat.name // This returns "Nubi"
+**** polymorphic type declarations
+     pub type Box(inner_type) {
+       Box(inner: inner_type)
+     }
+**** `opaque` lets a public type's fields and constructors be private.
+     pub opaque type Counter {
+       Counter(value: Int)
+     }
+**** record updates
+     Use `..<name>` to duplicate unspecified records.
+     PITFALL: Records are immutable; "updates" actually create new data.
+***** example
+      pub type Person {
+        Person(
+          name: String,
+          age: Int,
+          is_happy: Bool,
+        )
+      }
+
+      pub fn have_birthday(person) {
+        Person(..person, age: person.age + 1, is_happy: true)
+        }
+*** type alias
+    pub type Headers =
+      List(#(String, String))
+** pattern matching
+*** names in pattern matches
+    case xs {
+      [[_, ..] as inner_list] -> inner_list
+        # The _ ensures the list is nonempty.
+      other -> []
+    }
+*** conditions in pattern matches: use `if`
+    case xs {
+      [a, b, c] if a == b && b != c -> "ok"
+      _other -> "ko"
+    }
+*** `or` on pattern matches
+    case number {
+      2 | 4 | 6 | 8 -> "This is an even number"
+      1 | 3 | 5 | 7 -> "This is an odd number"
+      _ -> "I'm not sure"
+    }
+*** case switches can pattern match
+    case x, y {
+      1, 1 -> "both are 1"
+      1, _ -> "x is 1"
+      _, 1 -> "y is 1"
+      _, _ -> "neither is 1"
+    }
+** type variables, like others, are lowercase
+** modules and exports
+*** Functions not marked "pub" are private to that module.
+*** Complete qualification is not needed to call imported functions.
+    // inside src/nasa/moon_base.gleam
+
+    import nasa/rocket_ship
+
+    pub fn explore_space() {
+      rocket_ship.launch()
+        // Note that `nasa` is omitted.
+    }
+*** Imported modules can be qualified.
+    import unix/cat
+    import animal/cat as kitty
+*** (selective) unqualified imports
+    import animal/cat.{Cat, stroke}
+
+    pub fn main() {
+      let kitty = Cat(name: "Nubi")
+      stroke(kitty)
+    }
+*** The prelude, `gleam`, can be explicitly imported.
+    Can be useful for avoiding name conflicts.
+** errors
+*** `assert` can bind variables and crash.
+     assert Ok(i) = parse_int("123")
+     // If it matched, now `i` is 123.
+     // If it didn't, the assert has crashed.
+*** `todo` is like Haskell's "error"
+**** The message is optional.
+     fn favourite_number() -> Int {
+       todo("We're going to decide which number is best tomorrow")
+     }
+**** Can be used for type inspection.
+     fn main() {
+       my_complicated_function(
+         // What type does this function take again...?
+         todo
+       )
+     }
+** SKIPPED: bit strings
+   https://gleam.run/book/tour/bit-strings.html
+** SKIPPED: external (BEAM) functions
+   https://gleam.run/book/tour/external-functions.html
+** SKIPPED: external (BEAM) types
+   https://gleam.run/book/tour/external-types.html
+* the standard library
+  https://hexdocs.pm/gleam_stdlib/
+* to install more libraries
+  Search for it on "Hex / Hexdocs":
+  https://hexdocs.pm/

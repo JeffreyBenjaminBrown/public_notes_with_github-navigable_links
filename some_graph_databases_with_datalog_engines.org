@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       25e13f6c-b134-4305-a4d5-327739dd7b8f
+:END:
+#+title: some graph databases with Datalog engines
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cozo_graph_db_with_datalog_query_language.org][Cozo (graph db with Datalog query language)]]
+* Datomic
+  Complex and proprietary.
+* Liquid
+  Open-source.

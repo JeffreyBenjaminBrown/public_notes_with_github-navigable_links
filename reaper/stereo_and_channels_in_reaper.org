@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6ba680fe-4512-452b-88fe-5a4b0cc7417a
+:ROAM_ALIASES: "channels and stereo in Reaper"
+:END:
+#+title: stereo and channels in Reaper
+* PITFALL: For stereo operations, look for the term "channel".
+:PROPERTIES:
+:ID:       1fdafc48-468f-4bc6-a749-52e6c0bf5dcf
+:END:
+  e.g. manual section "Item Channel Mode and Channel Mapping"
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/fast_channel_manipulations_in_reaper.org][fast channel manipulations in Reaper]]
+* Stereo and even more-multichannel tracks are possible.
+:PROPERTIES:
+:ID:       fca74669-9d61-462a-b9ef-7ca20ffc4801
+:END:
+** Both mono and stereo tracks can be placed in the stereo spectrum.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/routing_matrix_in_reaper.org#its-view-can-be-simplified-by-toggling-the-option-show-non-standard-stereo-channel-pairs][The Routing Matrix view can be simplified by toggling the option "Show non-standard stereo channel pairs"]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mixing_buses_and_routing_in_reaper.org#todo-what-is-a-parent-channel][What is a "parent channel"?]]

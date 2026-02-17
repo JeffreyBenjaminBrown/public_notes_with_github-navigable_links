@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cea5135e-4714-4feb-b2fb-2a889b811825
+:END:
+#+title: IP address
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_get_ip_and_mac_addresses_in_linux.org][how to get IP and MAC addresses in Linux]]

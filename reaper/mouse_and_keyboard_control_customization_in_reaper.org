@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       d78888f7-5f86-482e-ae3e-7ca15b036e69
+:END:
+#+title: mouse and keyboard controls in Reaper
+* the keybaord [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org][shortcuts in Reaper]]
+* the mouse
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org#with-the-mouse][zooming and scrolling with the mouse]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org#adjusting-faders-1][adjusting faders]]
+** configuring the mouse modifier space (which is *huge*)
+:PROPERTIES:
+:ID:       e0bcc9dc-9696-41f7-abe3-6d82576c60fe
+:END:
+*** Preferences / Editing Behavior / Mouse Modifiers
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/setting_up_io_for_reaper.org#the-virtual-midi-keyboard][the Virtual MIDI Keyboard]]
+* scrolling and zooming
+:PROPERTIES:
+:ID:       a8fd7441-0240-493b-95f8-ecf4c9e996e7
+:END:
+** with the mouse
+:PROPERTIES:
+:ID:       b1f54965-a3cd-4195-bcd9-b2aaac40cb6c
+:END:
+*** four are built in : horizal|vertical x zoom|scroll
+**** use C for vertical (horiz is the default)
+**** use M for scroll   (zoom  is the default)
+** with the keyboard
+:PROPERTIES:
+:ID:       4408cdc9-5e4a-4680-bb1c-1d3e61c2f5dd
+:END:
+*** + and -      : zoom in time
+*** M-up/down    : move view window up/down (in pitch)
+*** Page up/down : zoom in pitch
+    page down = see more, smaller representations
+* adjusting faders
+:PROPERTIES:
+:ID:       e1f175af-4cc4-4929-bd62-5c5b54b411b5
+:END:
+** Use Alt to audition changes.
+   The fader will go back to where it was afterward.
+** Hold Ctrl for finer mouse adjustments.
+** Scroll wheel (two-finger scroll?) also works if enabled.

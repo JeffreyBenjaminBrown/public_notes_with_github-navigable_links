@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       25793e77-ebb6-43c5-a34c-ab08c69f18a2
+:END:
+#+title: Eichman in Jerusalem, book by Hanah Arendt
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org#pride--stupidity][pride => stupidity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cowardice_evil.org][cowardice => evil]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/laziness_evil.org][laziness => evil]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/eichmann_only_ever_used_the_language_supplied_to_him_by_the_german_government_to_think_about_his_work.org][Eichmann only ever used the language supplied to him by the German government to think about his work.]]

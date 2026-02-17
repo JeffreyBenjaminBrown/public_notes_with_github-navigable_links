@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d3a8c63e-f596-4e8d-adc4-3e4a8d2e3e11
+:END:
+#+title: Andrés Link
+* primatologist at Universidad de Los Andes
+* found that [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chimpanzees_seem_to_intentionally_ferment_fruits_for_later_consumption.org][chimps seem to intentionally ferment fruits for later consumption.]]

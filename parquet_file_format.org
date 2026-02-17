@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8475bbbf-efbb-423e-901c-b464e807784c
+:END:
+#+title: parquet (file format)
+* pros and cons
+** advantages, from Wikipedia
+*** Column-wise compression is efficient in storage space
+*** Encoding and compression techniques specific to the type of data in each column can be used
+*** Queries that fetch specific column values need not read the entire row, thus improving performance
+** disadvantage: not human-readable
+** "The industry standard" for compressed tabular data.
+   said ChatGPT
+* a less efficient but human-readable alternative
+  Just keep a folder for each table,
+  with a file for each column.
+  Each such file has two columns:
+  an index (ideally in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/base64url.org][base64url]]),
+  and the data of interest.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pandas_formats.org#pandas-can-export-to-parquet][Pandas can export to parquet.]]

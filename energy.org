@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       40705e00-dcdc-48a4-86de-5e32ef01815f
+:END:
+#+title: energy , personal
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/2024_11_07_thu_mood_and_energy.org][Goal can affect energy profoundly.]]
+* reading about it feels bad
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org][Living like there's no tomorrow]].

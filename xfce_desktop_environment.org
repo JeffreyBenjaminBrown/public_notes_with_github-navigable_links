@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dd8238af-6bce-4242-ab4d-b531190092f4
+:ROAM_ALIASES: xfce
+:END:
+#+title: xfce (desktop environment)
+* TODO merge [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/xfce.org][Xfce]]
+* PITFALL, DEALBREAKER: screen zoom is buggy
+  If you zoom into somoething (settings, say)
+  and then open a subwindow (languages, say)
+  the submenu displays very incorrectly.
+** TODO Unless maybe I can build [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/boomer_platform_independent_screen_zoom_application.org][boomer]] and it works well.
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/xfce_keyboard_shortcuts.org#todo-adding-my-own-shortcuts-is-not-working][Adding my own shortcuts is not working.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/xfce_keyboard_shortcuts.org][xfce keyboard shortcuts]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/screen_zoom_computer_interface_concept.org#screen-zoom-in-xfce][screen zoom in xfce]]
+* solutions
+** kill top *and* bottom application bars in xfce ("the panel")
+:PROPERTIES:
+:ID:       d1c01fb5-6fb8-48e0-b23b-a2f48bff3a62
+:END:
+   pkill xfce4-panel
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/xmonad_window_manager.org#using-xmonad-and-xfce-in-nixos][using xmonad and xfce in NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/xfce.org#todo-in-xfce][TODO in Xfce]]

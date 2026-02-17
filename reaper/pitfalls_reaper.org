@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       c845c381-8b0b-4b7a-82e8-71f70110304e
+:ROAM_ALIASES: "Reaper pitfalls" "PITFALLS in Reaper"
+:END:
+#+title: pitfalls in Reaper
+* u
+** BPM interacts with the easily missed "rate" field
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_did_i_break_a_midi_track_in_reaper.org#pitfall-its-easy-to-mistake-this-for-a-failure-of-jack][PITFALL: It's easy to mistake a broken track for JACK failure.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/midi_devices_are_not_by_default_enabled_as_input_in_reaper.org][MIDI devices are not by default enabled as input in Reaper.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/moving_the_play_cursor_reaper.org#if-clicking-the-timeline-jumps-the-cursor-to-a-crazy-place][if clicking the timeline jumps the cursor to a crazy place]]
+* if [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/copying_midi_notes_changes_their_lengths_reaper.org][copying MIDI notes changes their lengths! \ Reaper]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/that_left_right_behave_differently_in_arrange_view_and_edit_view_is_arguably_a_feature_not_a_bug_reaper.org][left/right behave differently in arrange view and edit view]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/accidental-change-of-focused-window-in-Reaper.org][accidental change of focused window]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#pitfalls][MIDI pitfalls]]
+* There are two Actions Lists.
+:PROPERTIES:
+:ID:       25af2475-7c85-461b-93ca-762cd9be3e4f
+:END:
+  One is for the Arrange view, the other for the MIDI editor.
+  Or maybe they're the same thing,
+  but they show different results in those two contexts.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ripple_editing_in_reaper.org#pitfalls][pitfalls when Ripple Editing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org#pitfall-dangerous-shortcuts][dangerous shortcuts]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org#r-toggles-repeat-which-is-dangerous-during-recording][`R` toggles repeat, which is dangerous during recording.]]
+* Propogating Items means propogating an item's *properties* to other items.
+:PROPERTIES:
+:ID:       21bbb484-4a5a-476f-9130-3714cb9342cf
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/time_regions_and_transport_in_Reaper.org#advice--fix-it-early][advice : fix the project Timebase early]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_is_surprisingly_configurable.org#pitfall-some-settings-are-global][Some settings are global ...]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/actions_menu_the_reaper.org#todo-pitfall--it-appears-not-to-show-all-shortcuts][The Action Menu appears not to show all shortcuts.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/views_in_reaper.org#pitfall-themes-and-layouts-controls-what-is-shown-not-just-how-1][Themes and Layouts controls *what* is shown, not just how.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/time_regions_and_transport_in_Reaper.org#pitfall-marker-names-start-and-end-are-special][Marker names =START and =END are special.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/looping_the_edit_reaper.org#pitfall-time-looping-and-item-looping-the-edit-are-different][Time looping and item looping (the edit) are different.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/looping_the_edit_reaper.org#pitfall-having-snapping-enabled-helps][WHen creating a loop (as an edit), having snapping enabled helps.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#pitfall-nuances-involving-fx-and-channels-when-gluing-items][Nuances involving FX and channels when gluing items.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/stereo_and_channels_in_reaper.org#pitfall-for-stereo-operations-look-for-the-term-channel][To read about stereo operations, look for the term "channel".]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/grid_lines_and_snapping_reaper.org#pitfall-snapping-for-ruler-markers-regions-not-separately-configurable][Snapping of ruler markers and regions]] is not separately configurable.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/fades_and_crossfades_reaper.org#pitfall-toggling-automatic-crossfade-when-splitting-an-item-seems-tricky][Toggling automatic crossfade when splitting an item seems tricky.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/setting_up_io_for_reaper.org][audio and MIDI IO in Reaper]]
+* To use smart editing, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#pitfall-loop-points-linked-to-time-selection-should-be-off]["Loop Points Linked to Time Selection" should be off.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#pitfall-media-and-their-envelopes-can-get-out-of-sync][Media and their envelopes can get out of sync.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org#pitfall-two-views-of-the-track-controls-might-be-visible-at-once][Two views of the track controls can be visible at once.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/time_regions_and_transport_in_Reaper.org#advice--fix-it-early]["When possible, get your project timebase settings right before you record or import any items."]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/vocabulary_in_reaper.org#fx-includes-is-plugins-and-is-both-singular-and-plural]["FX" includes (is?) plugins, and is both singular and plural.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/resource_management_memory_cpu_cycles_latency_reaper.org][resource management (memory, CPU cycles, latency)]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       01902cc2-c26a-425d-9792-6eb3c5d1d87d
+:END:
+#+title: phone chores
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/repair_my_closet_using_its_warranty.org][repair my closet using its warranty]]
+* Does Bancolombia know I'm in the new condo?

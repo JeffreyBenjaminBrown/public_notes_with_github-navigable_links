@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ccae4c2d-ee71-4c9c-acea-99074df994da
+:END:
+#+title: expression
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org][expression , how to]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org][art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/closeness.org][intimacy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][comedy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irony.org][irony]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org][expressivity voids , observed]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/words_are_more_specific_than_music.org][Words are more specific than music.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/english_has_a_lot_of_words_for_calm.org][English has a lot of words for {calm, ...}.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fun_times_to_say_that_is_a_complete_sentence.org][fun times to say "that is a complete sentence"]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/things_i_have_failed_to_express.org][things I have wnated to but not expressed]]

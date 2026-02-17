@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       4174cedc-c3ab-4b1a-ad5b-b9c222a4945c
+:END:
+#+title: FX | plugins \\ Reaper
+* refs
+** There's a book about it.
+   ReaMix: Breaking the Barriers with REAPER
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/vocabulary_in_reaper.org#fx-includes-is-plugins-and-is-both-singular-and-plural]["FX" includes (is?) plugins, and is both singular and plural.]]
+* some actions (inc. shortcuts)
+** show track FX
+   alternatives
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org#show-fx-c-f][C-f]] is a shortcut I made.
+*** click its FX button
+:PROPERTIES:
+:ID:       356398ef-c121-493e-b920-c70a698df50f
+:END:
+** S-f open the "FX Browser" | the "Add FX window"
+** Individual FX can be "bypassed" (C-b) or "offline"d (C-M-b).
+   Offline FX consume no CPU.
+** many more
+* FX presets
+** FX presets can be saved from Reaper
+   as well as, potentially, from the plugin (e.g. Pianoteq)
+** The default preset for an FX can be set.
+** Many more can be downloaded.
+   "As well as the presets supplied with REAPER, you can download further sets by visiting http://stash.reaper.fm/ and following the link to FX Preset Libraries."
+* FX "Chain"s can be saved.
+* Whole subchains can be bypassed.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mixing_buses_and_routing_in_reaper.org#sends-and-receives-can-be-before-or-after-fader-pan-and-fx][Sends and receives can be before or after fader, pan and FX.]]
+* "Analyzing FX Performance" is possible.

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9739cf28-dad5-4061-8367-7f77cc166700
+:END:
+#+title: UBI
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/people_as_rich_as_rockstars_without_anyone_poor.org][people as rich as rockstars without anyone poor]]

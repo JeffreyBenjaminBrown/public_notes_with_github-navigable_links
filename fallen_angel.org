@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5455234f-3ee7-4700-b605-3ee08bc23f1e
+:END:
+#+title: fallen angel
+* see
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immaturity.org][immaturity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tragedies.org][tragedy]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/to_control_the_world_through_selective_and_probably_diminishing_blindness.org#controllling-ones-fall-from-innocence][controllled fall from innocence]]

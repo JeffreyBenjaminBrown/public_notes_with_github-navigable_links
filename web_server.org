@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a51a0dca-2c22-458c-b464-eb3e65046478
+:END:
+#+title: web server
+* DONE find a server
+** chosen: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws.org][AWS]]
+** a cheap-looking bare-metal server rental
+   https://gthost.com/bare-metal-server/
+** [[https://github.com/JeffreyBenjaminBrown/knowledge_graph_with_github-navigable_links/blob/master/obsolete/javeriana_dti_getting_them_to_serve_the_tax_co_microsimulation_website.org][Javeriana DTI: getting them to serve the tax.co microsimulation website]]

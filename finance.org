@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8fd004bd-338a-40a0-8634-b22dc7ee3765
+:END:
+#+title: finance
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/financial_acronyms.org][financial acronyms]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reciprocal_deposit_insurance_is_insane.org][Reciprocal deposit insurance is insane.]]

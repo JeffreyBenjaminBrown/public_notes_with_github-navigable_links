@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       862a4351-113f-4f86-9029-9dda3d3a781f
+:END:
+#+title: MIDI
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi_controls_i_would_like.org][MIDI controls I would like]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi_via_jack_in_python.org][MIDI via JACK in Python]]
+* MIDI CC messages
+** CC = control *change*
+*** elaboration
+    It's a (usually sparse) stream of instructions to update,
+    not a (continuous) stream of values for it to be.
+*** two choices: override ("set to") or offset ("increment or decrement by")
+** some standard assignments
+*** CC 7 = volume
+*** CC 10 = pan
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi-keyboard-esp-usb-in-linux-how-to-use.org][Use a MIDI USB keyboard in Linux.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi_in_to_ardour_on_linux.org][MIDI In to Ardour (and probably other things) on Linux]].

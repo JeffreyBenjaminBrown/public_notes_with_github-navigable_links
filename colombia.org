@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       1d0e24bc-a169-4f35-93de-aa3866c910f3
+:END:
+#+title: Colombia
+* problems Colombia faces
+:PROPERTIES:
+:ID:       2d2a69b3-e0b4-4f90-90ea-0481c6f88ecd
+:END:
+** unsustainable borrowing
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/laberinto_fiscal_by_oliver_pardo.org][Laberinto Fiscal by Oliver Pardo]]
+** little respect for or faith in law, government
+** large illegal money flows, with violence
+** lack of transparency
+*** Nobody knows spending by project.
+    The top-level record of government spending only records who received what money, not how they spent it.
+*** Changes to the DNP are made behind closed doors.
+**** Each one's vote is already decided before the public debate begins.
+:PROPERTIES:
+:ID:       bc6e8cc0-eced-4688-943a-4b4385c7a32e
+:END:
+***** TODO fact-check this
+      see backlinks
+**** Congresspeople thus can't take overt credit for its results.
+**** This removes their incentive to get stuff for their constitutents, and replaces it with a big bribery potential.
+     And the bribery potential seems only to be captured by a small minority of the politicians involved. [[CITATION NEEDED]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org#corruption][corruption]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/colombia_handling_its_laws_and_institutions.org][Colombia, laws and institutions]]
+* useful if you live here
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/international_shipping_into_colombia.org][international shipping into Colombia]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/zip_code.org#finding-postalzip-codes-in-colombia][finding postal|zip codes in Colombia]]
+* places I want to go
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/leticia_trip_to_2025_04_12_sat.org][Leticia, trip planned <2025-04-12 Sat>]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       89e80e2c-174a-43aa-9349-4c01ab4b0ed6
+:ROAM_ALIASES: "some recipes"
+:END:
+#+title: recipes, some
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/giardiniera_recipe_s_via_christine.org][giardiniera, recipe(s) via Christine]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/soup.org][soup]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/steamed_brussel_sprouts.org][steamed brussel sprouts]] are icredibly easy
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pickled_radish.org][pickled radish]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/baked_eggplant.org][baked eggplant]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/baked_cauliflower.org][baked cauliflower]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oatmeal.org][oatmeal]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beans.org][beans]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rice.org][rice]]

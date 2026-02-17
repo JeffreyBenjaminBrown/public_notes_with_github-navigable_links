@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       daaa2feb-2278-4864-99c3-21c6c7f3f019
+:ROAM_ALIASES: "lifting weights" "weightlifting" "working out" "workouts" "fitness"
+:END:
+#+title: exercise
+* DANGERS
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/exercise.org#remember-to-step-back-far-enough][Stair lunges : step back far enough!]]
+* stair lunges
+** Remember to step back far enough!
+:PROPERTIES:
+:ID:       09f43fbe-f95f-4826-a2d4-4e227fa87a11
+:END:
+   Do otherwise and the back toe (or worse, heel)
+   could catch on a stair, and I would fall backward,
+   with weights in my hands.
+* cleaning house >} fitness
+:PROPERTIES:
+:ID:       d4413b1b-dddd-4002-8fdb-99084bfea25b
+:END:
+** Clean first, because it *is* exercise.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sanctity_purity_innocence.org#cleanliness][cleanliness]]
+* fun, useful : variations on hanging upside down
+  e.g.
+** DANGER: Don't fall on head.
+** hanging from hands and knees
+   and then maybe pulling up until head can rest,
+   like it was a pillow, on the same bar the hands are holding
+** hanging from knees with hands on the ground
+   and then maybe doing handstand pushups
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/weight.org][weight]]
+* reps to do
+  The optimum depends on the exercise.
+** Heavy compounds (deadlift, row, press): 6–10 reps.
+** Bodyweight pulling (pull-ups): up to 12 reps.
+** Leg balance work (lunges, Cossacks): 8–12 reps.
+** Shoulder isolations (flies, rotator cuff): 12–20 reps.
+* some exercises, by area
+** cosmetic, safe to skip
+*** shrugs
+*** lateral raises
+    standing upright, lifting weights from hips outward
+    until the body forms a T
+** legs
+*** squats
+*** cossacks
+*** hip thrusts
+    face up, neck and arms on couch, feet on floor,
+    lift hips from floor, squeezing glutes at top
+*** skater jumps | lateral bounds
+*** some videos of some routines, no equipment needed
+**** https://www.facebook.com/share/r/1BXcdyx3ag/
+**** https://www.facebook.com/share/r/1E9dCYqs68/
+**** https://www.facebook.com/share/r/1512Gy4FWd/
+** back
+*** Bent over reverse flies
+**** Which also gets the shoulders
+*** deadlifts
+*** rows, inverted if I can
+** chest
+*** deficit pushups
+    With the hands on plates, so that you can go down further.
+    A bar won't work for that.
+*** surplus pushups
+    The opposite of deficit push-ups, where the feet are elevated.
+    I invented the name.
+*** archer pushups
+    Going back and forth between one hand and the other.
+*** Deficit and surplus pushups render ordinary ones redundant.
+** shoulders
+*** overhead press
+*** bent over reverse flies
+:PROPERTIES:
+:ID:       9c95daac-848c-4880-bb96-45e653b8e404
+:END:
+    Also gets back.
+    One-handed if lower-back needs the support.
+*** bent over rotator cuff extensions
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fartleks.org][Fartleks]] are good.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mobility_exercises.org][mobility exercises]]
+** maybe stale: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neck_exercises.org][neck exercises]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/climbing_sport.org][climbing (sport) & jbb]]
+* fantasy
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/walking_office_work_exercise_utopia.org][walking office work exercise utopia]]
+* nah
+** goofy workout equipment
+*** a [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/ring_to_work_out_hips.org][ring to work out hips]] while seated
+    Standing is better.

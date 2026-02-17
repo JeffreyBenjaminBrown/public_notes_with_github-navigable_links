@@ -1,0 +1,102 @@
+:PROPERTIES:
+:ID:       186371b0-e1eb-4a62-9354-f76fb3f63bbd
+:ROAM_ALIASES: hedonism
+:END:
+#+title: pleasure
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happiness.org][joy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org#pleasure-balance-higher-purpose][pleasure ~balance~ higher* purpose]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment.org#inner-peace-is-independent-of-circumstance][Inner peace is independent of circumstance.]]
+* independent of pleasure
+** Some good feelings are orthogonal to it.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org#todo-non-pleasure-purposes-for-art][One can use art (for healing) orthogonal to pleasure.]]
+* Opposites can both be pleasurable.
+:PROPERTIES:
+:ID:       baced92f-7d58-4410-ab2e-94a3e41552b1
+:END:
+** There is pleasure in both laughter and in seriousness.
+** There is pleasure in both energy   and in lethargy.
+* its plasticity
+** Pleasure is subjective.
+   e.g. not everyone enjoys roller coasters
+** Tastes can be acquired.
+   e.g. alcohol
+*** Not necessarily a worthwhile pursuite.
+** Enjoyment and desire are only loosely coupled.
+   We want some things that are not pleasurable,
+     (wait, what did I have in mind?)
+   and we enjoy some things that we do not want, or
+                            that we do not want to enjoy.
+** Pleasure's object need not be real.
+   "aesthetic or disinterested pleasure"
+   "A pleasure is disinterested if it is indifferent to the existence of the beautiful object ... For example, the joy of looking at a beautiful landscape would still be valuable if it turned out that this experience was an illusion"
+   -- Wikipedia on pleasure, <2025-07-10 Thu>
+     https://en.wikipedia.org/wiki/Pleasure
+* disorders
+:PROPERTIES:
+:ID:       6e37e3c8-2faf-473a-8dd6-fb87dcbe4649
+:END:
+** anhedonia: being unable to feel it
+** hedonophobia: being averse to it
+* some media|avenues
+** physical
+** emotional
+** ? intellectual
+*** about the ?
+    It's not obvious that intellectual pleasure can be separated from emotional pleasure.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awe.org][awe | wonder]]
+** social
+* some sources (and a few "anti-sources")
+** instances
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/closeness.org][intimacy]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org][power]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awe.org][awe]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org#flow-the-mental-state][flow]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beautiful_things.org][beauty]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gratitude.org][gratitude]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/play_fun.org][fun]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comfort.org][comfort]]
+*** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/trippy_well_posed_mathematical_questions.org][trippy questions]]
+*** being [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/social_skills.org][social]]
+*** having [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/judgment_taste.org][judgment | wisdom | taste]]
+*** beliefs about an object
+    e.g. that it is expensive, rare or historic,
+    whether or not it truly is
+** things we like to avoid (sometimes)
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tradition_stability_constancy.org][constancy]] | monotony | repetition
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprise.org][novelty | surprise]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org][drama]] and (less often) [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][comedy]]
+* the "peak–end rule"
+** definition
+   "[O]ur overall impression of past events is determined for the most part not by the total pleasure and suffering it contained but by how it felt at its peaks and at its end."
+   -- wikipedia on pleasure <2025-07-10 Thu>
+     https://en.wikipedia.org/wiki/Pleasure
+** Its application to colonoscopies is funny.
+:PROPERTIES:
+:ID:       355c31fa-de37-4053-8a0a-c3cc97f9a3c2
+:END:
+* Many have defined it only as the absence of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pain.org][suffering]].
+  e.g. Schopenhauer, who considered suffering the default or baseline.
+* hedonism ~ fatalism :: evidence
+:PROPERTIES:
+:ID:       93d35586-c1ee-42b0-9bdd-2070b7cdbb3b
+:END:
+  "A study found that procrastinators were less future-oriented than their non-procrastinator counterparts. This result was hypothesized to be in association with hedonistic perspectives on the present; instead it was found procrastination was better predicted by a fatalistic and hopeless attitude towards life.[33]"
+  --Wikipedia on procrastination, <2025-07-14 Mon>,
+    with the citation [33] corresponding to
+    " Jackson, T.; Fritch, A.; Nagasaka, T.; Pope, L. (2003). "Procrastination and Perceptions of Past, Present, and Future". Individual Differences Research. 1: 17–28. Archived from the original on 2023-04-17. Retrieved 2013-12-05."
+* the pleasure of knowing
+:PROPERTIES:
+:ID:       6603bfdd-3209-4b88-82f1-81c7aa3a6a3a
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#the-path-from-root-to-leaves-should-not-obscure-the-leaves][The path from root to leaves should not obscure the leaves.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mental_health.org#respect-simple-pleasures][Respect simple pleasures.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org#anthropic-god-hypothesis][anthropic God hypothesis]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org#the-senses-come-alive][The senses come alive.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#hedonism-assists-empathy][Hedonism assists empathy.]]
+* pleasure & motivation
+:PROPERTIES:
+:ID:       06854e99-a20b-4a16-866e-a04e877a3711
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_brief_history_of_intelligence_book_by_max_bennett.org#dopamine--seeking--serotonin--enjoying][dopamine : seeking :?: serotonin : enjoying]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org#patience-relies-on-internal-rewards][Patience relies on internal rewards.]]

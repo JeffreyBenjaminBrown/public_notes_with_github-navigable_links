@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f6d53956-c257-419e-9394-7cabe9605bf7
+:END:
+#+title: a hierarchy of musical elements
+* notes
+** volume/accent
+** duration
+** frequency
+** timbre
+* note interactions
+** rhythm
+** melody
+** harmony
+* relationships between note interactions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_memory_and_expansiveness.org#harmony--rhythm--now--short-term][harmony / rhythm ~~ now / short-term]]

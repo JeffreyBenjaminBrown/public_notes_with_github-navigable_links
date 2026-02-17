@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       5a056afd-ab3e-4ad5-b1da-b7fa91076713
+:END:
+#+title: AI structuring & prompting tricks
+* Rebuttal: Just tell it what you want.
+* I have not tried most of these, just read about them.
+* some
+** "beads"
+   There's a tool called beads for helping AI agents organized tasks into a maybe graph like dependency structure. Hacker News readers seem enthusiastic about it.
+** Negative examples are useful
+*** But when?
+** prefix "generate 5 responses with their conditional probabilities"
+   to the prompt
+** "Now argue against everything you just said."
+** need to accomplish: [high-level goal]
+       Your task:
+       1. Analyze what would make the PERFECT prompt for this goal
+       2. Consider: specificity, context, constraints, output format, examples needed
+       3. Write that perfect prompt
+       4. Then execute it and provide the output
+
+       [GOAL]: [your actual objective
+** another
+*** https://x.com/i/status/2002310151668445609
+** another scheme
+   Step 1: Provide your initial answer
+   Step 2: Generate 5 verification questions that would expose errors in your answer
+   Step 3: Answer each verification question
+   Step 4: Provide your final, corrected answer based on verification

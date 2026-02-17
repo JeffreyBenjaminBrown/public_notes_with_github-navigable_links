@@ -1,0 +1,127 @@
+:PROPERTIES:
+:ID:       001d7913-c431-461c-92ae-a6a39394856c
+:ROAM_ALIASES: development programming processing "computer science"
+:END:
+#+title: processing | development
+* MERGE ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][truth]] [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org][logic]]
+* PROCESS WITH : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org][use writing]]  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time.org][time]]
+* when coding
+** If duplication is justified, document it.
+** Analyzing code after it's written: Valid, maybe preventable.
+** Remember how good rewriting can feel.
+* types
+** DRY applies to types as well as functions.
+   With perhaps different implications --
+   if the same data appears in multiple places,
+   those places have to be kept in sync.
+** Don't ignore a fork, but also don't fork without a good reason.
+* graphs and time
+** Are graphs and time at odds?
+** praise for graphs
+*** Graphs let you half-forget.
+    Lose sight of the words
+      behind label(s) for the direction(s) they're in.
+*** Graphs permit choice. More than books do.
+** praise for long sequences
+*** Time *is* stories.
+* clarity
+** Outside of parsing, a 'metadata' type smells bad.
+   It suggests the parse was incomplete.
+** how (to choose what) not to comment
+*** Comments should encode why, because how should be readable in the definition.
+** Reading backward is hard.
+*** in coding
+**** Making cognitive space for the purpose of every caller.
+*** in a knowledgr graph
+**** Making cognitive space for the {purpose, context} of every reference.
+* processing vs. action
+:PROPERTIES:
+:ID:       ceb816c2-4df3-4d51-ae77-95746f6ae11e
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/action.org][action]]
+** moving v. thinking
+:PROPERTIES:
+:ID:       c2d11473-3a31-4ba5-bbdc-b2acff72e0c0
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/dreaming.org#investigation-plans-dreams-drugs-v-execution][{learning, plans, dreams, drugs,..} v. execution]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/writing.org#a-memory-algorithm-is-necessarily-mysterious][A memory algorithm is necessarily mysterious.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/privacy.org][privacy]] & [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org][influence]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org#thinking-about-who-deserves-what-could-be-a-bad-smell][Thinking about who deserves what could be a bad smell.]]
+* > CS
+  = applicable outside of, CS
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/psychological_development.org][development, cognitive]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sleep_biology_personal_health.org#sleep-as-processing][sleep as processing]]
+** forgetting | memory management
+:PROPERTIES:
+:ID:       5c129918-199b-4b00-89f4-c601af4c38f1
+:ROAM_ALIASES: memory
+:END:
+*** [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/spaced_repetition.org][spaced repetition]]
+*** Unseeing is slowest, maybe, when you would wish it fastest.
+:PROPERTIES:
+:ID:       79114a73-a553-42ec-bedf-14513db0b5f9
+:END:
+*** "Dezconozco _" is used in Spanish.
+**** art
+     swimming against the tide
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/right_to_feel_act_on_and_forget.org][right to feel, act on, and then {relax your grip on, forget}]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/errors.org#recording-too-much][recording too much]] \ awkward
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org#ritual-of-forgetting][ritual of forgetting]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org#know-what-you-forget][Know what you forget.]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_forgoet_emotional_healing.org][I forgoet emotional healing.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awkwardness.org#forgetting-someone-is-awkward][Forgetting {someone,} is awkward.]]
+*** fantasies
+**** (Remember, make real) the (principles, people) you care more about.
+:PROPERTIES:
+:ID:       8cd6a13b-34fe-42d6-844c-186a335b436b
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rush_to_integration.org][Rush to integration.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presenting_data.org][presenting data]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/testing_computer_science.org][testing (computer science)]]
+* s
+** to read : by others on it
+*** https://x.com/Franc0Fernand0/status/1945447159739924706?s=19
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dependency_inversion.org][dependency inversion]]
+** code, the language of
+*** Rather than "pitfall", write "danger".
+** tools
+*** "just" improves on "make"
+    with completion at the command line,
+    and other improvements.
+**** https://github.com/casey/just
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mutual_recursion_an_easy_example.org][mutual recursion: an easy example]]
+* over my head but cool
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/distributors_unifying_parsers_printers_grammars.org][Distributors: Unifying Parsers, Printers & Grammars]]
+* subfields
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/algorithms.org][algorithms]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/artificial_intelligence.org][artificial intelligence]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/genetics.org][bioinformatics]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/data_science.org][data science]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/state_machines.org][state machines]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/testing_computer_science.org][testing (computer science)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/programming_idioms.org][programming idioms]]
+* type safety
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ad_hoc_polymorphism_erodes_type_safety.org][Ad-hoc polymorphism erodes type safety.]]
+** surprisingly possible
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/automatic_documentation_via_constraints.org][automatic documentation via constraints]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/documentation_testing.org][documentation testing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/abstractions_i_like_computer_science.org][abstractions I like \ computer science]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/contribute_to_open_source_projects.org][contribute to open source projects]]
+* Code review is a thing people at Google have written about.
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/software_development_advice_excellent.org][software development advice, excellent]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_learn_computer_science.org][to learn & computer science]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/good_coding_habits.org][good coding habits]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitfalls_and_responses_coding.org][pitfalls and responses \ coding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_do_coding_problems_fast.org][how to do coding problems fast]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tests_for_programmers_some.org][tests for programmers, some]]
+* data structures
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/list_comprehension_computer_science.org][list comprehension]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dynamic_typing.org][dynamic typing]]
+* some concepts from computer science
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/file_extension.org][file extension]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pipe_computer_science.org][pipe (computer science)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/calculations_cool.org][calculations , some cool]] (if infeasible)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org#danger--programming][danger & programming]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/animals.org#a-balance-of-processing-between-creatures][A balance of processing between creatures.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/theo_von_interviews_louis_ck_2025_october.org#feeling-not-so-much-thinking-is-living]["Feeling, not so much thinking, is living."]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/jbb.org#dreaming-is-cool-as-the-time-before-writing][Dreaming is cool as the time before writing.]]

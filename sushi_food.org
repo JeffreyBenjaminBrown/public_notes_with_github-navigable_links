@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       224ed7ca-2aff-448c-b410-c323e4d812b7
+:END:
+#+title: sushi (food)
+* dictionary
+  kanikama = cangrejo falso
+  massago  = fish eggs
+  palmito  = heart of palm
+  panko    = breadcrumbs
+  wakame   = seaweed
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kiuri_sushi_restaurant_in_la_macarena_bogota.org][Kiuri Sushi (restaurant in La Macarena, Bogotá)]]

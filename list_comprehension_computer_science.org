@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       805ec609-79fb-484a-9272-c42de037d1f5
+:END:
+#+title: list comprehension (computer science)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/list_comprehensions_when_i_want_to_bind_a_variable_number_of_variables.org][list comprehensions when I want to bind a variable number of variables]]

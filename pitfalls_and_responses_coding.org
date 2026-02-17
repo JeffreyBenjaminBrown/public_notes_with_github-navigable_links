@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f07ab308-a010-45cb-a39e-a01f0b926c15
+:END:
+#+title: pitfalls and responses \ coding
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_edits_seem_to_be_having_no_effect_be_sure_i_m_editing_the_right_thing.org][If edits seem to be having no effect, be sure I'm editing the right thing.]]

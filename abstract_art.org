@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       dccc0ff5-4152-45b8-811d-7b237d38dbba
+:END:
+#+title: abstract art
+* Abstract art makes a good [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/get_a_tattoo.org][tattoo]].
+  because it loses little when the skin stretches
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/get_a_tattoo.org][get a tattoo]]
+* Cataloguing the fundamental possibilities of a medium seems fun.
+  e.g. for pen on paper:
+    line, arc, texture, polygon, overlap, ...

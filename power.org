@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       b9775088-1bd9-490f-a062-c6cfd189b65d
+:ROAM_ALIASES: energy power force work strength
+:END:
+#+title: energy
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/constraint.org][constraint]]
+* etymology : sociology, physics
+  Power implies choice; energy, only possibility.
+    in sociology at least.
+  In physics they relate via time.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/seriousness.org][seriousness]]
+* kinds
+** purpose, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meaninglessness_pointlessness.org][meaning]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org][logic]] , [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][information]] , [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/computer_science.org][processing]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]]
+   Logic impels energy,
+   and within logic it especially imples solutions.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/labor_market_the.org][labor]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/conflict.org][conflict]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/public_influence.org][public influence]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom.org][freedom]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org][God]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org][art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][balance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tensions.org][tension]] - includes some interesting ones
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_performance_human.org][high performance (human)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org][influence, social]]
+* ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/economics.org][economics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/luck.org][luck | blessedness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/causally_power_dictates_feelings_but_experientially_feelings_precede_economics.org][Causally, power dictates feelings, but experientially, feelings precede economics.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org][presence]]
+* powerlessness <-> fatalism
+:PROPERTIES:
+:ID:       846f7aa9-2ca4-45af-88f3-522376a33e9b
+:END:
+* patriarchy
+:PROPERTIES:
+:ID:       ba15c32b-c09d-4943-8f0a-c853a67c81f3
+:ROAM_ALIASES: tyranny
+:END:
+** ~ controlling women
+** "unless you love her so much she can't have male friends"
+** It is emotionally impoverished.
+*** Imagine the cloistered, bin-laden-in-a-cave ignorance of an immoral in power who refuses to see their immorality.
+*** People can love you deeply, if you are good.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_philosophy_defeated_the_patriarchy_in_everyone_s_mind.org][if philosophy battled the patriarchy , in everyone's mind]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org#those-who-resist-tyranny-through-art-work-toward-a-payoff-possibly-after-their-time][Those who resist tyranny through art might work toward a post-mortem payoff.]]
+* horrible [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lessons_from_getting_banned_from_microtonal_guitarist.org][lessons from getting banned from Microtonal Guitarist]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/fantasies_about_the_nature_of_power.org][fantasies about strange kinds of power]]
+  unsorted
+** something flying past {logic, time} at high volume
+   like rain
+** What am I? ~ What is there?
+   The former is a common meditative mantra.
+   The latter is largely equivalent, but feels more expansive.
+** Putting hands on hips seems to relieve the shoulders without expensing the hips.
+* packing
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org#vanish-into-being-a-silent-ironic-background][Vanish into being a silent ironic background.]]
+* capital
+:PROPERTIES:
+:ID:       64ed9a2e-b6fb-4ec3-80a9-abbfece6697c
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/labor_v_capital.org][labor v. capital]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/artificial_intelligence.org][artificial intelligence]]
+* There is power in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][vulnerability]].
+:PROPERTIES:
+:ID:       6ff890e1-5267-4b4a-8e88-8ea92decaa34
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tensions.org#power-is-tense][power ~ tension]]
+  or at least
+  strength ~ tension
+* The senses come alive.
+:PROPERTIES:
+:ID:       55006035-4299-446d-ae2a-51b6f3deb008
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/2026_01_26_mon_feeling_bleak_about_global_power.org][<2026-01-26 Mon> feeling bleak about global power]]

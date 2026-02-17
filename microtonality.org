@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       97e78830-11c4-4736-afc3-4669fd94ee2e
+:END:
+#+TITLE: microtonality
+* u
+** Bosanquet 43 looks nice -- but guitar not so easy.
+** In 34-edo, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/34_edo_harmonic_theory.org#87--76--43][8:7 * 7:6 > 4:3]]
+** a beautiful 11-limit "minor neutral 7" JI chord
+   play harmonics 6, 9 (3:2), 11 (neutral 7), 14 (septimal m3)
+** Finding edo layouts
+*** In both coordinate systems, compute the sum of squared errors.
+**** Using the Lesser of the two measures for each interval
+*** Consider two maps from string-fret to Lumatone. The fret axis always goes horiz, and the other either acute or oblique.
+**** That covers all options, right?
+*** For each interval in the 15-limit, find both (only two, right?) ways to play it
+** 41
+*** Peocupine?
+**** This does not have the effect that it does in 22 Ito, where the scale ends up with five major thirds and two minor ones. That's if you only keep the first seven notes.
+**** 5. 11. 17.  22. 28. 33. 39. 3. 9. 15. 20. 26
+*** Check out the untwelve forum.
+*** 0 35 9' 29'
+** Algorithm for selecting scales in 41 Edo
+*** Include in the displayed results the just formula that gave rise to it
+*** From the list of 41 Edo inversions, include only those for which some inversion is within 70 cents of the 12 Ito cord at each note
+*** Choose a familiar 12 Ido cord, such as diminished
+*** Find every inversion of the resulting stacks
+*** Choose pairs of intervals to stack, ordered by simplicity
+*** Declare some intervals off limits
+**** These can still arise from others, but are not themselves building blocks
+*** Compute all the 15 limit intervals
+**** There are at most eight times seven equals 56 of these, but some of them are duplicates.
+*** Further order the results by placing those for which the third interval is also harmonic above the others
+** What is this 72-edo layout Paul Erlich suggested?
+   Look at the image here, then use MTV to figure out what the axes are.
+   https://www.semanticscholar.org/paper/The-Miracle-Temperament-and-Decimal-Keyboard-by-Secor/eab6a60876e19cfedb0cb6dfdc6c8411fb4e7c03
+   https://www.facebook.com/groups/497105067092502/posts/2418837091585947/?comment_id=2421947377941585&reply_comment_id=2543774635758858&notif_id=1658245236030103&notif_t=group_comment_mention
+* Facbio Costa's 19-edo horn music
+  https://m.youtube.com/watch?v=5zI7CqkykKQ
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/francois_chagnon_s_online_ear_training_app.org][François Chagnon's online ear training app]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/tell_people_when_i_put_up_a_new_microtonal_piece.org][tell people when I put up a new microtonal piece]]
+* on Xen wiki, document [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/3_72_x_11_72_isomorphic_layout_harpejji_friendly.org][3\72 x 11\72]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/making_a_microtonal_guitar.org][making a microtonal guitar]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/what_makes_a_ratio_vanish_in_an_edo.org][what makes a ratio vanish in an edo?]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/easy_fun_haskell_for_music_find_all_the_easy_divisions_of_an_interval.org][easy, fun Haskell for music : find all the easy divisions of an interval]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/some_microtonal_musicians.org][some microtonal musicians]]
+* the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/xenharmonic_wiki.org][Xenharmonic Wiki]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org][add in-between notes to mtv-monome]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/terpstra_microtonal_keyboard_online.org][Terpstra microtonal keyboard online]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_introductory_microtonal_music_recommendations.org][my introductory microtonal music recommendations]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_polyphonic_audio_to_midi_asking_reddit_audio_engineering.org][microtonal polyphonic audio to MIDI: asking Reddit Audio Engineering]]
+* microtonal instruments, including electronic
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_guitar.org][microtonal guitar]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/manual_dynamically_adjusted_edo_musical_instrument_idea.org][manual dynamically adjusted EDO (musical instrument idea)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_synth_plugins.org][microtonal synth plugins]]
+* stretching octaves
+** ref
+http://x31eq.com/temper/net.html
+** what it means
+"TE is equivalent to root-mean-squared inverse-log-weighted error of the primes, if you include prime 2 and stretch or compress the octave optimally for each ET."
+  --Paul Erlich, https://www.facebook.com/groups/xenharmonicmath/permalink/1819205091553038
+** 22-edo
+  TET-optimal, mistunings (cents)
+    [-1.106, 5.377, -7.059, 9.876, -9.684⟩ -- 11-lim
+    [-1.803, 4.268, -8.674, 7.912⟩         -- 7-limit
+    [-0.861, 5.766, -6.491⟩                -- 5-limit
+  Without octave stretch:
+    [0.000, 7.136, -4.496, 12.992, -5.863⟩
+** 31-edo
+  TET-optimal mistunings (cents)
+    [1.205, -3.276, 3.583, 2.299, -5.222⟩         -- 11-lim
+    [0.502, -4.387, 1.950, 0.326, -7.649, 12.949⟩ -- 13-lim
+  Without octave stretch:
+    [0.000, -5.181, 0.783, -1.084, -9.382, 11.085⟩
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bosanquet_mapping_for_equal_temperaments.org][Bosanquet mapping for equal temperaments]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_edos_equal_divisions_of_the_octave.org][some edos (equal divisions of the octave)]]
+* microtonal notation
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hewm_notation.org][HEWM notation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/code_to_generate_note_names_for_an_edo.org][code to generate note names for an edo]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo_notation.org][41-edo notation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_notation.org][46-edo notation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/thanos_tunings.org][Thanos (Kite-Ish) Tunings]]
+* somme surprising linear relationships between edos
+  Matrix tunings and the permutation lattice
+  John S. Allen
+  http://www.bikexprt.com/tunings/tunings3.htm
+  (see esp. the picture)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/just_intonation.org][just intonation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/layouts_for_small_grid_controllers.org][my advice re. layouts for small grid controllers]]
+* meh
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_temperament_groups_with_similar_only_in_bosanquet_layouts.org][some temperament groups with similar (only in Bosanquet?) layouts]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_temperaments_and_their_generators_some.org][microtonal temperaments and their generators, some]]

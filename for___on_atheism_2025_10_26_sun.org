@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       8a2005fd-5def-44ae-bc9b-708aefb246d4
+:END:
+#+title: for (redacted) on atheism <2025-10-26 Sun>
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org#cut-yourself-some-slack][Cut yourself some slack.]]
+* A true fact can be unhelpful.
+  e.g. even if there is a heaven with an anthropomorphic entry judge,
+  just live a good life; surely that's what the judge would want.
+* Atheist idolatry, too, can absorb decades.
+  Chasing wealth, fame.
+* unbundle values
+** appreciate each for its own sake
+** appreciate links between them, without assuming them
+** some values are false or at least questionable
+   e.g. loyalty
+** values religion seems weak on
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irony.org][irony]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][humor]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/adventure.org][adventure]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org][drama]] (now, not historically)
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org][absurdity]]
+* relevant ideas
+** quietism
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tensions.org#collections-of-values-plausibly-in-tension][some tensions]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything.org#instances--ambiguous-values][ambiguous values]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom.org][freedom]] ([[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/adventure.org][adventure]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/skepticism.org][skepticism]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authenticity.org][authenticity]]) v. [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety.org][safety]] ([[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org][community]], conformity, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/seriousness.org][commitment]], certainty)
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intuition.org][intuition]]?
+** self-evaluation
+** action under [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/blindness.org][uncertainty]]
+   even how one feels oneself can be a mystery
+* some substitutions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_write.org][writing]] [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/writing.org][write, how to]] & talking ~ [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bearing_witness.org][witness]], judgment
+** find others who are [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org][kind]], who understand
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org#god-in-the-brain][God in the brain]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_that_matters_is_how_we_make_each_other_feel.org][All that matters is how we make each other feel.]]
+* some bundles
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transcendence.org][transcendence]] & [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#forgiveness][forgiveness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org][justice]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beautiful_things.org][beauty]] and efficiency
+** love, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/learning.org][curiosity]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awe.org][awe]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][patience]] & [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][peace]]
+* good habits
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gratitude.org][gratitude]]
+*** Mere [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consciousness.org][consciousness]] is astounding.
+** expressing [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-reflection]], inquiry
+* DONE read
+** community
+** death
+** God
+** values
+** tensions
+** presence
+** love

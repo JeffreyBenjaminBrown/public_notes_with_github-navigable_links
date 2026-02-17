@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       7d486da6-aca9-4abe-b482-9c892c7b1088
+:ROAM_ALIASES: mtv
+:END:
+#+TITLE: montevideo (music software)
+* TODO make reloading work in `cabal repl`
+  https://stackoverflow.com/questions/63983850/how-can-i-have-ghci-reload-include-changes-in-the-local-dependent-library
+* TODO capture from the monome
+** TODO (many)
+*** test toMuseq
+*** test notes with missing starts
+*** light up the record button when it's on
+*** move `record` and `stopRecording`
+    Currently they're in Monome.Interactive,
+    which means I can refer to them in the code indexed by cabal.
+*** monome button to start, stop recording
+*** quantize
+    User provides a total length L for the recording,
+    and a divisor D. The recording is quantized to L*D positions --
+    that is, each unit of time is divided into D pieces.
+    L must be rational.
+    D must be an integer.
+*** extract pitchset from recording
+    print that to some file,
+    so that I can copy it into Dispatch music without using the mouse.
+*** ? extract times from recording
+*** from Museq, extract scale, and another Museq using scale degrees
+    That is, suppose the initial Museq is on frequencies.
+    The product of scaleMuseq_fromMuseq would be a map from Int to freq,
+    and a new Museq on those Int indices, rather than on frequencies.
+*** monome buttons to trigger chords, recordings
+*** monome interface to transpose chords, recordings
+** goal: Capture synth state, chords, melodies.
+* TODO bugs?
+** Use "on".
+*** Zot already does, via `onOffEnvelope`.
+*** Programs in Dispatch that refer to "amp" and need changing
+    if I am to use "on" together with "amp"
+
+    Abbrevs
+    Msg.Act
+    Museq.Mk
+    Dispatch (only in a comment)
+*** why
+    "on" seems to be for the benefit of Dispatch.
+    So see if Zot works with Dispatch already.
+    If so, the comment about "on" at the top of
+      mtv-synth/Montevideo/Synth.hs
+    is stale.
+* TODO a DSL
+  in SmSn:
+  * :AIqNamXJvFITlhnI:
+* TODO separate the concerns in Dispatch.Msg.Act, then make it abstract
+** research: their current state
+actNew, actSend, and actFree all look up a synth, which might fail.
+They log errors only if there's a lookup failure.
+Two of them return ways to insert or delete the synth,
+  which could be factored out into a function from New or Free to synthdefs.
+One creates it, one destroys it; both could be a separate super function.
+*** `actNew reg (New _ name)`,
+ if it finds `name`, logs an error and returns the identity.
+ If it doesn't, it creates the synth (immediately -- no scheduling),
+   and returns how to insert it into synth reg.
+   The reg has a separate field for each different kind of synth.
+ In the special case of a sampler, it also looks up the buffer.
+   If founds, it uses the buffer as an argument to the sampler synth created.
+*** `actFree reg when (Free _ name)`
+ if it doesn't find `name` in `reg`, logs an error and returns `id`.
+ If it does, it
+   schedules an amp=0 message for its "when" argument,
+   schedules a free message for shortly thereafter,
+   and returns a way to delete the synth.
+*** `actSend reg when (Send _ name msg)`,
+ it doesn't find `name` in `reg`, logs an error.
+ Otherwise, it schedules an action to send everythingg in `msg` at `when`.
+ In the special case of a sampler receiving an "on" message,
+   it schedules an "off" message for shortly thereafter.
+* TODO JI: compare chords in EDOs
+** playChord :: [JI Fraction] -> EDO -> IO ()
+   This way you can edit the last argument repeatedly.
+* TODO ? How do streams work?
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mtv_lang.org][mtv-lang]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mtv_monome.org][mtv-monome]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mtv_ji.org][mtv-ji]]

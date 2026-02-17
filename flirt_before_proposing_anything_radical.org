@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4ec07465-7323-47c3-a8b4-8d81f383b119
+:ROAM_ALIASES: "flirting"
+:END:
+#+title: flirtation
+* There exists 'false flirtation'.
+:PROPERTIES:
+:ID:       5f25050d-0a3d-4550-b01e-a6b119d07cd2
+:END:
+** explication
+   Perhaps the reason flirtation works is that it can be reasonably
+   mistaken for humor or a simple attempt to become friends,
+   because in some cases it is.
+** upshots
+*** Multiple layers of confirmation might be necessary.
+*** Flirt falsely sometimes.
+    Like in poker, if you never bluff, you're too easy to read.
+* Flirt before proposing anything radical.
+** but see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_beat_around_the_bush.org][Don't beat around the bush.]]
+** "Flirt, don't blurt."
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_flirting_is_subtle.org][why flirting is subtle]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flirtation.org#fliration-v-commitment][fliration v. commitment]]

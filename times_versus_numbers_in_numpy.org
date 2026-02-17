@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6a0c6707-29de-4cb4-ba1a-7af6b9077872
+:END:
+#+title: times versus numbers in NumPy
+* the problem
+  NumPy doesn't like mixing times and non-time floats.
+* solutions (alternatives)
+** use Pandas rather than (directly) NumPy
+** convert time to float as library writers intended (if they did?)
+*** The first table in the time documentation might help
+    https://docs.python.org/3/library/time.html#time.time
+*** time.time() is a float
+** convert time to timedelta from start of 2020, then call totalseconds
+   Note that the default np.float type is float64,
+   what some other languages call double.

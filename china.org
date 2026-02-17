@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       20ebcfbb-fd3b-4ef2-9689-761d65cfb558
+:END:
+#+title: China
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_the_internet_in_china.org][how to use the internet in China]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/environmental_degradation_in_20th_century_china.org][environmental degradation in 20th-century China]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hickvision_security_camera_manufacturer_in_china_explicitly_advertises_a_uyghur_detection_function.org][HickVision, security camera manufacturer in China, explicitly advertises a Uyghur detection function.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mao_zedong.org][Mao Zedong]]

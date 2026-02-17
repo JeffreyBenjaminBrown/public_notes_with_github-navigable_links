@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       e54b0669-aa26-45cf-a5fa-6bb41f871790
+:END:
+#+title: Time is time's initial/foundational conditions.
+* elaboration
+  It is sometimes reasonable to complain
+  about surprisingly bad luck, but mostly,
+  what there is to complain about are the initial conditions.
+* [[id:0c212688-d286-4e3d-b81a-a02963b98875][justice [at the end, in the foundation] of time]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/more_time_would_solve_all_my_problems.org][More time would solve all my problems.]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1d2db651-b907-42a8-922f-11a77c55d5c0
+:END:
+#+title: I want my models of others to be more interesting and varied.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/some_models_of_others.org][some models of others]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       67417da7-7dd4-4955-879b-a7699202758d
+:END:
+#+title: songs I'm writing
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/tired_song.org][Tired (song)]]

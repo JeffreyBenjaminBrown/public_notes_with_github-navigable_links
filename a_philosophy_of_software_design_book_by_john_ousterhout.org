@@ -1,0 +1,92 @@
+:PROPERTIES:
+:ID:       2c400b23-7036-42e3-b521-ea0edf70c5ac
+:END:
+#+title: A Philosophy of Software Design, book by John Ousterhout
+* ONGOING For taking notes on a book, maybe append at the bottom.
+:PROPERTIES:
+:ID:       bd391e14-e3e7-48f6-8e9d-3e1a902535e3
+:END:
+  Or at least attach a note indicating the end at which append happens.
+* RESUME at p. 144, ch 14
+  "real" pages run from 19 to 203
+* TODO PITFALL : Attaching new notes at top.
+* ======== BELOW : once-reviewed ========
+* document things that must be extended in tandem
+  "If you [add constructors] here, you'll also have to modify ..."
+* Implementation comments: What and why, but not how.
+* Consider at least two ( sufficiently dissimilar ) designs.
+  "Design it twice."
+  If a design choice is hard,
+  work through at least two very different ways to do it.
+  Consider the gains to an hour more of thinking,
+  compared to the (days?) of implementing the design.
+* 'Exception masking' is good.
+  It is when a caller function handles an exception from its callee.
+* Define errors out of existence: Applies to functions too.
+  (Not just types.)
+** example: sublist without bound errors
+   a sublist function that takes two numbers, and returns whatever is between those indexes in the list, if anything, cannot be given 'bad' indices.
+** example: letting 'undefine' be a noop if a definition is absent
+   This is also an instance of declarative > imperative:
+   Don't think of it as 'make this definition go away',
+   but instead 'ensure this definition does not exist'.
+* Together or apart?
+** subdivision's negative effects
+*** It creates complexity.
+    More pieces. Maybe new code to manage the pieces.
+*** It can separate what might be better near each other.
+    The developer should not have to toggle contexts a lot.
+*** It can lead to duplication.
+** reasons to join things
+*** they share information and/or patterns
+*** they are processed together
+*** they are variants on a theme
+*** each helps understand the other
+    If that relationship instead only goes in one direction,
+    it is not conclusive.
+*** it might simplify the interface
+** "Red Flag: Special-General Mixture"
+** "Conjoined methods" are a red flag.
+   'If you make a split of this form and then find yourself flipping back and forth between the parent and child to understand how they work together, that is a red flag (“Conjoined Methods”) indicating that the split was probably a bad idea.'
+* "Push complexity downward" if possible.
+  "It is more important for a module to have a simple interface than a simple implementation."
+** Config parameters push complexity upward. Better to 'solve' that
+   that complexity in the implementation, if possible.
+   "provide an easy excuse to avoid dealing with important issues and pass them on to someone else."
+* Eliminating pass-through variables is good and can be hard.
+  I'm writing that before I understand why it is good.
+* A module's interface should use a representation different from that used internally.
+* "The best modules are those whose interfaces are much simpler than their implementations."
+* informal aspects of an interface
+** definition
+   Informal aspects of an interface
+   are things the user must know
+   that cannot be encoded in the programming language itself.
+** "For most interfaces the informal aspects are more complex than the formal aspects."
+** "look for designs that minimize the amount of information that is important"
+** Some deep programs have no interface!
+   e.g. garbage collection in Java
+* TODO The knowledge required should structure modules.
+  "When designing modules, focus on the knowledge that’s needed to perform each task, not the order in which tasks occur."
+** "temporal decomposition often results in information leakage."
+   If modules correspond to the stages of an operation,
+   then a change to one of them is likely to imply a change to all.
+* "information hiding can often be improved by making a class slightly larger."
+* "general-purpose classes [are] almost always better than special-purpose alternatives ... [and] are simpler and deeper "
+* Specialization can be pushed up or down.
+** An example of pushing it up: general foundation methods.
+   A text editor has commands for replace, insert character, delete next character, delete previous. That specialization can be kept above (in the callers of) a simple general module for maintaining the buffer text, with only two methods: insert and delete.
+** An example of pushing it down: device drivers.
+   A filesystem must allow reads and writes. Their implementation depends on the details of the device being accessed. Those details can be pushed down into device-specific drivers, all of which provide the same (simple) interface for reads and writes.
+* Eliminate special cases.
+** I'm skeptical.
+** Example ? represent absent selection as selction from 0 to 0
+   This prevents having to check whether the selection exists.
+* "Different Layer, Different Abstraction"
+** red flag: pass-through methods
+   "A pass-through method is one that does nothing except pass its
+arguments to another method, usually with the same API as the pass-
+through method. This typically indicates that there is not a clean
+division of responsibility between the classes."
+** A "dispatcher" can reasonably duplicate the signatures of its callees.
+   e.g. if it chooses which callee to call based on which enum constructor it receives

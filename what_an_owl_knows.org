@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c27b0546-3132-4bbe-8b91-ce853e8431c3
+:END:
+#+title: What an Owl Knows (book)
+* Young owls will switch nests if not getting fed well
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hoots_are_efficient_in_a_forest.org][Hoots are efficient in a forest.]]
+* Pair-bonded owls
+** hunt separately, but stay in touch the whole time by hooting.

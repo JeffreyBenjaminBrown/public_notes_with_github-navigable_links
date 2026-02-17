@@ -1,0 +1,181 @@
+:PROPERTIES:
+:ID:       41844d8a-f352-4e2d-8ba3-3c83b2dd2ac3
+:ROAM_ALIASES: "osc-gen" "osc gen"
+:END:
+#+title: oscillable generations view for org-roam
+* refs
+** systems ,, favorite | relevant
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notes_on_emacs_for_hode.org][Emacs programming for knowledge graphs]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb.org][TypeDB]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam.org][org-roam]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn.org][smsn]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode.org][Hode]]
+** projects, adjacent
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_git_commits_of_org_roam_data_easier.org][make git commits of org-roam data easier]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_some_connectivity_demos_for.org][knowledge graphs, some connectivity demos for]]
+** functions of latest interest
+   get-the-in-file-ancestor-path ()
+   disguise-org-headline ()
+   org-roam-db-query (query &rest args)
+   insert-graph-parents-as-subheadlines ()
+* rebuild the ddatabase in TypeDB
+  The DB does not have to understand everything about the file.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shuffle-org-branches.org][shuffle branch list]]
+* Are wishes interesting?
+  I have a lot of wishes in a few files:
+
+oscillable_generations_view_for_org_roam.org
+shareable_knowledge_gardens.org
+hode.org
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/merging_in_a_knowledge_graph.org][merging in a knowledge graph]]
+* Sort by product of accumulated unsorted notes and last time sorted.
+* to get a sense of the mass of a content tree
+  out-links in contents
+  number of contents
+* Contribute to org-roam.
+** preserve frames when following link
+   Splitting a buffer and then following a link should let you visit only from that view, not both.
+* Can group the ancestries and the in-this-path to a node under a "contexts" view-branch.
+* Indicate an intermediate heading is optional.
+  That it describes the relationship,
+  and does not stand on its own.
+  (In most cases I expect the latter to be,
+  more specifically, that the elements are more interesting
+  than (except perhaps the first time)
+  the relationship label without members.)
+* TODO first MEP: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_backlinks_in_forward_view.org#alt-id-for-this-file][backlinks in forward-view]]
+* remember
+** This is so feasible!
+** List future features to verify extensibility.
+   Before implementing a feature F,
+   verify that for every future feature G,
+   the path from F to G is clear.
+** Don't implement [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_save_terminality.org][save-terminality]].
+** Cut myself some slack.
+*** It's okay to release it with unused info.
+    For instance the screen could include info about how to reconstruct it even though it doesn't permit saving.
+* problems
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_glyphs.org#glyphs-could-be-redundant-to-properties][glyphs could be redundant to properties]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_conflicts_from_external_edits.org][osc-gen: conflicts from external edits]]
+** language choice
+*** AI might be even better at Haskell.
+    It's quieter, easier to reason about.
+*** Use Python to get help.
+    I can keep others' submissions functional.
+*** Use Rust for extensibiilty to TypeDB.
+**** query the org-roam db with Rust
+     so that it becomes extensible to TypeDB
+**** DONE talk to a Rust server from Emacs
+     ~/hodal/serve-rust-to-emacs
+*** NOPE Generate Python with Haskell.
+    Nothing good comes up fast
+    on Hackage, Google or ChatGPT.
+** Separate the model from the controller.
+   Keep as much logic out of Emacs as possible.
+** architectural choices
+*** Use a JSON server to query the org-roam db.
+* primitives
+** path to host file
+** link set
+:PROPERTIES:
+:ID:       15bcbd93-f639-4c41-a123-593209f861bd
+:END:
+   = links in heading, body, descendents
+   or any subset thereof
+** link relationship
+** content relationship
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_glyphs.org][glyphs]]
+** vocab, not entirely obsolete
+*** (graph-)leafward, (graph-)rootward
+    seems preferable, given org-roam context, to these alternatives
+**** leafward = from titles to headlines, headlines to subheadlines
+**** alternatives
+***** contents, containers
+***** children, parents
+***** forward, backward
+*** screen-leafward, screen-rootward
+*** leafward in-file path (LIFP)
+    is the path from a title to a node,
+    if that node is in that file.
+* features, immediate
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_backlinks_in_forward_view.org][backlinks in forward-view]]
+** native ancestry in forward-view
+   Very similar to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_backlinks_in_forward_view.org#alt-id-for-this-file][backlinks in forward-view]].
+   The only difference is that
+   those are paths in other files,
+   whereas this is in the current file.
+** hide ordinary file-content from view
+*** Indicate that it was hidden
+    either with a glyph in its parent,
+    or with a single branch that replaces
+    the many that were hidden.
+*** Obviates a harder feature: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_save_terminality.org][save-terminality]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/who_else_is_a_parent_to_node_s_children.org][show cotargeters, coancestors]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anything_duplicated_on_screen_should_be_a_separate_color.org][Make duplication in a buffer visibly obvious.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_content_context_switching.org][content context switching]]
+** ancestry context switching
+:PROPERTIES:
+:ID:       d7ba0584-6df0-4c75-96c8-5758b9934e35
+:END:
+*** what it would look like
+    * grandchild
+      * } child ;; "}" indicates reverse containment
+        * }I parent ;; I indicates has ID but is not file.
+          * } more of the ancestry
+            * }F The "F"ile containing them.
+              ;; Here begins the "recursion".
+              ;; Give this the ID "f1".
+              * R references to it ;; R indicates this is an intermediating relationship heading, not itself a heading in any .org file.
+                * a heading with a [link to F1]
+                  * } bla ...
+                    * }F a file
+                * another heading with a [link to F1]
+                  * } bla ...
+                    * }F another file
+** prevent [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_conflicts_from_external_edits.org#easy-warn-user-if-content-from-the-same-file-is-in-multiple-buffers-or-even-twice-in-the-same-buffer][conflicts from external edits]]
+** save views
+   That is, don't just save to each file in the view,
+   but save the view itself.
+   Try to make the view robust to changes
+   in the files it views.
+** indicate repo in link
+* features, later
+** toggle ancestry between full and only nodes with IDs
+   When the ancestry is "collapsed",
+   any hidden (that is, without IDs) headings
+   are represented as an ellipsis prefix
+   in the first displayed node that file-contains them.
+** Make a new PROPERTY, "comments on".
+*** definition
+    If N comments on M, then Ms content displays
+    an addition "comments from [author]" branch.
+** Make a new PROPERTY, "overrides".
+   See skg. This seems hard.
+** Links to foreign headings with no ID.
+*** Awkward but doable.
+*** how
+    Link should include the repo, commit, file, line number, and (ordinary) label. Would be a new link format.
+    If the commit is old, that should be announced visibly, and user can follow to old or new.
+    If new has a heading with the same text, jump to it. If not, can search the text of new by similarity (in the embedding sense) to the now-disappeared heading.
+** Show [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oscillable_generations_view_for_org_roam.org#link-set][link set]] nieghbors.
+*** = Show nodes containing subsets of or overlapping the link set.
+*** Maybe don't show all overlapping sets.
+    Start from subsets of size n-1,
+    maybe then show n-2,
+    but stop before reaching 1.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/osc_gen_enable_sharing.org][enable sharing]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/define_relationships_using_ordinary_org_roam_syntax.org][Define relationships using ordinary org-roam syntax.]]
+** view traversal history
+   Integrate with Git?
+** [[id:9b247ad4-a606-4bd4-a5a6-df297d91e262][Each node could [order, structure] its parents.]]
+** Introduce Hash into how nodes are tabled.
+   e.g. if a title was "a & b", they would be associated with a
+   relationship, undefined but someone can write about it
+   (giving the relationship the title "_ & _").
+   Upon exploration you could see generic things that apply to your accreted definitions of &, as well as to specifically "a & b".
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_format_friendlier_for_reading_diffs_than_org_roam_s.org][a format friendlier for reading diffs than org-roam's]]
+** attach disambiguating arrows to pronouns
+   "it" could have an up-left arrow,
+   "these" could have a down-right arrow,
+   etc.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/rename_osc_gen.org][rename it]]

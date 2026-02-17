@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       83b7a529-8dc7-4000-a76c-6e014bcb295c
+:END:
+#+title: dominance
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/on_a_schedule_calling_is_better_than_being_called.org][On a schedule, calling is better than being called.]]

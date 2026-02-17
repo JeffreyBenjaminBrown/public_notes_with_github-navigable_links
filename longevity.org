@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       87d365fa-5581-4d30-a77c-b9f43b1736a3
+:END:
+#+title: longevity
+* supplements, products and services
+** $100 personal sauna
+:PROPERTIES:
+:ID:       d09aaab3-cf60-4b50-a97c-08d0683a74b6
+:END:
+*** https://a.co/d/56Vdwov
+** Resveratrol for DNA repair
+** Berberine - like metformin but better, lowers blood sugar
+** Fisetin for tissue repair
+** FountainLife: detect diseases early
+* It would be funny if it were [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/not_something_you_get_by_trying.org][not something you get by trying]].

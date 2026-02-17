@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a890ee05-e949-4690-b152-7fe13e35dcc5
+:END:
+#+title: bitterness
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy_bitter.org][comedy & bitter]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/having_come_so_close_is_bitter.org][Having come so close is bitter.]]

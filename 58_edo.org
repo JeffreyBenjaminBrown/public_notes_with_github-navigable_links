@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       92c1a793-a03b-4f27-9ca3-743448314c00
+:END:
+#+title: 58-edo
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_harmonic_theory.org][58-edo harmonic theory]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_scales_chords_and_harmonies.org][58-edo scales, chords and harmonies]]
+* 58-edo notation
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/code_to_generate_note_names_for_an_edo.org][code to generate note names for an edo]]
+** TODO Extend [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hewm_notation.org][HEWM notation]] to include a 2\58 accidental.
+*** why it needs extension
+    81:80 = 64:63 = 1\58,
+    so two of the four HEWM accidental distances are equal.
+    In fact so is 65/64, which is the most obvious extension to the 13-limit
+    (it's the distance between 16/13 and 5/4).
+    But it seems worth introducing a new value equal to 2\58,
+    like 27/26 (the difference between a Pyth sixth and 13/8).
+*** TODO or maybe I don't understand [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/what_makes_a_ratio_vanish_in_an_edo.org][what makes a ratio vanish in an edo?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_isomorphic_layouts.org][58-edo isomorphic layouts]]

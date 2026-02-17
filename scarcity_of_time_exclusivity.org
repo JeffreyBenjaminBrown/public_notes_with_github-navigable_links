@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b6ae0064-80b2-498b-bf66-b2b128d16b83
+:END:
+#+title: scarcity
+* It is all constraints.
+* interesting kinds
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mortality_should_impact_one_s_priorities.org][mortality pressure]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/computer_science.org][processing]] constraints
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org][political capital]] constraints
+* Security is never a matter of certainty.
+:PROPERTIES:
+:ID:       48f50557-baa8-4d0e-869f-99050d6137d1
+:END:
+  It's hard to feel safe enough without recognizing this.

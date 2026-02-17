@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6d54a4b2-3dac-4a3e-b349-451e9deb0197
+:END:
+#+title: Russia-Ukraine war
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/maksym_ivanyna.org][Maksym]] rec's the Facebook page of a priest in Mariupol
+  https://www.facebook.com/maksym.ivanyna/posts/10166517274295436
+** he describes it
+   "For anyone who'd like to see the real implications of this atrocious and pointless war, I suggest checking the FB account of Serhiy Gorobcov (link below), an orthodox priest in the besieged city of Mariupol. Dead civilians right on the street, mass graves, shelling of residential areas and even maternity hospitals, including from fighter jets."
+* an idea that might help: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/facial_recognition_for_soldiers_in_the_ukraine_russia_war.org][facial recognition for soldiers in the Ukraine-Russia war]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/putin_s_imperialist_speech_just_before_he_invaded_ukraine.org][Putin's imperialist speech just before he invaded Ukraine]]

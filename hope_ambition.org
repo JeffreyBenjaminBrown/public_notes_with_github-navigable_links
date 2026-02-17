@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       99d42cca-e03f-4d44-b383-4cf5107bfeff
+:END:
+#+title: hope & ambition
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_is_a_skill.org][Hope is a skill.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][ambition]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/realism.org][realism]]
+* Hope encompasses more, but no motivation is free of hope.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org][despair]]
+** "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/with_great_need_comes_an_unusually_wide_range_of_ideas.org][with great need comes an unusually wide range of ideas]]"
+* Some hopes are false.

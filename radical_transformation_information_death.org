@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dd5b4336-de4b-4fc9-8119-0c9285240925
+:ROAM_ALIASES: "information death"
+:END:
+#+title: radical transformation , information death
+* see also [[:id:0df57048-a573-4a11-aa34-05ee94dd7536][forgetting | memory management -- broken link?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_as_memory_loss_is_beautiful.org][Death as memory loss is beautiful.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/death_as_conceptual_bankruptcy.org][Death as conceptual bankruptcy.]]
+* sharing referential slip
+:PROPERTIES:
+:ID:       d62e732b-a828-4b9d-9ad8-f3d8a7822e0e
+:ROAM_ALIASES: "referential sliip, sharing"
+:END:
+** "Call this that", the (public) titles to your [notes, concepts].
+* simulation ending
+** The universe extracts the benefit (measured in learning? state exploration?) of running you until the cost of maintaining how your perception of the world bundles concepts exceeds the benefit.
+:PROPERTIES:
+:ID:       ae54151a-bf7f-4366-a1f5-5bb36c3cf01b
+:END:

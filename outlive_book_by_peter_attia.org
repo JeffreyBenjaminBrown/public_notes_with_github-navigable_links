@@ -1,0 +1,304 @@
+:PROPERTIES:
+:ID:       4caa77ca-9934-413c-a0e3-d98af96a837d
+:ROAM_ALIASES: "Attia's Outlive (book)"
+:END:
+#+title: Outlive (book) by Peter Attia
+* TODO RESUME at
+  This is also what makes it difficult to offer blanket advice
+* some medical jaron
+** "nutritional epidemiology" = observational studied in nutrition
+** efficacy vs. effectiveness
+   Efficacy of an intervntion is observed in the lab,
+   effectiveness in the real world.
+* [[id:e2f424e1-f27a-45c2-8d41-cbe212b164dd]["In the late 1970s, the average American adult male weighed 173 pounds. Now ... [it's] nearly 200[.]"]]
+* sugar metabolism
+** tests Attia rec's
+*** DEXA: to know about fat
+    Even in a lean person, visceral (between-organ)
+    fat can be high and dangerous.
+*** "I test my patients’ levels of uric acid"
+**** because high levels may promote fat storage.
+**** because it is linked to high blood pressure.
+*** "I monitor several biomarkers related to metabolism ...
+    elevated insulin
+    elevated uric acid
+    elevated homocysteine,
+    chronic inflammation
+    even mildly elevated ALT liver enzymes
+    the ratio of triglycerides to HDL cholesterol (it should be less than 2:1 or better yet, less than 1:1)
+    levels of VLDL, a lipoprotein that carries triglycerides
+** insulin
+   is a signal to remove excess glucose from the blood
+   and put it into cells as fat,
+   and also impairs the release of fat-stored energy.
+** Putting fat cells into insulin resistant mice cured their insulin resistance
+*** The new cells soak up the excess glucose
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/diabetes_grew_by_two_orders_of_magnitude_in_less_than_a_century.org][Diabetes grew by almost two orders of magnitude in 82 years.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/among_animals_fructose_is_uniquely_bad_for_humans.org][Among animals, fructose is uniquely bad for humans.]]
+** The uric acid we produce from fructose (causes?) our body to store lots of fat, and has (other) harmful effects.
+** Liquid fructose -- even healthy smoothies -- can overwhelm the gut.
+   "[T]he excess is shunted to the liver, where many of those calories are likely to end up as fat."
+* heart, veins and cholesterol
+** cholesterol
+*** Cholesterol is a lipid (a fat).
+*** In food, cholesterol doesn't matter.
+    """
+    “There’s no connection whatsoever between cholesterol in food and cholesterol in blood,” [Ancel] Keys said in a 1997 interview.
+    """
+*** Cholesterol is used by the body to build many things
+** HDL cholesterol is carried by apoA particles, which can cross the endothelium in both directions easily. LDL is carried by apoB, which tends to get stuck in the arterial wall. That's bad, because they get oxidized there, which makes them toxic. This causes atherosclerosis. The oxidation causes them to clump together and stick around.
+** High blood pressure damages the endothelium.
+** Macrophages (immune cells, "big eaters") come to help, eating the LDL. If they eat too much they "blow up into a foam cell"; enough of them that do that will leave a fatty streak visible without a microscope.
+** "cholesterol efflux" : HDL can suck lipid out of a foam cell, cross back into the vein, and deliver the cholesterol to where it's useful.
+** HDL seems to do other good stuff against atherosclerosis.
+   "maintain the integrity of the endothelium, lowering inflammation, and neutralizing or stopping the oxidation of LDL, like a kind of arterial antioxidant."
+** LDL-C is a useful marker for risk, but HDL-C is not so useful for good.
+** Foam cells become the core of atherosclerotic plaque. Smooth muscle cells from the artery go there to secrete a fibrous matrix to contain the foam, like a scar.
+** on tests
+   "a CT angiogram, which I much prefer to a garden-variety calcium scan[*4] because it can also identify the noncalcified or “soft” plaque that precedes calcification.)"
+** stenosis = narrowing of the arterial wall due to plaque
+   First, plaque goes outward, but later it goes inward, blocking traffic.
+** Plaque is only visible on a regular CT scan when it becomes calcified. Calcium goes there to stabilize it -- "like pouring concrete on the Chernobyl reactor"
+** Noncalcified plaques are more dangerous, because they can clot, blocking passage or breaking free and causing heart attack or stroke.
+** An apoB test is more useful (and rare) than an LDL-C test.
+   "(Don’t be waved off by nonsensical arguments about “cost”: It’s about twenty to thirty dollars.)"
+** High Lp(a) ("l p little a") is very bad, and easily tested.
+   It's a weird lipoprotein with tennis rackets sticking out that collect bad stuff and get stuck in the endothelium.
+   It only needs testing *once*, because it's genetic.
+** "I think you can’t lower apoB and LDL-C too much, provided there are no side effects from treatment."
+   "Many doctors, and in fact many of you reading this, might be shocked to see such a low LDL-C target: 10 to 20 mg/dL?"
+   but there are "scores of studies showing no ill effects from extremely low LDL concentrations."
+** "[W]hile having very low HDL-C is associated with higher risk, it does not appear to be causal. This is why drugs aimed at raising HDL-C have generally failed to reduce risk and events in clinical trials."
+** Keto is chancey.
+   "In my clinical experience, about a third to half of people who consume high amounts of saturated fats (which sometimes goes hand in hand with a ketogenic diet) will experience a dramatic increase in apoB particles" which is bad.
+** cholesterol drugs
+*** what they all do
+    serial
+**** "are typically thought of as “cholesterol-lowering” medications, but I think we are better served to think about them in terms of increasing apoB clearance, enhancing the body’s ability to get apoBs out of circulation. That’s really our goal."
+**** "Mostly this is done by amplifying the activity of LDL receptors (LDLR) in the liver, which absorb cholesterol from the bloodstream."
+*** statins
+    "inhibit cholesterol synthesis, prompting the liver to increase the expression of LDLR, taking more LDL out of circulation."
+**** TODO why would inhibiting cholesterol synthesis prompt the liver to make more LDLR?
+*** which he prefers
+**** a statin or something like it
+     serial
+     "I tend to start with rosuvastatin (Crestor) and only pivot from that if there is some negative effect from the drug (e.g., a symptom or biomarker)."
+     Barring that, "I like to use bempedoic acid (Nexletol)", which is newer.
+**** and pairing with that
+     or both?
+***** either Ezetimibe
+      "Ezetimibe pairs very well with statins because statins, which block cholesterol synthesis, tend to cause the body to reflexively increase cholesterol reabsorption in the gut—exactly the thing that ezetimibe so effectively prevents."
+***** or a PCSK9 inhibitor
+      "statins plus PCSK9 inhibitors is the most powerful pharmacological tool that we have against apoB. Alas, statins do not reduce Lp(a), but PCSK9 inhibitors do in most patients,"
+**** and for triglycerides
+***** "dietary interventions are aimed at reducing triglycerides, but in cases where nutritional changes are insufficient, and in cases where genetics render dietary interventions useless, fibrates are the drug of choice."
+***** "Ethyl eicosapentaenoic acid (Vascepa)" also works
+** "Nearly all adults are coping with some degree of vascular damage, no matter how young and vital they may seem, or how pristine their arteries appear on scans."
+** "When we say LDL or HDL, we are typically referring to a type of particle; when we say LDL-C or HDL-C, we are talking about a laboratory measurement of the concentration of cholesterol within those particles."
+** Why the CT angiogram is worth it
+   "While the CT angiogram costs a bit more, requires IV dye, and exposes the patient to slightly more radiation, I struggle to find credible arguments against its use. Approximately 15 percent of people who have a normal calcium score (0) are still found to have soft plaque or even small calcifications on CT angiograms, and as many as 2 to 3 percent of people with a zero calcium score are found on CT angiogram to have high-risk plaques."
+* cells and cancer
+** screen early
+** “liquid biopsies"
+   "can detect trace amounts of cancer-cell DNA via a simple blood test."
+   "cell-free DNA"
+** how cancer cells differ from ordinary ones
+*** they don't stop growing
+    "cancer cells don’t grow faster than their noncancerous counterparts; they just don’t stop growing when they are supposed to"
+*** they metastasize
+    going to where they shouldn't be
+*** they use glucose up to 40 times faster
+:PROPERTIES:
+:ID:       4f4f837c-0299-46d1-9a43-882e7599de59
+:END:
+    and they use it to create energy anaerobically ("anaerobic glycolisis") which is inefficient -- yielding only 2 ATP molecules instead of 36 -- and appears unnecessary since there is plenty of oxygen available to them. But it produces lots of other molecules, whereas aerobic glycolisis only produces ATP, and because cancer has to build new cells, those other byproducts may be the point.
+** chemo & collateral damage
+*** some of the earliest chemotherapy agents, some of which are still in use ... attack the replicative cycle of cells, and because cancer cells are rapidly dividing, the chemo agents harm them more severely than normal cells. But many important noncancerous cells are also dividing frequently, such as those in the lining of the mouth and gut, the hair follicles, and the nails,
+** Metabolic diseases are correlated with cancer.
+*** This is likely related to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outlive_book_by_peter_attia.org#they-use-glucose-up-to-40-times-faster][cancer's metabolism]].
+*** Non-subcutaneous fat is a big cancer risk.
+    Dying fat cells secrete inflammatory cytokines,
+    which damage DNA. Many other pathways too.
+*** Insulin enables cancer to grow faster.
+** Muscle doesn't get cancer.
+** Caloric restriction
+*** is effective in mice.
+    Those mice died of cancer at "far lower rates".
+*** Fasting improves chemo targeting.
+    "fasting, or a fasting-like diet, increases the ability of normal cells to resist chemotherapy, while rendering cancer cells more vulnerable to the treatment."
+*** "This flies in the face of traditional" cancer treatment
+    "which is to try to get patients on chemotherapy to eat as much as they can tolerate, typically in the form of high-calorie and even high-sugar diets. The American Cancer Society suggests using ice cream “as a topping on cake.”
+** immunotherapy
+*** one kind
+    "taking T cells from a patient’s blood, then using genetic engineering to add antigen receptors that were specifically targeted to the patient’s tumors."
+*** another: "checkpoint inhibitors"
+    "Instead of activating T cells to go kill the cancer, the checkpoint inhibitors help make the cancer visible to the immune system."
+*** when immunotherapy works, "it really works"
+    "Between 80 and 90 percent of so-called complete responders to immunotherapy remain disease-free fifteen years out. This is extraordinary—far better than the short-term, five-year time horizon at which we typically declare victory in conventional cancer treatment."
+** early detection
+*** why
+    "The ten-year survival rate for patients with metastatic cancer is virtually the same now as it was fifty years ago: zero."
+*** only five kinds of cancer have agreed-on screening methods
+    "Out of dozens of different types of cancers, we have agreed-upon, reliable screening methods for only five: lung (for smokers), breast, prostate, colorectal, and cervical."
+*** False negatives => use multiple kinds of tests.
+*** "blood testing for PSA, prostate-specific antigen, in men"
+**** use multiple kinds of test
+     [not just the level, but also] "PSA velocity (the speed at which PSA has been changing over time), PSA density (PSA value normalized to the volume of the prostate gland), and free PSA (comparing the amount of PSA that is bound versus unbound to carrier proteins in the blood)."
+*** Recommends colonoscopy every 2-3 years.
+    The AMA recommends 10.
+    But they can appear in as little as 6 to 24 months after a normal colonoscopy, and they are unusually easy to treat if caught fast, and are exceptionally deadly -- third out of all cancers, just after lung and breast/prostate for men/women.
+*** ask the doctor before getting a colonoscopy
+    "ask what your endoscopist’s adenoma detection rate (ADR) is. The ADR is the proportion of individuals undergoing a colonoscopy who have one or more adenomas (or colon polyps) detected. The benchmarks for ADR are greater than 30% in men and greater than 20% in women. You should also ask your endoscopist how many perforations he or she has caused, specifically, as well as any other serious complications, like major intestinal bleeding episodes (in a routine screening setting). Another question you should ask is what is your endoscopist’s withdrawal time, defined as the amount of time spent viewing as the colonoscope is withdrawn during a colonoscopy. A longer withdrawal time suggests a more thorough inspection. A 6-minute withdrawal time is currently the standard of care.”
+* TODO Alzheimer's, chapter 9
+* exercise
+** TODO "long, steady endurance training in zone 2"
+** "Typically, someone working at a lower relative intensity will be burning more fat, while at higher intensities they would rely more on glucose"
+** Glucose can be used many ways, but fat can only be converted to energy in mitochondria.
+** "ability to use both fuels, fat and glucose, is called “metabolic flexibility,”"
+** "in zone 2, most of the work is being done by our type 1, or “slow-twitch,” muscle fibers"
+   which are dense with mitochondria
+** Typically, for patients who are new to exercising, we introduce VO2 max training after about five or six months of steady zone 2 work.
+** Someone just starting the zone 2 training will benefit enormously from 2:30 minute sessions per week.
+** Having more mitochondria increases the body's ability to store energy in muscle, which is better than keeping it in other places like fat or the bloodstream
+** fast twitch are more forceful and less efficient, and make more lactate
+** "Lactate itself is not bad"
+   [T]"rained athletes are able to recycle it as a type of fuel. The problem is that lactate becomes lactic acid when paired with hydrogen ions, which is what causes that acute burning you feel in your muscles[*1] during a hard effort."
+** One can define zone 2 in terms of lactate.
+   "San Millán describes zone 2 as the maximum level of effort that we can maintain without accumulating lactate."
+** TODO ? Lactate monitors are commercially available.
+*** the zone 2 lactate goal
+    "is to keep lactate levels constant, ideally between 1.7 and 2.0 millimoles"
+** VO2 max training
+*** once per week is enough
+*** timing
+    Go 4 (actually anywhere from 3 to 8)
+    minutes as fast as is possible.
+    Then 4 minutes at an easy pace,
+    to get pulse "below 100".
+    Repeat that 4 to 6 times.
+*** "make sure that you get as close to fully recovered as possible before beginning the next set"
+** strength training
+*** "it is very difficult to put on muscle mass later in life."
+*** "Strength training, especially with heavy weights, stimulates the growth of bone—more than impact sports such as running"
+*** Carrying exercises are good.
+    Rucking = hiking with a heavy backpack.
+    "(A good goal is to be able to carry one-quarter to one-third of your body weight once you develop enough strength and stamina.[)]"
+*** "Attention to both concentric and eccentric loading for all movements, meaning when our muscles are shortening (concentric) and when they are lengthening (eccentric)."
+    "You don’t need to do this for every rep of every set. Sometimes you just want to focus on moving the weight quickly or moving a heavier load, but make sure at some point in each workout that you are taking the time to cue the eccentric phase of your lifts."
+*** "Pulling motions, at all angles from overhead to in front of you, which also requires grip strength (e.g., pull-ups and rows)."
+*** "Hip-hinging movements, such as the deadlift and squat, but also step-ups, hip-thrusters, and countless single-leg variants of exercises that strengthen the legs, glutes, and lower back."
+*** "One of the standards we ask of our male patients is that they can carry half their body weight in each hand (so full body weight in total) for at least one minute"
+*** farmer's carry form
+    "The most important tip is to keep your shoulder blades down and back, not pulled up or hunched forward."
+*** two-minute dead-hang
+*** "tepping onto and off an eighteen-inch block and taking three full seconds to reach the ground (a forward step down, like descending a very tall step)."
+* ch 13 : stability
+** refs | followup
+*** DNS
+    www.rehabps.com
+*** Postural Restoration Institute
+    www.posturalrestoration.com
+*** toe yoga and other videos
+:PROPERTIES:
+:ID:       173843e9-c799-4b07-a3ea-9ab61bb0c4e9
+:END:
+    www.peterattiamd.com/​outlive/​videos
+** "Joint injuries" usually result from "an energy leak".
+** try lifting barefoot
+** toe yoga
+   Manipulate each toe individually.
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outlive_book_by_peter_attia.org#toe-yoga-and-other-videos][There are videos]].
+** Cat/Cow
+   Inhale on Cow, exhale on Cat.
+   Start both motions from the hips, to the neck.
+   Feel each vertebra.
+** Shoulders should be up and back when under load.
+   "Keeping your arms at your sides, raise your shoulder blades, and then squeeze them back and together; this is retraction, which is where we want them to be when under load."
+** Take video selfies in the gym. Watch them later.
+** TODO What is an agility ladder?
+** TODO What are shoulder subluxion (if that's a word) and the labrum?
+   "Each time the shoulder joint is subluxed it gnaws away at the labrum and increases the odds for further shoulder instability and pain."
+** TODO ? use toe-spacers
+   "If you really want to go all in on toe yoga, get a set of “toe spacers,” which help restore the toes to a more natural, spread position, particularly in people with bunions or other shoe-related issues. I wear these things around the house a lot."
+* nutrition
+** casts ~ bones :: weird diets ~ nutrition
+   "Wearing a cast on a broken bone will allow it to heal. Wearing a cast on a perfectly normal arm will cause it to atrophy. While this example is obvious, it’s amazing how many people fail to translate it to nutrition. It seems quite clear that a nutritional intervention aimed at correcting a serious problem (e.g., highly restricted diets, even fasting, to treat obesity, NAFLD, and type 2 diabetes) might be different from a nutritional plan calibrated to maintain good health (e.g., balanced diets in metabolically healthy people)."
+** nuts and olive oils might be as effective as statins
+   Result of the PREDIMED experiment in Spain, which was halted prematurely in 2013 due to the dramatic effect.
+   The main problem Attia sees in the study is "performance bias": that the treatment group saw doctors more (to receive olive oil or nuts), which may have changed their behavior.
+** frontload carbs in the day
+:PROPERTIES:
+:ID:       4de4c0d1-e619-4a5d-b33c-e123693f07ce
+:END:
+   "everyone tends to be more insulin sensitive in the morning than in the evening, so it makes sense to front-load our carb consumption earlier in the day."
+** sleep interacts with glucose processing
+   "even one night of horrible sleep cripples our ability to dispose of glucose the next day."
+** TODO ? rice is not so great?
+   "Rice and oatmeal are surprisingly glycemic (meaning they cause a sharp rise in glucose levels), despite not being particularly refined; more surprising is that brown rice is only slightly less glycemic than long-grain white rice."
+** glucose spikes during exercise are normal
+   "Timing, duration, and intensity of exercise matter a lot. In general, aerobic exercise seems most efficacious at removing glucose from circulation, while high-intensity exercise and strength training tend to increase glucose transiently, because the liver is sending more glucose into the circulation to fuel the muscles. Don’t be alarmed by glucose spikes when you are exercising."
+** "protein is not a primary source of energy"
+   This makes it "Unlike carbs and fat".
+   "If you consume more protein than you can synthesize into lean mass, you will simply excrete the excess in your urine as urea."
+** "he data suggest that for active people with normal kidney function, one gram per pound of body weight per day (or 2.2 g/kg/day)"
+  "The literature suggests that the ideal way to achieve this is by consuming four servings of protein per day, each at ~0.25 g/lb of body weight."
+  "Most people don’t need to worry about consuming too much protein. It would require an overwhelming effort"
+** plant protein is harder to get right
+   (for details search for the phrase "plant protein" in the book)
+** fats
+*** are fuel (like carbs) *and* building blocks (like protein)
+    but they build different stuff
+*** fat + protein can achieve the lion's share of satiety
+*** kinds of fat
+**** SFA (saturated)
+**** MFA (monounsaturated)
+**** PUFA (polyunsaturated
+***** omega 3
+****** marine (EPA, DHA)
+****** nonmarine (ALA)
+***** omega 6
+*** all foods that contain fats typically contain all three categories of fat: PUFA, MUFA, and SFA
+*** the usual behavioral implications
+    [after some chemistry] "Putting all these changes into practice typically means eating more olive oil and avocados and nuts, cutting back on (but not necessarily eliminating) things like butter and lard, and reducing the omega-6-rich corn, soybean, and sunflower oils—while also looking for ways to increase high-omega-3 marine PUFAs from sources such as salmon and anchovies."
+*** MUFA >> PUFA > SFA
+    MUFA seems to be the “best” fat of the bunch (based on PREDIMED and the Lyon Heart study), and after that the meta-analyses suggest PUFA has a slight advantage over SFA.
+*** To make more specific choices than that would require some personal blood testing.
+    "individual factors such as lipid response and measured inflammation"
+*** TODO "almost always need to take EPA and DHA supplements in capsule or oil form."
+** the few clear bad guys
+*** trans fats
+    listed on ingredient labels as “partially hydrogenated vegetable oils” (think: margarine)
+*** fructose-sweetened drinks
+    If there is one type of food that I would eliminate from everyone’s diet if I could, it would be fructose-sweetened drinks, including both sodas and fruit juices, which deliver too much fructose, too quickly, to a gut and liver that much prefer to process fructose slowly. Just eat fruit and let nature provide the right amount of fiber and water.)
+* ch 16 : sleep
+** Deep NREM seems to be more important for brain health than light.
+   In particular, cleaning out amyloid beta and tau.
+** REM seems to have more informational consequences, fewer chemical health ones.
+** TODO drugs
+*** mostly don't work -- they'll induce sleep, but it's bad sleep
+*** TODO trazadone & ashwagandha
+    That side effect is what we want in a sleep medication, especially if it also improves sleep architecture, which is exactly what trazodone does—and most other sleep meds do not.[*4] We typically use it at much lower doses, from one hundred milligrams down to fifty milligrams or even less; the optimal dosing depends on the individual, but the goal is to find the amount that improves their sleep quality without next-day grogginess. (We have also had good results with the supplement ashwagandha.)
+**** TODO trazadone "appears especially helpful for enabling patients to stay asleep and not wake up during the night."
+** TODO try the Pittsburgh Sleep Quality Index
+** TODO reduce light exposure gradually after dusk
+** TODO don't install blue lights at home
+** as opposed to phones and computers, "passive devices such as TV, electronic music players, and, best of all, books were less likely to be associated with poor sleep"
+** "try to keep your bedroom cool"
+   "around sixty-five degrees Fahrenheit seems to be optimal"
+** bathing before bed might help
+   "A warm bath before bed may actually help with this process, not only because the bath itself is relaxing but also because when we get out of the bath and climb into our cool bed, our core temperature drops, which signals to our brain that it is time to fall asleep."
+** wind down at night
+   Don't exercise within 3 hours of bedtime.
+   Don't read the news, work email, other stress-inducing things.
+** TODO meditate right before bed
+** sun at the right time helps
+** questionnaires
+*5 The Pittsburgh Sleep Quality Index questionnaire is available at www.sleep.pitt.edu/​instruments/​#psqi; for a detailed guide to scoring, see Buysse et al. (1989).
+
+*6 The Epworth Sleepiness Scale and its scoring can be viewed at www.cdc.gov/​niosh/​emres/​longhourstraining/​scale.html.
+
+*7 The Insomnia Severity Index and information on its scoring and interpretation are available at www.ons.org/​sites/​default/​files/​InsomniaSeverityIndex_ISI.pdf.
+
+*8 To figure out your sleep chronotype, take the Morningness/Eveningness Questionnaire (MEQ) at https://reference.medscape.com/​calculator/​829/​morningness-eveningness-questionnaire-meq.
+
+*9 The STOP-BANG Questionnaire is available at www.stopbang.ca/​osa/​screening.php.

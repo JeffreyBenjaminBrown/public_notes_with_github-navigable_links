@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a503a447-3103-42aa-881e-a88382bad92e
+:END:
+#+title: gender studies
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_correlation_between_weight_and_income_in_rich_countries_is_driven_almost_entirely_by_women.org][The correlation between weight and income in rich countries is driven almost entirely by women.]]

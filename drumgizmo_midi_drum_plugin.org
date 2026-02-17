@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c26a1bef-4c24-4b9d-9c11-603c8064f142
+:END:
+#+title: drumgizmo (MIDI drum plugin)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/crocel_kit_for_drumgizmo.org][Crocel kit for drumgizmo]]

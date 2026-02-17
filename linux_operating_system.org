@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       7347d15c-fece-46aa-87d2-7c1c7230d548
+:ROAM_ALIASES: Linux
+:END:
+#+title: Linux (operating system)
+* *solved problems*
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi-keyboard-esp-usb-in-linux-how-to-use.org][Use a USB MIDI keyboard in Linux.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi_in_to_ardour_on_linux.org][MIDI in to Ardour (and probably other things) on Linux]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/terminal_linux_app_genre.org#bug-cant-type-the-letter-x-in-shell][bug: can't type the letter `x` in shell]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sign_in_mit_magic_cookie_chpasswd_problem.org][Sign-in / MIT-MAGIC-COOKIE / chpasswd problem]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_change_the_bash_prompt.org][how to change the Bash prompt]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/andronix_linux_environment_for_android.org][Andronix (Linux environment for Android)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audio_in_linux.org][audio in Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/get_org_roam_on_phone.org][Termux and (in it) org-roam on phone]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/internet_linux.org][internet & Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/autohotkey_for_linux.org][AutoHotKey for Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linux_installing_and_installers.org][Linux: distributions, desktop environments, window managers]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linux_installing.org][Linux, installing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/screen_zoom_computer_interface_concept.org#linux-desktop-environments-with-native-screen-zoom][Linux desktop environments with native screen zoom]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/battery.org#battery-monitoring-and-control-in-linux][battery monitoring and control in Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/swap_keyboard_keys_in_linux.org][swap keyboard keys in Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/windows_operating_system.org#how-to-run-windows-11-and-macos-virtual-machines-in-linux][How to run Windows 11 and MacOS virtual machines in Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bash_shell.org#user-and-group-ids-in-linux][user and group IDs in Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/latency_computer.org#latencytop-a-linux-latency-monitoring-tool][latencytop: a Linux latency monitoring tool]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cp_linux_command.org#pitfall-sudo-can-cause-cp-copying-to-fail][PITFALL: sudo can cause cp (copying) to fail.]]
+* Why, and what to do if, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/binary_files.org#pitfall-if-a-file-has-null-values-its-considered-binary][the OS considers a file binary when I don't want it to]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/terminal_linux_app_genre.org][terminal emulator]] | [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/terminal_linux_app_genre.org][terminal (Linux app genre)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cpu_management_in_linux.org][CPU management in Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/android_phone_to_mount_filesystem_on_linux.org][Android, to mount filesystem to Linux]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wine_windows_emulator_for_linux.org][Wine (Windows emulator for Linux)]]

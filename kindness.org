@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       0d863b6d-1652-4ffb-897a-99e73198ce16
+:ROAM_ALIASES: generosity charity
+:END:
+#+title: kindness
+* care
+:PROPERTIES:
+:ID:       e8c7577d-224a-4c79-89fc-2939fd51fdfc
+:ROAM_ALIASES: service
+:END:
+** caring v. doing
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org#i-still-care-and-_-usually-knows-it][I still care, and _ (usually?) knows it.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/defense.org][defense | caution]]
+*** Safeguard the culture.
+:PROPERTIES:
+:ID:       f88bacfa-67ba-4020-8a3e-87a02bded425
+:END:
+**** In conversation, don't let the subject change so fast it confuses.
+:PROPERTIES:
+:ID:       f7f3be5e-0901-4892-bd12-fb3821ed308a
+:END:
+     inc. confusing myself
+* warmth ~ [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][vulnerability]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gentle.org][gentle]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_that_matters_is_how_we_make_each_other_feel.org][All that matters is how we make each other feel.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org#universal-baseline-love][universal baseline love]]
+* ? humility -> generosity
+:PROPERTIES:
+:ID:       b0cc1399-7e8d-4a7f-b388-04c505ca198a
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_in_perception.org][kindness in perception]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_we_were_reasonable_we_would_give_everything_away.org][If we were (reasonable?) we would give (everything?) away.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/jaime_garzon_s_recklessness.org][Jaime Garzon's recklessness]]
+*** danger (fear)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identify_with_something_beyond_the_self.org][Identify with something beyond the self.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/if_planning_to_break_up_doing_it_earlier_is_kinder.org][If going to break up, doing it earlier is kinder.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/between_making_a_plan_and_meeting_keep_touching_base.org][Between making a plan and meeting, keep touching base.]]
+* technical & linguistic
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/charitable_interpretation_and_redundancy_in_language.org][charitable interpretation and redundancy in language]]
+* [[id:7e869e2b-22dd-49b2-8a40-2cfeec882ab1][I actually don't want to matter much to [redacted].]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness_v_self_respect.org][kindness v. self-respect]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/2026_01_26_mon_feeling_bleak_about_global_power.org][<2026-01-26 Mon> feeling bleak about global power]]

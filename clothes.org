@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       597df04d-e666-4f8b-b5a5-30ace3e827de
+:ROAM_ALIASES: clothing seamstress dry-cleaning lavandería ropa
+:END:
+#+title: clothes
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/costureras_in_galerias.org][costureras in Bogotá]]

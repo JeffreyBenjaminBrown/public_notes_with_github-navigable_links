@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e6d7cb3c-cd67-49f7-ac8e-09c4b6ca81e7
+:END:
+#+title: I forgoet emotional healing.
+See the part about panic in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_i_feel_when_i_ve_slept_better.org][how I feel when I've slept better]].

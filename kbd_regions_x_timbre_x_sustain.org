@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       056469d1-6648-40dd-82e2-589a6b563c4e
+:END:
+#+title: kbd regions x timbre x sustain
+* DONE equipment needed
+  keith mcmillan footpedals + lumatone
+* what the feet do
+** selective sustain
+** split timbre over keyboard, time
+** octave shift per split
+* an example of how to use it
+  Define three (register,timbre) pairs,
+  one for the bass region and two for treble.
+  One of the two high registers is sustainable,
+  s.t. feet can
+    open and close the gate into sustain,
+    clear the sustain,
+    load the (current or last) sustained sound
+      into to a button,
+    retrigger it from there

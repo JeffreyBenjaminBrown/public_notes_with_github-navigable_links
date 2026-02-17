@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       7397f3e1-ff32-456d-a959-037be5a05c12
+:END:
+#+title: Static Files in Django, esp. for Stylesheets and Images
+* code to reference
+All appearances of the word "static" in <the app>/polls,
+both in files and as names of files or folders.
+* Static file discovery is weird.
+** Where it is governed
+"""
+Django’s STATICFILES_FINDERS setting contains a list of finders that know how
+to discover static files from various sources. One of the defaults is
+AppDirectoriesFinder which looks for a “static” subdirectory in each of the
+INSTALLED_APPS, like the one in polls we just created. The admin site uses the
+same directory structure for its static files.
+"""
+** The folder structure resembles that for templates
+e.g. create the file <app name>/static/<app name>/style.css,
+and then refer to it as <app name>/style.css.
+* Serving "standalone" static files requires an external server.
+** why: Django is unwilling to do much serving of static files
+Static files can be part of a Django page (e.g. a stylesheet or image)
+but e.g. to allow someone to download a file,
+one needs another app.
+Ngnix and Apache are the two major alternatives.
+** steps
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wsgi.org][set up Wsgi]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apache-web-server.org][set up Apache]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apache_and_mod_wsgi_using_them_with_django.org][Configure Apache For Django]]
+* The staticfiles app | Django documentation | Django
+https://docs.djangoproject.com/en/3.1/ref/contrib/staticfiles/
+** duplicate file names
+*** The first one found is used.
+*** Namespace the files to avoid duplicate name problems.
+e.g. by putting them in
+  <app name>/static/<app name>/
+rather than in
+  <app name>/static/
+and then referring to them using the namespace, as in
+  href = "{% static 'polls/style.css' %}"
+**** TODO how to refer to a static file from .py code?
+*** the 'findstatic' command shows you which file will be found
+for a given name
+** upload permissions
+:PROPERTIES:
+:ID:       0a8fff64-4147-4514-af3c-724f4e6c8250
+:END:
+???
+
+"""
+By default, collected files receive permissions from
+FILE_UPLOAD_PERMISSIONS and collected directories receive permissions from
+FILE_UPLOAD_DIRECTORY_PERMISSIONS. If you would like different
+permissions for these files and/or directories, you can subclass either of the
+static files storage classes and specify the file_permissions_mode and/or
+directory_permissions_mode parameters, respectively. For example:
+"""
+* Managing static files (e.g. images, JavaScript, CSS)
+https://docs.djangoproject.com/en/3.1/howto/static-files/
+** configure <project name>.settings.INSTALLED_APPS
+*** INSTALLED_APPS should include django.contrib.staticfiles
+*** STATIC_URL should be set
+e.g. to '/static/'
+** The files seem to live at the URL static/<app name>/
+e.g. I can reach the image I stored in polls/static/polss/images from
+  http://127.0.0.1:8000/static/polls/images/Lake_mapourika_NZ.jpeg
+(and from no other URL I tried).
+** "Serving files uploaded by a user during development"
+"""
+During development, you can serve user-uploaded media files from
+MEDIA_ROOT using the django.views.static.serve() view.
+
+This is not suitable for production use! For some common deployment
+strategies, see Deploying static files.
+...
+"""
+* Deploying static files | Django documentation | Django
+https://docs.djangoproject.com/en/3.1/howto/static-files/deployment/
+** the basic recipe
+"""
+On the server, run collectstatic to copy all the static files into STATIC_ROOT.
+Configure your web server to serve the files in STATIC_ROOT under the URL
+ STATIC_URL. For example, here’s how to do this with Apache and mod_wsgi.
+"""

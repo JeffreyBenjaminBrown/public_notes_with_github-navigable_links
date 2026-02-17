@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d2d0c6fa-794e-408c-9712-a5a5a8343002
+:END:
+#+title: Hampshire College
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/some_people_i_know_from_hampshire_college.org][some people I know from Hampshire College]]

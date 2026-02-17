@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       c05702ea-69af-4972-8b15-f74455f2123c
+:ROAM_ALIASES: "development, cognitive" "cognitive development"
+:END:
+#+title: psychological/cognitive development
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/loss_of_innocence_loss_of_ignorance.org][Innocence and wisdom are in tension.]]
+* category rigidity
+:PROPERTIES:
+:ID:       6d81b078-df1c-4e75-930a-1f2776366c1f
+:END:
+** 'One cognitive problem of ageing has been well labelled "hardening of the categories"!'
+*** source
+    https://web.archive.org/web/20160305015224/http://www.learningandteaching.info/learning/assimacc.htm
+    which I found via
+    https://github.com/Dioprz/blog-dioprz?tab=readme-ov-file
+    who referred to it in his blog, here:
+    https://dioprz.github.io/blog-dioprz/posts/you_dont_need_another_course/
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_v_love.org#be-known-and-loved-in-more-ways-than-expected][Be known and loved in more ways than expected.]]
+* Acquiring a taste seems like a suboptimal use of time.
+* fantasy
+** seeing people solve riddles like those I solved generating myself
+:PROPERTIES:
+:ID:       31e92276-83e0-4f38-9f9f-3d4bd4bd202d
+:END:
+*** e.g. after discovering|recognizing
+**** other people
+**** the consequences of emotions
+**** writing
+**** knowledge graphs
+* Capitalism, if no time to think generally, stunts mental growth.
+:PROPERTIES:
+:ID:       c4a11321-befd-4d95-b7a9-c870e4030f69
+:END:

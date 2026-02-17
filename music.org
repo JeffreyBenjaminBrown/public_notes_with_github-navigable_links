@@ -1,0 +1,222 @@
+:PROPERTIES:
+:ID:       3e92ff4d-195a-4121-aa6c-13b83b303391
+:END:
+#+title: music
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/judgment_taste.org][taste]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org][communication]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/poems.org][poems]]
+* rig/code ideas
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/theory_aware_live_improv_editing_2026_02_16_mon.org][theory-aware live $ improv + editing <2026-02-16 Mon>]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kbd_regions_x_timbre_x_sustain.org][kbd regions x timbre x sustain]]
+* ? symbolic indirection
+Would I call this that?
+** What music can point to, lyrics about something (even completely) known can similarly point in their vibe somewhere else.
+* feasible piano
+** The piano on How We Do by Joshua Redman+ sounds feasible.
+* Find jazz players with no ego.
+:PROPERTIES:
+:ID:       0215c4f9-6cc0-476c-b72e-9b3f3e4b469c
+:END:
+  Ego prevents even the best playing,
+  let alone outside of music. But so does insecurity.
+* Before giving up on some music, ask: Am I hearing all of it?
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/12_n_edo_edit_scheme.org][12*n edo edit scheme]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/monome_for_72_edo_on_12_edo_keyboard_scheme.org][monome for 72-edo on 12-edo keyboard scheme]]
+* MEH post this [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/todo_post_2026_01_24_sat_recording.org][<2026-01-24 Sat> recording]]
+* TODO use Keith M pedals
+  Could do 4 drums per foot with them.
+  Just have to ignore the buttons I press with the middle of my foot.
+* TODO looking for someone who can listen hard and fast, follow and lead
+* If the pedal holds the last chord badly onto this one, maybe let it up and put it back down still on this one.
+* & [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org][justice]] & [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time.org][distance]]
+** the edge where ideas deserve not formal encoding but music
+:PROPERTIES:
+:ID:       eec10382-0ce9-4326-a1c7-f2ff477f19f0
+:END:
+* (the number of spots < the number of notes) available to a voice
+  e.g. sometimes it feels like there are just two likely
+  (notes|timbres), sometimes three --
+  maybe because there are in fact only that many (when voice = drums),
+  or maybe because a pattern is seen repeating across the pitches.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rhythm.org][rhythm]]
+* timbre
+** pigeon whistle : sounds amazing
+* serial durations
+  (3 3 2)xN (2 2 2 2)
+  x being repetition by
+  suddenly the 3s are gone
+* Can I make this [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/music_and_lyric_ideas_inspired_by_poor_thiings.org][music and lyric ideas inspired by Poor Things]]? It's really good.
+* study the sheet music to The Love for Three Oranges
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_memory_and_expansiveness.org][time, memory and expansiveness]]
+* me
+** self-doubts
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desire.org#is-my-art-too-much-logic][Is my art too much logic.]]
+** my ambitions playing
+*** solid
+    Keep that lowest bass on the one.
+*** complex
+**** longer melodies
+**** longer rhythms
+**** more rhythm
+**** variation in duration
+     both sounding and silence
+     esp. in bass
+**** more complex velocity sequences
+***** longer
+***** more detail = higher resolution
+***** some changes fast and temporary, ... (2x2)
+      some fast and persistent,
+      some slow and persistent, etc.
+*** ? novel
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_eval_my_latest_music_video_as_of_2025_10_12_sun.org][self-eval : my latest music video as of <2025-10-12 Sun>]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/songs_i_m_writing.org][songs I was writing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness.org][awareness]] \\ music
+** MERGE : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_and_consciousness.org][music and consciousness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org#do-you-multitask-or-pay-attention-to-every-channel-through-which-another-might-be-speaking][Listen on multiple channels.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#learn-to-retreat-to-less-complexity][Learn to retreat to less complexity.]]
+** humility in channeling
+:PROPERTIES:
+:ID:       ee913669-bf21-4061-823c-e31a08111142
+:END:
+   When {speaking, playing piano, ..},
+   rather than feel, "I am saying this, it must be good",
+   recognize, "I am discovering this along with my listener".
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_memory_and_expansiveness.org#thinking---------to-make-longer][kinds of thoughts to make longer]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#relax-its-good-dont-rush-1][Relax. It's good. Don't rush.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#listen-creatively-1][Listen creatively.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#physical-presence-1][physical presence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_fundamentals.org][musical fundamentals]]
+  abstract & technical
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_topological_counterpoints.org][the topological counterpoints]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/variations_on_nested_series_of_numbers.org][variations on nested series of numbers]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_hierarchy_of_musical_elements.org][a hierarchy of musical elements]]
+* keybaord tricks
+** Switch which finger holds the same sustained note for legato wanderings.
+* instrument designs
+** Mic tapping feet while playing keys. Multitrack. Strip foot track.
+** two good directions for a drum : volume and duration
+*** plus buttons for (sustain -> (*3) and (/3) the decay rate)
+    where (->) = "or better yet"
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sample_chords_to_keys.org][sample chords to keys]]
+* attitude
+** Relax. It's good. Don't rush.
+:PROPERTIES:
+:ID:       a9541ac5-4075-4bc3-838d-8ae5ad92e5ec
+:END:
+** Listen creatively.
+:PROPERTIES:
+:ID:       8aa426c1-b31d-410f-84ae-9af528a05c2b
+:END:
+   Listen to all the elements of what I just played,
+   to choose among elements like rhythm, dynamics, etc.
+* physical presence
+:PROPERTIES:
+:ID:       452373e9-2d85-4803-b0f1-d07312ca4ed5
+:END:
+** Keep my mouth closed!
+*** Too much breathing. Edit in speech, or use a limiter.
+** A simple constant erect posture seems winning
+*** Neck like a baby, floppy.
+** Swinging close to the camera is freaky.
+:PROPERTIES:
+:ID:       e494eab2-9a1b-4a26-a49c-e236e469c12e
+:END:
+* what to play
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#listen-creatively-1][listen creatively]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cooperation.org][cooperation]] in music
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magnanimity.org][magnanimity]]
+*** (rap) battles with mimicry
+:PROPERTIES:
+:ID:       f5b7d005-e73e-4a3a-9d51-e4abc1ba8efb
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/play_fun.org#mimicry][mimicry]]
+* ear training
+** to learn two voice harmonies
+   serial, simplest first
+*** Play two tones, then two different tones.
+**** In the first pair play one first, and call that zero.
+*** Once that's good, try three pair, or two threes, etc.
+* Greet loved ones early.
+:PROPERTIES:
+:ID:       3c53b1de-0ff9-471a-b390-10f1f7b92506
+:END:
+* internal monologue & music (violin)
+:PROPERTIES:
+:ID:       37c33db9-46b0-441d-b83e-bbd9168b1586
+:END:
+** A violin is a good model for the internal monologue because it can play without a pause for breath for a very long time.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#reciprocity][reciprocity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_playlists.org][my playlists]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_responsibility.org][music of social experience]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_responsibility.org][musical responsibility]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/multitracking_with_bran_2025_02_09_sun.org][multitracking with Bran <2025-02-09 Sun>]]
+* Does what I recorded with Vanessa sound good?
+* Felipe Ojeda plays violin!
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/words_are_more_specific_than_music.org][Words are more specific than music.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/art_of_music.org][art about music]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/coordinating_with_a_bass_solo_or_otherwise_should_not_be_too_hard.org][Coordinating with a bass, solo or otherwise, should not be too hard.]]
+* TODO ? Find a rapper at the park
+* TODO reach into higher extensions
+  Usually I'll do like 1 3 5, 3 5 7, 5 7 9,
+  and then walk back down, keep futzing around with those notes.
+  I could keep going into much higher octaves.
+* TODO Make each note count -- each micro-rhtyhm and micro-accent.
+* TODO Why not play a MIDI sampler live?
+  The monome probably does it.
+  I don't need to be able to adjust anything about the loop.
+  Also maybe other Linux software.
+  ChatGPT would probably know.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_on_who_or_what_leads.org][Improv on who or what leads.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/karaoke_songs_i_can_sing.org][karaoke songs I can sing]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collect_data_to_adjust_velocity_curve.org][collect data to adjust velocity curve]]
+* Ideas for Pianoteq guitar aftertouch and vel curve
+** https://www.facebook.com/share/p/qKJSeBo3f777HnEq/?mibextid=oFDknk
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/todo_improv_music.org][TODO & improv \\ music]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/todo_recording_music.org][TODO & recording \\ music]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/todo_editing_music.org][TODO & editing \\ music]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitch_music.org][pitch]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonality.org][microtonality]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_making_shared.org][music making, shared]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_composition_software.org][composition & software]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_production_and_electronics.org][production and electronics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_composition_improvisation.org][composition & improvisation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/songs_some.org][songs, bands and styles (to play)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_and_composition_music.org][improvised multitrack recording|composition (music)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_exercises.org][exercises]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonal_guitar.org][microtonal guitar]]
+* /home/jeff/code/music/jam-quiz
+** includes 24-edo language quiz
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/percussion.org][percussion]] | drums
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pedal_keyboard.org][pedal keyboard]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_impoverishment.org][musical impoverishment]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/monome.org][monome]]
+* aborted
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/22_edo_guitar_shopping.org][22-edo guitar (shopping)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expression_pedals_to_usb.org][Expression Pedals to USB]]
+** Cam's challenge
+*** in 46-edo, play 0-17-32
+    because it's pretty harmonic (both are flat)
+    and it has the biggest possible vertical range on the Lumatone
+    (in my 4x7 tuning).
+* dubious
+** When there's a surprise minor third, I like it not in the bass.
+* u
+** I want to be able to play more stepwise root movements.
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/subterfuge.org#if-music-was-a-scam][if music was a scam]]
+* music & drama
+:PROPERTIES:
+:ID:       f29d1fb4-40ec-451f-94bf-3295fb2baa9a
+:END:
+** for a repeating color sequence like a simpler baseline to have undergirded a long story
+* music programming languages
+** a list that might be more up to date
+*** https://github.com/zoejane/awesome-music-programming
+** a list
+*** https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes
+*** has descriptions for some of them
+* music ? spacetime
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#to-others-you-reside-somewhat-in-art-not-just-spacetime][To others, you reside (in a sense) in art, not just spacetime.]]
+* Record foot tapping with piano.
+** Makes stretching easy

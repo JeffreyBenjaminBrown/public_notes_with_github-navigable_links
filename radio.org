@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       95a75f63-e545-4dd2-82ae-4665aebe97e0
+:END:
+#+title: radio
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_sports_radio_it_was_standard_to_make_things_up.org][In sports radio it was standard to make things up.]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       80c58445-b82e-4023-99b7-ff44ee9096ea
+:END:
+#+title: betrayal
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/betrayal_can_be_an_inaccurately_self_centered_frame.org][Betrayal can be an inaccurately selfish frame.]]

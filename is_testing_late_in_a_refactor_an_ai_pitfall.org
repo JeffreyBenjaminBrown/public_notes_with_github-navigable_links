@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7fc559aa-5499-48f7-bae9-f243f85e4c5c
+:END:
+#+title: Is testing late in a refactor an AI pitfall?
+* Maybe testing during a refactor should be greedy?
+  If an original function F needs a corresponding new function F'
+  during the refactor, as soon as F' comes into existence,
+  if there are tests that use F, perhaps rewrite them to use F'.
+* Rebuttal: Might be more work.
+  Converting tests before all the new functions exist
+  seems like it could be hard.

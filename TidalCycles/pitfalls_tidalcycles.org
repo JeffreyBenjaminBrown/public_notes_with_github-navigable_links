@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       27cfbaef-57a6-403a-9e28-b507810cf64c
+:END:
+#+title: PITFALLS \ TidalCycles
+* don't clobber `p`
+  p1 etc. are free names
+* `reverse` is for lists, `rev` is for signals.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/preassigned_voices_also_have_voice_names.org][Preassigned voices also have voice names.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_bring_structure_from_an_lfo_e_g_saw.org][Don't bring "structure" from an LFO (e.g. `saw`).]]
+* numeric types in patterns
+  A pattern with type Fractional a => Pattern a
+  can be used both as floating point numbers or (rational) time values.

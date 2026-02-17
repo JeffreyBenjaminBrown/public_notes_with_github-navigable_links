@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       bccb23b8-c4bf-49c9-a3ae-35b17d24c4ae
+:END:
+#+title: buffers in Emacs
+* Buffer is a type.
+* A buffer is like a string.
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/the_current_buffer_is_not_necessarily_displauyed_in_emacs.org][The current buffer is not necessarily displauyed.]]
+* creating buffers
+** get-buffer-create
+   creates a buffer if it finds no existing buffer with the specified name.
+** generate-new-buffer
+:PROPERTIES:
+:ID:       5c5c7434-6504-4336-aba5-1df2779c5f95
+:END:
+   creates a new buffer and gives it a unique name.
+* swapping the text of two buffers : `buffer-swap-text`
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/buffer_local_variables_in_emacs.org][buffer-local variables]]

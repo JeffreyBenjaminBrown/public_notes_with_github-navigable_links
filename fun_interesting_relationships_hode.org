@@ -1,0 +1,158 @@
+:PROPERTIES:
+:ID:       fb83f180-cb75-4180-ab9c-eb555f8ecc1b
+:ROAM_ALIASES: "relationships for Hode" "Hode relationships"
+:END:
+#+title: relationships worth recording
+* glyphs for {correlations, isomorphicity}
+:PROPERTIES:
+:ID:       166827e3-d418-4827-b48d-270a00237b9f
+:END:
+  upside down T for orthogonal|independent,
+  wavy one for loosely coupled
+* ? boundary : worthwhile-to-record questions v. other ones
+* Use capital letters for the members, lowercase for the relationship template.
+  The result is easy to automatically parse for relationships.
+* instances
+  The title of each child applies in its entirety
+  to each grandchild.
+**  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_ternary_shows_because_relationship.org][the ternary shows-because relationship]]
+** _ is a mechanism of _
+** _ is a use of _
+** attribution : [author] said _
+   Make these easy to create quickly,
+   without unduly distorting the view,
+   to encourage more citation.
+** "_ {evinces, is implied by, ...} [statement, possibly a relationship]"
+   When the object (the second member) is a relationship,
+   this seems not extremely easy to represent.
+*** one approach : an org-child "evidence for it" refers not to its parent, but to its entire ancestry -- why its parent is where it is in the file
+**** example
+   * bread
+   ** needs
+   *** yeast
+   **** evidence for it
+	without yeast it won't rise
+   *** flour
+   *** ...
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/promote_feels_notes_a_generalization_of_trigger_warnings.org]["_ feels _" notes : a generalization of trigger warnings]]
+** instances ^ valuable both to reader and writer
+*** about these
+    They would need conscious user participation,
+    are whole sentences,
+    and seem clearly useful to both enough authors and readers.
+*** these
+**** _ considers _ [adjective]
+***** useful values for the adjective
+****** surprising
+       {surprising, beautiful, of no consequence (if | to _) ...}
+****** beautiful
+****** of no consequence ( if | to _ )
+       This would be useful as a filter.
+**** [author] {believes, suspects, suspects not, believes not} _
+***** justification
+      Some authors clearly want to make their beliefs known,
+      and readers could benefit by seeing the distinction
+      between beliefs and things that might not be.
+***** suspects ~ "it seems"
+      This could be a private category.
+**** ([author] says) _ illuminates _
+***** why no more specific than "illuminates"
+      It might be helpful that the relationship
+      {supports | helps explain | proves | contradicts}
+      be specified no further.
+      That's because, for someone who believe the first _,
+      if the second contradicted it,
+      contradiction could be aggregated in the view
+      it serves to illuminate,
+      thus preventing undue avoidance.
+***** the "author says" part
+      would be useful in particular to make it easy to find an author's arguments for their own claims
+**** [author] wants [condition]
+**** _ enjoyed reading _
+     Would be useful for guiding the view.
+**** [term] and [term] are equivalent.
+**** _ grounds _
+     It sounds better than "justifies", "clarifies", "elaborates".
+** perhaps to introduce only after voting
+*** user-defined relationships
+    Each would have at least been considered useful by some author.
+** valuable if there is voting
+*** Rank these things.
+    e.g. rank the things you would like to see extended,
+    inc. maybe sometimes specifically by anyone who believes _
+*** these things
+**** _ would like to know [(aspect of) topic] (from _)
+     Clearly wanted by authors,
+     and readers could profit by seeing and answering well.
+**** _ would like _ to read/watch _ (and state they did)
+**** dubious : _ dodges the request to write about _
+     Just ask them to write about another thing,
+     maybe very related (more specific) to the last question.
+** extractable programmatically
+*** _ wrote _ (at time _)
+** somewhat extractable programmatically
+*** _ involves | is about _
+    Generate automatically from the title:
+    _ involves [{verb, noun, ...} equivalence class], etc.
+*** [member] is in [category]
+*** [category] is subset of [bigger category]
+*** _ {if, because} _
+** [writer] trusts {principle, author,}
+** no pressing need; technical, not fun for mass voters
+   a.k.a. garbage
+   This itself might be a good category to have.
+*** [statement] follows [statement] in [explanation, story, etc.]
+*** [statement] is part of [statement]
+    "[_statement follows _statement] is part of [_statement]"
+    can be used to represent multi-step arguments, recipes, stories
+*** that someone's edits on a topic were accepted by another for their version of that topic
+*** [subject] <does|did|will do> [verb] (opt: to [argument]) under [condition]
+    The three tenses could be unified,
+    reducing three kinds of relationships to one,
+    by making the tense (time) a mandatory condition,
+    whereas others would be optional.
+*** _ is [how to execute plan]
+*** seems distasteful : [agent | project] stands to benefit if [statement]
+    I already represent "if".
+    Having a separate, visible-to-the-user category like
+    _ stands to benefit from _
+    seems like premature optimization at bbest,
+    maybe no time to use.
+** redundant
+*** logic
+**** maybe [statement]
+     Implicitly, by writing "maybe x", one is saying
+     "the possibility of x is worth considering".
+**** not [statement]
+**** it seems [statement]
+     Implicitly, any such statement is an "it seems _ to [author]" statement.
+*** causation
+**** [action] results in [condition]
+** relationships I find useful
+*** defining it
+*** instances of it
+*** usage
+*** motivation(s)
+*** observations, history, stories involving, evidence for
+*** fantasy
+*** mysteries | problems | pitfalls (warnings)
+*** todo (opportunities) | blocked (on _) | done | abandoned
+*** justification (for writing about it)
+*** refs. to learn about it
+*** how to read [passage]
+*** unsure (for atoms and relationships)
+* goals of the relationship set
+** Users should enjoy using it to better understand what they have written.
+** Users should want to use each new symbol.
+** It should be extensible, needn't be complete.
+** It should be representable in a human-readable way.
+* further observations
+** "is true" and "is false" are better unbundled.
+   "_ is true" is really a bundle of
+   "[author] believes [statement]"
+   and some set of "[evidence] supports [statement]" statements.
+** "[author x] suspects ([author y] believes [statement])"
+   is just a nesting of two relationships,
+   but could be particularly useful.
+* DONE obvious : inherent limitations
+** A symbol made available to a user, unless voters have induced them to explicitly answer about a place where it might apply, can only symbolize "this or maybe not this".

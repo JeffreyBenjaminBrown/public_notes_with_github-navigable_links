@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       692f7cf2-5d80-4bf2-bbd3-59db334b00c3
+:END:
+#+title: How radically different would we be?
+* Differences in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attractiveness.org][attractiveness]] seem like they must cause radically different experiences.
+** Some want [more,fewer] friends.

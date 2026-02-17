@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b29b28ac-ab9a-4aac-b002-5a8991855adb
+:END:
+#+title: Hope is a skill.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/why_did_these_thoughts_not_even_occur_to_me.org][why did these ideas not even occur to me]] , personal

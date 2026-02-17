@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       51e49260-fcf8-42dd-b843-fd776cb4d8e6
+:END:
+#+title: nice (Linux command)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_rebuild_command.org#todo-how-to-rebuild-nixos-nicely][to rebuild NixOS nicely]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/set_nice_level_for_automatic_nixos_rebuild.org][set nice level for automatic NixOS rebuild]]

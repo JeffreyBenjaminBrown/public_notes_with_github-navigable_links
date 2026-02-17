@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       2549e02a-fb43-484c-9d92-27b094a5e67c
+:END:
+#+title: belief
+* faith
+:PROPERTIES:
+:ID:       15936e66-284c-4242-a465-96a82b5640ee
+:END:
+** Have faith in analysis.
+:PROPERTIES:
+:ID:       6b93d91c-8c30-477f-9024-9eeb2284a405
+:END:
+*** Know that you can use words to wrestle your demons.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/malevolence.org#beneficent-malevolence-might-be-cool][Beneficent malevolence might be cool.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][patience]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surviving_ego_death.org#to-know-before-death-that-you-will-retain-your-identity-in-the-world-as-it-moves-on-after-your-death][to know before death that you will retain your identity in the world as it moves on after your death]]
+   might be good?
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pain.org#religious-people-experienced-less-boredom][Religious people experienced less boredom.]]
+* beliefs that matter
+:PROPERTIES:
+:ID:       7ab90926-6a0b-48e8-9e2c-7e9c9682d9a4
+:END:
+** I am safe.
+** I have enough.
+** I love others.
+** I need others.
+* axiomatic moral certainties
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/utilitarianism.org][utilitarianism]]

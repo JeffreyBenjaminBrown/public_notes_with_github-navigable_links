@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       46d23af5-e0eb-4e71-88b7-f84693905d93
+:END:
+#+title: David Chalmers
+* his talk on [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consciousness_in_llms_a_talk_by_david_chalmers.org][consciousness in LLMs]]

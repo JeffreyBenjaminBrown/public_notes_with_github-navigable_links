@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       312b1964-390a-4fbd-ac3b-ebe4797cd821
+:END:
+#+title: stupidity
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org#pride--stupidity][pride => stupidity]]

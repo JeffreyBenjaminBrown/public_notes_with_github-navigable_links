@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       888eee74-1c22-4750-8922-efaad74206fe
+:END:
+#+title: tuning the Chapman Stick
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/strings_for_the_chapman_stick.org#the-gauges-kalium-seems-to-have-given-me][the gauges Kalium seems to have given me]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_guess_the_string_gauge_corresponding_to_a_frequency.org][how to guess the string gauge corresponding to a frequency]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_standard_chapman_stick_tuning.org][the standard Chapman Stick tuning]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo_chapman_stick_tunings.org][41-edo Chapman Stick tunings]]
+* to test intonation on a Kite Stick
+** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_tuner_pitfalls.org][musical tuner pitfalls]]
+** how
+   Tune the stick at the 12th fret
+     (orughly an octave below the 3rd harmonic).
+   Then test 42\41 frets higher, on the 33rd fret.
+   Look at the tuner.
+   If that high note is flat,
+   the bridge piece needs to come in.
+   If it's at the right 41-edo note but a little off,
+   moving by half of the big screw's width seems about right.

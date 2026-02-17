@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       5904aac5-da03-4eb2-b4b8-45a09dd3499d
+:END:
+#+title: voices, long samples and signal flow in Tidal
+* `cps` is a parameter, like `s` or `n` except global.
+  Try it with oscillators (e.g. `saw` below).
+  p "cpsfun" $ s "bd sd(3,8)" # cps (slow 8 $ 0.5 + saw)
+* voice names
+** There are some "preassigned voices".
+   `d1`, for instance.
+   See BootTidal.hs for their definitions.
+*** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/preassigned_voices_also_have_voice_names.org][Preassigned voices also have voice names.]]
+** Voice names can be dynamic and informative.
+   Rather than use the preassigned voice names like `d1`,
+   one can name patterns as in
+     p 1
+   or
+     p "juliet"
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/silence_in_tidal.org][silence in Tidal]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/effects_buses_in_tidalcycles.org][effects buses in TidalCycles]]
+* mute, solo, umute, unsolo
+  `mute 1` mutes `d1` (which is a synonym for `p 1`).
+  `solo` is similar.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/truncating_long_samples_cut_and_legato.org][truncating long samples : `cut` and `legato`]]

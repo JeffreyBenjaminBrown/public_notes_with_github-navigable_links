@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3a5c2fe5-291a-4cd6-9e05-fb18825c065f
+:END:
+#+title: household tricks, some
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cooking.org][cooking]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pot_burnt_how_to_clean_a.org][pot, burnt, how to clean a]]

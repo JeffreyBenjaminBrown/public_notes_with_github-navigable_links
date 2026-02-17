@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       1b73c5f1-5708-4875-9b85-b2eea26187e0
+:END:
+#+title: Docker (virtual machine platform)
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/docker_can_interfere_with_wifi_access.org][Docker can interfere with WiFi access]]
+* TODO what the heck ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/persistent_docker_data_insanity_hode.org][persistent Docker data insanity \ Hode]]
+* docker exec
+:PROPERTIES:
+:ID:       e0b24368-4470-412b-b8f4-f5767d93c76a
+:END:
+** to run the script at /path/to/script
+   docker exec -it tax.co.web bash /path/to/script
+   Will be run from the container's default folder.
+* pitfalls
+** The `source` command is not available by default.
+:PROPERTIES:
+:ID:       34ea75fa-7f37-426c-87af-cfcf5fbfe5aa
+:END:
+   But it can be made available by changing the shell:
+
+   SHELL ["/bin/bash", "-c"] # `source` below fails without this.
+   RUN python3 -m venv /root/.venv              && \
+       source          /root/.venv/bin/activate && \
+       pip3 install -r /root/requirements-for-pip.txt
+* solutions
+** Docker / to reduce space usage
+:PROPERTIES:
+:ID:       d623ee48-2989-4802-82f9-3d51ddf45c19
+:END:
+   docker system prune
+** if permissions get weird
+   Include this line in the `docker run` command:
+     -u $(id -u):$(id -g)
+   That way the Docker container will have the same permissions, user and group as the user who launches it.
+** running [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_in_docker_running.org][TypeDB in Docker]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_command_history_paste_backspace_misbehaves_in_conda_python3_in_docker.org][if keyboard input* misbehaves in `conda python3` in Docker]]
+   * e.g. command history (up), paste, backspace
+** to execute a script in a running Docker container
+   use [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/docker_virtual_machine_platform.org#docker-exec][docker exec]]
+** if pip install does not work
+   it might be because [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/docker_virtual_machine_platform.org#the-source-command-is-not-available-by-default][`source` is not available by default]]
+** To quickly edit a Docker-locked file from the host system
+   https://stackoverflow.com/a/26915343

@@ -1,0 +1,92 @@
+:PROPERTIES:
+:ID:       e7a68f0b-f932-4978-9636-88a4ecbe639c
+:END:
+#+title: art
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creativity.org][creativity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/listening.org][listening]]
+* fiction
+:PROPERTIES:
+:ID:       ea422ea0-52f8-4aa4-8741-5261140361f0
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dissociation.org][dissociation]]
+* freedom through art
+:PROPERTIES:
+:ID:       1b7c3c82-edc0-41dd-a026-38e6661d8382
+:END:
+** Art is a floor on freedom.
+:PROPERTIES:
+:ID:       4ab66dd2-71c7-4afe-a7ee-bd6b34b6fc8d
+:END:
+*** not necessarily the least lower bound
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/radical_transformation_information_death.org#sharing-referential-slip][sharing referential slip]]
+** Ideally?, [[:id:bc33441c-e184-4040-b265-0fca45248871][art breaks down ossified perception -- broken link?]].
+* TODO non-pleasure purposes for art
+:PROPERTIES:
+:ID:       fe4939fe-8b94-4b78-914f-f2b83d7ff9f4
+:END:
+  It can help someone understand.
+  It can help someone grieve.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/some_private_art.org][some private art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_maybe_only_expressible_through_art.org][things maybe only expressible through art]]
+* some kinds
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org][drama]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][comedy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org][music]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sculpture.org][sculpture]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/fantasy.org][fantasy]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org#patriarchy][philosophy v. patriarchy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magnanimity.org][magnanimity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_constraints_help_art.org][how constraints help \ art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/abstract_art.org][abstract art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art_highlights_extremes.org][Art highlights extremes.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org#art-can-resist-preconception][Art can resist preconception.]]
+* weird
+** Empathizing with the future in one's choice of punctuation scheme.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isaiah_64_8_esv_we_are_your_clay.org][Isaiah 64:8 ESV, "we are your clay"]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_art.org][AI and art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surreal.org][surreal]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org][absurd]]
+* An extreme form: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org#intimate-conflicts][intimate conflicts]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#the-best-art-for-studying-empathy-probably-are-novels-with-a-diverse-realistic-set-of-characters][The best art for studying empathy, probably, are novels with a diverse. realistic set of characters.]]
+* {able,willing,free} to speak only through it
+* Those who resist tyranny through art work toward a payoff possibly after their time.
+:PROPERTIES:
+:ID:       8dc03133-c2c7-46e2-8ec2-8441394dd2df
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#to-others-you-reside-somewhat-in-art-not-just-spacetime][To others, you reside somewhat in art, not just spacetime.]]
+** In art and in dreams?
+* instances
+** drama
+*** Someone kindly withholding your dreams.
+:PROPERTIES:
+:ID:       9595a917-dfe9-4a5b-b60f-1877ef6d637c
+:END:
+** sculpture
+*** cell phone smoke sculpture
+    Like an elephant, a (cell phone? snuff box?) in one hand, the fumes grow into a nose and a flowering skull above it.
+*** humble, heroic, lucky concrete
+**** an airplane hugging the wall, arms wings, skinny-strong, thumbs up
+     The rack on the back of the chairs in the economy section
+     of a Spirit airliner as of <2026-01-01 Thu>
+     looks like this.
+**** Hanging in there, avoiding a big danger, fine with going unrecognized.
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/fantasies_about_the_nature_of_power.org][fantasies about the nature of power]]
+** Maybe art is the afterlife.
+*** Forget (most of) yourself into art.
+    The processs that would follow you,
+    after forgetting the hard details of your life,
+    would somehow retain art, and your ?essence, and a wider context.
+*** And maybe specifically the art you collect is your own afterlife.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#if-individuals-are-carried-on-society-scale-currents-see-it][If individuals are carried on society-scale currents, see it.]]
+* Reveal the mass of meaning in space.
+:PROPERTIES:
+:ID:       0dae34a0-2fdc-4ab7-835f-d65cacfee6c1
+:END:
+** by judiciously using art in time
+** A fleeting, semi-secret huge inhale identifying that a moment is denser with calculation than the schedule permits.
+*** spacetime deconstructed by art
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#like-a-raga-when-i-say-hi-to-you-this-color-comes-into-my-perception-and-then-this-one-][Like a raga, "When I say hi to you, this color comes into my perception, and then this one ..."]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/dreaming.org#waking-life-as-a-thin-top][Waking life as a thin top.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/singularity.org#spotify-et-al-affect-the-justice-of-musical-reward][Spotify et. al. affect the justice of musical reward.]]

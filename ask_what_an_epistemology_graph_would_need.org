@@ -1,0 +1,105 @@
+:PROPERTIES:
+:ID:       c48cbb26-cdf3-4109-b729-3abd58c2d4bc
+:ROAM_ALIASES: pistm
+:END:
+#+title: social knowledge base app for epistemology
+* sources
+** DONE (processed)
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_ideas_on_networking_minds_from_dynomight.org][Some ideas on networking minds from DynoMight.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_knowledge_graphs_matter.org][why knowledge graphs matter]]
+*** check out smsn-why
+    https://github.com/synchrony/smsn-why/tree/master/pending%20or%20incomplete
+**** examples of queries
+     "Who needs what from me by Monday?"
+     "What have scientists said about global warming?"
+     "What are some true stories that illustrate the value of being kind?"
+* relationships
+** some important ones
+*** These relationships have implicit arity higher than 2.
+    Implicitly each relationship R includes more data --
+    specifically, the P and T in
+    "P wrote at time T that relationship R holds".
+*** the list
+**** X is evidence of Y.
+**** X contradicts Y.
+**** X [helps|does not help] in understanding Y.
+**** not X
+     This arity-1 relationship needs no human author;
+     it exists for every X,
+     and is more a feature of the grammer than a statement.
+     It's not a statement until some person in particular
+     says something about X or not X,
+     such as that they believe it.
+**** X inspired Y
+     is most credible by the author of y
+** mysteries
+*** [there are] four alternative readings of owl:sameAs
+* people to ask
+** the Agora community
+*** inc. [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/flancian_the_guy_who_made_agora.org][Flancian, the guy who made Agora]]
+** the org-roam community
+** psychologists
+** epistemologists
+** [online?] community-builders
+* mysteries | research agenda
+** social epistemology
+   How do we know what we know?
+   Why do we believe who we believe?
+   What do we need to see about how information travels through society in order to best judge it, as a non-expert?
+** how to enable community-building
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_tactical_guide_to_kickstarting_your_community.org][A tactical guide to kickstarting your community]]
+** how to prevent alienation
+   "nobody listens to me"
+** ? what do (can) only the unreliable know (prove)
+   art, mysticism
+* goals
+** Let users mark up each other's writing.
+   Editing seems problematic,
+   because it might break all the comemnts pointing to something.
+   But there could be relationships like
+   "X thinks A is equivalent to B and clearer,"
+   and "X thinks A is unnecessary for purposes of understanding B."
+** make successful behaviors discoverable
+   e.g. if someone uses ad-hominem attacks a lot,
+   and people can filter out big users of ad-hominem attacks,
+   they will. If others can see that ad-hominem attacks don't work,
+   they'll not do it.
+** control your view
+*** speedreading
+*** enable subscriptions to topics and people
+*** trust curated views, or don't
+*** show all metadata, or only kinds of particular interest
+    e.g. "look out -- this person seems to have a ready opinion on everything"
+*** schedule it
+    "Don't show me politics when it's close to bedtime."
+** creative reading
+** freedom to speak freely
+*** [Fiction] is information about those who created it [and their (social) context]
+*** disappearing messages are popular
+*** sometimes one wants to speak off the record
+** enable visualizations
+*** of the social network
+*** of the history of an idea
+** built-in attribution
+*** Forwarding is a kind of attribution,
+    if it includes the history.
+*** NLP spiders
+    could look for earlier equivalent staements.
+** better, optional gamification
+   Page views, likes, retweets -- these are like scores in a video game. They are salient, always in view, and often treated as somethinig to maximize. More important kinds of information -- which questions were you able to answer? how many minds did you change? how many people did you help?
+** higher-level metadata
+   judge the judges
+   judge the judgements
+   maybe judge the judgment algorithms
+* stretch goals
+** web-crawler-genderated newsfeed
+** for spirituality
+   I wrote about spiritual lenses on knowledge graphs some in smsn-why/.
+* DONE probably
+** not clearly important
+*** know, do, teach : each a separate upper ontology
+** obvious advantages
+*** Living vicariously saves time.
+    This is an advantage that began with
+    storytelling and writing;
+    software will only extend it.

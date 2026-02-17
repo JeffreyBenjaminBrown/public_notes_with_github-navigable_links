@@ -1,0 +1,109 @@
+:PROPERTIES:
+:ID:       0a6dcf44-6c2c-432a-90a7-babfbb3e0b7d
+:ROAM_ALIASES: "justice"
+:END:
+#+title: justice
+I have been trying to keep these surprising.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_likely_upper_bound_on_global_injustice.org][A likely upper bound on global injustice.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imagination.org#agnosticism][agnosticism]], against prejudice
+* Among values, justice seems unusually negative.
+* judgment & intuition & restraint
+** Thinking about who deserves what could be a bad smell.
+:PROPERTIES:
+:ID:       5b78b44a-f120-4c53-b8f7-c9638287563d
+:END:
+*** Ignoring it or recognize it?
+*** Probably best to keep private, at least usually.
+*** Even if recognized, probably best not usually used to inform decisions.
+    No vigilante justice.
+* some refuse to hear judgment
+* evil
+:PROPERTIES:
+:ID:       aa879d13-804f-4de3-b9fc-a3e7c774969e
+:END:
+** Am I special?
+*** How do I avoid evil so nearly completely?
+    I did get pickpocketed.
+      OTOH an ethics in which that was just is easy to specify.
+    If I am unique in so avoiding it, I fail to empathize,
+    to properly imagine someone else's experience.
+** Ignorance can appear evil.
+:PROPERTIES:
+:ID:       af2af1a6-c1fd-46fc-b7a2-903870526f85
+:END:
+*** as shirking, for instance
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org#safeguard-the-culture][Safeguard the culture.]]
+** evil v. {self-awareness, true joy}
+:PROPERTIES:
+:ID:       a23ea954-0bb7-40c1-b42c-ef051cf0918b
+:END:
+** corruption
+:PROPERTIES:
+:ID:       ea8796f8-7f12-4cef-bba4-367f668ea978
+:END:
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/poverty.org#robbing-the-poor][robbing the poor]]
+** _ => evil
+:PROPERTIES:
+:ID:       367f36ed-e2af-4b71-8d0f-93acd881a39a
+:END:
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cowardice_evil.org][cowardice => evil]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/laziness_evil.org][laziness => evil]]
+*** not recognizing the beauty of heroism => evil
+    where heroism =? kindness, patience
+** Is (entirely?) an inequitable utility function over others' utility functions.
+   esp. of the in-group's v. the out-group's
+** cruelty
+:PROPERTIES:
+:ID:       02f3df7f-03ca-4db9-a37a-b88451a397d5
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/malevolence.org][malevolence]]
+* justice through silence
+:PROPERTIES:
+:ID:       bff8a56f-6735-4775-8060-f942ea1c0a54
+:END:
+** The black kids who did not respond to white taunts shortly after Brown v. Board.
+** Nonresponse from a disappointed lover.
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/death_note_to_cooper.org#he-didnt-respond-to-it-but-immediately-thereafter-when-i-backed-down-to-ordinary-politics-we-talked-for-a-bit][death note to Cooper]]
+** relax, not trying to understand evil, instead starving it of observation|power
+:PROPERTIES:
+:ID:       5ff83593-8ad7-47e1-9c6b-95cf8e6fb61e
+:END:
+* relax
+:PROPERTIES:
+:ID:       3a64e59d-518c-4684-9c74-54385bdbc1ab
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org#relax-not-trying-to-understand-evil-instead-starving-it-of-observationpower][relax, not trying to understand evil, instead starving it of observation|power]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#power-from-nothingness--the-list-of-things-you-dont-have-to-worry-about-is-impossibly-too-long-to-record-know][power from nothingness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/conflict.org][conflict]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gentle.org#judge-gently][Judge gently.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice_irony.org][justice & irony]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice_accounting.org][justice & accounting]] = karma
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ubi.org][UBI]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_re_embarrassed_to_share_your_beliefs_something_is_wrong.org][If you're embarrassed to share your beliefs, something is wrong.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authoritarianism.org#alternative-id][fascism]]-adjacent
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/numbness.org][numbness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_is_not_so_sharp.org][Death is not so sharp.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice_fantasy.org][justice & fantasy]]
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/channeling_a_higher_force.org][channeling a higher force]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/temptation.org][temptation]]
+** crime
+:PROPERTIES:
+:ID:       41e9042a-86a2-45cd-b4d9-a5e5fb6aaf44
+:END:
+*** theft
+* inequality
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org#never-seeing-friends-except-with-via-ones-spouse][never seeing friends except {with, via} one's spouse]]
+* far out
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_is_time_s_initial_foundational_conditions.org][Time is time's initial/foundational conditions.]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_justice_for_the_destitute.org][a cognitive justice for the destitute]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_switzerland_bribes_paid_abroad_were_not_only_legal_but_tax_deductible_until_around_2015.org][In Switzerland, bribes paid abroad were not only legal b
+ut tax deductible until around 2015.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magnanimity.org#magnanimity-is-related-to-justice-like-what-you-owe-yourself][Magnanimity is related to justice, like what you owe yourself.]]
+** the next generation, heavenly, angrily explaining "you don't let me"
+:PROPERTIES:
+:ID:       88694568-d094-4275-804c-f60d497c3b94
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/justice_personal.org][& personal]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/dreaming.org#its-beautiful-that-nobody-not-even-you-knows-whether-your-dreams-are-good][It's beautiful that nobody knows whether your dream is good.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/singularity.org][singularity]]

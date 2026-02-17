@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       1e56abb2-a473-4c78-b555-c8ae8cc42528
+:END:
+#+title: pitch detection, pitch shift and time stretch in Reaper
+* midi stretch \ Reaper
+:PROPERTIES:
+:ID:       281dc40c-e003-4192-8e53-ebcb8239a93e
+  :ROAM_ALIASES: "MIDI stretch \ Reaper" "stretching MIDI \ Reaper" "stretching midi \ Reaper"
+:END:
+** Alt-drag will stretch a selection of midi notes.
+   Drag one side. The other side of the selection stays fixed.
+   Any notes whose start and endpoints are both strictly inside
+   the selection's boundaries will have both endpoints moved.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper_feature_request_stretch_markers_for_midi.org][Reaper feature request: Stretch markers for MIDI]]
+* Use ReaPitch to make harmonies.
+* Use ReaTune to make pitch corrections.
+* Use "stretch markers" to stretch selected items in sync.
+* Use ReaTune to tune an instrument.
+  It lets you input a Hz value,
+  so its fixed assumption of 12-edo can be overridden.
+* Use ReaVoice to control an audio clip's pitch via MIDI
+  MIDI Controlled Pitch Shift with ReaVoice
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#adjust-item-pitch-fine--s-m-drag]["Adjust item pitch fine" : S-M-drag]]

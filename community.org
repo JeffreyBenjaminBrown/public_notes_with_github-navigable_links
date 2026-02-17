@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       4e748426-9ff0-4e7b-8192-b582a2ae7f95
+:END:
+#+title: community
+* Be with masters.
+:PROPERTIES:
+:ID:       8dcdbd8b-990f-4b64-b3c9-e9712fcf54be
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outreach.org][outreach]]
+* ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/realism.org][acceptance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/seriousness.org][commitment]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety.org][safety]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community_building.org][community-building]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/embarrassing_ambitions.org][embarrassing ambitions & community]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meaninglessness_pointlessness.org#others-provide-meaning-and-focus-both-consciously-and-less-so][Others provide meaning and focus, both consciously and less so.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_radically_different_would_we_be.org][How radically different would we be?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collective_understanding.org][collective understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cooperation.org][cooperation]]
+* goal : synergistic community
+** where the same person you would choose for one thing you choose for another
+* choosing people
+:PROPERTIES:
+:ID:       105be2ef-aca6-425c-8fd1-8f764dee7dcb
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org#self-respect-v-acquiring-taste][self-respect v. acquiring taste]]
+   in this case a taste for someone
+** Appreciating what is special might best be a constant challenge.
+:PROPERTIES:
+:ID:       59bd7d11-726d-4de4-b95a-e00916c356f6
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org#the-gaze-of-others-imposes-a-kind-of-discipline][The gaze of others imposes a kind of discipline.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org#safeguard-the-culture][Safeguard the culture.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honor.org#thank-those-who-make-possible-the-gathering][Thank those who make possible the gathering.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dance.org#i-want-to-follow][I want to follow.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org#be-aware-of-the-troubles-of-everyone-present-simultaneously][Be aware of the troubles of everyone (present) simultaneously.]]
+* maybe
+** the [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/dreaming.org#the-simulating-others-in-dreams-hypothesis][simulating others in your dreams hypothesis]]
+** Dance in crowds like boids.
+:PROPERTIES:
+:ID:       be3b9448-a751-4f82-8db7-ae0e551561bc
+:END:
+*** Can usually move along crowd's vector; occasionally smushed.

@@ -1,0 +1,89 @@
+:PROPERTIES:
+:ID:       48cdd2bf-b45b-44a7-b7f8-43cbf73fa7b8
+:ROAM_ALIASES: "my NixOS config"
+:END:
+#+title: NixOS, my config
+* PITFALL: I disabled baloo
+:PROPERTIES:
+:ID:       95ac994e-d991-4263-9fdd-d77bc13789f1
+:END:
+  If the app runner stops working that might be why.
+  But then I installed an app (`cmatrix`) vis NixOS,
+  and it still worked.
+* ref : on Github
+  KDE // config/configuration.nix
+  https://github.com/JeffreyBenjaminBrown/nixos-experiments/blob/kde/config/configuration.nix
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/phanaeros_s_2022_beelink_server.org][Phanaeros's 2022 Beelink server]]
+* TODO ask NixOS why everything is in Spanish
+* TODO ? stop using deprecated name in libuv derivation
+** TODO Do I even use that libuv derivation?
+   The phrase `libuv` is nowhere in my config/ folder.
+   My derivation is at version 1.34.2,
+   whereas nixpkgs has it at 1.42.0.
+   I may have [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_packages_create_build_install_publish.org#3---commands-to-build-it][installed libuv by hand]],
+   or libuv may have been pulled from nixpkgs
+   without my (directly) mentioning it in my config.
+** the file that triggers it
+   ~/nix/jbb/custom-packages/libuv/default.nix
+** the error
+   trace: Warning: `stdenv.lib` is deprecated and will be removed in the next release. Please use `lib` instead. For more information see https://github.com/NixOS/nixpkgs/issues/108938
+* TODO should also enable sound if I use Musnix?
+  My configuration.nix currently has the line
+      sound.enable = true;
+* TODO should Musnix know about my external soundcard?
+  My config currently contains this:
+    # Find this value with `lspci | grep -i audio` (per the musnix readme).
+    # PITFALL: This is the id of the built-in soundcard.
+    #   When I start using the external one, change it.
+    soundcardPciId = "00:1f.3";
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/emacs_mostly_packages.org#todo-do-i-want-org-roam-to-work-with-company-helm-both][do I want org-roam to work with company? helm? both?]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_my_config_imperative_elements.org][imperative shell stuff to run]]
+* TODO ? m31 will not connect
+  I tried adding "samsung-unified-linux-driver" to packages.nix; it would not build. Also it might not be relevant; the description says it's for printers, and does not mention phones.
+  This page
+    https://forum.kde.org/viewtopic.php?f=224&t=143115
+  suggests modifying the "69-libmtp.rules" file. I have five such files. The first I checked already had the change the page describes.
+* TODO ? I lost my .stack/config.yaml file
+  I had configured it for something ... maybe this, which also appears in my local stack.yaml files?
+```
+nix:
+  enable: true
+```
+* TODO ? unfinished from 20.09 installation
+** transfer from from the old (20.03) configuration.nix
+  boot.extraModulePackages = [
+      config.boot.kernelPackages.exfat-nofuse ];
+  system.autoUpgrade.enable = true;
+** ? transfer from the auto-generated configuration.nix file
+currently saved at
+  jbb-config/install-20.09/by-nixos-generate-config/configuration.nix
+I'm not sure I want any of that stuff; I don't know what most of it is.
+* PITFALL : switchingo to unstable killed my system
+I had to reinstall the OS before I could nixos-rebuild again.
+Although I eventually found I could install new stuff with `nix-env -i`.
+** ref
+https://stackoverflow.com/questions/41230430/how-do-i-upgrade-my-system-to-nixos-unstable
+** command
+sudo nix-channel --add https://nixos.org/channels/nixos-20.03 nixos
+sudo nix-channel --add https://nixos.org/channels/nixpkgs-stable nixpkgs
+
+sudo nix-channel --add https://nixos.org/channels/nixos-unstable nixos
+sudo nix-channel --add https://nixos.org/channels/nixpkgs-unstable nixpkgs
+sudo nixos-rebuild switch --upgrade
+* TODO asked quesitons, unresolved
+** Why does Stack keep downloading the same stuff?
+  answered here:
+    https://stackoverflow.com/questions/62974286/why-does-haskell-stack-keep-downloading-the-same-stuff/62974505#62974505
+  asked here, but got no answers
+    https://discourse.nixos.org/t/why-does-stack-haskell-keep-downloading-the-same-stuff/7924
+* PITFALL: to record video with camera and mic
+I use a separate NixOS config,
+which uses PulseAudio to feed the mic into [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cheese.org][cheese]]
+* PITFALL: my config outside of .nix files
+:PROPERTIES:
+:ID:       ff81a54a-4488-4ce2-b5b2-e372482e6631
+:END:
+  ~/.emacs
+  /etc/tmux.conf
+  ~/.stack/config.yaml
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/monome.org#installing-monome-code-on-nixos][monome, installing code on NixOS]]

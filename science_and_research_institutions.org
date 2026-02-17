@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b9c7b7e6-9849-4a24-984d-b2e2e749d81a
+:END:
+#+title: science and research institutions
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/preregistration.org][preregistration]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/arc_institute.org][Arc Institute]]: no-strings-attached grants for "curiosity-driven" science

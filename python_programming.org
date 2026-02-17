@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       1d0f193f-10f0-4c2c-9cf5-d0e9a1fc49d7
+:ROAM_ALIASES: Python
+:END:
+#+title: Python (programming language)
+* uv : better than pup, pyenc, ven, etc.
+  Brian or Arian recommended it.
+* TODO study this article on using Python as if it were Rust
+  https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
+* TODO use [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pyright.org][Pyright]]
+* TODO use [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hypothesis_python_library_for_property_testing.org][Hypothesis (python library for property testing)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitfalls_in_python.org][PITFALLs in Python]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imports_and_modules_in_python.org][imports and modules in Python]]
+* the tools
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pdb_the_python_debugger.org][pdb: the Python debugger]]
+** to tag(build a tags file) python code for use in emacs
+:PROPERTIES:
+:ID:       7dc33cd5-40bc-421a-aa1d-a40cf0635119
+:END:
+*** normal
+#+BEGIN_src shell
+  find . -type f -name '*.py' | xargs etags
+#+END_SRC
+*** COMMENT fancier
+#+BEGIN_SRC shell
+  find . -type f -name '*.py' | xargs etags_plus
+#+END_SRC
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/testing_in_python.org][testing in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/profiling_in_python.org][profiling in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/virtualenv_python_tool.org][virtualenv (Python tool)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/python_and_virtualenv_in_nix.org][Python and virtualenv in Nix]]
+* the language
+** comprehensions in Python
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dictionary_comprehensions_in_python.org][dictionary comprehensions in Python]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/local_variable_definitions_in_comprehensions_python.org][local variable definitions in comprehensions \\ Python]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flatten_a_list_using_a_comprehension_in_python.org][flatten a list using a comprehension in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/exceptions_in_python.org][exceptions in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/generics_in_python.org][generics in Python]]
+   tags abstract type variable
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/introspection_in_python.org][introspection in Python]]
+** lists in Python
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/flatten_a_list_using_a_comprehension_in_python.org][flatten a list using a comprehension in Python]]
+    tag nested lists
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/python_dictionaries_dicts.org][Python dictionaries ("dicts")]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/python_dictionaries_dicts.org#merging-python-dictionaries-from-within-a-dictionary---nwrap-with-][merging Python dictionaries]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/closures_in_python.org][closures in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enum_types_in_pythono.org][enum types in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pure_types_in_python.org][pure types in Python]]
+   tag dataclasses
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sum_types_in_python.org][sum types in Python]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/product_types_in_python.org][product types in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/python_operator_precedence.org][operator precedence]] in Python
+** some obscure Python syntax
+*** lists can be "multiplied"
+    [1]*3 = [1,1,1]
+* efficiency of primitive operations in Python
+  https://wiki.python.org/moin/TimeComplexity
+** List indexing is O(1).
+* some Python libraries
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scipy_libraries_for_python.org][scipy (libraries for Python)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/json_python_library.org][json (Python library)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/filelock_python_library.org][filelock (Python library)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/csvlib_python_library.org][csvlib (Python library)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hypothesis_python_library_for_property_testing.org][Hypothesis (python library for property testing)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pypika_sql_query_builder_for_python.org][PyPika : SQL query builder for Python]]
+* solutions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/either_and_maybe_in_python.org][either and maybe in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_convert_an_ipython_notebook_file_to_plain_python.org][how to convert an iPython notebook file to plain python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/unduplicate_find_unique_members_in_a_set_of_sets_or_lists_in_python.org][unduplicate (find unique members in) a set of sets or lists]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/parse_a_url_query_string_in_python.org][parse a URL query string in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/type_aliases_in_python.org][type aliases in Python]] | type synonyms in Python
+** for scope problems, see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/closures_in_python.org][closures in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_python.org][concurrency in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/econometrics_in_python.org][econometrics in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ways_to_reconcile_different_versions_of_python.org][reconciling different versions of Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reading_command_line_arguments_to_python_programs.org][reading command-line arguments to Python programs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_command_history_paste_backspace_misbehaves_in_conda_python3_in_docker.org][if (command history|paste|backspace) misbehaves in `conda python3` in Docker]]
+** filesystem paths in Python
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/strip_the_file_extension_from_a_path_python.org][strip the file extension from a path \ Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/write_to_a_file_in_python.org][write to a file in Python]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/debug_a_call_to_subprocess_run_python.org][debug a call to subprocess.run \ Python]]
+** to run a file from the REPL
+   exec ( open ( "./filename" ) . read () )
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_cs_skills_assessment.org][the CS skills assessment I wrote, with a moderate focus on Python]]
+* NAH [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/install_python_3_12_in_ubuntu.org][install python 3.12 in Ubuntu (in 2023, with default repos at 3.9)]]

@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       0cb70005-87b9-43a3-96e8-45906f1561ec
+:END:
+#+title: beans, cooking
+* ONGOING garbanzos <2026-01-21 Wed>
+** 1 kg dry weight
+** 20 ml salt
+* ONGOING [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/soup_and_beans_scaled_ish_and_measured_2026_01_12_mon.org][soup and beans, scaled-ish and measured, <2026-01-12 Mon>]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bean_soup_writeup_for_others.org][bean soup, writeup for others]]
+* making it <2025-08-11 Mon>
+** 3 big white cups garbanzos
+** 3.15 tbsp chunky sea salt
+* making it this time, <2025-07-28 Mon>
+** preparing the beans
+*** amount of and which beans
+    2.5 big white cups (so almost 5 real cups)
+    maybe 25% garbanzo, 75% red beans
+*** baking soda
+    1 flat teaspoon from the heavy silverware
+*** 3 10-minute boils
+    rinsing twice after the first boil (with baking soda),
+    but only once after the other two boils (without it).
+** other ingredients
+   aquí "tasa" quiere decir "tasa de medición" -- las metales
+*** al estar terminando los frijoles, 10 tbsp vinagre
+    10 tbsp = 5/8 tasa de medición
+*** 2 tbsp de la sal, cristales grandes
+*** 3 zanahoria
+*** 2 cebolla
+*** 4 apio
+*** 4 ají
+*** 2 tomates
+*** 6 pedacitos de ajo
+*** 4 papas
+*** hierbas
+* was great, 2 big cups garbanzos <2025-06-30 Mon>
+** garbanzos :: 2 big white cups = maybe 3.9 cups
+** 2 tbsp vinegar per cup of beans
+   16 tbsp = 1 cup
+** 2 tbsp big-crystal salt
+   the biggest measuring spoon, which is bigger than my "tablespoons for the table"
+** 4 carrots
+** 2 onion
+** 4 apio
+** 4 ají
+** 2 tomates
+** 6 pedacitos de ajo
+** hierbas
+** 4 papas
+* what I do
+** 1st soak
+*** boil 4 minutes with baking soda
+*** let cool at least 4 hours (can be 24, 48, whatever)
+*** drain water
+*** "rinse" = add new water, swish around, drain water
+    Showering them to the same standard would use more water.
+** 2nd soak
+*** new water, boil with nothing, let cool
+*** drain water
+*** rinse
+** 3nd soak
+*** new water, boil with vinegar, let cool
+*** drain, rinse
+** 4nd soak
+*** new water, boil with nothing, let cool
+*** drain, rinse
+* soak (many variations!)
+  multiple times, lukewarm water, salt, baking soda, vinegar
+** says Stav Kone
+   soak 12 hours, discard;
+   soak another 12, discard;
+   osak lukewarm with baking soda, discard;
+   cook
+** said someone: soak with salt and/or vinegar
+* add [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epazote_te_mexicano.org][epazote]]
+* add [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/saccharomyces_boulardii.org][saccharomyces boulardii]]

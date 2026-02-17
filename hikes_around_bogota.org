@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       63143900-40d2-42c5-8b76-4f5cb7713333
+:ROAM_ALIASES: "hiking Bogotá" "Bogotá hiking"
+:END:
+#+title: hikes around Bogotá
+* where to find unused tickets to Las Moyas
+  https://www.livehappycol.com/billetera/
+* the meeting point for Aguadora hikes
+  can be found via "Guadalquivir" on Google Maps
+* Caminos Cerros Orientales
+** filling the form
+*** For the city's (official?) ones, can give someone else's ID.
+** refs | electronic access
+   alternatives
+*** app
+    is called Caminos Cerros Orientales
+*** website
+    https://caminos.eaab.gov.co/
+** DONE [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hikes_in_the_bogota_cerros_app_when_they_become_available.org][investigating when those hikes become available]]
+   aborted recording
+* some hikes that PUJ does
+  via Phys ed
+** Musas de agua
+** Entre nubes
+** Cruz Roja
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/hiking_group_on_facebook_via_gina.org][hiking group on Facebook, via Gina]]

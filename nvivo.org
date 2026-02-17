@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c9dfd0cf-dadb-4c60-88db-e6be47d9126c
+:END:
+#+title: nvivo (nlp analysis software)
+* features
+** audio playback, transcription
+** view images
+** view tabular data
+** lots of input formats
+** associate metadata to files
+** time
+Seems to be a first-class citizen.
+Plot timelines, histories of state (colored bars), etc.
+** create relationships between files
+** find instances and contexts of a word
+Example: Fish appears next to "the" sometimes.
+Results are a tree, with "fish" in the middle, "the" as a child, and phrases preceded by "fish the" as children of "the".

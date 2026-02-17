@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       938c2035-98b9-49a9-98f1-c037078ae0a0
+:ROAM_ALIASES: "shortcuts in Reaper"
+:END:
+#+title: Reaper shortcuts and surprise context menus
+* PITFALL: This list is not complete.
+  Better, probably, would be to search these notes by function,
+  rather than by shortcut.
+* PITFALL: dangerous shortcuts
+:PROPERTIES:
+:ID:       25e7f29e-280a-4a80-b0e5-6d28e9ac0cb0
+:END:
+** `R` toggles repeat, which is dangerous during recording.
+:PROPERTIES:
+:ID:       4c1bef5c-e2be-4964-ac55-1c477f956a85
+:END:
+   This (might have other effects too, but it can)
+   will cause playback to return to the start when "the end" is reached,
+   and "the end" can appear surprisingly random --
+   like, a few seconds after the last time I've recorded to.
+* surprise context menus or windows
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/tracks_in_reaper.org#one-way-to-open-it-right-click-on-the-tracks-arm-button][Track Control Panel :: Right-click on the track's Arm button.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/fx_plugins_reaper.org#click-its-fx-button][a track's FX and/or plugins :: click its FX button.]]
+* Shortcuts are configurable and macros are possible.
+** to configure shortcuts
+   Preferences / General / "Keyboard/Multitouch"
+** to create a macro
+:PROPERTIES:
+:ID:       63d1464e-4714-4e75-a538-21aa338d5b53
+:END:
+   see in manual:
+   Creating Custom Action Macros
+* some builtin shortcuts
+** c-p: Preferences (global, I guess)
+** M-Ret: Project Preferences
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#basic-editing]["basic editing"]] shortcuts
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/time_regions_and_transport_in_Reaper.org#marker-related-shortcuts][marker-related shortcuts]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org#to-show-them--select-item-then-press-f2][show a media item's properties]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/grid_lines_and_snapping_reaper.org#grid-and-snap-shortcuts-some][grid and snap shortcuts]]
+** for tracks
+*** new track: C-T
+*** C-M-(up|down) to jump tracks.
+:PROPERTIES:
+:ID:       b0f09bb3-ddc1-4dfa-bbb0-a69eed0fc824
+:END:
+*** "Show all takes [in a track] (when [there is] room)" :: C-l
+:PROPERTIES:
+:ID:       fdc1864d-aafb-49c0-a15a-2be55de37905
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/recording_audio_midi_reaper.org#toggling-record][C-r : toggle recording]]
+** Alt-C: toggle the Big Clock
+:PROPERTIES:
+:ID:       c919ece3-e39d-4c7c-8179-acb9a71d2eb6
+:END:
+** Alt-R: open the "Routing Matrix"
+:PROPERTIES:
+:ID:       e35457fe-af25-4ea3-924d-a8b39f138a59
+:END:
+** editing
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ripple_editing_in_reaper.org#m-p-cycles-through-the-three-ripple-edit-modes][M-p cycles through the three ripple edit modes]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/undo_in_reaper.org#redo--c-s-z-not-c-y][Redo = C-S-z]] (*not* C-y)
+    tag undo
+* some shortcuts of mine
+** CSM-T = jbb shortcut, set time selection to items
+** arm track: C-M-a
+** show FX: C-f
+:PROPERTIES:
+:ID:       2a53ddf3-0adb-415a-8f73-121fc5ee8c68
+:END:
+** delete time : C-M-S-d
+:PROPERTIES:
+:ID:       1284643e-cb1a-4a92-bc9d-8280587914ad
+:END:
+   That's "Time selection: delete contents of time selection (moving later items)"
+*** see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ripple_editing_in_reaper.org][Ripple Editing]]
+** insert (empty) time : C-S-M-e
+   ripple editing need to be enabled
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#color-notescc-by-channel--c-s-m-c][color notes/CC by channel : C-S-M-c]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/metronome_in_Reaper.org#metronome-shortcut-my--c-s-m-m][metronome window shortcut, my : C-S-M m]]
+** [[id:965055f6-6f41-49fe-a00a-b7ef4e5fe225]["set time selection to [selected] items" : jbb "C-S-M t"]]
+   "[selected]" is my own clarification;
+   the name of the command in the action menu does not include that.
+** [[id:6bdbdb19-eac6-4f56-ba10-23633a68fea6][increment channel = "set channel lower/higher" : JBB C-S-M-[+-]​]]

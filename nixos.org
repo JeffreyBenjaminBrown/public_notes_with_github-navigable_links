@@ -1,0 +1,239 @@
+:PROPERTIES:
+:ID:       ddb8edf6-94c8-49cf-8b8e-872ef301a485
+:ROAM_ALIASES: NixOS
+:END:
+#+TITLE: NixOS (operating system)
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nix_configuration_language.org][Nix]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/claude_code.org#how-to-install-it-via-npm-globally-bypassing-nixos][Installing Claude Code globally, bypassing NixOS.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grouping_derivations_into_a_single_meta_derivation.org][grouping NixOS derivations into a single meta-derivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_rebuild_command.org][nixos-rebuild (shell command)]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nix_configuration_language.org][Nix (configuration language)]]
+* REFERENCES
+** interactive help
+*** from bash
+    nixos-option
+*** from the nix repl
+    :?
+** http://nix.dev
+* TODO fix my dependencies in jbb-config/custom-packages
+  Because things change in Nixos 21.05:
+  https://nixos.org/manual/nixos/stable/release-notes.html#sec-release-21.05
+** on wafHook
+  "The wafHook hook does not wrap Python anymore. Packages depending on wafHook need to include any Python into their nativeBuildInputs."
+** on stdenv.lib
+   "stdenv.lib has been deprecated and will break eval in 21.11. Please use pkgs.lib instead. See #108938 for details."
+** "GNOME users may wish to delete their ~/.config/pulse
+   due to the changes to stream routing logic"
+** ? "Platforms, like stdenv.hostPlatform, no longer have a platform attribute. It has been (mostly) flattened away:
+   platform.gcc is now gcc
+   platform.kernel* is now linux-kernel.*
+* DONE solutions : errors, and how I solved them
+** UNSOLVED: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/list_all_bootable_configurations_nixos.org][list all bootable configurations \ NixOS]]
+** How to figure out which package is at fault for an error?
+*** example problem
+    Sometimes  I get the error
+      "package ... is marked as broken, refusing to evaluate",
+    but my config doesn't mention that package.
+*** solution, i think : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/debugging_in_nixos.org#nixos-rebuild-show-trace][nixos-rebuild --show-trace]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/error_unit_window_manager_not_found.org][Error: "Unit window-manager not found"]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sign_in_mit_magic_cookie_chpasswd_problem.org][Sign-in / MIT-MAGIC-COOKIE / chpasswd problem]]
+** "unexpected argument 'specialArgs'"
+*** where I got help
+    https://discourse.nixos.org/t/cant-upgrade-nixos-unexpected-argument-specialargs/13539
+*** the problem
+    I got this when migrating to 21.05.
+    The problem was that audio.nix had
+    an argument list like this at the top:
+      {config, lib, pkgs, options, modulesPath}:
+*** The solution was to add an ellipsis:
+      {config, lib, pkgs, options, modulesPath, ...}:
+    "so that unknown arguments are ignored".
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/debugging_in_nixos.org][debugging in NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_packages_create_build_install_publish.org][NixOS packages: create, build, install, publish]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_my_config.org][NixOS, my config]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_programming_in.org][NixOS, programming in]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_reconfiguring.org][NixOS, reconfiguring]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audio_in_nixos.org][audio in NixOS]]
+  music, sound
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_reinstalling.org][NixOS, installing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_how_to_upgrade_channels.org][NixOS, how to upgrade]] from one version of NixOS to another.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_collect_garbage.org][garbage collection in NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_review_contributions_to_nixpkgs.org][how to review contributions to nixpkgs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/serving_ssh_on_nixos.org][serving SSH on NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/python_and_virtualenv_in_nix.org][Python and virtualenv in Nix]]
+* How to figure out (from within NixOS) which boot config got me here.
+  https://www.reddit.com/r/NixOS/comments/lknn4k/how_to_know_which_boot_config_i_am_on_why_is_all/
+** find the derivation folder
+Running
+  `stat /run/current-system`
+
+printed (among others) this line:
+```
+  File: /run/current-system -> /nix/store/fyx0xdx1kakl2vd5jgc3rk8a7a0yq9qz-nixos-system-jbb-dell-20.09.3124.2118cf551b9
+```
+
+There exists at least one file in (a subfolder of) `/nix/var/nix/profiles` that links to a folder with the same hash:
+
+```
+[jeff@jbb-dell:/nix/var/nix/profiles]$ ls system-profiles/ -l
+total 12
+lrwxrwxrwx 1 root root 36 feb 15 16:57 no_intero_and_musnix_06eaf399 -> no_intero_and_musnix_06eaf399-1-link
+lrwxrwxrwx 1 root root 88 feb 15 16:57 no_intero_and_musnix_06eaf399-1-link -> /nix/store/fyx0xdx1kakl2vd5jgc3rk8a7a0yq9qz-nixos-system-jbb-dell-20.09.3124.2118cf551b9
+...
+```
+** maybe, print the derivation itself
+   Go to the folder, then run
+     nix show-derivation $(pwd)
+* instead of .bashrc or .profile
+  use environment.variables to define variables
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_overlays.org][NixOS overlays]]
+* user ID problems
+** changing user ID in NixOS is complicated
+*** because it won't let you change the ID of an existing user
+at least not by modifying configuration.nix.
+(It'll compile the changes,
+and announce that it won't apply that change.)
+*** so do this
+Log in as root, not self.
+Remove all users from configuration.nix
+Rebuild and switch.
+Add user again, this time with the ID specified.
+Rebuild and switch.
+** to chmod back to 644 (normal): omit folders
+Otherwise the folder contents cannot be read without sudo.
+sudo find . -type f -print0 | xargs -0 chmod 644
+sudo find . -type d -print0 | xargs -0 chmod 755
+
+find . -type d -print0 | xargs -0 chown 1001
+find . -type f -print0 | xargs -0 chown 1001
+** TODO what is the default group in Kubuntu?
+I have to change not only the id (to jeff=1000),
+but the default group, too.
+*** demo code
+users.groups.students.gid = 1000;  # TODO: Enable.
+                                   # for congruence with KUbuntu system
+** the Ubuntu-NixOS user ID problem
+On my KUbuntu system, "jeff" has default uid 1000;
+on NixOS it's 1001. This creates permissions problems.
+* reading the NixOS manual
+** getting started (installing, mostly)
+*** move everything critical to an available USB
+  NixOS.org (this file)
+  installs/how-to-reinstall-linux.org
+  borg-backup*.sh
+*** know the USBs
+**** white one has Kubuntu 18.04, just in case
+**** slate = "Patriot 14.8G" is empty
+**** shuttle
+**** blue one = "PATRIOT" is 128G and empty
+*** downloading it
+**** the white USB (1.8 GB) is big enough
+***** even for the graphical live booter
+**** start with the live booter
+***** use the 128GB stick as a store
+**** will eventually need the unstable OS
+***** because it works with JACK
+*** configuring it post-build
+**** git problems
+  Sometimes repos need to be re-cloned or chmodded.
+    Maybe this is because I borg-extracted as root?
+    But strangely, the hode repo did not need this.
+*** installing stuff (ch 3)
+**** basically
+***** modify /etc/nixos/configuration.nix
+***** then run nixos-rebuild test
+****** this tries it without making it the default
+***** if it works, run nixos-rebuild switch
+**** can add it to Grub menu
+*** ch 4: upgrading Nix
+**** is via channels, but voluntary
+**** PITFALL: needs root to matter?
+**** nixos-rebuild switch --upgrade
+**** PITFALL: can't always rollback Nix channels
+***** "Warning: It is generally safe to switch back and forth between channels. The only exception is that a newer NixOS may also have a newer Nix version, which may involve an upgrade of Nix’s database schema. This cannot be undone easily, so in that case you will not be able to go back to your original channel."
+**** can be automatic, periodic
+** tricky | hard to look up
+*** ch 5: configuration syntax
+**** nix calls maps "sets"
+**** package is a type
+**** values are expressions, but attributes are not
+  Let statements are valid wherever expression are valid.
+**** merge sets with //
+**** let, functions, map
+**** string splice with $
+  For instance, this function splices the string "name" into another:
+  makeVirtualHost = name:
+    { hostName = name;
+      documentRoot = "/sites/${name}";
+      adminAddr = "alice@example.org";
+    };
+**** options can be merged from multiple files
+  when it makes sense -- e.g. lists, not strings
+**** `config` arg: the complete merged configuration
+**** discovering attribute values
+ Helpful for complicated configurations, where options are getting merged from multiple files.
+***** command line: nixos-option <option>
+***** or use the repl: "nix repl <package>"
+**** lambda expressions
+ map (x: x.hostName) config.services.httpd.virtualHosts
+**** select attributes with (.)
+ { x = 1; y = 2; }.x == 1
+***** can include a default
+ ({ x = 1; y = 2; }.z or 3) == 4
+**** add attributes to a scope
+ (with pkgs.lib; head [ 1 2 3 ]) == 1
+**** functions
+***** are called Python-style
+ name(argument)
+***** PITFALL: bind after list construction
+ so, for instance, you'll need to wrap applied functions in parens if they are expressions in lists:
+   environment.systemPackages = [ (pkgs.emacs.override { gtk = pkgs.gtk3; }) ];
+***** are always of one argument (which could be a set)x
+***** can have default values
+ { x, y ? "bar" }: x + y
+***** can accept irrelevant values
+ This function requires x and y, and ignroes anything else:
+ { x, y, ... }: x + y
+***** can bind the entire set argument to a name
+ { x, y } @ args: x + y
+**** import <file>
+ "Load and return Nix expression in given file"
+*** ch 6: package management
+**** packages can have optional settings
+ nixpkgs.config.firefox.enableGoogleTalkPlugin = true;
+ PITFALL: this kind of option is not queriable
+**** customizing packages
+***** package dependencies can be overridden
+  environment.systemPackages = [ (pkgs.emacs.override { gtk = pkgs.gtk3; }) ];
+***** package attributes can be overridden
+ e.g. to change the source code
+ use overrideAttrs
+***** customized packages do not break things that depend on the uncustommized one
+ Nix will instead keep two versions of the package.
+ But that too can be changed, with a "global override".
+* configuring Emacs
+** guidance
+   https://www.reddit.com/r/NixOS/comments/ad6miw/building_an_emacs_configuration_using_nixpkg/
+   https://nixos.org/nixpkgs/manual/#sec-emacs
+** overlays -- better than one config.nix blob?
+   https://www.reddit.com/r/NixOS/comments/9swtg3/do_you_put_all_packages_you_install_into/e8s4u9f/
+** some peoples' configs
+   https://github.com/tazjin/nixos-config
+   https://github.com/telent/config-nixpkgs
+* how to use a device without root privileges
+  Suppose some command gives an error like "failed to open /dev/ttyUSB0"
+  when run normally, but not when run as root.
+  Then check what group that device (in this case, /dev/ttyUSB0) belongs to,
+  and add that to `users.users.jeff.extraGroups`
+  (where `jeff` is the user who should have the privilege),
+  and log out and back in.
+* ambitious, described in NixOS manual
+** TODO put NextCloud on the Rapsberry
+   chapter 15 in NixOS manual.
+** TaskServer, for todo lists
+** GitLab
+* how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/run_a_static_binary_on_nixos.org][run a static binary on NixOS]]: use steam-run
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/building_for_android_on_nixos.org][Android apps, building on NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kde_in_nix_a_project_for_configuring.org][KDE in Nix, a project for configuring]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/what_i_use_to_run_lumatone_in_reaper_on_nixos.org][What I use to run Lumatone in Reaper on NixOS.]]

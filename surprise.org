@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       06e57867-5a5f-462b-b963-56ffa719c9b8
+:ROAM_ALIASES: novelty
+:END:
+#+title: surprise
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_v_love.org#be-known-and-loved-in-more-ways-than-expected][Be known and loved in more ways than expected.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance_surprise.org][romance + surprise]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety_v_surprise.org][safety v. surprise]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprising_societal_changes.org][surprising societal changes]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprising_health_dangers.org][surprising health dangers]]

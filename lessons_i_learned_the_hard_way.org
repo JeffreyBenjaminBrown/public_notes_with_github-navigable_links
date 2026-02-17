@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4e3a8b5e-e594-425f-93c5-ef16512a026a
+:END:
+#+title: lessons I learned the hard way, or repeatedly
+* Keeping a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disk_drives_and_partitions.org#pitfall-hdds-can-get-hot][hard disk in bubble wrap backfired]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#remember-that-i-like-rewriting-my-notes][I like rewriting my notes.]]

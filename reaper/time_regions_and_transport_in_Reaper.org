@@ -1,0 +1,100 @@
+:PROPERTIES:
+:ID:       f82d4359-a8bb-4b88-b00d-4e9b3d924725
+:ROAM_ALIASES: "time in Reaper"
+:END:
+#+title: time, regions, and transport in Reaper
+* PITFALL: Multiple timelines with different click functions.
+  At least in the MIDI editor,
+  the time ruler (top) defines loops when click-dragged,
+  whereas the lower boundary defines time selections.
+* definitions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/vocabulary_in_reaper.org#transport--playback-recording-maybe-region-selection-more][Transport = playback, recording, maybe region-selection, more]]
+** the Transport Bar
+   = a thin horizontal bar with playback controls,
+   time coordinates, BPM, more stuff.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org#alt-c-toggle-the-big-clock][Big Clock]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/metronome_in_Reaper.org][metronome]]
+* project Timebase
+** = defines BPM, time signature, etc.
+** advice : fix it early
+:PROPERTIES:
+:ID:       28317ac0-dc2c-450f-8313-8addd9401031
+:END:
+   "When possible, get your project timebase settings right before you record or import any items."
+** Individual tracks can override project timebase settings.
+** Tempo Maps can be detected automatically from transients.
+   This is useful for drawing a changing timebase
+   over material recorded without a click.
+* views of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org][track and time windows]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/grid_lines_and_snapping_reaper.org][grid lines and snapping \ Reaper]]
+* Transport controls
+:PROPERTIES:
+:ID:       bc38331c-8b7e-4ac0-850d-21f5ed771025
+:END:
+** Show Transport Bar: C-M-t
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/recording_audio_midi_reaper.org#shortcut--c-r][Record: C-r]]
+** Play|Stop: SPC
+** Toggle Repeat: r
+** Pause: Enter
+** Stop v. Pause
+   Stop returns the cursor to where it started.
+** Nudge left|right: C-(left|right)
+:PROPERTIES:
+:ID:       1b01b654-8b32-4d3e-b272-62ac8bdc857b
+:END:
+** Play skipping loop section: M-SPC
+** Scrubbing does not affect playback.
+:PROPERTIES:
+:ID:       6114e6e3-45f8-4d60-81a1-daaaae10c02a
+:END:
+   Grab the down-pointing triangle on top of the plauback mark,
+   and drag, maybe while pressing shift (depends on settings).
+* configurable
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/moving_the_play_cursor_reaper.org#can-configure-what-moves-it][what moves the "Play cursor"]]
+** Per-track "playback time offset" can compensate for latency.
+* loops and time selections
+** set time selection to items : jbb "C-S-M t"
+:PROPERTIES:
+:ID:       965055f6-6f41-49fe-a00a-b7ef4e5fe225
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#what-it-is][Time selection has something to do with smart editing.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/looping_the_edit_reaper.org][looping (the edit) \ Reaper]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/nudge_reaper.org#multiple-kinds-of-things-can-be-nudged][Time selections can be nudged.]]
+** [[id:4ed8a0af-8f6c-4697-ac97-04741c6192e4][Insert Space in [Time] Selection]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#loop-points-linked-to-time-selection][Loop Points linked to Time Selection]]
+** Esc : undefine the loop region
+** "Managing Time and Loop Selections" (modifying them)
+*** Keyboard or mouse.
+*** Their edges can be moved.
+*** They can be shifted.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#move-or-copy-time-selection-to-cursor-position][move or copy time selection to cursor position]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/recording_audio_midi_reaper.org#looped-recording][looped recording]]
+* Jumping (C-j) lets you enter coordinates to send the cursor to.
+* Regions and Markers
+** Both can be defined, managed, and used to define edits.
+** Markers are like bookmarks.
+** marker-related shortcuts
+:PROPERTIES:
+:ID:       77f36bf1-3b95-407d-a641-9b61c1756d8c
+:END:
+*** m : create numbered marker
+*** number keys : jump to that numbered marker
+*** S-m : create named marker
+*** [ and ] : go to previous and next marker
+*** C-j : open the Jump Dialog.
+    Type a name or number to go there.
+*** M-click : delete marker
+*** loop region between markers : double-click between them
+    on either the marker bar or the time ruler
+*** zoom to selection
+    The only way I've managed is with the right-click context menu
+** The time selection start and end are treated as floating markers.
+   so [ and ] include them as targets to jump to.
+** PITFALL: Marker names =START and =END are special.
+:PROPERTIES:
+:ID:       56dc0d13-26a2-41fe-a695-2032b341113a
+:END:
+   They are used for rendering.
+* Transients can be used to define times.
+  At least for the creation of loops (the edit),
+  but I imagine also for regions and time selections.

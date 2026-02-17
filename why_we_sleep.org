@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       77d3a284-efcd-4497-9f83-5ea2570eecfe
+:END:
+#+title: Why We Sleep
+* REM refines (nightly!) our facial recognition abilities.
+  It's like it goes out of tune.
+  We train on faces seen in the day to keep it tuned.
+  People who go without sleep mistake (photos of)
+  friendly for threatening (but not vice-versa).
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/natural_human_sleep_seems_to_be_biphasic.org][Natural human sleep seems to be biphasic.]]
+* Some major dream categories: Motoric, visual, emotional.
+* Dreaming about traumatic events is associated with healing the trauma, even controlling for sleep and dreaming in general
+** To look this up in the book, look for the passage that reads "her patients required REM sleep with dreaming"
+** And if I remember right the association is strong. The people who dreamed about their trauma got over it, and the people who didn't, didn't.
+* Performance in some kind of test after 19 hours of being away it was equivalent to that of drunk people, legally drunk who blow a 08
+* The early phase of sleep serves to store memory, among other things, while the later stages serve to free up the capacity to learn new memories.
+* Putting a young child to bed when they are drowsy rather than when they are already asleep makes them much more likely to be able to get to sleep by themselves later.
+* It's as if nrem sleep is when we digest what happened in the day, and REM sleep is when we integrate that information with information from previous days
+* REM sleep evolved separately in mammals and birds.
+* We have not observed REM sleep in dolphins or other aquatic mammals. Probably because they would drown, because that's the phase when you become paralyzed.
+* Every animal sleeps, even microscopic worms with 300 brain cells.
+* If you go to sleep at a normal time and wake up too early, you lose most of your REM sleep. If you go to sleep late and wake up on time, you lose a disproportionate amount of your nrem sleep. Those are both bad but in different ways.
+* From the inside, performance degradation due to sleep deprivation is hard to measure, and consistently underestimated.
+* Supposedly good to always sleep and wake at same time
+** But keeping the same onset time seems hard for social reasons -- so should I keep the same wakeup time even if the sleep time varies?

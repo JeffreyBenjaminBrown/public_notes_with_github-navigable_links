@@ -1,0 +1,67 @@
+:PROPERTIES:
+:ID:       55a3533c-da70-445b-bd9a-0b950f52b85d
+:ROAM_ALIASES: motivations
+:END:
+#+title: hope
+* MERGE: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org][optimism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_ambition.org][hope & ambition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_is_a_skill.org][Hope is a skill.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_jobhunting.org][hope & jobhunting]]
+* instances \ hope
+:PROPERTIES:
+:ID:       3459fbda-0e97-4c14-9f0a-9b507d1e759c
+:ROAM_ALIASES: ambitions
+:END:
+** ?
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/thinking_physically_while_visible.org][think physically while visible]]
+*** Arouse passion in others.
+:PROPERTIES:
+:ID:       897bfd4b-021d-4cc5-85c7-538455e53b48
+:END:
+*** Come home.
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comfort.org][comfort]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence.org][confidence]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/speak_on_behalf_of_the_trees.org][Speak on behalf of the trees.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/singularity.org][singularity]]
+** terminal ones
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_improvement.org][self-improvement]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humility]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom.org][freedom]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awe.org][awe]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awe.org#mutual-awe][mutual awe]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collective_understanding.org][collective understanding]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org][community]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_organizing_everyone_s.org][knowledge graphs]]
+**** I want them not only as a means but as an end.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authenticity.org][authenticity]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org][justice]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/utopia.org][utopia , perfect experience]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
+*** Collect geographic and historical viewpoints.
+:PROPERTIES:
+:ID:       386dd034-7bca-429c-9bb6-32ba34fe8e7e
+:END:
+**** Does the New York times give a particularly New York viewpoint?
+** ?intermediate ones
+   Hedonism could make any of these, and maybe anything at all,
+   into a terminal hope, an atomic pleasure.
+*** Invent a virtuous algorithm leaders want to follow.
+    Be willing to change course. Explain your learning.
+    Requires proof that people can love this.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/health_medicine.org][health]]
+*** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/dreaming.org][Dream]] more consciously, usefully.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org][power]]
+*** [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/money_personal_project.org][money]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/luck.org][luck]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sermons.org][sermons]]
+** imaginable, impractical
+*** Be [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org#lords-of-kinds][lords of kinds]].
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immortality_through_identity_loss.org][immortality through identity loss]]
+*** Be death and drugs. Everyone smokes you, glimpsing.
+* anti-values
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negativity.org#nihilism--cynicism][nihilism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage_vs_comfort.org][courage vs. comfort]]
+* It opposes [[:id:7a0295d0-a82c-4d1f-8ee3-dad17b554e9f][cynicism -- broken link?]].
+* failures
+** [[id:0c1160ab-63e3-4c26-bfdb-13c7acfd5d3f][drumming in the stairwell when I should have meditated on [person]​]]

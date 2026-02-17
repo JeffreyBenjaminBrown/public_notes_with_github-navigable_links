@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       de98c3eb-27ba-4a51-9875-9af3c6e2c2dd
+:END:
+#+title: beauty
+* phenomena
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/far_out.org][far out]]ness
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drama.org][drama]]tic effect
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art_highlights_extremes.org][extremes, corner solutions !! balances, chaotic equilibria]]
+* some collections of art
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/amazing_music.org][amazing music]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/amazing_videos.org][amazing videos]]
+* beautiful things
+** TODO merge : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/calculations_cool.org][calculations , cool]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/low_dimensional_metaphors.org][low-dimensional metaphors]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_storm_at_the_heart_of_the_milky_way_galaxy.org][The storm at the heart of the Milky Way galaxy.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_sliding_cross_section_of_columns_packed_in_3d_along_7_directions.org][a sliding cross section of columns packed in 3d along 7 directions]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org#self-awareness-is-graceful][Self-awareness is graceful.]]
+* tech
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org#in-the-abstract-computer-science-failures-can-be-beautiful][some computer science failures]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/starling_murmurations.org][starling murmurations]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_giant_marble_quarry.org][a giant marble quarry]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/computational_efficiency.org][computational efficiency]]
+* not sure
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/error_would_if_it_spiraled_not_spiral_inward_to_a_focus.org][Error would, if it spiraled, not spiral inward to a focus.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org][injustice vanishing]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/many_who_are_first_shall_be_last.org][Many who are first shall be last ...]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lost.org#lost-in-time][lost in time]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/elegance_constrained_optimization.org][elegance = constrained optimization]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beautiful_things.org][instances]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org][logic]]
+* "[[:id:e10fa73d-723f-4772-99d9-2ece218d4175][Beauty as the interface between the comprehensible and the incomprehensible -- broken link?]]"
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sanctity_purity_innocence.org][purity]]

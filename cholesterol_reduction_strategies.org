@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       6422ff08-978c-40b0-b511-e6eef32930ee
+:END:
+#+title: cholesterol reduction strategies
+* Take whey protein
+* Exercise most days
+* Fast sometimes
+* Get sun
+* TODO Avoid these foods
+** TODO if bread, no gluten
+** meat
+** dairy
+** coconut (oil or fruit)
+** TODO ? no coffee
+   said Dra. Majjul,
+   but when I reacted in shock she seemed to weaken that stance
+** avoid [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/for_lower_cholesterol_prefer_filtered_coffee.org][unfiltered coffee]]
+   espresso, french press, Turkish coffee
+** sugar
+   fruit is okay, says Dra. Majjul
+** high-fat foods
+** alcohol
+*** if alcohol, no fats, esp. fats from meat
+** TODO evitar cerdo, bagre y mariscos
+* Target certain foods
+:PROPERTIES:
+:ID:       d8ccc0a4-ef6a-4d0e-a392-e1d7da2844c1
+:END:
+** nuts, dried fruits
+** oatmeal
+** apples
+** brussel sprouts
+** fish
+** una harina por comida
+   says Dra. Majjul
+** good harinas: arroz, papa, platano, yuca, guatila, maiz, avena
+   there's a panaderia called "El Mejor Pan de Colombia",
+   Cl 148 & Av 19, venden sin glutenes
+* DONE [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/does_cbd_oil_reduce_cholesterol_plaque.org][Does CBD oil reduce cholesterol plaque?]]

@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       6efbca64-356c-4475-8c43-6ee1a6e54282
+:ROAM_ALIASES: "efficiency \\ jbb"
+:END:
+#+title: minor life optimizations
+* Fix Kindle Fire
+* Do AWS, Claude on phone.
+  Won't need precise typing; just dictate.
+* 230 USD open air quality meter
+** https://networkedartifacts.com/airlab/simulator/
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/get_a_tattoo.org][get a tattoo]]
+* Robovac for windows
+* Emacs on Android
+:PROPERTIES:
+:ID:       e51d0c9c-ea1b-4576-8ac7-26e4439c46ff
+:END:
+** a guide
+   https://kristofferbalintona.me/posts/202505291438/#option-2--recommended
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/use_chatgpt_shell_for_emacs.org][Use chatgpt-shell (it covers other providers) for Emacs.]]
+* carpeta segura de samsung
+  A virtual phone within your phone, with a second password.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rec_s_for_laptop_security_some_of_chatgpt_s.org][rec's for laptop security, some of ChatGPT's]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chatgpt_says_i_can_use_avy_to_jump_to_the_start_of_words.org][ChatGPT says I can use 'avy' to jump to the start of words.]]
+* "Atkinson Hyperlegible" font
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_tlp_to_control_laptop_charging.org][Use TLP to control laptop charging.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consentomatic_fill_in_consent_forms_automatically.org][Consentomatic: Fill in consent forms automatically.]]
+* Broadcast lists on WhatsApp
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ley_dejen_de_fregar.org][Ley Dejen de Fregar]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/jacinda_functional_stream_processing_language.org][Jacinda : functional stream-processing language]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_dotfiles_on_github_a_guide.org][using dotfiles on GitHub:a guide]]
+* WhatsApp reads audio
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/khoj_natural_language_search_engine_for_org_mode_notes.org][Khoj - natural language search engine for org-mode notes]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/change_the_shortcut_for_restoring_or_for_searching_in_tmux.org][Change the shortcut for restoring or for searching in Tmux]]
+* TODO Try [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_ql.org][org-roam-ql]]
+* Keyboard shortcuts for personally frequently-used text.
+  https://github.com/eschluntz/compress
+** TODO Is it private?
+   https://news.ycombinator.com/item?id=37326870
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/container_tabs_cookie_isolated_sessions_in_firefox_sound_great.org][Container tabs (cookie-isolated sessions) in Firefox sound great.]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/true_caller.org][True Caller]] to block phone spam
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nyxt_browser.org][Nyxt browser]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sioyek_pdf_viewer.org][Sioyek (PDF viewer)]] looks amazing.
+* try orgzly + (syncthing | Dropbox)
+* Vimium: browse the web from the keyboard
+  It's an extension available for Chrome and Firefox that allows you to use websites and web apps using your keyboard.
+* TODO hide KDE toolbar with a keyboard shortcut
+** probably easy
+   https://store.kde.org/p/1269113/
+** probably harder
+   https://www.reddit.com/r/kde/comments/d2mqjt/can_i_somehow_create_a_shortcut_to_toggle/
+* TODO script KDE desktop population
+  https://www.reddit.com/r/kde/comments/pgv8m7/can_i_script_the_population_of_and_the_commands/hbf5ppy/?context=3
+* TODO buy to organize desk
+** hanging organizer
+   Uses velcro to attach things to it.
+** shredder
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/emacs_mostly_packages.org#todo--orderless-in-emacs][? orderless in Emacs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/foods_i_would_enjoy.org][foods I (would) enjoy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/better_shoelace_knots.org][better shoelace knots]]

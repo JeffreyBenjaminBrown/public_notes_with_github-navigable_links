@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       0de5fa0c-4909-4097-8334-d3e7de37bd2f
+:ROAM_ALIASES: "strings for the Stick"
+:END:
+#+title: Kalium strings
+  +1 (206) 784-5104
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo_chapman_stick_tunings.org#kalium-strings-to-buy][Kalium strings to buy]]
+* The plain strings are all the same --
+  hybrid, stainless steel, guitar, bass, all of them --
+  except that the balls are bigger on the bass strings.
+* gauges John Starrett sent me
+   8
+  10.5
+  13
+  16
+  20
+  21w
+  26w
+
+  29
+  37
+  47
+  57
+  73
+  94

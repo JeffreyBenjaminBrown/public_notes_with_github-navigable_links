@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       28d61c54-d474-4828-8ef9-e83b25c12ae8
+:END:
+#+title: herald more properties \ skg
+* DONE first
+** whether contains parent
+** whether parent contains it
+** number of containers
+** number of content
+** number of links in
+* heralds for links
+** Whether a link uses an alternate title.
+* There should be only one '{'
+  With an integer befor eit, omitted if unity and present,
+  and an integer after it counting its contents, omitted if 0.
+  Only if both are absent is the '{' absent.
+* truncation and folding
+** the difference
+*** 'folded': emacs org-mode folding
+*** 'truncated': whether a node's contents are among its children
+    If a node is truncated, it should be indefinitive.
+** unicode symbols
+*** truncated ? leading ellipsis
+*** folded ? trailing ellipsis
+* 3{ or 3{↻ as shape of containerward manifold
+:PROPERTIES:
+:ID:       d3d4945c-3e28-474b-9b9b-87592b1d4b69
+:END:
+  A single scalar for
+        the maximum {length, number of forks} in the path
+    and whehther the path cycles.
+  If its container is its unique org-parent,
+    no glyph shown.
+* generalize heralding number of containers to shape of containerward path
+** n|m{ for "contained in a length-m chain of containers that leads to a n-pronged fork"
+** o|n{ for a length-n chain that cycles
+   the o is literally that letter, not a numeric variable
+** <|n{ for a length-n chain that terminates at a root
+* count links into a node's recursive contents
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#why][why look backward]]
+* the None herald: ≁ ~ ("not-tilde")
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/show_number_and_kind_of_upstream_nodes.org][show number and kind of upstream nodes]]
+** [[:id:ac671944-2cb9-41b0-abbc-43dfe8a5377b][the number of containers, omitted if 1 -- broken link?]]
+* visitation stats
+  How many times in the last week, year, ever.
+  How many days since last visited.
+* A general symbol for metadata?
+  a wavy equals
+* later
+** Herald that caveats exist.
+** show how many [children] it has in a [neighboring branch]
+*** the idea
+    * experiences
+    ** sacrifice
+    ** thinking about something completely different
+    ** being damaged by someone else's assumption
+    ** a completely left-field idea that pays off spectacularly
+    * encourage
+    ** humility
+    ** optimism
+       # here I would like to be able to show a 1 count, for the child of "experiences" that starts "a completely left-field ..."
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_adventures_of_bread_and_bucket.org][source]]
+** is-question

@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       2b0cc874-56b8-4803-b581-329a2f4a04a1
+:END:
+#+title: 46-edo // cool or challenging pitch sets
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_some_cool_pitch_sets.org#resume-here][RESUME here]]
+* a neutralized minor major 7
+  Brings both the 3rd and the 7th inward toward the 5th.
+  0   13   27   41
+  . 13  14    14
+* I like 2-limping scales.
+  I like scales with alternating step sizes.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/harmonic_half_diminished_starts_from_harmonic_5.org][harmonic half-diminished starts from harmonic 5]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_intervals_7_6_plays_well_with.org][some intervals 7:6 plays well with]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/root_root_minus_sept_m3_root_minus_sept_m3.org][root, root minus sept m3, root minus sept M3]]
+** [[id:da07b936-245d-4693-8f36-38a89f54b25c][[7:9, 6:7, 1] = [0,7,17] \ 46]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/from_9_12_to_13_12_9_7_sounds_better_than_5_4.org][the sound from ~9\12 to ~13\12 can be improved]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/from_9_12_to_13_12_9_7_sounds_better_than_5_4.org#in-46-edo-use-53--97--136][in 46-edo, use 5:3 + 9:7 = 13:6]]
+* limping 3-then-9 diminished scales
+  alternatives
+** start with 3\46
+   so 0 3 12 15 24 27 36 39
+   The last note is then 39 = 9:5 = the wide m7.
+   This includes one perfect fifth
+   (aligned with the root),
+   tons of 5:4 and 6:5,
+   and a few 11:8.
+** start with 9\46
+   so 0 9 12 21 24 33 36 ?45
+   Rather than that last 45\46, substuting 41\46
+   (the pitch halfway from 36 to 46) sounds good.
+* 10:9 chains up or down from root and fifth
+  => neutral scales
+* 11-lim dorian #4
+  0 6 12 21 27 33 39
+** modes
+*** code to show modes
+    myPrint $ [mode 46 [0,6,12,21,27,33,39] i | i <- [0..6]]
+*** the modes
+    [0,6,12,21,27,33,39]
+    [0,6,15,21,27,33,40]
+    [0,9,15,21,27,34,40]
+    [0,6,12,18,25,31,37]
+    [0,6,12,19,25,31,40]
+    [0,6,13,19,25,34,40]
+    [0,7,13,19,28,34,40]
+** noteworthy
+   No mode has a tritone [22-24].
+   Each scale with 27 (3:2) also has 21 (11:8).
+* TODO 9-tone
+* septimal augmented: limping 10s and 7s
+**** universe
+***** two varieties, each of which has two fifths
+***** there are surely other varieties of septimal augmented
+      but maybe not with two fifths
+** 10s then 7, which has an outer 44
+   0 10 17 27 34 44
+** 7s then 10s, which has an outer 41
+   0 7 17 27
+* walk up a short very major fourth
+  not really a fourth (19) but it sounds like it when arpeggiated
+  0 7 14 17
+* RESUME here
+:PROPERTIES:
+:ID:       7fa71293-fe2f-4ddd-af25-87f0a8aadccf
+:END:
+* 8 tone neutral scale with fourth and fifth
+  has lots of fifths!
+  stack of 5-then-9 with a correction from 26 to 27
+* 6 tone aug scale with two fourths
+  It feels like there are a lot of these but here's (a particularly harmonic?) one:
+  0 10 15 27 32 42
+* 5-tone 2-limping scale with a 15:8 and three 11:8s
+  0 14 21 35 42
+* two stacks of fifths, one with one slightly flat 3:2
+  Every interval except the one divided by the '+' below
+  is 3:2, except the one marked with a caret.
+
+  0 27 8' 35' + 15 41 22
+                  ^
+                 680c
+* [0,5,12 \ 46] x [0,22 \ 46] + 44
+  That is, two units of 0-5-12, almost a tritone apart.
+  Since there's a little less than a tritone between them,
+  there's room to begin (include the first note of) a third cycle,
+  so the full scale is
+  0 5 12 22 27 34 44
+* neutral diminished with lots of perfect fifths
+  The first three columns of this two-row table
+  are all perfect fifths,
+  every interval except at the + is 5\46,
+  and there are two modes with [0,10,15,27],
+
+  0   5 10 15 20 +
+  27 32 37 42

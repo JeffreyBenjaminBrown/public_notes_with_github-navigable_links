@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       527b72db-ae85-4d01-90b9-55ed087f8bd8
+:END:
+#+title: There should be a nonexperimental drug pathway.
+Something statisticians might not make enough noise about is that there can exist conclusive nonexperimental proof of a phenomenon. That society does not recognize such proof can cost lives. It also provides two opportunities, one for an applied econometrician and one for a legislator, to make the world better.
+
+The US FDA, and many similar agencies worldwide, will only permit the use of a new treatment if it goes through experimental validation. There are conditions under which hospitals may have evidence regarding the effectiveness of a treatment that, despite being non-experimental, is conclusive enough to justify legalizing the treatment. The law ought to exempt such cases from the experimental requirement. Experiments are the gold standard, yes, but if something really works well, you don't need gold standard-level data to prove that it does -- and the opportunity cost of waiting for more perfect data is whole human lives.
+
+The economic research opportunity is to find such treatments. Radiolab in 2025 aired an episode about a likely candidate: Bifidobacterium infantis. It is found in the guts of healthy babies in less-developed parts of the world, and (only) in the Mennonite community in the US. It used to be common everywhere in the world. It is the only bacterium known to be able to digest the full range of human milk oligosacharides, which by weight are a bigger part of milk than protein is. It appears to be disappearing from the guts of babies in the developed world. When hospitals started giving it to babies, it appears to have caused deaths from necrotizing enterocolitis to plummet, and when the FDA told them to stop, those deaths rose to their earlier levels. (Here's that episode: https://radiolab.org/podcast/the-elixir-of-life)
+
+The legal opportunity is to modify health laws to permit nonexperimental proof of effectiveness. And maybe a good biochemical story to support the treatment's effectiveness, like the one above, ought to count for something too. And while I'm asking for things, make it easier for economists to analyze hospitals' data for such treatments.

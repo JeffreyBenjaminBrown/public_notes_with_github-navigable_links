@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       2b9e933d-ed88-4792-b80a-a9ff0988a56a
+:ROAM_ALIASES: sleep
+:END:
+#+title: sleep (biology, personal health)
+* sleep as processing
+:PROPERTIES:
+:ID:       35fc7de0-cbbf-466f-80ee-3f7d5eb3d806
+:END:
+** Sleep is async.
+:PROPERTIES:
+:ID:       f80abf1b-2712-440b-80de-f20fd248dde5
+:END:
+   To undesrtand sleep in oneself is to understand what processes would run outside of the waking conscious (identity) state.
+** Rhythm helps sleep.
+:PROPERTIES:
+:ID:       8afbd202-a45d-49b5-9d5c-e10097081437
+:END:
+*** Days that [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_unwind.org][unwind]].
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/co_sleeping.org][Co-sleeping]] seems intriguing in this context.
+** feelings behind going to sleep early
+*** Could come of confidence and patience.
+*** Could come of defeatism, semi-fatalism.
+** feelings behind going to sleep late
+*** overworked, afraid (of some failure)
+*** enjoying oneself too much
+* Remember that too much gives me a headache.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_i_feel_when_i_ve_slept_better.org][how I feel when I've slept better]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/sleep_jbb.org][sleep \ jbb]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/co_sleeping.org][co-sleeping]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sleep_rules.org][sleep hygiene]] : rules I try to follow.
+* funny not to have recorded
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/disturbing_images_when_trying_to_sleep.org][disturbing images when trying to sleep]] (empty note)
+* unpredictable computational advancement
+** skipping \ music ,, bugs \ computer science
+** I love when I see someone after a long time and their resemblance to who they were surprises me.
+* fantasies about sleep
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sleep_as_immortality.org][sleep as immortality]]
+** The (speed of time)* depending on one's insecurities (fast) or lack thereof (slow).
+:PROPERTIES:
+:ID:       4cd0216e-5cde-4680-b4a1-2b2b685c52b7
+:END:
+   (*) information-density, wealth of dreams

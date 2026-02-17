@@ -1,0 +1,502 @@
+:PROPERTIES:
+:ID:       9c5619e5-81ad-4a67-9705-e4761bdd6839
+:ROAM_ALIASES: skg Skg
+:END:
+#+title: shareable knowledge gardens (skg)
+= an app in progress
+* The app on Github.
+  https://github.com/JeffreyBenjaminBrown/skg
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/evangelism_for_skg_by_demographic.org][We need to share knowledge graphs: Demographic-specific arguments]].
+* s
+** plans | wishes
+*** [#A] pressing*
+:PROPERTIES:
+:ID:       afff132a-e822-46cb-aed4-5725b7d1b0c5
+:END:
+    * = org-roam transplant first needs
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/skg_sharing.org][skg // sharing & privacy]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/diffs_in_skg.org][diffs in skg]]
+**** safe saving
+**** IDCol : ignore on save?
+     So far it only shows up in the git diff.
+**** transfer org-roam to skg
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/parsing_initial_super_indented_org_children_in_org_roam_data.org][parsing initial super-indented org-children in org-roam data]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/backward_view_skg.org][backward views]]
+**** ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org][expressivity voids , observed linguistic]]
+*** [#A] easy
+**** make links
+     The choice of what to call the link should be offered when the link is placed, not when its id is selected. That way the menu of aliases can depend on the place.
+**** override the ordinary save command
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/backward_view_skg.org#todo-these-nonempty-containers-link-to-it][linked to in container]] herald :? hard problem
+**** backpaths within a contains-context
+       esp. to record the
+     relationships | paths
+       between one idea and another
+**** Count how many times a node has been unfolded.
+**** Request to hide link from target's sourceward view.
+     Include a 'some backlinks hidden' glyph.
+**** AWAITS ? more [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/herald_more_properties_skg.org][heralded properties]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/backward_view_skg.org][backward (or otherwise midparent-grouped) views]]
+**** DONE
+***** new empty buffer
+***** deletion \ skg
+:PROPERTIES:
+:ID:       fb72f38e-bef6-4de9-a29b-00f0e46afbbb
+:END:
+      The user can add a "delete" (when saving) tag to the metadata.
+      They will probably want to bury most of the nodes so marked underneath one such node, to avoid clutter.
+***** hide content | omits-some-content herald: "{+"
+:PROPERTIES:
+:ID:       324f020b-1145-4279-a87a-02c96dce7a30
+:END:
+      This indicates that Rust should treat any org-children that look like content as content,
+      but should not delete the node's contains relationship to anything that doesn't appear as an org-child.
+      (The easiest implementation of this would be to ignore order. Anything that would become new content on saving can be placed at the end of the content list.)
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/repeated_nodes_in_a_view_skg.org][repeated nodes in a view \ skg]]
+***** org buffers with multiple roots
+:PROPERTIES:
+:ID:       ba8fbc06-bb9c-4d69-bb1c-34cd1f80fdf4
+:END:
+****** immediate fix: track the root, re-request it
+****** bigger fix: consider multiple roots
+       Rather passing around only a single list of FileNodes,
+       pair that with a list of root IDs.
+** docs / cool uses
+*** keep two orders, personal and public
+**** omtivation
+     For any topic,
+     there is the branch order that I prefer for myself,
+     presumably familiar with the note or at least the style
+     and probably more interested in open questions than definitions,
+     and there is a probably usually distinct branch order
+     that I would curate for others.
+**** implementation: reciprocal subscription
+     One might sometimes prefer to make the personal one private
+     (i.e. not share it).
+** ? poorly sorted
+*** later
+**** more expressivity
+***** see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org][expressivity voids , observed linguistic]]
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presenting_data.org][presenting data]]
+***** Some nodes do not want to pollute what they link to
+      by being in the backlinks view.
+***** Words in a sentence-order but also arrangeable spatially.
+      A generalization of indentation alignment games in code.
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/blocks_children_for_reader_relationship.org][blocks  for reader (relationship)]]
+***** ~ should be 'is fundamentally related to'
+****** could use ~~ for less so
+****** Any instance of either could be refined using more characters later.
+***** Backlinks should be absorbable into content
+****** why
+       Backlinks are relationships as yet
+       unclassified from the target's perspective.
+****** how
+       whereupon they show up no longer as backlinks,
+       or at least all that have been absorbed into content
+       show in the backlinks in a folded branch called that.
+***** shine-through at a link
+****** definition
+******* precise definition -- at least of a special case
+:PROPERTIES:
+:ID:       dfa3372a-3dea-4c26-8a12-31ffba86ab3c
+:END:
+        when a tree has
+          a node S (for source)
+            that has (maybe among other links)
+            a link L to node T (for target)
+              (T maybe needing to be part of a different tree),
+        and S contains S'
+        and T contains T'
+          such that S' links to T'
+******* vague definition
+******** example: a link to [[:id:538d409f-9808-40ac-ae3b-1c34f5613c01][fantasy -- broken link?]] under which something from fantasy shines through
+******** it is the "_ from _  visible from _ through _"
+****** motivation
+******* it's nice to write
+        If S is not a containment root,
+        the reason S links to T can often be clarified
+        by including a link recursively contained in S
+        to something recursively contained in T.
+        (There might be other reasons to do it, too.)
+******* it's hard to read from T or T'
+        and this would be really nice,
+        because S' is saying something about T or T'.
+******* it's hard to read from S', though perhaps not dire.
+        Currently nothing indicates the
+        [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shareable_knowledge_gardens.org#precise-definition--at-least-of-a-special-case][relationship between S and S']].
+****** to decide
+******* Can S or T have multiple links?
+******* Can there be more distance between S and S'?
+******* Can there be more distance between T and T'?
+****** TODO needs heralding
+       herald at [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shareable_knowledge_gardens.org#precise-definition--at-least-of-a-special-case][the linking node S']],
+       indicating the relationship between
+         (its immediate container? some containment predecessor?)
+         and its link target
+****** shine-through ~ nonempty containers linking to it
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fun_interesting_relationships_hode.org#glyphs-for-correlations-isomorphicity][glyphs for correlations]]
+***** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/fantasies_about_the_nature_of_power.org#its-like-a-graph-isomorphism][a graph isomorphism]]
+***** "Read the last branch last {it's the point, these are about it}."
+      The most natural way to structure this would be
+      the node saying that is talking about its children,
+      not its brothers.
+      That most ensures the reader reads it completely
+      before processing the others.
+      In this sense there might be nothing unnatural
+      about a (sub)tree of many singleton branches.
+***** user-defined relation*s
+      * = relation in the TypeDB sense, a template for relationships
+****** Label the relationship differently from a different member.
+******* be able to
+        probably often the single label best serves all members
+****** isntances
+******* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/light.org#illumination-is-a-relation-on-knowledge][Illumination is a knowledge graph property.]]
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org#bracket-punctuation-grammar][bracket grammar]]
+***** share order across contexts
+      An "order" (priority to reader) property makes sense common to the same nodes in different contexts.
+      Esp. if they are common rel nodes like "instances".
+**** more visibility
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/history_of_graph_operations.org][history of graph operations]]
+***** Should links indicate (commit | download date)?
+**** more queriability
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/link_content_filters_skg.org][link content filters \ skg]]
+***** Will need "show all relationships".
+****** ~}, ~aliases, ..
+       prefixed heralds with (~) for 'non-content relationship' midparent.
+       where ~x means 'in relation x to parent'
+***** Expose TypeDB querying to the user.
+****** checking compatibility with the (Emacs-Rust) API
+******* How the user represents a query is independent of the API.
+******* How the query results are shown
+        They can be placed anywhere.
+        A herald reveals the headline as collecting a query.
+        A child marked query-text has a body equal to the query.
+        The results are the other branches.
+******* How the query results are saved
+        They aren't. But as usual, if a query result is edited
+        (in its text or content) that can be saved normally.
+        They initially appear with the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shareable_knowledge_gardens.org#hide-content--omits-some-content-herald-][omits-some-content herald]].
+***** show|hide {intermediating relationships = relationship labels)
+**** make save-buffer more permissive
+     Children where they shouldn't belong should be handed to a node more containerward.
+     e.g. children of an alias.
+     rather than being ignored
+**** Wikipedia seems integrable
+***** import | be able to cite and reshape views of it
+***** Important pages begin with an ugly tree of links.
+***** But lensing onto a mutable Wikipedia seems hard.
+***** Wikipedia is about 150 GB
+      26 TB with full history
+**** blurring the nlp-graph distinction
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/labeled_relationships_in_skg.org][labeled relationships in skg]]
+***** it vs. that
+****** in a nutshell
+       "It" refers to the container of the (containerward-)nearest container that used the word "that", or else the farthest container if none have said "that" (some others may have said "it").
+****** more verbose
+******* "that" can be used to change the subject to a nearer ancestor.
+        After which point it would be referred to as "it",
+        enabling further changes of subject.
+******* example use case
+        You might list a topic, within the topic ("it") a caveat,
+        and within the caveat's contents refer to the caveat as "that".
+****** if in doubt, just use an explicit hyperlink
+***** Make comments about the meaning of a pair of braces.
+***** Use a (hyperlink to a) relationship in a sentence.
+***** Extract the punctuation I tend toward automatically.
+      e.g. start with & and two words,
+      using (path to) parent if absent
+**** ? make it like Candy Crush
+     recognize patterns to unlock insights
+**** u, more
+      Have [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org#badass-sacrifices][patience, these are badass to sacrifice in the short term]].
+***** using "is an aspect of" and/or "[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/light.org][illuminates]]" to cover a node's neighbors with a small set of relations
+      I would use "[it] is an aspect of | illuminates [child]"
+      and then ask Skg to show coverings.
+      For instance, could use a small set of values
+      to cover (probably not necessarily) the other values.
+      'everything.org' does something like this already,
+      but it is a tree -- a certain small set of values
+      having been elevated (toward the root of the tree)
+      as more fundamental than those they lens onto,
+      when other sets could surely do likewise.
+***** Ontological querying.
+      where the terms _ or their [varieties] appear:
+        count them in each content tree
+        and sort the results
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb_should_report_constraint_violations_to_skg.org][TypeDB should report constraint violations to Skg.]]
+***** swap places between an indefinitive and definitive
+      of the same id
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rescue_smsn_into_org.org][rescue smsn into org]]
+      includes motivations for so doing
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/it_this_and_these_make_tree_relationships_easy.org]["It, this and these" make tree relationships easy.]]
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_org_mode_indentation_changes_less_noisy.org][make org-mode indentation changes less noisy]]
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sound_effects_for_skg.org][sound effects for skg]]
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/auto_parse_notes_with_punctuation_grammar.org][Auto-parse notes with punctuation grammar.]]
+***** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/graph_i_e_multi_node_merges.org][graph merges, e.g. merges of whole repos of nodes]]
+***** share a participatory website requiring no installation
+      The user can write in yours even without having installed anything on theirs. They can login with a pseudonym of their choosing, move stuff around, add things, label things. They get their view onto my data, and can show it to others. They can't delete things, and when they rename something its original title becomes an alias, but they can create name clashes to try to bury it.
+***** Multi-line headlines.
+      The temporary workaround is to indicate in the headline
+      that it doesn't fit on one headline so see the body.
+*** monetization
+**** What could I charge for that only businesses would care about?
+**** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/patenting_skg.org][patenting skg]]
+*** even less pressing
+**** [#B] technical, not difficult
+***** a link could have a personal and public title
+      that is, not the target, which obviously can have lots of both,
+      but rather the apearance of the link source depends on context --
+      whether the user is in public or personal mode
+***** randomize order of equivalents
+***** strange views
+****** merge link-siblings
+       From file F, if file G contains a link to F,
+       show the siblings of the node with that link.
+***** the 'repeated' warning should be in a system font
+      I might need Emacs to generate it.
+      Currently Rust sends it as body text.
+**** What I've called 'integration' is sexier as 'assimilation'.
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_write_easily_triple_collected_notes.org][how to write easily triple-collected notes]]
+**** show binary relationship label with optional intermediating node
+     esp. nice if you can filter on those labels,
+     or on an ontology they belong to that groups them
+**** show when a link is bi-directional
+**** list which links are in a node's recursive content
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/who_else_is_a_parent_to_node_s_children.org][show co-targeters, co-ancestors]]
+**** Graph development histories might be interesting.
+***** And interpolations.
+**** Plan tours?
+:PROPERTIES:
+:ID:       437a5820-8a4e-4a96-ab45-c0936b390cd6
+:END:
+     { in the knowledge graph,
+       of mental states, }
+     like musical scales
+***** [[:id:a67cad81-1bf5-442b-a149-4d819e050f00][Claude suggested, kind of -- broken link?]]
+**** Optimize for serendipity?
+***** [[:id:c46df20a-8bd3-4d69-877e-229f8c487e94][Claude -- broken link?]]'s idea
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/node_contains_branch_in_view.org][ternary rather than binary containment relationship]]
+**** later still
+***** put your own order on common categories: further definition, instances, ...
+***** ? comment files
+****** why not
+       Subscription lenses seem to make it unnecessary.
+****** how
+******* when fetching a document, check whether each node has a comment
+        and if so, display that as a first subnode,
+        called "comments by: [author]"
+******* Enable editing, somewhat.
+        The title, "comments by: [author]" cannot be changed.
+        But the comments themselves can be.
+***** graph constraints
+****** test each constraint of the schema
+       Some violations might not be representable in the .skg format.
+****** Can a file include multiple comments_on properties?
+       It shouldn't.
+****** `contains` should be acyclic
+       The TypeDB AI says I can use `distinct` instead,
+       but the docs on `distinct` don't suggest that's true.
+****** Ttest that all IDs are distinct in the repo.
+       maybe in Rust, not TypeDB
+****** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_this_how_i_should_write_cardinality_constraints_on_roles.org][Is this how to write cardinality constraints on roles?]]
+***** Don't search a repo's .git folder.
+***** A public notes repo should be configurable to contain only one commit.
+      If so, it is the latest of a corresponding private repo.
+***** phone audio interface
+      It would speak using a special syntax.
+      You would need commands to navigate and shape tree,
+      follow links and backlinnks,
+      and dictate nodes.
+      Would just need an AI to transcribe,
+      code to recognize initial and terminal commands,
+      code to separate those from the ordinary text between them,
+      and code to render as Emacs.
+***** Not every headline should be searchable.
+      By default they should be,
+      but the user should be able to turn that off.
+**** what did I mean
+***** report where a new root matches earlier words
+      and synonyms
+*** dubious
+**** ? try [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dependency_inversion.org][dependency inversion]]
+*** DONE abandoned
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_typedb_python_driver.org][the TypeDB Python driver]]
+*** DONE ? unifications
+**** private lens onto your public notes ~ subscription
+     They would work the same way.
+     Could even be a private lens onto a public subscription.
+** food for thought
+*** Skg is substitutable with meditation.
+    Both are you manipulating your data.
+*** (ambitious) knowledge mapping v. [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/control_orientation.org][control orientation]]
+*** the writer could code a message that needs reading between link source and target
+    for maybe any kind of relationship, maybe especially hyperlinks
+*** children branch from children, but also, parents from children
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_philosophy_of_software_design_book_by_john_ousterhout.org#ongoing-for-taking-notes-on-a-book-maybe-append-at-the-bottom][For taking notes on a book, maybe append at the bottom.]]
+** docuemntation
+*** TODO document user obligation : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_two_nodes_with_the_same_id_problem.org][no two nodes with the same ID]]
+*** TODO point out transactional fragility
+    Each save is to three "media": the filestore, TypeDB and Tnativy.
+    If any one of them fails, things probably get confusing.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_skg_works.org][how Skg works]]
+*** practice, suggestions for
+    includes obligations to oneself
+**** (?Alternately) write and integrate.
+***** where (definitions)
+****** integrate includes {place, shape, flesh out, caveat, be ready to commit to the record}
+**** Don't let the 'how to publish' question interfere with writing.
+     e.g. whether to make something public or private.
+     Maybe those should be in different stages.
+**** Read creatively.
+***** choosing what to read
+***** choosing where in it to focus
+**** Review your collections.
+**** Collect thoughts.
+**** Make at least three links to anything you hope to keep.
+**** Horizontal and vertical relationships need not be reciprocal.
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_form_a_study_group.org][how to form a study group]]
+**** build a small tree first
+     before integrating
+*** If big documents take long to load, that's a useful signal.
+    A prompt to change some contains relationships to links.
+*** If you like Piaget
+    it lets anyone 'assimilate' anyone else's knowledge,
+    without needing 'accommodation' by that knowledge.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/graph_writing_priority_choice.org][(All?) the fundamental relations express priority.]]
+** dangers | conceptual puzzles
+*** formalize graph operations
+*** formalize the translation from emacs to graph operations
+    Haskellers might want to help.
+*** leaves, stems, and information-density
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#be-as-one-with-the-flow-of-time][Be as one with the flow of time.]]
+**** Don't choke on the architecture, the stems.
+**** Don't lose sight of the delicious ?leaves for the forest.
+***** A simple 'like' parameter would help.
+**** leaves v. (buds ~ stems)
+*** cyclic subscriptions
+    They do not seem problematic!
+*** nested links -- links in titles
+**** the idea
+     This is like creating a single-use relation type.
+     Just like relatinoships with permanent types,
+     this is useful because it automatically creates links
+     to the items referenced in the title,
+     rather than requiring the user to do that.
+**** a representation: wrap all links in brackets
+:PROPERTIES:
+:ID:       91606c6f-0b09-4cb1-b4fe-81ca72a3f6ce
+:END:
+***** example
+****** for          titles with links
+       [humility] engenders [peace]
+****** for links to titles with links
+       [[humility] engenders [peace]]
+***** problem: It might be confusing that brackets are also used to indicate member types in [[:id:cfa775eb-9107-430a-a32c-228901d0f494][relation type definitions -- broken link?]].
+**** search over titles that include links
+     Order results by title length,
+     and if the title includes links,
+     show them, rather than showing the whole title as one link.
+*** multiple paths from root a leaf
+**** When A has branch B with branch C, A can be using B to explain why it has C. There might reasonably be multiple such paths A to C.
+**** It could be nice to have C present before the multiple Bi.
+     where "before" = closer to A
+*** an overrides cycle
+    Could make sense if the nodes were from distinct authors.
+    Should be detected (avoiding a forever loop)
+    and offered to the user to adjudicate.
+** [[https://github.com/JeffreyBenjaminBrown/stale_notes_with_github-navigable_links/blob/master/skg_save_data_flow_trace.org][Skg save data flow trace]]
+** maybe useful
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recursion_schemes.org#can-be-done-in-rust][recursion schemes can be done in Rust]]
+*** cool idea: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/annotation_server.org][annotation server]]
+** the social experience
+*** the social experience of being hidden
+**** mitigation ? anonymize hiders
+     For the person hidden to learn from it,
+     it might be easier, for ego-defensive reasons,
+     if they did not by default see who had hidden them,
+     but they did see how many people.
+     (They could still find out if they wanted.
+     Preventing them from being able to find out would be hard.)
+**** problem : could feel scary, humiliating
+     Like being voted off the island.
+*** gradations of publication
+**** A user should be able to share which of another's data they have referred to (inc. subscription) even if they unwilling to share any data beyond that.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sound_effects_for_skg.org][Sound effects for events would be cool.]]
+** doubts
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#does-the-stress-of-integration-prevent-me-from-reading-my-graph][Do I fear personal integration?]]
+*** Do I fear human superintelligence?
+:PROPERTIES:
+:ID:       ec4fab64-a155-47d4-80a5-46959c987934
+:END:
+*** Are personalized views dangerous?
+    Isolating?
+    Enabling of epistemological disconnect?
+    What if everyone can write their lens onto Wikipedia?
+*** I want help, guidance navigating deep ideas from others.
+:PROPERTIES:
+:ID:       3f518215-aa9f-4bc0-9fb2-b21dcc25909a
+:END:
+    We waste so much information. So many have found the answer to what ails you, maybe always. We could choose our deepest guides, people claiming or linking to ideas, on a per-topic basis.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org#what-would-godel-say][What would Godel say?]]
+*** technical motivations
+**** {Org} files are too far apart.
+     Transitions between files are too stark.
+     A person should choose the structure of how their attention forks,
+     easily maintain two contexts in view at once.
+**** if recording a relationship did not necessarily warp the view
+     In a tree, it must.
+***** example : It's hard to include "human" in my tree.
+      I really want it to be a tag that doesn't interfere with the tree.
+*** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/hode_am_i_being_realistic.org][Am I being realistic?]]
+* guess I don't need right now
+  to be able to undo an override
+* leading whitespace
+** to translate org to skg
+   Subtract the minimum amount of whitespace from all nodes.
+   if every line starts an equal number of spaces in,
+   eliminate it all.
+** to display it
+   changing headline indentation should not move the body text.
+   If the user wants to see the body text indented under the headline,
+   there is an Emacs mode to superimpose that already.
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/skg_outreach.org][skg outreach]]
+* NAH
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/skg_cloning_seems_unnecessary.org][cloning seems unnecessary]]
+** replace the word glyph with herald
+* ABANDONED
+** Write a Haskell TypeDB driver.
+   Would be honorable, but looks hard --
+   the Rust driver is enormous.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/have_rust_act_on_the_s_exp_from_emacs.org][Have Rust act on the s-exp from Emacs.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_org_mode_a_branch_can_be_read_only_and_foldable.org][an org-branch can be read-only and foldable]]
+* WORKED GREAT
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rebuild_buffer_in_rust_with_the_same_structure_skg.org][rebuild buffer in Rust with the same structure \ skg]]
+** Simplify the Emacs transmission.
+   Just send the text with its properties. Let Rust figure out everything else. It will no longer be procedural, subjeect to cursor and other errors.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_meaning_of_sharing_in_a_knowledge_graph.org][the meaning of sharing in a knowledge graph]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aliases_in_skg.org][aliases]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rebuild_buffer_in_rust_with_the_same_structure_skg.org#retain-focus-folding-on-save][retain focus, folding on save]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/merging_graph_nodes.org][merging graph nodes]]
+** [[https://github.com/JeffreyBenjaminBrown/stale_notes_with_github-navigable_links/blob/master/skg_orgnode_type_hierarchy.org][Skg OrgNode type refactor]]
+* AWAITS ? continue processing this file
+  PITFALL: For processing this file,
+  the following external files have higher priority,
+  because [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shareable_knowledge_gardens.org#this-file-itself][I recently processed this file]].
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org][how to use a knowledge graph]]
+*** if another in the see-also contains this one, maybe can omit it
+    or let it be seen through the containing link
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode.org][Hode]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oscillable_generations_view_for_org_roam.org][osc-gen]]
+** DONE FOR NOW : reviewed <2025-08-30 Sat>
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org][expressivity voids , observed linguistic]]
+*** [[:id:9c5619e5-81ad-4a67-9705-e4761bdd6839::+title: shareable knowledge gardens (skg)][this file itself -- broken link?]]
+:PROPERTIES:
+:ID:       1df9170f-7044-488f-bf66-5a2c38f309d3
+:END:
+* DONE ? hopefully internalized
+** Avoid complex data structures in Emacs.
+   Emacs seems best for buffer text.
+   That text's properties can encode anything I need.
+   All other logic, including types, should be in Rust.
+   These allow one website to comment on another,
+     such that subscribed readers
+     can see those annotations from their target.

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       ebfc71c5-86b6-41b2-adb0-75b513cd12dc
+:END:
+#+title: moving and movers
+* when moving electric guitars: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guitars_and_humidity.org#change-temphumidity-slowly][change temp/humidity slowly]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/whirlpool_washer_dryer_bought_2024.org#pitfall-when-moving-to-maintain-sticky-dryer-feet][PITFALL: when moving dryer, to maintain sticky feet]]
+* Grill the movers on what they offer.
+** Closet-boxes?
+   The kind with a bar to hang clothes on.
+** Plastic to wrap delicates?
+   esp. mattresses, because how do you wash a mattress?
+** Will they take apart the furniture that needs it, and reassemble it?
+** Plastic boxes for fridge contents?
+** How many people will they send?
+   The guys who sent six, and two trucks, got it done in a morning.
+     (Colombia, 2021, Hayuelos to Paulo VI)
+   The guys who sent two movers plus one truck and driver took all day,
+     which was a miserable experience.
+     (Colombia, 2022, within Paulo VI)
+* Don't trust them to estimate how much space we'll need.
+** Encomudanzas underestimated
+   the boxes we'd need by a factor of 4,
+   and the truck we'd need by maybe 25%.
+* my history with
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/finding_movers_in_bogota_2022_09_12.org][finding movers in Bogotá, 2022-09-12]]

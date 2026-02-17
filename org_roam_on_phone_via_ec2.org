@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       343a82a7-e007-4623-968b-8359234695a9
+:ROAM_ALIASES: "EC2 org-roam Termux phone" "Termux EC2 org-roam phone" "phone Termux EC2 org-roam"
+:END:
+#+title: org-roam on phone via EC2 and Termux
+* how I set up Termux
+** be sure it has storage access
+** copy my data onto my phone
+   and from Termux, copy it into native Termux disk space
+** pkg install openssh
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/org_roam_on_phone_via_ec2_private.org#some-scripts][create a connection script]]
+* how I set up the EC2 instance
+** I used a Debian t3.micro w/ 8 GB storage
+   It doesn't give 750 free hours like t2.micro,
+   but over a year it's at least 10 dollars cheaper,
+   and after that should be 20.
+** sudo apt install -y git zip unzip encfs snap sqlite3 gcc tree
+** snap install emacs --classic
+** add snap installations to PATH
+   # append this line to ~/.profile
+   PATH=$PATH:/snap/bin
+** backup the .ssh/ folder
+   cp -r .ssh dot-ssh/
+*** PITFALL: Without this, I can't connect to the instance.
+:PROPERTIES:
+:ID:       895553c7-1ed4-469f-9e92-0531dcaafcc8
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/org_roam_on_phone_via_ec2_private.org#copy-into-ec2][copy my data there]]
+*** the idea
+    All of ~/.ssh (minus the .pem file to connect to EC2).
+    All of /home/jeff/ugh/une/org-roam
+      PITFALL: Copying individual pieces of it didn't work,
+      but copying it as a whole did.
+*** the bash command
+    zip -r to-ec2.zip              \
+      /home/jeff/ugh/une/org-roam/ \
+      /home/jeff/ugh/une/text-in-git/code-ish/ssh-dot/
+** move that data into place
+** copy the backed-up .ssh content back into .ssh
+*** cp ~/dot-ssh/* ~/.ssh
+    This overwrites some data I copied from my laptop,
+    which appears not to matter.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam_on_phone_via_ec2.org#pitfall-without-this-i-cant-connect-to-the-instance][why]]
+** in Emacs, install some packages
+   M-x package-list-packages
+   use-package
+   org-roam
+   emacsql
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/org_roam_on_phone_via_ec2_private.org#put-a-pem-key-aws-knows-about-in-ssh-aws-can-make-one][Put a .pem key in ~/.ssh that AWS knows about. (AWS can make one.)]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/org_roam_on_phone_via_ec2_private.org#some-scripts][the command to connect]]

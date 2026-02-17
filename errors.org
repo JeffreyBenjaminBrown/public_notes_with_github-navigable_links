@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       d012e5a4-c33c-496f-841f-a0db90d8c1e6
+:END:
+#+title: errors \ information
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_online_echo_chamber_effect.org][the online echo chamber effect]]
+* recording too much
+:PROPERTIES:
+:ID:       43ab15d1-1fc8-4fe6-b8b3-43fccf941563
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_collector_s_fallacy_for_information.org][the collector's fallacy (for information)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_be_fixed_less_firmly_in_time.org][to be fixed less firmly in time]]
+* too much planning
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/learning.org#maybe-learning-has-no-planning-phase][Maybe {learning,..} has no planning phase.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/denial.org][denial]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/repression_psychology.org][repression (psychology)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org#pride--stupidity][pride => stupidity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/psychology.org#errors--psychology][errors \ psychology]]

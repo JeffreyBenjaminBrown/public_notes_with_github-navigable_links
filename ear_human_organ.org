@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cfb0b93a-3c93-4ddc-8753-787ab12ccbe4
+:END:
+#+title: ear (human organ)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_manually_balance_the_pressure_in_the_ear.org][how to manually balance the pressure in the ear]]

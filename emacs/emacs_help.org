@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       92505b5e-61fc-494f-a610-9b37a27a6fdd
+:ROAM_ALIASES: "help \ Emacs"
+:END:
+#+title: Emacs / help
+* <C-h ?> lists ways to access the builtin help.
+** PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/f_is_for_some_reason_not_among_the_options_listed_by_c_h.org][`f` is for some reason not among the options listed by `C-h ?`]]
+* <C-h k> lists commands mapped to a "key" (keyboard shortcut)
+  which it prompts for.
+* <C-h f> describes the function
+  the name of which it prompts for.
+* <C-h v> describes a variable

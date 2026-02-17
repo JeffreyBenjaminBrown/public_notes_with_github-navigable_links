@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       87336c4a-073b-42fe-a0d0-40f9cece91f6
+:END:
+#+title: configuring Reaper
+* TODO Settings can be backed up.
+:PROPERTIES:
+:ID:       dc2e95b2-e85f-4d60-858a-fa9ff2ac954f
+:END:
+  see "Backing up Settings"
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org][mouse and keyboard controls in Reaper]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org#to-create-a-macro][to create a macro]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/actions_menu_the_reaper.org][Actions Menu]]
+* PITFALL: Some settings are global
+:PROPERTIES:
+:ID:       cbf7b2c6-e887-4cc5-a1a8-373a242066f7
+:END:
+  and some are project-local,
+  and some are local to project elements,
+  and I'm not sure which.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/views_in_reaper.org][views in Reaper]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/undo_in_reaper.org#undo-is-configurable][undo]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/project_creation_saving_import_and_export.org][project creation, saving, import and export]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org#configuring-the-mouse-modifier-space-which-is-huge][how scrolling works]]
+* the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/metronome_in_Reaper.org][metronome]]
+* time
+** time signature: beats or whole samples
+** "timebase" for items/envelopes markers and for tempo/time sig
+** synchronize to external timecode
+* "feedback in routing"
+* "Preserve pitch when changing rate."
+* pan law, and whether pan is stereo
+* Notes can be attached to a project.
+* configurable: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org#configurable--whether-track-metering-is-pre--or-post-fader][whether track "metering" is pre- or post-fader]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org#what-information-media-items-show-can-be-configured][how media items look (what information they show) can be configured]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/recording_audio_midi_reaper.org#default-recording-behavior][Default recording behavior]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org#tracks-items-and-takes-can-be-assigned-colors][Items and takes can be assigned colors.]]
+* whether to report possible "audio underrun"s
+* configuring what [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/moving_the_play_cursor_reaper.org][moves the play cursor \ Reaper]]

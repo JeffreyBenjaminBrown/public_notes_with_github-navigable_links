@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       aa2771cc-1a69-482d-9b40-61efd56063eb
+:END:
+#+title: irreversible transitions in knowing
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/secrets_can_be_obscure_without_hiding.org][Secrets can be obscure without hiding.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment.org][enlightenment]]

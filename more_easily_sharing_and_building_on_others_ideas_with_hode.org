@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1ad54594-b32d-4c20-871d-698240c3c6b4
+:END:
+#+title: more easily sharing and building on others' ideas with Hode
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/publication_in_science_is_too_much_work.org][Publication in science is too much work.]]
+* Being able to share half-finished thoughts in a way others can contribute meaningfully to.

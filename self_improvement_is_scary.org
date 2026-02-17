@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       91891bb6-83e2-4c14-8b7a-cab046c35c7b
+:END:
+#+title: Self-Improvement Is Scary.
+* because it is untested.
+It might not work, and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear_leads_to_procrastination.org][Fear (of failure) Leads To Procrastination.]]
+* because it demands change, which implies failure.
+That is, if improving yourself means changing your habits, priorities, etc.,
+then you must accept that they were wrong (or at least worse) before.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       fd3ee98a-6070-439c-807c-675b817d321e
+:END:
+#+title: audio (medium)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_create_an_mp4_from_a_wav_and_a_png.org][how to create an .mp4 from a .wav and a .png]]
+* audio formats
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wav_file_format.org][wav (file format)]]

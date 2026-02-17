@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       a7404dc2-004e-43d5-b8c6-862601cd2c03
+:END:
+#+title: self-improvement
+* goals
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/felt_personality_deficits.org][felt personality deficits]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intuition.org][intuition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org][humility]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotional_ambition.org][emotional ambition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spiritual_healing.org][spiritual healing]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/social_skills.org][social skills]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attribution.org][attribution]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trainable_perceptual_skills.org][trainable perceptual skills]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/assertiveness.org][assertiveness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#i-regret-not-being-sufficiently-relaxed][I regret not being sufficiently relaxed.]]
+* possibilities, ?mind-expanding
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][peace]]
+** more money => less carnivore
+*** If I had more money I would spend some of it eating less meat and more meat substitutes.
+** To focus on feelings feels paychedelic.
+:PROPERTIES:
+:ID:       890fc33b-1247-459a-980f-6b3163f9bc1d
+:END:
+** I could better appreciate others.
+:PROPERTIES:
+:ID:       96db5599-7365-4082-b93e-0c5fe2a7a4f4
+:END:
+   In more detail, with more focus.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/habit.org#habits-i-want][habits I want]]
+* dubious as goals
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pain_and_learning.org][I wish pain were more useful.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tensions.org#collections-of-values-plausibly-in-tension][collections of values plausibly in tension]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org][justice]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love ,, brotherly & romantic & self-respect]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org][empathy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/romance_surprise.org][romance + surprise]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/lust_as_correct.org][lust]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/immortality.org][immortality]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_i_want_to_know_that_i_could_easily_look_up.org][things I want to know, that I could easily look up]]
+* ? [[:id:873e1417-d595-4610-a9ba-51f4921583fe][mind-expanding art -- broken link?]]
+  Artists certainly have written about art that forces a person to change. That does happen but it seems rare to me, and feels more like a justification of art than an efficient strategy for self-improvement.
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/self_improvement_jbb.org][self-improvement , personal]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_criticism.org][self-criticism]]
+* nah
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/gre.org][grad school]]

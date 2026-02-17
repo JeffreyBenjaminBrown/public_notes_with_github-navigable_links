@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4c4f396d-990b-4de4-8619-9ee2c7cd5228
+:END:
+#+title: battery
+* battery monitoring and control in Linux
+:PROPERTIES:
+:ID:       b736de75-e4cc-4390-a12b-85b13dd3ad3b
+:END:
+** Run `acpi` from the command line to show battery status.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tlp_battery_control_service_for_linux.org][TLP (battery control service for Linux)]]
+* my [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rechargeable_batteries.org][PKCell rechargeable AA batteries]]
+* the [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/battery_for_laptop_to_buy.org][battery for my 2017 Dell laptop]]
+* the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/battery_of_my_oculus_rift.org][battery of my Oculus Quest 2]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bug_laptop_s_battery_drains_while_off.org][bug: laptop's battery drains while off]]

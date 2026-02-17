@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fd9e949b-84bd-4ca3-8304-0436bc30a307
+:END:
+#+title: avocado
+* On a Hass, 0.42 g aalt was not enough.
+  Try 0.6 g next time.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       955459fe-7131-4eb6-8b14-30693681689e
+:END:
+#+title: ebook
+* ebook formats, which (seem to) work best where
+** .epub : good for Kindle and in ReadEra (Android)
+** .mobi : good for Okular (Linux)
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/kindle_amazon.org][Kindle, Amazon]]

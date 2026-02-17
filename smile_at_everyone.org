@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2bcde31f-6002-4df1-812c-242f6110d6b3
+:END:
+#+title: Smile at everyone!
+At least on first seeing them.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happiness.org][joy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org][optimism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence.org][self-confidence]]

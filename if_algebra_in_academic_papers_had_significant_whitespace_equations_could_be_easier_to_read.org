@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1c241da8-8364-4e3b-8933-ff10d32d708b
+:END:
+#+title: Algebra with significant whitespace permits multi-character names.
+* Does LaTeX not do this?
+  That was the origin, maybe,
+  of the earlier, vaguer content of this file.

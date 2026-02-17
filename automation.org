@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b2211b39-78d7-4eb2-b1c6-cdc73242e07b
+:END:
+#+title: automation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/autohotkey_for_linux.org][AutoHotKey for Linux]]

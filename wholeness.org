@@ -1,0 +1,92 @@
+:PROPERTIES:
+:ID:       bf73fa6f-cd1a-4237-8bdb-7a98025cf226
+:ROAM_ALIASES: unity
+:END:
+#+title: wholeness
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solitude.org][solitude]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org][presence]]
+* the one and the many
+:PROPERTIES:
+:ID:       8d7f47d0-588b-4128-ab21-600a2e594032
+:END:
+** I feel my dissatisfaction with my circumstances as my dissatisfaction with myself.
+   Or maybe vice versa.
+** More important than being remembered, maybe,
+*** is that (the small) you won't feel it happen.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dichotomy.org][dichotomy & partition & spectrum]]
+* interiority
+:PROPERTIES:
+:ID:       31893ab1-1167-4d60-ac5a-4e55eb2d7968
+:END:
+** some interesting contexts for it
+*** epistemology
+*** consciousness
+** Some psychoactives seem to impose an interiority bias.
+:PROPERTIES:
+:ID:       3c0de83f-b2fd-4662-884e-e8e3c1664080
+:END:
+   Toward processing and the self,
+   away from physical action and therefore others.
+** Cognition is a form of interiority.
+* Know and accept your contradictions, or change.
+:PROPERTIES:
+:ID:       3fc56ebe-6405-476b-8270-7449ed75a413
+:END:
+** Your bad and good feelings toward something can both be real.
+* Our only judges are each other.
+:PROPERTIES:
+:ID:       585b7a0d-4fc6-497b-b20d-0fc19ed9daa7
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org#cut-yourself-some-slack][Cut yourself some slack.]]
+* integrity
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org][consistency]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honesty.org][honesty]]
+* holism
+* To select is to reject (others).
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/partial_completion_is_of_almost_no_value_in_many_projects.org][Partial completion is of almost no value in many projects.]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/skg_outreach.org#comparing-skg-to-academia][comparing skg to academia]]
+* Be, not do.
+** Demonstrate, don't {explain | work toward it}.
+* bias toward wholeness
+:PROPERTIES:
+:ID:       49e77457-b0c2-4ffd-b70b-6c6203ad0a6e
+:END:
+** would be interesting
+** some could be computationally efficient
+* The seeds of your own healing might be in you.
+* simplicity ~ universality
+:PROPERTIES:
+:ID:       1ac6e5dd-4846-4af1-8981-0a5d1782ef1d
+:END:
+* Being is more universal than doing.
+  Everything that does, does uniquely.
+  But everything that is, is similarly.
+* If you can't tell your story, something is wrong.
+:PROPERTIES:
+:ID:       68c52fdf-eb5c-4d51-a147-a3450fe42661
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_is_an_assumed_property_of_one_universe.org][Truth is an assumed property of one universe.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authoritarianism.org][authoritarianism]]
+* [[:id:db9aedb6-b2cd-4516-8a25-2870a76b3b42][& personal -- broken link?]]
+* Death is a part of life, but there is only now.
+:PROPERTIES:
+:ID:       84282174-0a55-4597-ba14-42448dc9bf98
+:END:
+* stressful integration
+:PROPERTIES:
+:ID:       8e2c3a3f-f0e1-46f3-af4c-a265312346ca
+:END:
+** "integration, which can be a very stressful process"
+   Wikipedia on play, <2025-07-09 Wed>:
+     https://en.wikipedia.org/wiki/Play_(activity)
+   No source or definition given therein.
+** see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/overload.org][overload]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org#-fullness-in-emptiness][? fullness in emptiness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collective_understanding.org#a-whole-ant-colony-can-know-things-its-parts-dont][A whole (ant colony) can know things its parts don't.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collectivism.org][collectivism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#the-edge-where-ideas-deserve-not-formal-encoding-but-music][the edge where ideas deserve not formal encoding but music]]
+* Before sharing a new year's report, I want to have actually integrated the year into my mind.
+:PROPERTIES:
+:ID:       d098d9b0-adef-403d-bb2f-58c6fcb2eae3
+:END:

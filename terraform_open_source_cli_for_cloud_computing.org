@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c3b5cb8e-0b24-49d8-b4c4-920f210abc83
+:END:
+#+title: Terraform (open-source CLI for cloud computing)
+Covers all the majors, in particular AWS.
+[[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/jeff_carlson.org][Jeff C]] uses it to avoid the AWS WUI.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4268a9bf-a868-4d53-9e49-04416578e73b
+:END:
+#+title: lens (computer programming)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optics_in_haskell.org][optics in Haskell]]
+* Generate lenses for third-party libraries in Haskell
+  https://ai-jobs.net/?rdt_cid=3040091042633392170

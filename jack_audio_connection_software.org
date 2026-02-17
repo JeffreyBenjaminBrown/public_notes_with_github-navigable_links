@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       2e99f9b7-5784-4e04-a277-9e6e734d1dd2
+:END:
+#+title: JACK (audio connection software)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/qjackctl_having_no_effect_on_jack_bufsize.org][QJackCtl having no effect on `jack_bufsize`.]]
+* TODO
+** TODO (someone responded) : I asked online
+*** TODO (someone responded) : on Reddit
+    https://www.reddit.com/r/jackaudio/comments/uqex1x/pkgconfig_is_not_recognizing_jack_it_might_matter/
+*** on the JACK Audio mailing list
+    https://lists.linuxaudio.org/archives/jackaudio/2022-May/002404.html
+** the Haskell JACK library on my computer
+   /home/jeff/code/haskell/libs,tools/jack
+** pkg-config seems not to recognize my JACK
+   jeff@jbb-hp17:jack$ jackd --version
+   jackdmp version 1.9.19 tmpdir /dev/shm protocol 9
+
+   jeff@jbb-hp17:jack$ cabal repl
+   Build profile: -w ghc-9.0.2 -O1
+   In order, the following will be built (use -v for more details):
+    - jack-0.7.2 (lib) (first run)
+   Configuring library for jack-0.7.2..
+   cabal: The pkg-config package 'jack' version >=0.118 && <1 || >=1.9.8 && <2 is
+   required but it could not be found.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi_via_jack_in_python.org][MIDI via JACK in Python]]
+* questions
+** How to get the name of the JACK server?
+   needed by Sound.JACK.newClient
+* keeping JACK happy
+** Killing SC before the GHCI process makes Jack err.
+** don't leave Spotify open (even if not playing) when turning Qjackctl
+   not sure but maybe bad
+* leaving Qjackctl on seems to work
+  I left it open, not running, for days and I can play the synth with it today.

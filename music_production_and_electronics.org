@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       5f1ccc68-6200-4b70-b1e4-8e185ea64322
+:END:
+#+title: music production and electronics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_composition_software.org][music // composition & software]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_did_i_break_a_midi_track_in_reaper.org][How did I break a MIDI track in Reaper?]]
+* MIDI pedals and Python / Reaper scripts
+** pitch shift
+** make up for lack of volume dynamics
+* TODO download latest Pianoteq
+* try changing [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/velocityintrvltbl_lumatone.org][VelocityIntrvlTbl \ Lumatone]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi_controls_i_would_like.org][MIDI controls I would like]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/set_reaper_up_to_use_a_tablet.org][set Reaper up to use a tablet]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audio_plugins.org][audio plugins]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/jbb_possessions.org#my-music-gear][my music gear]]
+* software for [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/remote_jamming.org][remote jamming]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/glicol_programming_language_for_live_coding_music_graphs.org][Glicol (programming language for live coding music & graphs)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/latency_computer.org#latencytop-a-linux-latency-monitoring-tool][latencytop: a Linux latency monitoring tool]]
+* an EQ for PulseAudio
+  https://github.com/keur/prettyeq
+  https://news.ycombinator.com/item?id=24586239
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/jack_audio_connection_software.org][JACK (audio connection software)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/synthesizer_audio_software.org][synthesizer (audio software)]]
+* TODO Apply rhythm to pitch set. Capture pitch set. Capture rhythm. Transpose part of pitch set.
+* DONE obsoleted by Lumatone
+** Could you merge 4 launchpads?
+   Some of them are velocity-sensitive.
+   All of them have RGB leds.

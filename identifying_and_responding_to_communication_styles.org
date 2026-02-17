@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       5bb07e87-e012-4e58-ab5c-3cafc994898f
+:END:
+#+title: identifying and responding to communication styles
+* identifying and responding to communication styles
+** notes on a video about it
+   https://www.youtube.com/watch?v=ikbcrpowlIs
+*** classic psych dichotomies
+**** Do I recognize introversion v. extroversion in people?
+**** Do I recognize intellectual v. emotional in people?
+**** Do I recognize deliberative v. immediate people?
+*** the 4 partitions from the video
+**** peaceful ('green')
+     insecure, afraid of change
+**** fun ('yellow')
+**** logical ('blue')
+**** power ('red')
+     results-oriented, impatient, inflexible
+*** handling those 4 partitions
+**** red
+     be confident, focused, brief
+**** green
+     be calm, patient, supportive
+**** blue
+     be thorough and accurate
+*** Most people communicate as if others are like them.

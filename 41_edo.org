@@ -1,0 +1,140 @@
+:PROPERTIES:
+:ID:       d193c0f1-bafc-489a-be3a-b442d094eb49
+:END:
+#+title: 41-edo
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#todo-41-82--13-17-23-37-][41-edo is fat-finger friends with 82-edo]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo_notation.org][41-edo notation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/41_edo_chapman_stick_tunings.org][41-edo Chapman Stick tunings]]
+* 2d isomorphic layouts
+** u, also nice-looking
+   MTV> myPrint $ map concat $ printLayout (primesOctave1 23) (show . numerator) 41 (2,9)
+   MTV> myPrint $ map concat $ printLayout (primesOctave1 23) (show . numerator) 41 (6,-7)
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_41_edo_and_94_edo_bosanquet_layouts_are_similar_in_the_15_limit.org][The 41-edo and 94-edo Bosanquet layouts are similar in the 15-limit.]]
+** 4\41 x 3\41: octave 8-3, fret width 4
+   00 steps; 1  % 1; string 0; fret 0
+   07 steps; 9  % 8; string 1; fret 1
+   13 steps; 5  % 4; string 4; fret -1
+   19 steps; 11 % 8; string 4; fret 1
+   24 steps; 3  % 2; string 6; fret 0
+   29 steps; 13 % 8; string 5; fret 3
+   33 steps; 7  % 4; string 6; fret 3
+   37 steps; 15 % 8; string 7; fret 3
+   41 steps; 2  % 1; string 8; fret 3
+** 6\41 x 1\41: octave 7-1, fret width 4
+   00 steps; 1  % 1; string 0; fret 0
+   07 steps; 9  % 8; string 1; fret 1
+   13 steps; 5  % 4; string 2; fret 1
+   19 steps; 11 % 8; string 3; fret 1
+   24 steps; 3  % 2; string 4; fret 0
+   29 steps; 13 % 8; string 5; fret -1
+   33 steps; 7  % 4; string 6; fret -3
+   37 steps; 15 % 8; string 6; fret 1
+   41 steps; 2  % 1; string 7; fret -1
+** Kite: 41 13 2
+    0 steps;  1 %  1; string 0; fret  0
+   41 steps;  2 %  1; string 3; fret  1
+   24 steps;  3 %  2; string 2; fret -1
+   13 steps;  5 %  4; string 1; fret  0
+   33 steps;  7 %  4; string 3; fret -3
+    7 steps;  9 %  8; string 1; fret -3
+   19 steps; 11 %  8; string 1; fret  3
+   29 steps; 13 %  8; string 3; fret -5
+   37 steps; 15 %  8; string 3; fret -1
+    4 steps; 17 % 16; string 0; fret  2
+   10 steps; 19 % 16; string 0; fret  5
+   16 steps; 21 % 16; string 2; fret -5
+   21 steps; 23 % 16; string 1; fret  4
+   26 steps; 25 % 16; string 2; fret  0
+   31 steps; 27 % 16; string 3; fret -4
+   35 steps; 29 % 16; string 3; fret -2
+   39 steps; 31 % 16; string 3; fret  0
+** Narrow Kite: 41 11 2
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bosanquet_layout_for_41_edo.org][Bosanquet: 7\41 x 3\41]]. A bit more* compact, easy 5-limit
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/6_41_x_1_41_grid_layout.org][6\41 x 1\41]] wide, very short, Lumatone-good
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/7_41_x_1_41_grid_layout_for_41_edo.org][7\41 x 1\41]]: great 13-limit minus 3:2
+** 5\41 x 1\41: wider yet no shorter than 6\41 x 1\41
+   0  steps;  1 % 1; string 0; fret 0
+   7  steps;  9 % 8; string 1; fret 2
+   13 steps;  5 % 4; string 2; fret 3
+   19 steps; 11 % 8; string 3; fret 4
+   24 steps;  3 % 2; string 4; fret 4
+   29 steps; 13 % 8; string 5; fret 4
+   33 steps;  7 % 4; string 6; fret 3
+   37 steps; 15 % 8; string 7; fret 2
+   41 steps;  2 % 1; string 8; fret 1
+** 4\41 x 13\41: wide, *extremely* short, weird
+   *Strings* are 117c apart; frets are 380 cents apart.
+   (Swapping those would work too -- better for guitar,
+   worse for keyboard.)
+   0  steps;  1 % 1; string 0; fret 0
+   13 steps;  5 % 4; string 0; fret 1
+   29 steps; 13 % 8; string 4; fret 1
+   7  steps;  9 % 8; string 5; fret -1
+   33 steps;  7 % 4; string 5; fret 1
+   24 steps;  3 % 2; string 6; fret 0
+   37 steps; 15 % 8; string 6; fret 1
+   41 steps;  2 % 1; string 7; fret 1
+   19 steps; 11 % 8; string 8; fret -1
+** 7\41 x 6\41: All but 3:2 and 15:8 close
+   0  steps;  1 % 1; string 0; fret 0
+   41 steps;  2 % 1; string 5; fret 1
+   24 steps;  3 % 2; string 0; fret 4
+   13 steps;  5 % 4; string 1; fret 1
+   33 steps;  7 % 4; string 3; fret 2
+   7  steps;  9 % 8; string 1; fret 0
+   19 steps; 11 % 8; string 1; fret 2
+   29 steps; 13 % 8; string 5; fret -1
+   37 steps; 15 % 8; string 1; fret 5
+** 4\41 x 11\41: good 15-limit without 3 and 5
+   0  steps; 1 % 1;  string 0; fret 0
+   41 steps; 2 % 1;  string 3; fret 2
+   24 steps; 3 % 2;  string 0; fret 6
+   13 steps; 5 % 4;  string -1; fret 6
+   33 steps; 7 % 4;  string 3; fret 0
+   7  steps; 9 % 8;  string 1; fret -1
+   19 steps; 11 % 8; string 1; fret 2
+   29 steps; 13 % 8; string 3; fret -1
+   37 steps; 15 % 8; string 3; fret 1
+** 7\41 x 10\41: 2 and 3 positive and close, other harmonics negative and close
+    [ 0 steps; 1 % 1; string 0; fret 0
+    , 41 steps; 2 % 1; string 2; fret 3
+    , 24 steps; 3 % 2; string 1; fret 2
+    , 13 steps; 5 % 4; string 2; fret -1
+    , 33 steps; 7 % 4; string 4; fret -1
+    , 7 steps; 9 % 8; string 0; fret 1
+    , 19 steps; 11 % 8; string 4; fret -3
+    , 29 steps; 13 % 8; string 5; fret -3
+    , 37 steps; 15 % 8; string 3; fret 1
+** 12\41 x 5\41: great 13-lim minus 5,7. 7 not terrible.
+   0  steps; 1 % 1;  string 0; fret 0
+   41 steps; 2 % 1;  string 3; fret 1
+   24 steps; 3 % 2;  string 2; fret 0
+   13 steps; 5 % 4;  string -1; fret 5
+   33 steps; 7 % 4;  string 4; fret -3
+   7  steps; 9 % 8;  string 1; fret -1
+   19 steps; 11 % 8; string 2; fret -1
+   29 steps; 13 % 8; string 2; fret 1
+   37 steps; 15 % 8; string 1; fret 5
+** 11\41 x 3\41
+   Frets are 88c apart.
+   0  steps;  1 % 1 ; string 0 ; fret  0
+   7  steps;  9 % 8 ; string 2 ; fret -5
+   13 steps;  5 % 4 ; string 2 ; fret -3
+   19 steps; 11 % 8 ; string 2 ; fret -1
+   33 steps;  7 % 4 ; string 3 ; fret  0
+   24 steps;  3 % 2 ; string 3 ; fret -3
+   29 steps; 13 % 8 ; string 4 ; fret -5
+   41 steps;  2 % 1 ; string 4 ; fret -1
+** 7\41 x 5\41
+   Frets are 146c apart.
+   13 steps;  5 % 4 ; string -1 ; fret 4
+   0  steps;  1 % 1 ; string  0 ; fret 0
+   7  steps;  9 % 8 ; string  1 ; fret 0
+   37 steps; 15 % 8;  string  1 ; fret 6 # wat
+   19 steps; 11 % 8 ; string  2 ; fret 1
+   24 steps;  3 % 2 ; string  2 ; fret 2
+   29 steps; 13 % 8 ; string  2 ; fret 3
+   41 steps;  2 % 1 ; string  3 ; fret 4
+   33 steps;  7 % 4 ; string  4 ; fret 1
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identities_for_the_41_edo_intervals.org][identities for the 41-edo intervals]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/porcupine_scale_in_41_edo.org][Porcupine (scale) in 41-edo]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a0ec8a7c-dce1-4259-94f5-634e66424c72
+:END:
+#+title: acoustics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hoots_are_efficient_in_a_forest.org][Hoots are efficient in a forest.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/echoes_are_infinite_in_even_dimensioned_spaces.org][Echoes are infinite in even-dimensioned spaces.]]

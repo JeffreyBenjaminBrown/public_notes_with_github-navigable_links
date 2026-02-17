@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       afecc0bb-68d0-4bc5-a656-f277a9a830db
+:END:
+#+title: justice & irony
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_sacrifice.org][self-sacrifice]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/a_justice_for_the_destitute.org][a justice for the destitute]]

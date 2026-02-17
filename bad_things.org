@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8b318613-4eb0-4a35-abce-b235cb1e9dfa
+:END:
+#+title: bad things
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nationalism_xenophobia.org][nationalism & xenophobia]]

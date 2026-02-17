@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b9a516f3-b8fc-4428-9bca-f81c672d5c3a
+:END:
+#+title: matplotlib
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bug_non_unique_labels_cause_data_truncation_in_matplotlib.org][BUG: Non-unique labels cause data truncation in matplotlib.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/plot_multiple_series_on_the_same_graph_in_matplotlib.org][plot multiple series on the same graph in matplotlib]]

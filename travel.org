@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b40041e0-4dff-441a-ac07-531cf901e7d4
+:END:
+#+title: travel
+* I have $80 in travel vouchers with Spirit Airlines.
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/jbb_travels.org][my travels]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org#does-travel-help-you-know-yourself][Does travel help you know yourself?]]

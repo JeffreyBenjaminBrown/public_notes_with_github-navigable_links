@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       feb8cb2a-b057-48dd-836b-99985d9e7338
+:END:
+#+title: subtlety
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/maturity.org][maturity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/maturity_v_adventure.org][maturity v. adventure]]
+* art
+* deviousness
+* subtle ~ tricky
+** a subtle argument

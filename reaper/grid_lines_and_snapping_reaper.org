@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       81e5b0e2-3f7f-45db-bd00-f812e6bf5906
+:ROAM_ALIASES: "snapping and grid lines \ Reaper"
+:END:
+#+title: grid lines and snapping \ Reaper
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_adjust_grid_and_cursor_jump_widths_in_reaper.org][How to adjust grid and cursor jump widths?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/views_in_reaper.org#disable-show-dotted-grid-lines][to improve grid line visibility]]
+* grid and snap shortcuts, some
+:PROPERTIES:
+:ID:       936db8cf-4d63-4b5e-869b-516466082bcc
+:END:
+** toggle grid lines : M-g
+** toggle snap to grid: M-s
+** show snap options: M-l
+:PROPERTIES:
+:ID:       25624515-45b0-4f77-a8fc-18d30cde5abe
+:END:
+** change grid width
+*** I made shortcuts for x2, x3, /2 and /3
+    C-2, C-3, C-S-2 and C-S-3, respectively.
+* grid options
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/grid_lines_and_snapping_reaper.org#show-snap-options-m-l][to show their menu : M-l]]
+** whether various kinds of things snap to the grid
+*** separately configurable
+    time selections
+    loop selections
+    razor edits
+    more
+*** PITFALL: Snapping for ruler markers, regions not separately configurable.
+:PROPERTIES:
+:ID:       b7d01932-b36f-4436-9581-61a364e645a6
+:END:
+    "will follow cursor snap settings."
+    That is, they are not separately configurable.
+** whether Grid snap settings follow grid visibility
+** "Snap to grid at any distance" (or only when close* to it).
+   * where close is user-defined
+* snap behavior options, at least for MIDI notes
+:PROPERTIES:
+:ID:       7b545b8e-cbda-46dd-83e5-95171b540b57
+:END:
+** Something like this might also exist for audio clips.
+** some options
+*** Always snap notes to the left
+*** Snap notes to end of grid        <- the default
+*** Snap relative to grid
+*** Soft snap notes to other notes   <- interesting
+:PROPERTIES:
+:ID:       b544f0cd-2e3a-4e9c-b9da-f1482b7a3e85
+:END:
+* Snapping can be overridden sometimes.
+  At least when selecting a loop region,
+  holding Ctrl while using the mouse overrides snapping.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8b0040c0-243b-43d4-8cc8-e9b3ffb35180
+:END:
+#+title: comfort
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage_vs_comfort.org][courage vs. comfort]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence_is_comfortable.org][Confidence is comfortable.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][balance | peace | equilibrium]]

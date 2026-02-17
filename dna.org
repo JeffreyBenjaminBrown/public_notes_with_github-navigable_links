@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f792bd37-fba4-4d69-ad3e-8a95d7902e07
+:END:
+#+title: DNA
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dna_sequences_are_very_non_random.org][DNA sequences are very non-random]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_dna_some_edits_are_more_likely_than_others.org][In DNA, some edits are more likely than othersa.]]
+* The human DNA reference genome is changed (updated) around once a year.
+* GC content
+= the fraction of the genome containing Gs or Cs.
+It varies across species.
+Provides an easy way reject the hypothesis that two sequences are the same species.

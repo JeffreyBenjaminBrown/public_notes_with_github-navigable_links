@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       29903b27-2b73-4a1b-a8d8-257c219fe70e
+:END:
+#+title: Hode introductory blurb(s)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/problems_hode_might_help.org][problems Hode might help]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/capabilities_hode_could_enable.org][things Hode would enable]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_hode_is_feasible.org][why Hode is feasible]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_would_be_better_than_using_any_of_those_applications_individually.org][Why not just use those apps that already exist?]]
+* extremely short blurbs
+  These descriptions overlap.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_in_under_295_characters_for_the_mercatus_center.org][Hode in under 295 characters, for the Mercatus Center]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_in_under_700_characters.org][Hode in under 700 characters]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_would_resemble_a_mix_of_familiar_applications.org][Hode would resemble a mix of familiar applications.]]
+* potential objections
+** Would Hode reduce privacy?
+** Would AI companies snaffle user data from Hode?
+* Hode's data structure and query language are novel.
+  The query language, as far as I know, is entirely novel. The hyperdata structure has found some use in biotech and finance, but so far not in social media, and certainly not in a user-facing way.
+  The hypergraph would allow people to easily record not just statements, but statements about statements, in a structure that permits queries more advanced than what search engines enable currently. For instance, "Show me statements made about topic X by authors X and Y that coincide -- that is, X and Y have both said the same thing about it."

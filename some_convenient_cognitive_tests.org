@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       90a3dbca-a755-42ab-9110-933971b5c94e
+:END:
+#+title: some convenient cognitive tests
+* stand on one foot
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/raffly.org][Raffly]] (shape-matching card game)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/zig_zag_minimal_shape_rotation_game.org][Zig Zag: minimal shape rotation game]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typing_speed_test_online.org][typing speed test online]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6afd6293-fa40-4c92-a7b4-b361517a4772
+:END:
+#+title: monome for 72-edo on 12-edo keyboard scheme
+* A 13x13 grid.
+* 12 columns correspond to the 12 keyboard notes.
+  The five black keys flash.
+* The 13th column is a global offset.
+* Each column has a range of [-6,6] 72-edo step offsets.
+  i.e. a [-1,1] halfstep range of offset values,
+  quantized to 72-edo.

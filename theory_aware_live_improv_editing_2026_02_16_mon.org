@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9ec82696-118b-438e-9100-d3cfa3136c69
+:END:
+#+title: theory-aware live $ improv + editing <2026-02-16 Mon>
+* distortion, flutey, buzzy
+* pin kick to note / note to kick
+  generalize: pin snare to a lag of the keys
+* strum/retrigger
+* a vibrato-like quality
+* a trem | timbre-changing quality
+* define a single-scale region of a clip
+* extract scale from clip
+* load scale to grid
+* edit a parameter over time
+* define a duration over which to edit
+  can loop within it,
+  can be a subduration of a bigger story
+* record to button/clip-spot
+* join tracks onto the same button/clip-spot
+  separably, so they can be examined individually
+* voices as lenses onto the same pattern
+** slave a voice to a transformation of an underlying wave. that wave can be changed and all voices slaved (albeit differently -- e.g. different lags, speeds) to it change correspondingly in unison

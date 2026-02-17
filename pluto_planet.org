@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a355c73a-e0c1-49fb-9912-90b0ab3defc6
+:END:
+#+title: Pluto (planet)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pluto_s_orbit_is_chaotic_and_weird.org][Pluto's orbit is chaotic and weird.]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       cb9fc0dd-9f72-4f52-9a46-84123b4f971e
+:END:
+#+title: frequency
+* Keep these notes surprising.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/frequency_is_sometimes_offered_as_a_false_or_at_least_non_obvious_explanation.org][Frequency is sometimes offered as a false, or at least non-obvious, explanation.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotion_frequency.org][emotion & frequency]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/fantasies_about_complexity_hidden_in_frequency.org][fantasies about complexity hidden in frequency]]

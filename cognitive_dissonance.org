@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f9ca31a0-4e47-47bd-9065-77d4c8e9b3c1
+:END:
+#+title: cognitive dissonance
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_you_didn_t_have_to_feel_pressured_most_of_the_time_but_did_have_to_act_that_way.org][If you didn't have to feel pressured most of the time, but did have to act that way.]]

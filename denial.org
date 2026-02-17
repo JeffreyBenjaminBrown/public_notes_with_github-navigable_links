@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       227c3af6-14fc-42b2-a1ff-76313149a746
+:END:
+#+title: denial
+* ? a definition
+  Work on a doomed method toward some desired solution.
+  Note that this does not imply the solution itself is doomed.
+* some kinds
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guilt.org#denial-by-overcompensation]["denial by overcompensation"]]

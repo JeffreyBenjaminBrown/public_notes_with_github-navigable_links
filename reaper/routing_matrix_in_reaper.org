@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       91ee26ba-8401-4bbb-baeb-66e7af9959f7
+:ROAM_ALIASES: "routing \ Reaper" "Reaper / routing"
+:END:
+#+title: Routing Matrix \ Reaper
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org#alt-r-open-the-routing-matrix][M-r : open it]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_wiring_view.org#todo-how-is-the-track-wiring-view-different-from-the-routing-matrix][How is the Track Wiring View different from the Routing Matrix?]]
+* what it is
+  It's a binary matrix,
+  with tracks and inputs on one axis,
+  and tracks and (I assume) outputs on the other.
+* Its view can be simplified by toggling the option "Show non-standard stereo channel pairs"
+:PROPERTIES:
+:ID:       de55d5a8-b598-4031-8631-f89dcb94c855
+:END:
+  (2,3) is an example of a nonstandard pair.

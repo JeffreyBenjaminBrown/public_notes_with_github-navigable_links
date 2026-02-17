@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8aa2e426-1808-4bf2-9819-9e7ba11810fd
+:ROAM_ALIASES: Android
+:END:
+#+title: Android operating system
+* to prevent the battery from charging past 80%
+** The choice is called Battery Protection, and the value Max.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/do_not_distub_mode_on_phone_how_to_use.org][do-not-distub mode on phone, how to use]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/building_for_android_on_nixos.org][building apps for Android on NixOS]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/thumb_key_keyboard_for_android.org][thumb-key (keyboard for Android)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/android_phone_to_mount_filesystem_on_linux.org][Android, to mount filesystem on Linux]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/minor_life_optimizations.org#emacs-on-android][Emacs on Android]]

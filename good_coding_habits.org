@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bd48b7ca-4620-49a0-b5a5-915205f7e78e
+:END:
+#+title: good coding habits
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/check_the_branch_before_each_use_of_git.org][Check the branch before, at least, each use of git.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/when_giving_a_function_an_argument_be_sure.org][When giving a function an argument, make sure ...]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/test_internet_connections_from_different_platforms_internet_connections.org][Test web programs from different platforms, internet connections.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_names_sufficiently_long.org][Make names long enough]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_duplication_is_dangerous.org][Why duplication is dangerous.]]

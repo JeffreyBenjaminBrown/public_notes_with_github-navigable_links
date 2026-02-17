@@ -1,0 +1,133 @@
+:PROPERTIES:
+:ID:       e2b7487d-7cdd-4a8d-b9ce-26f941ae05ec
+:ROAM_ALIASES: information knowledge truth
+:END:
+#+title: information | knowledge | truth
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org#fear-an-ignorant-death][Fear an ignorant death.]]
+* MERGE ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][truth]] [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org][logic]] [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/computer_science.org][processing]]
+* ? against truth, or kind of
+:PROPERTIES:
+:ID:       813a1e7c-d313-4c6a-9848-5b1c3a79f153
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art.org][art]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magic.org][magic]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/dreaming.org][dreaming]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment.org][enlightenment]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/subterfuge.org][subterfuge]]
+* category rigidity
+** 'One cognitive problem of ageing has been well labelled "hardening of the categories"!'
+*** source
+    https://web.archive.org/web/20160305015224/http://www.learningandteaching.info/learning/assimacc.htm
+    which I found via
+    https://github.com/Dioprz/blog-dioprz?tab=readme-ov-file
+    who referred to it in his blog, here:
+    https://dioprz.github.io/blog-dioprz/posts/you_dont_need_another_course/
+* Intelligence can feel like a shield.
+:PROPERTIES:
+:ID:       8efa7fab-df08-4a2f-8fbf-e36f21fa8ee4
+:END:
+* Godel's incompleteness theorem (? motivates) a ladder.
+  There are always things the system cannot express,
+  so ?forever climb to more expressive systems.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_v_love.org][truth & love]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pleasure.org#the-pleasure-of-knowing][the pleasure of knowing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identity_conscious.org][identity , conscious]]
+* knowing v. peace
+:PROPERTIES:
+:ID:       fe384c77-670a-4399-904b-8085f75caf89
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/peace_with_death.org][peace with death]]
+* some kinds
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meaninglessness_pointlessness.org][meaning]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org][communication]]
+** evidence
+*** love & evidence
+:PROPERTIES:
+:ID:       eb8af6d8-0491-48b0-b9bd-1dfe99f69adc
+:END:
+    go together like a horse and carriage
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beliefs.org][beliefs]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beliefs.org#beliefs-that-matter][beliefs that matter]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org][empathy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotion.org][emotion]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pain_and_learning.org][Pain is only sometimes a learning experience.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imagination.org][imagination]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/fantasy.org][fantasy]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/everything_personal.org#preferences][preferences]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/secrets_public_notes_on.org][secrets]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#truth--the-flavor-of-truth][truth & the flavor of truth]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authenticity.org][authenticity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/animals.org#biodiversity][biodiversity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irony.org][irony]]
+* unknowing
+** MERGE : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/blindness.org][uncertainty]]  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org#-against-truth-or-kind-of][? against truth, or kind of]]
+** doubts | hopes ,, epic
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/free_will_seems_illusory.org][Free will (only) seems illusory.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org#patriarchy][patriarchy]]
+*** gender
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/philosophy.org][philosophy]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment.org][enlightenment]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org][death]]
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_hope_death_is_the_supreme_irony.org][I hope death is the supreme irony.]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org][justice]]
+*** politics
+*** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/my_doubts_personal.org][my doubts, personal]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bias.org][bias]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#the-limits-of-logic--information--expression--calculation][the limits of logic | information]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/paradox.org][contradiction | paradox]]
+** mystery
+:PROPERTIES:
+:ID:       e428428f-c7cf-406e-b4ef-fa3ff5b17d5a
+:END:
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trust.org#trust--mystery][trust & mystery]]
+*** in art
+**** time, the ocean
+**** gender
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/weird_things.org][weirdness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/errors.org][errors]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/blindness.org][blindness]]
+* density of information
+:PROPERTIES:
+:ID:       5d18cfd8-a35f-475d-aa33-83ad8b2b1ec7
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fission_psychic.org][separation | fission]]
+* ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]] (Maybe bring its contents here.)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/learning.org][understanding, thinking, learning]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_truth_if_properly_qualified.org][information = truth ,, if properly qualified]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/language.org][language]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness_fission_fusion_emptiness.org][wholeness fission fusion emptiness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art_highlights_extremes.org][Art highlights extremes.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epistemological_overload.org][epistemological overload]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transparency.org][transparency]]
+* technical
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_organizing_everyone_s.org][knowledge graphs]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_formal.org][logic, formal]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_programming.org][logic programming]]
+* art about it
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/abstract_genes_would_be_cool.org][Abstract genes would be cool.]]
+** In the abstract, computer science failures can be beautiful.
+:PROPERTIES:
+:ID:       1406b2b1-a640-4d59-be69-a06a401e3f95
+:END:
+*** example: Being unable to close the read-write loop.
+    of an editor
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/living_metaphor.org][living metaphor]]
+* Dubious content should perhaps come with a warning.
+  But also maybe not, to keep you on your toes.
+* associated feelings
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/blindness.org][certainty]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lost.org][lost]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprise.org][surprise]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irony.org][irony]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mortality_should_impact_one_s_priorities.org#sometimes-maybe-forget-that-it-led-to-ones-current-actions][mortality pressure as reason for leisure]]
+* common knowledge
+:PROPERTIES:
+:ID:       23fd4cce-55ec-4b7f-b781-596045f727ae
+:END:
+** Eye contact is (infinite recursive) common knowledge.
+   You know they see you, you know they know it, ...
+** I still care, and _ (usually?) knows it.
+:PROPERTIES:
+:ID:       d14881a6-61da-4513-9d3f-6d78a6882874
+:END:
+** When, recursing how many times, should one confirm receipt, etc.?

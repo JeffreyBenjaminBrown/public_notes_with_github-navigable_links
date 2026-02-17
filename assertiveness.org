@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       1767a293-ee6a-47b7-b9b8-e8b2f05dd87f
+:END:
+#+title: assertiveness
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence.org][confidence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/privacy.org][privacy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honor.org][honor]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][restraint]]
+** Assertiveness lies on a spectrum between [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/violence.org][aggression]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org#submissiveness][passivity]].
+** The good kind is moved by circumstance, not sought.
+:PROPERTIES:
+:ID:       a51d5b7e-4fc5-47bc-a9ca-2524ba9acace
+:END:
+   assertiveness being against other people, but
+   creativity with the environment is to be encouraged.
+* It is a method of critical thinking.
+* Outspokenness.
+* Identify claims lacking substance, details or evidence.
+* Often linked to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org][self-esteem]].
+* Awareness of personal rights.
+* Can be verbal and not.
+* let people know when [these]
+** They have already made a detailed case and are repeating themselves.
+* Can be defensive, but also underpins [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org][influence]].
+* Appeal to the shhared interests of all parties.
+* "free to express their feelings, thoughts, and desires"
+  wikipedia on assertiveness <2025-08-31 Sun>
+* "many people, when trying out assertive behavior for the first time, find that they go too far and become aggressive"
+:PROPERTIES:
+:ID:       54108e6f-bda4-40c3-b7f7-a961be388bbb
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attractiveness.org#sexiness-is-confident-about-who-including-nobody-to-share-what-with][Sexiness is confident about who (including nobody) to share what with.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/negativity.org#cutting-off-cynicism-by-declaring-it-boring-feels-sexy][Cutting off cynicism by declaring it boring feels sexy.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org#dont-waste-justified-ridicule][Don't waste justified ridicule.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindfulness.org#recognize-bias-in-yourself-and-others][Recognize bias, in yourself and others.]]

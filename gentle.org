@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       fdef41e8-3218-4964-be4b-12cb86c722a1
+:ROAM_ALIASES: gentle
+:END:
+#+title:  gentleness
+* ? definition
+  Seems to be [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org][kindness]]-motivated [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moderation.org][restraint]] of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org][power]].
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/be_gentle_without_saying_why.org][Be gentle without saying why.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_v_love.org][truth v. love]]
+* Judge gently.
+:PROPERTIES:
+:ID:       921b89d8-b9b2-48ac-905a-8f146312262c
+:END:
+** elaboration
+   Both words in "Judge gently" are imperative:
+   One should judge, and one should be gentle in it.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything_i_do_is_intentional_but_every_effect_i_have_cannot.org][Everything one does is intentional, but every effect they have cannot be.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org#our-only-judges-are-each-other][Our only judges are each other.]]
+* ? Defer rather than cancel.
+:PROPERTIES:
+:ID:       a1a25f58-4508-4048-ac0c-e498d88da347
+:END:
+** Rebuttal: People hate that. I certainly do.
+   Sometimes, maybe, this is welfare-maximizing,
+   but at least sometimes the other would prefer to know the truth.

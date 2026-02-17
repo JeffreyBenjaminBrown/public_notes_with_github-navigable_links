@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       620318ba-7a6d-4117-8a6d-341fa999583f
+:END:
+#+title: management
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_better_an_organization_is_the_more_measuring_their_performance_decreases_it.org][The better an organization is, the more measuring their performance decreases it.]]

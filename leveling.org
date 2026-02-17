@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e1e6dbe9-dbcf-47ae-9ee3-da3d97461e6a
+:END:
+#+title: leveling
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/plumb_bob_for_air_travel.org][plumb bob for air travel]]

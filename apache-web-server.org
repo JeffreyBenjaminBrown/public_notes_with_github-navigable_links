@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       ee829b50-e94f-4feb-b19d-603752c7b043
+:END:
+#+title: Apache (web server)
+* Apache is a web server
+* some commands
+** to start Apache
+*** run `service apache2 start`
+ or, in a tax.co Docker container, from /etc/apache2, run
+   ./start-apache.sh
+**** Otherwise I get the error that `DefaultRuntimeDir` is not set.
+  In the default apache2.conf file, there's this line:
+    DefaultRuntimeDir ${APACHE_RUN_DIR}
+  but APACHE_RUN_DIR is not set,
+  and it's nowhere in code for the official Apache docker `httpd` image.
+** to show version: `apache2 -v`
+* some paths
+** logs are at /var/log/apache2
+* Apache config
+** PITFALL: Comments in Apache config files
+ cannot trail code on the same line,
+ although they can trail whitespace.
+ (This is at least true for `ports.conf`.)
+** PITFALL: Apache configuration for Debian is nonstandard
+*** where it's documented
+**** offline (in the Docker container), see this
+  /usr/share/doc/apache2/README.Debian
+**** online, search for "Debian" here:
+ https://cwiki.apache.org/confluence/display/httpd/DistrosDefaultLayout
+*** rather than `httpd.conf,` it uses `apache2.conf` *and* `ports.conf`
+** are mostly located at /etc/apache2
+at least in my docker container
+** what I customized
+Everything below "jbb" in apache2.conf
+** TODO ? PITFALL: might need more customization
+:PROPERTIES:
+:ID:       dcc41642-ba24-45b8-bf55-daf08d7f701e
+:END:
+*** add Apache language prefs in Docker container
+**** Some of the docs recommend including this
+in /etc/apache2/envvars:
+
+     # jbb-added, to ensure Unicode compatibility, per docs here:
+     #   https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/modwsgi/
+     export LANG='en_US.UTF-8'
+     export LC_ALL='en_US.UTF-8'
+**** But I already have something similar
+in the Docker container. It specifies "UTF-8" for both options;
+it just leaves out the "US" part.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apache_and_mod_wsgi_using_them_with_django.org][Apache and Mod_Wsgi: Using Them with Django]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ways_to_reconcile_different_versions_of_python.org][ways to reconcile different versions of Python]]

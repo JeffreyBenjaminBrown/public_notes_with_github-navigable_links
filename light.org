@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7277993c-6202-4c73-b69a-56e18eb55a4e
+:ROAM_ALIASES: illumination light
+:END:
+#+title: light | illumination
+* measuring light
+** A "nit" is roughly equal to one candle's light.
+* Illumination is a relation on knowledge.
+:PROPERTIES:
+:ID:       e81824c5-81bc-4a91-8221-0042c24cf2e1
+:END:
+  {Topic, statement} illuminates {topic, statement}.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/marijuana_peace.org#does-marijuana-illuminate-clarify-the-nature-of-peace][Does marijuana illuminate peace?]]
+* fantasy
+** Some colors come from the dark, others the light.
+   definitely blue from the dark
+* darkness ~ not sure what's there
+:PROPERTIES:
+:ID:       a48816b1-d8e0-4a0c-9d58-dbe253a478c3
+:END:

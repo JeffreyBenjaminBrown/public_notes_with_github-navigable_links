@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a125bfa5-d956-442a-a81f-5a87ea8cfd2d
+:END:
+#+title: Inexact Matching Algorithms (bioinformatics)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/distance_measures_on_the_space_of_sequences.org][Distance Measures On The Space Of Sequences]]
+* Hamming-measured inexact matching
+= look for matches within a given Hamming radius.
+** Modifying the naive matching algorithm for Hamming inexactitude is easy.
+Rather than break upon seeing the first mismatch,
+count mismatches, break only when they exceed a threshold.
+** Divide the pattern into k+1 partitions to match within a radius of k.
+If P occurs in T with d or fewer edits,
+then at least one of the partitions of P occurs with no edits.
+If any of them matches, then the "verification" is just to check the other partitions adjacent. If they match with k or fewer edits, it's a match.

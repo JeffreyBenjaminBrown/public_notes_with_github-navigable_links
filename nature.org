@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5a5ae8a2-fd35-457f-bb36-4cad26c0454d
+:END:
+#+title: nature
+* = an ill-defined and popular ideal
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time.org][spacetime]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/life.org][life]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nature_and_balance.org][Nature exhibits balance.]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       13aba0e9-33c1-4f2b-906c-4ab3ab683522
+:END:
+#+title: emotional ambition
+* It seems right to have them.
+  To want, for instance, deeper relationships,
+  or to be moved to tears by art.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/happiness_must_be_a_priority.org][Happiness must be a priority.]]
+* instances
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/be_comfortable_with_rejection.org][Be comfortable with rejection.]]
+** be [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org][funnier]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attractiveness.org][sexier]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/love.org][love]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awe.org#extra-id][wonder]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/peace_with_death.org][peace with death]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/second_order_awareness_is_enough.org][Second-order awareness.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/highly_disperse_positive_emotional_gambles.org][highly disperse positive emotional gambles]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotions_can_be_decomposed_into_sensations.org][Emotions can be decomposed into sensations.]]

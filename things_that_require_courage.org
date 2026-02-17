@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6a18d9b1-930f-4f5d-88e4-ba90c019c5dd
+:END:
+#+title: things that require courage
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/merely_shifting_attention_can_require_courage.org][merely shifting attention]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_courage_to_be_still.org][being still]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_can_take_bravery.org][meditation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/giving_up_can_require_courage.org][giving up]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/creating_can_take_courage.org][creating]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_things_take_courage_to_share.org][sharing]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/be_comfortable_with_rejection.org][Be comfortable with rejection.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_courage_to_not_know_what_to_do.org][to venture where ignorant]]

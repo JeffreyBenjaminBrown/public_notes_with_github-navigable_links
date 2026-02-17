@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7dd9c689-51f9-45da-bbd1-d3068615917a
+:END:
+#+title: 34-edo
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/34_edo_harmonic_theory.org][34-edo harmonic theory]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/34_edo_isomorphic_layouts.org][34-edo isomorphic layouts]]

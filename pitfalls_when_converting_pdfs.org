@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5f4cef1e-85a7-44a9-8ffc-e8cbb962090b
+:END:
+#+title: PITFALLS when converting (to or from) PDFs
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pdftk_does_not_like_filenames_that_start_with_numbers.org][pdftk does not like filenames that start with numbers.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/downsample_jpegs_before_converting_to_pdf.org][Downsample jpegs *before* converting to pdf.]]

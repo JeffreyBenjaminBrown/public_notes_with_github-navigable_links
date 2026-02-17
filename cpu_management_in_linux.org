@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b465e1ae-f9ca-4cc7-b66f-b7b91010d937
+:END:
+#+title: CPU management in Linux
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nice_linux_command.org][nice (Linux command)]]
+* lspcu : get info about the CPU
+  chip model, ghz, etc.
+* CPU throttling
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disable_cpu_throttling_for_each_core.org][disable CPU throttling for each core]]
+** check CPU throttling state for each core
+   (It can be done. I forget how.)

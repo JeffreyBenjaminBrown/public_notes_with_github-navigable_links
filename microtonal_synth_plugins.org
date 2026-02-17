@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       eba57381-b12c-4221-acf0-d0cbad55e224
+:END:
+#+title: microtonal synth plugins
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pianoteq_soft_synth.org][Pianoteq]]
+* my question on Facebook -> Microtonal Theory
+  https://www.facebook.com/groups/lumatone.keyboard/posts/5284192461689943/
+** clear winner: Surge or Surge XT
+** Aria
+** Plogue Sforzando
+** Hive
+** Zebra
+** Chromaphone
+** String Studio
+* Arturia makes some microtonal synths.
+  They use MTS-ESP.
+  Christian recommends.

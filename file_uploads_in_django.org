@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       ae710ad7-8b82-459d-a8e8-d8b67ccc4cce
+:END:
+#+title: File Uploads in Django
+Search for the word "upload" in polls/views.py and polls/forms.
+* I got it working!
+  See run_make.views.upload in my repo
+    https://github.com/JeffreyBenjaminBrown/learning-aws
+* TODO first understand forms in Django
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/static_files_in_django_esp_for_stylesheets_and_images.org#upload-permissions][how the staticfiles app handles uploads and permissions]].
+* ref
+** main Django docs on file uploads
+go here
+ https://docs.djangoproject.com/en/3.1/
+and search for "upload"
+** TODO if not covered by the above
+*** Binding uploaded files (in "The Forms API")
+ https://docs.djangoproject.com/en/3.1/ref/forms/api/#binding-uploaded-files
+*** the UploadedFile object
+https://docs.djangoproject.com/en/3.1/ref/files/uploads/#django.core.files.uploadedfile.UploadedFile
+* overview
+** ref
+File Uploads | Django documentation | Django
+https://docs.djangoproject.com/en/3.1/topics/http/file-uploads/
+** create, use a class to represent the upload form
+e.g. see `class UploadFileForm` in my file `polls/forms.py`
+** modify views.py
+see the `upload_file_*` functions in my `polls/views.py` file

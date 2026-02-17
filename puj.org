@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       71bc3043-e020-47c3-8ea7-8a6183c3ea60
+:ROAM_ALIASES: PUJ Javeriana
+:END:
+#+title: Pontificia Universidad Javeriana
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/puj_jbb.org][PUJ & jbb]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/fcea_at_puj.org][FCEA at PUJ]]
+* address
+  Pontificia Universidad Javeriana
+  Carrera 7 #40-62, Chapinero
+  Bogotá D.C., Colombia 110231
+** econ dept address
+* Tel
+  (57 1) 3208320
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/people_at_puj.org][people at PUJ]]

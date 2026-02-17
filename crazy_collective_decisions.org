@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f427e94a-5c2b-460c-8ca8-b5b6e1eb890e
+:END:
+#+title: crazy collective decisions|outcomes
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nations_forget_technologies.org][Nations forget technologies.]]

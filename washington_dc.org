@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       0cf4d60d-35fd-42e9-90f8-1b99f7787504
+:END:
+#+title: Washington, DC
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/people_i_know_in_washington_dc.org][people I know in Washington, DC]]
+* airports serving Washington, DC
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dulles_international_airport.org][Dulles International Airport]] : IAD, past Reston
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reagan_international_airport.org][Reagan International Airport]] : DCA, between Arlington and Alexandria
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/baltimore_washington_international_thurgood_marshall_airport.org][Baltimore/Washington International Thurgood Marshall Airport]] : BWI
+* DC airport & metro logistics
+:PROPERTIES:
+:ID:       2f154e68-7884-4dfe-bad1-ed8f1e24750d
+:END:
+  Greenbelt (end of _?) and Glenmont (end of red line) are both 20 min from Cliff. DCA and IAD both have metro lines. BWI is 20 min away. Intl through BWI is better, because it has shorter lines.

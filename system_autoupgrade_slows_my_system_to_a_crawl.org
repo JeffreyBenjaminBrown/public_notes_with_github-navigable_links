@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       13b039ff-e492-44ba-8284-a6ed016d9357
+:END:
+#+title: system.autoUpgrade slows my system to a crawl
+* ref
+:PROPERTIES:
+:ID:       fbd8f9f9-a3bd-41af-a19c-4dcf8ae0e50e
+:END:
+   https://discourse.nixos.org/t/system-autoupgrade-nearly-halts-my-system-even-though-nixos-rebuild-doesnt/23820
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_unstable_means_lots_of_rebuilding.org][nixos-unstable means lots of rebuilding]]
+* next time it happens
+** there might be updated advice [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org#ref][here]]
+** TODO when I get more advice
+   update this file corresponding to these notes
+   [[~/next-time-system-autoUpgrade-slows-my-system.org]]
+** my plan for now
+*** in top or htop, look for user `nixbld`
+    NixOS building something
+*** use `iotop` to see how much IO the process is doing
+*** use `free -m` to see total memory usage, inc. swap
+* temporary solution
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/set_nice_level_for_automatic_nixos_rebuild.org][set nice level for automatic NixOS rebuild]]
+* TODO potential permanent solutions
+  https://discourse.nixos.org/t/system-autoupgrade-nearly-halts-my-system-even-though-nixos-rebuild-doesnt/23820/4?u=jeffreybenjaminbrown
+  nix.daemonCPUSchedPolicy
+  nix.daemonIOSchedClass
+  nix.daemonIOSchedPriority

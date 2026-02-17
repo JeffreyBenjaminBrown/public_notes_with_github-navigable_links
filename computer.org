@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       7c78a3fd-74aa-4358-8977-4ea06aebe168
+:END:
+#+title: computer
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org#in-the-abstract-computer-science-failures-can-be-beautiful][Failures in computer science can be beautiful.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/computer_interface.org][computer interface]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/computer_science.org][computer science]]
+* computer hardware
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/disk_drives_and_partitions.org][disk drives, formats and partitions]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/screen_monitor_display.org][monitor, computer]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linux_operating_system.org][Linux (operating system)]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/computer_to_buy.org][laptop, to buy]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/hp_840_g3_laptop_my_2017.org][HP 840 G3 laptop, my 2017]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cpu_management_in_linux.org][CPU management in Linux]]

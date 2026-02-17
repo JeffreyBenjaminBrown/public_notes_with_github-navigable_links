@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       efd9d055-de2d-4604-9d0c-ec24361e3297
+:END:
+#+title: negativity
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/2025_05_08_thu_i_am_exploring_the_dark_side.org#initial-impressions--justification][why to study it]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sign_marbling.org][sign marbling]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sign_marbling.org#emotional-valence-is-not-always-obvious][Emotional valence is not always obvious.]]
+* instances \ negativity
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anger.org][anger]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org][death]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desperation_and_despair.org][depression]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fatalism.org][fatalism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][fear]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guilt.org][guilt]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/remorse.org][remorse and regret]]
+* responses
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/apology.org][apology]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/repression_psychology.org][repression]], a response to many of them
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/projection.org][projection (error)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_harm.org][self-harm]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/denial.org][denial]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rationalization.org][rationalization]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pain.org#boredom][boredom]]
+* futility | pessimism
+:PROPERTIES:
+:ID:       9dfe3d8a-f236-4390-9c37-2cedbe6e96c9
+:ROAM_ALIASES: pessimism futility
+:END:
+* nihilism | cynicism
+:PROPERTIES:
+:ID:       27f9e7f9-f2d4-48f2-80f9-d3443080681f
+:ROAM_ALIASES: cynicism nihilism
+:END:
+** materialism
+:PROPERTIES:
+:ID:       f9097e8f-68bd-47c8-b9d6-5deec9bfdfb3
+:END:
+** => [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fatalism.org][fatalism]]
+** objects
+   = things people are nihilistic about
+*** morality
+*** knowledge
+*** meaning | fulfillment
+*** politics
+** It opposes [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_s.org][hope]].
+** It lacks [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imagination.org][imagination]].
+:PROPERTIES:
+:ID:       cb86d100-c67e-4755-af7c-0bca03bc4c75
+:END:
+*** Cutting off cynicism by declaring it boring feels sexy.
+:PROPERTIES:
+:ID:       f179edc5-ca32-4348-8961-26d6c4f55ac3
+:END:
+** It fuels [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride.org][ego]]tism.
+* double negative
+:PROPERTIES:
+:ID:       7122ba5b-76b3-44a0-bf03-700779bb32e4
+:END:
+** Neither the rich nor the poor can know how the other feels.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/and_yet_we_are_one.org][And yet we are one.]]
+** Microdefenses seem helpful, yet microaggressions I don't see.
+   Surely a function of who I'm with,
+   more than that I don't bring them out in people
+   (or cause them to suppress them).

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b9129e83-6421-4f1f-aa3d-577f3e7524ad
+:ROAM_ALIASES: "song ideas"
+:END:
+#+title: poetic ramblings | song ideas
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aphorisms.org][aphorisms]]
+* TODO Essay first, them song
+* ideas
+** Who knows what dangers might lurk in the ignored paperwork
+** Too distracted by what I'm trying to do
+** This problem is an opportunity
+** That's not fair, I can handle it
+** Why it's a good time to [go, look around] outside: It's daytime. I can see. Etc.
+*** The sun is warm and I have time.
+** smokiest before passing
+*** It's always darkest just before dawn <=> You breathe the worst air right before passing the truck at the front of the queue.

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ee3db6a1-1143-439c-8912-10fb2a4d3b8d
+:ROAM_ALIASES: numbness sedation
+:END:
+#+title: numbness | sedation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death_is_not_so_sharp.org][Death is not so sharp.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/subsistence.org][subsistence]]
+* sedation
+  This is about a high-level psychological numbness,
+  not medical sedation.
+** alcohol, etc.
+** Can be bad.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/as_a_stress_management_technique_belief_in_heaven_is_sad_even_terrifying.org][As a stress management technique, belief in an imaginary heaven is sad, even terrifying.]]
+** Can it be good?
+   Seems like it can.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org#escapism][escapism]]
+* Numbness isolates.
+  Refuse to feel and you are cut off.
+** instance: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/refuse_to_feel_something_and_you_are_cut_off_from_the_people_who_do.org][cut off from the people who feel it]]

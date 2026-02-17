@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       7b52eb18-91c5-4f83-be4f-40ff8a918541
+:ROAM_ALIASES: motivation ambition voluntarity intention purpose
+:END:
+#+title: motivation | ambition | voluntarity | intention | purpose
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/choice.org][choice]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_s.org][hope]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/choice.org][volition]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/temptation.org][temptation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/action.org][action]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pleasure.org#pleasure--motivation][pleasure & motivation]]
+* Is silence motivating?
+:PROPERTIES:
+:ID:       5020e623-f323-42b9-86ec-a26fd463e3c2
+:END:
+  Turning off {music, podcasts, recorded content from others} really makes me want to work. Perhaps by causing me to confront how unsatisfying my position is.
+* Maybe: Keep your choices brief, focus on ideals.
+:PROPERTIES:
+:ID:       61186df6-09b2-4371-ad14-57ec1cab622e
+:END:
+  If this is right, it should be more enjoyable.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meaninglessness_pointlessness.org][meaning]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intent_as_posterior_construction.org][intent as posterior construction]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/detachment.org][detachment]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attractiveness.org#calm-under-stress][calm under stress]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#peaceful-motivation][peaceful motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/influence_social.org#leadership][leadership]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/subterfuge.org#can-a-verbal-lens-help][Can a verbal lens help?]]
+* judgments and taste for interior* solutions
+  (*) not corner
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/you_can_have_this_as_much_as_you_take_it.org]["You can have this as much as you take it."]]
+* Every word should have a purpose.
+:PROPERTIES:
+:ID:       826d25ae-b544-4ad7-80fb-74f366bd3973
+:END:
+** And the purpose should involve the listener.
+** Although there is no duty to the notes themselves, but kind of.
+   One bears no duty apart from that due the reader,
+   but taking all likely readers into account might feel like that.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_humility_at_odds_with_ambition.org][humility v? ambition]]
+** Humility *is* an ambition.
+* Humility is socially efficient.
+:PROPERTIES:
+:ID:       f40c0af7-94de-46ea-be79-5e6e512a5092
+:END:
+** Humility facilitates making small contributions to important projects, rather than important-looking contributions to lesser projects.
+* motivation ! identity
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identity_conscious.org][identity , conscious]]
+* anti-neighbors
+** the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org][absurd]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation_pride.org][motivation & pride]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything.org#values-and-ideals][values, ideals]]
+* TODO ? [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/how_fixed_are_my_motivations.org][my motivations]] (personal)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_ambition.org][hope & ambition]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_s.org#instances--hope][instances]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/seriousness.org][commitment]] is hard
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recognize_fear_in_your_aversions.org][Recognize fear in your aversions.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/save_the_world.org][Save the world.]]
+* how to construct it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/partial_completion_is_of_almost_no_value_in_many_projects.org][Partial completion is of almost no value in many projects.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/everything_i_do_is_intentional_but_every_effect_i_have_cannot.org][Everything I do is intentional, but every effect I have cannot.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reluctance_to_start_an_enjoyable_thing.org][reluctance to start an enjoyable thing]]
+* [[:id:0201e93c-bf0e-475c-9d03-be09f4c408b4][cognitive states|skills I want -- broken link?]]
+* ? internalize [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mortality_should_impact_one_s_priorities.org][mortality pressure]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/desire.org][desire]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_improvement.org][self-improvement]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moral_and_morally_motivated_are_distinct_qualities.org][Moral and morally motivated are distinct qualities.]]
+* methods
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sacrifice.org][sacrifice]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][discipline]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation_time.org][motivation + time]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivations_for_planning_social_stuff.org][motivations for planning social stuff]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fulfillment_is_the_other_side_of_hunger.org][Fulfillment is "merely" the other side of hunger.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hope_v_fun_competing_hypotheses_for_motivation.org][hope v. fun :: competing hypotheses for motivation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/specialization_graph_search.org][specialization & graph search]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/habit.org][habit]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation_calm_purpose.org][meditation => calm purpose]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/patience_is_a_form_of_courage.org][Patience is a form of courage.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/embarrassing_ambitions.org][embarrassing ambitions]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/2024_11_07_thu_mood_and_energy.org][Goal can affect energy profoundly.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/one_can_be_proud_without_being_self_satisfied.org][One can be proud without being self-satisfied.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org][fear of God]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/realism.org][realism]]
+* dubious
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/life_hack_mission_jobhunt.org][life hack ? mission => jobhunt]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/choosing_pursuing_experience_if_it_could_make_one_s_entire_life_worth_it.org][Pursuing _ as if it could make one's entire life worth it.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/artificial_intelligence.org#questions-from-an-llm-as-will-to-live][questions from an LLM as will to live]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/assertiveness.org#the-good-kind-is-moved-by-circumstance-not-sought][Good assertiveness is moved by circumstance, not sought.]]
+* challenge
+:PROPERTIES:
+:ID:       3f4d6eb9-0de1-46a1-ba51-9673a2790821
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confidence.org#rejection-is-succcess][Rejection is succcess.]]
+* Treat changes, not just end states, as goals

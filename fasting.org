@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       53153c43-2604-4a0c-b227-e2290bb89ab9
+:END:
+#+title: fasting
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/benefits_of_prolonged_48_72_hr_fasting_video_by_dr_eric_berg.org][benefits of prolonged (48-72 hr) fasting : video by Dr. Eric Berg]]
+* tricks
+** use green tea when fasting
+   Contains polyphenols, which may promote autophagy.
+** electrolytes
+   Salt is easiest, others are better.
+   Make sure it has no calories.
+** viamins
+   Try to find them without calories or minerals.
+** use amino acids if working out
+   They are as calorie-dense (i.e. by weight) as glucose,
+   but dosages are small.

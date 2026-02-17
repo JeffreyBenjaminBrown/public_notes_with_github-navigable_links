@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       4f5504c2-9b5a-48f4-898d-defa6efb705d
+:END:
+#+title: accidental change of focused window in Reaper
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/can_the_focused_window_always_be_on_top_reaper.org][Can the focused window always be on top? \ Reaper]]
+* the problem
+  Sometimes focus switches to the arrange (main) view,
+  but the MIDI editor stays in front of it.
+* how to detect where the focus is
+  alternatives
+** cursor movement
+   If in the MIDI editor,
+   pressing left or right moves the cursor by a few pixels,
+   rather than a grid unit,
+   it's probably [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/that_left_right_behave_differently_in_arrange_view_and_edit_view_is_arguably_a_feature_not_a_bug_reaper.org][because focus is on the arrange view]].
+** shade of title bar
+   It's brighter when it's *not* in focus.
+* how to switch focus
+** good way
+   alternatives
+*** Alt-Tab
+*** clicking the title bar
+** bad way
+   Clicking inside the window works too,
+   but has the side effect of moving the cursor in time.

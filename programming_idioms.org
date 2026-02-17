@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e5c4db3d-2328-4f79-a2ee-f1f9d2fdfd90
+:END:
+#+title: programming idioms
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/functional_reactive_programming.org][functional reactive programming]]
+* declarative > imperative
+:PROPERTIES:
+:ID:       bef20c9d-ecd5-4ea5-ae9b-acf8a7fc0285
+:END:

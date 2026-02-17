@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       151d4d55-acd6-4f8c-90f6-f7a219e0b04a
+:END:
+#+title: futurology
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_society.org][AI and society]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/later_humanity_will_be_more_absorbed_into_our_robots_as_we_are_today_in_cell_phones.org][Later, humanity will be more absorbed into our robots as we are today in cell phones.]]

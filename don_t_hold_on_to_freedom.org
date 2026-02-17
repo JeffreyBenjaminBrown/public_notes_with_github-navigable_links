@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       40170cc5-53d7-4172-8e71-f3393a349d38
+:END:
+#+title: Don't hold on to freedom?
+* Because it doesn't work?
+** Mystical traditions seem to often say so.
+*** vows of poverty
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humanity_as_fallen.org][fallenness]] (Christianity)
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org][emptiness]] (Buddhism)

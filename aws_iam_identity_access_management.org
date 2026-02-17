@@ -1,0 +1,108 @@
+:PROPERTIES:
+:ID:       390298ec-b752-4e01-8962-1da401c2d3b7
+:END:
+#+title: AWS IAM (Identity Access Management)
+* Policies, Roles, and Users
+** A Policy defines a set of abilities.
+** A Role is a collection of Policies.
+** A User
+*** can be assigned Roles and Policies.
+*** can be a human or a program.
+*** Humans get user names and passwords.
+    I assign them initially.
+    They can change the password if they want.
+** TODO ? security
+   AWS so far does not seem to care if people in different places
+   log in to the same User. But maybe it would if we did it simultaneously.
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/aws_credentials.org][stuff I've made]]
+* solutions
+** Create an IAM user and use it from the CLI.
+   Go to AWS IAM and follow the prompts.
+   Download credentials at the end.
+   Run "aws configure" from the CL and manually input those credentials. If they ask for stuff not in the credentials, refer to to preexisting credentials in my ~/.aws folder -- e.g. default region (us-east-1).
+** Create an IAM user and give them access to an S3 bucket.
+   serial
+*** Create the bucket in S3.
+*** Create a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_iam_identity_access_management.org#create-an-iam-policy-for-total-access-to-an-s3-bucket][policy for total access to the bucket]].
+    Either in S3 or in IAM.
+*** Create the user in IAM, and attach the policy to them.
+** Create an IAM policy for total access to an S3 bucket.
+:PROPERTIES:
+:ID:       a37f2ee7-8267-491b-9100-0848e03616ec
+:END:
+   This is JSON. It gives total access to a bucket called
+     whatdoineedtodotofindauniquename
+   {
+     "Version": "2012-10-17",
+     "Statement": [
+       {
+         "Effect": "Allow",
+         "Action": [
+           "s3:GetBucketLocation",
+           "s3:ListAllMyBuckets"
+         ],
+         "Resource": "*"
+       },
+       {
+         "Effect": "Allow",
+         "Action": ["s3:ListBucket"],
+         "Resource": ["arn:aws:s3:::whatdoineedtodotofindauniquename"]
+       },
+       {
+         "Effect": "Allow",
+         "Action": [
+           "s3:PutObject",
+           "s3:GetObject",
+           "s3:DeleteObject"
+         ],
+         "Resource": ["arn:aws:s3:::whatdoineedtodotofindauniquename/*"]
+       }
+     ]
+   }
+** TODO | PITFALL :: I'm not sure how to reconcile these two procedures.
+** access S3 from my own computer
+*** I nuked two files in ~/.aws
+    My config and credentials files.
+*** I ran "aws configure" from the CL.
+    That prompts me for four things.
+**** PITFALL: The secret access key is only visible on creation.
+     If I immediately ingest it into my .aws config (e.g. via `aws configure`)
+     then it'll be stored (in plain text!) in my ~/.aws folder.
+**** region = us-east-1
+**** output = json
+**** access key id = something I got from the "Users" tab of the "IAM" WUI
+**** access key ("secret") = something I got from the same placex
+*** After that it worked.
+    I could run, e.g.,
+      aws s3 ls s3://invisible-to-most/latest
+** use an IAM user or role from an EC2 program
+*** TODO It would be easy to determine whether [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aws_iam_identity_access_management.org#and-maybe-the-following-or-maybe-they-have-no-effect][these]] matter
+    By running this experiment:
+    Hide my ~/.aws folder and try running aws cli commands.
+    (It just might require restarting the Phanaeros services after replacing the .aws folder.)
+*** "Attach" the role to the instance from the EC2 WUI.
+:PROPERTIES:
+:ID:       70b8c308-b1fd-4227-a1be-1a041afcb379
+:END:
+**** I attached the role "total-access-to-wtfunique".
+     This gives total (read, write) access to an S3 bucket.
+**** ref
+     See " Attach an IAM role to an instance" here:
+     https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html
+*** and maybe the following, or maybe they have no effect.
+:PROPERTIES:
+:ID:       a71765b8-3daa-4866-abe4-77eb185b9e3b
+:END:
+**** Maybe make (or copy to ) config files at ~/.aws/config
+***** its contents, with some variables that need substitution
+      [profile <profile name>]
+      user_arn = arn:aws:iam::<number>:user/<user name>
+      region = us-east-1 # This line might not be needed.
+      output = json      # This line might not be needed.
+***** where to get those variables
+      <profile name> is something I can invent. It's only meaningful on the machine where I've put the config file; AWS won't see it.
+      <user name> is some programmatic (as opposed to human) User I've created in AWS IAM with the permissions I need.
+      To find <number>, find that User in the AWS Console,
+      and then find its "User ARN".
+      That's actually the whole URI I need; I can copy and paste that whole thing, not just the number in it.
+**** Maybe CLI commands with `--profile <profile name>`.

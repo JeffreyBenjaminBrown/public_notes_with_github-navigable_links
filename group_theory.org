@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7eb45902-4601-4397-a976-335b448bbdca
+:END:
+#+title: group theory
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/burnside_s_lemma.org][Burnside's lemma: Count distinct colorings modulo symmetries]]

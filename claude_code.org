@@ -1,0 +1,127 @@
+:PROPERTIES:
+:ID:       f6695616-b2cc-438f-bab7-bcfe45ecd888
+:END:
+#+title: Claude Code
+* ONGOING stop git ops even with --dangerously-skip-permissions
+** Make these two files immutable.
+   # chattr -i will undo this
+   chattr +i .claude/settings.json
+   chattr +i .claude/hooks/git-guard.sh
+** .claude/settings.json
+   # See the line with "git-guard.sh"
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/sound/play-beep.sh"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/ubuntu/.claude/hooks/git-guard.sh"
+          }
+        ]
+      }
+    ]
+  },
+  "alwaysThinkingEnabled": true,
+  "enabledPlugins": {
+    "rust-analyzer-lsp@claude-plugins-official": true
+  }
+}
+** .claude/hooks/git-guard.sh
+#!/bin/bash
+
+input=$(cat)
+# Extract command from JSON without jq - look for "command": "..."
+command=$(echo "$input" | grep -oP '"command"\s*:\s*"\K[^"]*' | head -1)
+
+# Only intervene for git commands
+if [[ "$command" == git* ]]; then
+  # Allowed git commands (read-only + mv)
+  if [[ "$command" =~ ^(git\ log|git\ diff|git\ status|git\ mv) ]]; then
+    exit 0  # Allow normally
+  else
+    # Block other git commands
+    cat <<EOF
+{
+  "decision": "block",
+  "reason": "Only git log, git diff, git status, and git mv are allowed"
+}
+EOF
+    exit 0
+  fi
+fi
+
+# Non-git commands: don't intervene
+exit 0
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/claude_is_somewhat_aware_of_token_usage_and_compaction.org][Claude is somewhat aware of token usage and compaction.]]
+* an (? official) CC code simplifier
+** https://x.com/i/status/2009450715081789767
+* The Claude Code API cost me $7 in 15 minutes.
+  would be 100 dollars in 3.5 hours
+* Use 'alt p' to switch models in CC mid-task.
+* to update
+  claude update
+* how to install it via npm globally, bypassing NixOS
+:PROPERTIES:
+:ID:       0c1ac91a-76eb-4e0c-9cc0-64dbc25418af
+:END:
+  mkdir -p ~/.npm-global
+  npm config set prefix ~/.npm-global
+  export PATH="$HOME/.npm-global/bin:$PATH"
+  echo 'export PATH="$HOME/.npm-global/bin:$PATH"' >> ~/.bashrc  # or .zshrc
+  npm install -g claude
+* sound : making it beep when it finishes, in Docker
+** DONE ensure these are installed in the Docker container
+*** apt install -y pipewire-audio-client-libraries pipewire-bin
+*** /home/sound/generate-beep.sh
+    creates an audio file for Claude to play, in tmp/
+*** /home/sound/play-beep.sh
+** DONE include this in .claude/settings.json
+{
+  "alwaysThinkingEnabled": true,
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/sound/play-beep.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
+** start Docker with pipewire connected
+docker run --name "$CONTAINER_NAME" -it -d \
+  -v /home/jeff/hodal/docker-typedb-rust:/home/ubuntu/host \
+  -v /run/user/1000/pipewire-0:/run/user/1000/pipewire-0   \
+  -e PIPEWIRE_RUNTIME_DIR=/run/user/1000                   \
+  ...
+** in the Docker container, run /home/sound/generate-beep.sh
+   /home/sound/generate-beep.sh
+* cool-looking options
+** /clear
+** /compact
+** /context (visualizes it)
+** /cost
+** /memory (edit the files)
+** /permissions
+** /resume and /rewind (a conversation)
+** TODO /terminal-setup
+   Shift-Enter for newline
+** /todos
+** /vim

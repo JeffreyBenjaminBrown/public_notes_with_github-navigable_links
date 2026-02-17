@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       757da17b-b577-4ae2-ae2e-f52e099e5f65
+:END:
+#+title: surreal
+* "Have you tried looking away and then looking back at it?"
+  -- the computer tech in Alice in Wonderland
+* notes from wikipedia
+** intends to "resolve the previously contradictory conditions of dream and reality into an absolute reality, a super-reality"
+   -- Andre Breton
+** uses : surprise, surprising juxtaposition, non-sequitor
+** has its origins in communism and anarchism

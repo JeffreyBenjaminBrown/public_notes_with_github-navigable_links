@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b368aeae-4301-4404-b30e-c72fbffdbff8
+:END:
+#+title: Michael Polanyi, some ideas from
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/science_is_at_root_a_social_process.org][Science is at root a social process.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/our_tools_mediate_our_understanding_of_the_world.org][Our tools mediate our understanding of the world.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/we_know_more_than_we_can_tell_tacit_knowledge.org][We know more than we can tell.]]

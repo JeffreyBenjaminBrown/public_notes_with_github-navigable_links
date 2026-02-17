@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6e57e14e-d5d6-4c4c-943a-d7645c048c87
+:END:
+#+title: plate tectonics, the absurd history of the theory of
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/geologists_resisted_the_theory_of_continental_drift_heroically.org][Geologists resisted the theory of continental drift heroically.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oil_company_geologists_were_using_plate_tectonics_before_geologists_believed_it.org][Oil company geologists were using the theory before it was accepted.]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9036311c-3ca0-4a0a-911d-04e1183205c6
+:ROAM_ALIASES: epub pdf mobi PDF
+:END:
+#+title: digital book formats
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/okular_pdf_viewer.org][Okular (PDF viewer)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sioyek_pdf_viewer.org][Sioyek (PDF viewer)]] looks amazing.
+* Copying epub data into a text file works well.
+  At least, it did with [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/internal_family_systems_ed_2_book_by_richard_schwartz_and_martha_sweezy.org][Internal Family Systems]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_ways_to_manipulate_pdfs.org][some ways to (create and) manipulate PDFs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_ways_to_manipulate_digital_documents.org][some ways to manipulate digital documents]]

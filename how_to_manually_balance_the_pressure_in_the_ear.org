@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0ab75a72-78c0-410a-8929-c945ead8d35f
+:END:
+#+title: how to manually balance the pressure in the ear
+* PITFALL: Take [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_decongest_before_a_flight.org][decongestants]] sufficiently in advance.
+* As soon as I detect a drop in altitude,
+  (i.e. an increase in pressure outside the ear),
+  plug nose and blow.
+  Do this early and often so that I never have to blow hard.
+  Otherwise the drum could be damaged.
+* What it sounds like
+** If the pressure change is not extreme, it sounds like tightening a sheet.
+** If the eustachian tube is tight, clearing your ears can sound like a dolphin.
+:PROPERTIES:
+:ID:       7c065e0f-859a-495b-a5b1-69cb069c9e4a
+:END:

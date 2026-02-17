@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       da59dd81-02a6-4bd6-a0d6-ea9973f46377
+:END:
+#+title: anxiety
+* insecurity
+* Drawing pictures with AI makes me feel like life is too short.
+:PROPERTIES:
+:ID:       adad0052-a974-4a8a-a0c0-f969a692a7a1
+:END:
+** If I could inpaint this would likely be solved.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epistemological_overload.org#kierkegards-dizziness-of-freedom][Kierkegard's dizziness of freedom]]
+* Paul Tillich's categories
+** "ontic": [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trust.org#fate][fate]] & [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org][death]]
+** moral
+** spiritual
+* Tillich thought anxiety was part of the human condition.
+  to be accepted, not fought
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guilt.org][guilt]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/past_anxieties_are_more_universally_funny.org][Past anxieties are more universally funny.]]
+* [[id:27533eec-38f1-4f4a-8ffb-5125d99c0f78][My smile feels [bad], even when it looks genuine to me.]]

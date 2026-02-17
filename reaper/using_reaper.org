@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       890e754a-8677-43f3-92f4-035d0ecd42db
+:ROAM_ALIASES: "Reaper usage"
+:END:
+#+title: using Reaper
+* user input
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/setting_up_io_for_reaper.org][audio and MIDI IO]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org][mouse and keyboard control]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_shortcuts_and_context_menus.org][shortcuts]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/views_in_reaper.org][views and navigation in Reaper]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_is_surprisingly_configurable.org][configuring Reaper]]
+* major use modes
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/time_regions_and_transport_in_Reaper.org][time, regions and transport]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/tracks_in_reaper.org][tracks]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/recording_audio_midi_reaper.org][recording (audio & MIDI)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org][editing media items]] (audio and/or MIDI)
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/pitch_detection_pitch_shift_and_time_stretch_in_reaper.org][pitch detection, pitch shift and time stretch in Reaper]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org][editing MIDI in Reaper]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/fx_plugins_reaper.org][FX | plugins]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mixing_buses_and_routing_in_reaper.org][mixing, buses and routing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/project_management_in_reaper.org][project management]]
+  folders and file types
+  starting and saving projects
+  track templates
+  importing one project into another
+  more
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/resource_management_memory_cpu_cycles_latency_reaper.org][resource management (memory, CPU cycles, latency)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_and_microtonality.org][microtonality]]

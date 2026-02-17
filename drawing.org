@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       825a73b2-1834-4051-b03c-6547571b4abf
+:ROAM_ALIASES: sketch "art, visual"
+:END:
+#+title: drawing
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tldraw_small_online_sketching_app.org][TLDraw: small online sketching app]]

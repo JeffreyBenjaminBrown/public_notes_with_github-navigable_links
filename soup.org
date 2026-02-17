@@ -1,0 +1,111 @@
+:PROPERTIES:
+:ID:       0d037a5d-e027-4b6d-8054-c39aad9bb196
+:END:
+#+title: soup
+* ONGOING [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/soup_and_beans_scaled_ish_and_measured_2026_01_12_mon.org][soup and beans, scaled-ish and measured, <2026-01-12 Mon>]]
+* <2026-01-10 Sat> by Yeni
+** 1 kg garbanzos
+** 22.5 ml salt -- still not quite enough
+** 5 papas si fueran grandes -- try 6 next time
+** 7 ajis (cuando hay)
+** 7 ajo
+** 3 cebolla
+** 4 zanahorias
+** 7 tajadas de apio
+** 3 remolachas
+** todas las hierbas que te parecen
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bean_soup_writeup_for_others.org][bean soup, writeup for others]]
+* TODO Weigh everything next time.
+* <2025-12-14 Sun>: beans and veggies together
+** 22.5 to 25 ml salt
+   of the kind I first weighed
+** 500 g garbanzos
+** 3 medium potatoes
+*** maybe 1/3 the size of my fist
+** 3 decent carrots
+** 2 not-huge onions
+   probably less than 7 cm diameter
+** 3 modest beets
+   probably less than 6 cm diameter
+* <2025-09-27 Sat>
+** 2 tbsp salt -- too much!
+   and there was one in the rice
+** 5 potatoes
+** 3 onions
+** 7 celery
+** 7 ajis -- too much!
+** 7 garlic
+* herbs Yeni put <2025-07-09 Wed>
+** 1 "tbsp" cilantro
+** 1 "tbsp" mint ("inojo")
+** 2 "tbsp" basil ("albahaca")
+* ingredients <2025-05-22 Thu> with 3 cups garbanzos
+** 3 zanahorias
+** 4 papas
+** 3 cebollas (existe 1/2 cebolla, nada más)
+** 3 tomates
+** 4 apio
+** 5 aji
+** 3 ajo
+* ingredients <2025-06-05 Thu> with 2 cups garbanzo
+** 2 zanahorias
+** 3 papas
+** 2 cebollas
+** 2 tomates
+** 3 apio
+** 2 aji
+** 2 ajo
+* writeup
+** soak the beans
+I like to do a hot soak with baking soda, then another hot soak to clear out the baking soda (so it doesn't interact with the baking soda to create sodium acetate, a salt), then a third hot soak with vinegar. Do whatever part of this you want. In detail:
+
+Each hot soak involves boiling the beans for 4 minutes, then letting them sit around a few hours. If adding baking soda, use an absurdly small amount, maybe a quarter of a teaspoon. If adding vinegar, add maybe a cup. Any vinegar will do; I like apple cider.
+
+If you've only got time for one of those, do the baking soda hot soak. But then change the water twice, to get rid of the baking soda before cooking. (That is, throw out the water with baking soda, then fill with water and swish around to get residual baking soda, then throw that out also, and now you can add the water you'll cook it in.)
+** cook
+The measurements are not very important -- if you end up with more carrot or whatever, enjoy it!
+
+2 or 3 cups beans
+Probably 1 carrot, maybe 2
+An onion
+A tomato or two
+Some celery -- I use 2 big, um, "branches"?
+A potato or two
+Half a teaspoon of salt?
+
+Cut them into pieces as big as you're comfortable eating. This saves you preparation time.
+
+Boil until it seems good. Maybe half an hour, maybe two hours. In my case it's more like two hours, but water boils colder in Bogotá.
+
+Once you think it's done, but while it's still hot, add more salt if you think it's needed. The heat will help distribute the salt evenly.
+* TODO soak strategy
+  1 hot
+  2 rinses
+  1 25% vinegar
+  2 rinses
+  1 plain water
+  1 rinse
+* TODO SHELL THE BEANS during soaking.
+  Today I've had two bowls and no gas.
+  After each soak, mush them around with my hands to get more shells off, and then pour off the water until just before beans start coming out (the shells float).
+* TODO determine appropriate salt
+** <2025-01-08 Wed> 1/2 a tablespoon of chunky sea salt
+   I don't think it was enough.
+   (But that's with rice at least mostly unsalted, maybe entirely.)
+* 2 big cups of beans seems about right
+* ingredients
+** 2 ajis, picados en pedazos muy pequeños
+** garlic!
+** 1 o 2 zanahoria (1 si es grande)
+** 1 cebolla
+** 2 tomates
+** 3 tallos de apio
+** 2 papas
+* Everything boils slower in Bogotá.
+* Carrots take a long time to soften.
+  At least in Bogotá.
+  After 40 minutes they were still hard-ish.
+* Small potatoes supposedly take 15-20 minutes.
+* Add olive oil to each bowl separately.
+  Boiling reduces its polyphenol content,
+  and polyphenols are great.

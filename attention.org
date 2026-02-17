@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d1cc360-4fce-4cd4-9176-8f12670add90
+:END:
+#+title: attention
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/direct_attention_well.org][Direct attention well.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org][perception]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org][optimism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wants_push_and_pull_at_attention.org][Wants pull at attention, which we sometimes fight.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org][self-awareness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurdity_takes_a_broad_perspective_to_be_recognized.org][Absurdity takes a broad perspective to be recognized.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org#flow-the-mental-state][flow, the mental state]]

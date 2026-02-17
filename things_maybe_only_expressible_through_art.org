@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c7473ba8-d513-43f1-a25a-9dc05a1e0e44
+:END:
+#+title: things maybe only expressible through art
+* the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org][absurd]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/we_know_more_than_we_can_tell_tacit_knowledge.org][tacit knowledge]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ac7c4265-d173-4020-9184-0b203554d9f1
+:END:
+#+title: IDs should be UUIDs
+* the main reason
+  Giving them semantic content makes the naming scheme brittle.
+* a side benefit: avoids the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_german_tank_problem.org][German tank problem]]

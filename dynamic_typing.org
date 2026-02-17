@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       4f939263-8a43-42be-98af-5aa3d8854d13
+:END:
+#+title: dynamic typing
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dynamic_typing_makes_data_builtin_data_structures_slow.org][Dynamic typing makes data builtin data structures slow.]]

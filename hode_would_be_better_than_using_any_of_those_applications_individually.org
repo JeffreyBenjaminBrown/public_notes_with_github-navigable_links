@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b810eec1-847b-4cbe-a2d8-cd628eb9a95c
+:END:
+#+title: Hode would be better than using any of those applications individually.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/commercial_free_internet_search_engines_suck.org][Search engines have an incentive to suck.]]
+* No content-sharing platform permits deep structured queries.
+* A query cannot be run across all those platforms at once.
+* Social media feed algorithms are poisonous.
+* Science publishing is too expensive -- in labor for the writers, in money for the readers.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bot_networks_and_hode.org][Transparency would help with the bot problem]].
+* Ads are annoying.

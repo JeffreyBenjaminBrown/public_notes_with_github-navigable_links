@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       786eebcb-c64d-4cf4-8448-76def28fd7e0
+:ROAM_ALIASES: "theory of mind"
+:END:
+#+title: attribution
+* everyone dreaming of falling in love
+* definition(s)
+** attributing qualities to a person
+** theory of mind
+* qualities to know
+** "[person] is easy to talk to (about (_ | anything))"
+** "[person] wants to spend more time with me"
+* Choices are objective but preferences are hypothetical.
+  Even in oneself.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_want_my_models_of_others_to_be_more_interesting_and_varied.org][I want my models of others to be more interesting and varied.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_overweight_your_first_impressions_beware_that_others_will.org][Beware overweighting of first impressions, in yourself and others.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowing_how_self_and_other_feel_can_both_be_hard.org][Knowing how self and other feel can both be tricky.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/patience_v_courage.org][patience v. courage]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gentle.org#judge-gently][Judge gently.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intent_as_posterior_construction.org][intent as posterior construction]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/defense.org#avoid-both-impropriety-and-its-appearance][Avoid both impropriety *and its appearance*.]]
+* attribution | credit \\ knowledge graph
+** I want to more easily make reading history statements like [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/evolution_s_raiinbow_book_by_joan_roughgarden.org#i-read-it-here-first][these]].

@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       4017c25d-ec4d-4f41-aaed-e3be02dba620
+:ROAM_ALIASES: weird
+:END:
+#+title: weirdness
+* TODO merge [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/far_out.org][far out]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org][absurdity]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/extreme_otherness.org][extreme otherness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/evolution.org][evolution]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/psychedelics_as_mushroom_survival_strategy.org][psychedelics as mushroom survival strategy]]
+* Its [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/sign_marbling.org#emotional-valence-is-not-always-obvious][emotional valence is not obvious.]]
+* exceptions
+:PROPERTIES:
+:ID:       5e606792-9005-4e92-8112-8c64ac6caf59
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/closeness.org][intimacy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/crazy_things_nations_have_done.org][crazy things nations have done]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/people_who_are_good_at_weird_stuff.org][people who are good at weird stuff]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/seals_make_what_sounds_like_experimental_electronic_music.org][Seals make what sounds like experimental electronic music.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mosquito_laser.org][mosquito laser]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lessons_i_learned_the_hard_way.org][lessons I learned the hard way, or repeatedly]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bug_zapper.org#bug-zappers-explode-the-bugs-spread-pathogens][Bug zappers explode the bugs, spread pathogens.]]
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/subterfuge.org][if music was a scam]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ice_volcanoes.org][Ice volcanoes]] exist.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awareness_of_pain_feels_better_than_unawareness_of_it.org][Awareness of pain feels better than unawareness of it.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/standing_narrow_hips_humans_give_birth_early.org][Standing => narrow hips => humans give birth early => prolonged infancy.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/foragers_may_have_been_smarter.org][Human foragers may have been smarter than us.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isaac_newton.org][Isaac Newton]]
+* extreme communication
+** from extremely different worlds
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/fantasies_about_the_nature_of_power.org][fantasies about strange kinds of power]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org#-fullness-in-emptiness][? fullness in emptiness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org#cruelty][cruelty]]
+* never say die -> never admit the possibility of incompletion
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/extreme_and_strange_happiness.org][extreme and strange happiness]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/fantasies_about_the_nature_of_power.org#truth-as-weak][truth as weak]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       16127b31-70f5-4098-a5c1-1df7cfc93128
+:ROAM_ALIASES: "algorithms for DNA sequencing" genetics
+:END:
+#+title: bioinformatics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/2nd_gen_dna_sequencing.org][2nd Gen DNA Sequencing]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/aim_for_longer_reads_bioinformatics.org][We are aiming for longer reads.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_fastq_format_genetics.org][The FASTQ Format (Genetics)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/putting_dna_reads_together.org][Putting Dna Reads Together]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/repetitive_sequences_make_dna_sequencing_difficult.org][Repetitive sequences make DNA sequencing difficult.]]
+* TODO things I didn't understand
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_dynamic_programming_for_approximate_matching.org][Using Dynamic Programming For Approximate Matching]]
+* sources
+  and state of completion in them
+** a JHU course
+ http://www.langmead-lab.org/teaching-materials/
+*** finished
+ I finished the Coursera videos.
+*** resume here
+ https://www.youtube.com/watch?v=hLsrPsFHPcQ

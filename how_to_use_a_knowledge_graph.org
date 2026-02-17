@@ -1,0 +1,374 @@
+:PROPERTIES:
+:ID:       9e45ccd9-d6e0-4870-8f13-cc11135334d0
+:ROAM_ALIASES: "how to use a knowledge graph" "how to knowledge graph" "using a knowledge graph" "using reading and writing" "reading and writing, how" "writing and reading, how" "use knowledge graph writing, how"
+:END:
+#+title: using written knowledge
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_form_a_study_group.org][how to form a study group]]
+* Writing is ("just"?) thinking with an additional, radically different memory format,
+** comparing thought and writing
+*** Writing is faithful to something original
+    whereas mental memory tends toward
+      a somewhat randomly annealed outcome of repeated reconstructions.
+      (Annealed: less flexible each time.)
+*** navigability
+    At any given moment,
+    the number in thought of distinct available topics
+    feels much smaller than the number in writing.
+*** transmissibility
+    Writing transmits more faithfully.
+    No thought is ever fully conveyed.
+** surprisingly not that different : vastness
+   It's not that there's more writing than thought,
+   but that traversal can be much faster in it.
+* how to use space in writing
+** Tab-indent should start at the earlier edge of the the second word of the last legitimate opening statement.
+** There can be multiple legitimate opening statements on a given parent line.
+   tab works its way down,
+   has no effect on text in a legimate column
+     where legitimate depends on the row
+** Read up to the nearest parent line. Siblings should be closed.
+   They should contain only further-indented stuff.
+   If they don't the algorithm can misplace this row.
+** If this is not on a legitimate column, move back to the nearest.
+   There always is one, I think.
+** What is closure?
+   see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org][wholeness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org#-sharing-knowledge][sharing]] knowledge
+* Graph is anti-march.
+:PROPERTIES:
+:ID:       91cafcc2-3647-41ba-8b9c-b2d69c191b0c
+:END:
+* seems promising
+** To keep a separate dreamspace and record there might be the highest, and realizable in writing.
+   Easy to permanently damage.
+* the ? first steps of a session of study and note refactoring
+** set aside a space in the graph for notes on the process
+** collect all relevant documents to study
+** read them
+** group them
+** *only if needed*, take notes on the collection
+   Aware that the opportunity cost of such collection might be that
+   I don't actually know what I'm talking about,
+   because I haven't read my notes on the subject.
+* Read about what I've been procrastinating.
+:PROPERTIES:
+:ID:       4d13a74d-faa9-4f21-9910-64dd765e30df
+:END:
+* Citation to source > citation to author > nothing.
+** It* helps you even alone,
+   (*) indicating sources you have read on a topic does,
+*** by guiding your future reading, and
+*** by understanding your self-construction
+* If you are about to do it, and you have a note on it, you must read the note first.
+* theory about how to read
+  collect where to go but otherwise don't edit
+  sometimes, at least, probably, read this way
+* The only reason to reformat code I've already written is because I'm having trouble reading it.
+* If society is obsessed with it, at least study it (again?).
+  TV series
+  autism
+  adhd
+  gaza
+* Feeling lost is a good time to look {backward, link-sourceward}.
+** why
+:PROPERTIES:
+:ID:       7cc9d769-b458-4899-81c5-e074a3263536
+:END:
+   If each note is to advance some thesis|question|agenda,
+   and while reading you question why you're doing it,
+   finding what links to this note gives purpose to it,
+   because a link source advances some other thesis|question|agenda.
+** implication for app design
+   It would be nice to see a backward view,
+   not just of this node, but of all its contents.
+   (Most of them won't have backlinks.)
+* The path from root to leaves should not obscure the leaves.
+:PROPERTIES:
+:ID:       30c2a591-9ecc-49a5-b41e-6985aa005b49
+:END:
+  They, not the categories, are the most delicious part.
+* good notes
+** sufficient comprehensibility
+*** If it seems too far-out to share, [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grounded_claims_are_cool.org][ground the claim]].
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/judiciously_delete_platonic_linking_nodes.org][Judiciously delete Platonic linking nodes.]]
+** specificity
+*** Titles should (usually?) be positive and specific.
+    Because a positive title (usually?) contains more information.
+**** example
+:PROPERTIES:
+:ID:       d53dd756-cc2f-43f9-a919-5f39810e642c
+:END:
+     "X doesn't work" can often be replaced with "Y requires Z".
+*** Often link targets deeper into a tree are better.
+:PROPERTIES:
+:ID:       46b695c5-617e-47a8-b699-ef2b7ec29e81
+:END:
+**** the idea
+     Knowing A is related to X is good.
+     But if X is a long passage,
+     it's more helpful for A to link to a specific part of X,
+     and for that part of X to be visible from A.
+**** source
+     Andy Matuschak calls this "fine-grained association".
+     https://notes.andymatuschak.org/z68tVM68dEAuH4acs7HY6K76tTVzBdoBGKMZB
+*** Complete sentences make good titles.
+:PROPERTIES:
+:ID:       3305442a-e435-4f84-a403-9509963497b7
+:END:
+    It increases the likelihood the note is atomic.
+** Evergreen notes are good.
+*** file by concept > file by {resource, project, event ...}
+** Notes should be surprising.
+   https://notes.andymatuschak.org/z4KZ9973AoHhvM9Pj5Qrds48JXNbMEwVJmVRw
+** Use backlinks to define notes extrinsically.
+:PROPERTIES:
+:ID:       edca15b1-37f9-46ec-bb32-8a3090242b0d
+:END:
+   even before a note has any intrinsic content,
+   it gives information by relating the things that link to it.
+*** ref, where I got the idea
+    https://notes.andymatuschak.org/z2newCwFfd6iZFyf9bgspkbyt1G8wbQxJVgTK
+* reading
+** processing order
+*** ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/after_filing_something_know_the_whole_note_it_went_into.org][After filing something, know the whole note it went into.]]
+** ? read fast
+   some things just above zero time-weight
+** expect to be surproised
+*** Appreciate how suprising the content behind any link can be.
+    Surprisingly often, even for things I wrote,
+    I am surprised at how different following the link was from my expecation.
+**** example(s)
+     [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear_of_god_useful.org][fear of God : useful]]
+*** Something's content is not always elaboration.
+**** the idea
+     Remember this when deciding whether to follow a hyperlink.
+     The content targeted by the link
+     might veer offf in completely unexpected directions,
+     (even if you took the note!)
+     and often includes counterexamples, caveats, nuances.
+**** heralds would help
+* triage
+** If I find myself stuck trying to place it perfectly, move on.
+   It's in there, after all.
+* why
+** Use notes to avoid preconceived conclusions.
+   Writing an essay top-down implies the writer decides the conclusion first, and then tries to argue it. That's absurd!
+   https://notes.andymatuschak.org/z6Mx6PrJjGCf2akGM9pvoZ5Nk3EozcZcc9zHx
+** Externalizing ideas frees working memory, enhances focus.
+https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97
+** Passive reading|listening is (usually?) wasteful.
+   Think, ask questions about it, write, investigate other branches;
+   don't feel obligated to keep following
+   someone else's sequence of thoughts.
+*** a reference with other refrences
+ https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs
+*** 100% reading, 0% processing => nowhere
+:PROPERTIES:
+:ID:       12f5b0aa-492c-4017-8704-7330a9ac5978
+:END:
+ Schopenhauer saw this:
+ "whoever reads very much and almost the whole day, but in between recovers by thoughtless pastime, gradually loses the ability to think on his own ...
+ constant reading immediately taken up again in every free moment is even more mentally paralysing than constant manual labour, since in the latter we can still muse about our own thoughts. But just as a coiled spring finally loses its elasticity through the sustained pressure of a foreign body, so too the mind through the constant force of other people’s thoughts."
+** The returns to well-linked notes compound.
+   => Notes work that feels like a waste of time might not be.
+* open questions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/in_a_to_do_list_should_maybe_come_first_or_last.org][In a to-do list, should "maybe" come first or last?]]
+* problems
+** What would Godel say?
+:PROPERTIES:
+:ID:       d7c3b236-06f8-48e4-8c42-39313737aa65
+:END:
+   (and rebuttal)
+*** How to knowledge graph is largely how to curate knowledge.
+    Some kind of Godelian limit would seem to apply.
+    But still plenty of helpful mechanism can be described.
+*** Can there be a read algorithm? To [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/direct_attention_well.org][direct attention well]]?
+** Does [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org#stressful-integration][the stress of integration]] prevent me from reading my graph?
+:PROPERTIES:
+:ID:       320e5181-cf0d-48bf-b024-d0e6c4c309c2
+:END:
+*** Someone said [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org#stressful-integration][the stress of integration]] is important.
+** Context-switching makes reading a backlinks menu hard.
+:PROPERTIES:
+:ID:       610bb7e7-98a5-451e-90d8-3db74a648b81
+:END:
+   Unlike reading content,
+   each (in general) item in a list of backlinks
+   requires a context switch.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shareable_knowledge_gardens.org#do-i-fear-human-superintelligence][Do I fear human superintelligence?]]
+* Maybe what I should mindmap most is my practical notes.
+  remember to look up from each
+* The writer guides the reader.
+:PROPERTIES:
+:ID:       e114b8ed-e85c-41f3-b972-45b23ab5b8d5
+:END:
+** Is appending usually better than prepending?
+   alternative | competing strategies
+*** add to the bottom, if you'll read from the top, to read it all
+    Adding a new note to the end seems better than adding to the start.
+    That's because you're going to read the note from top to bottom.
+    If new things go to the top you might never find the old things.
+*** clarify early (at the top) to the reader how to read the file
+*** Place writing believing it deserves to obscure what it obscures.
+** a record of where the cursor has been would help
+* hypotheses
+** writing duties
+*** Duties to yourself
+**** If you (habitually) write to it, revise it.
+***** A note accreted to and then observed as a collection might reveal itself to be a bad idea this way.
+      How that happens is fun, and probably worth understanding.
+**** Write diverse things.
+***** topic
+***** kind of analysis: good advice, common wisdom, varieties, causes, consequences, goals, methods, level of abstraction
+**** Qualify your opinions.
+     Some things you believe. These can go unqualified.
+     But if it's a suspicion, something you doubt, etc. make that clear.
+**** Use atomicity.
+     in Andy Matuschak's sense
+**** Provide enough context.
+     Many (most interesting?) two-member labeled relationships illuminate more than three concepts.
+**** Aim for universality, at least sometimes.
+     More universal = might be useful in more situations,
+     to more people.
+**** Dare to record your insights.
+     In short time, revising them will surprise you.
+*** Duties to others.
+**** Dare to imagine your insights today might help you later.
+**** Dare to imagine others want your insights.
+**** Dare to imagine you need others' insights.
+**** Download, read and link to other peoples' notes.
+** choose-your-own-sermon mandala
+*** Sermons repeat. Branch lists could repeat, or more generally include musical instructions.
+**** Scalars like "mass" or "value".
+* aspirations
+** Discover an ant-like algorithm.
+* u
+** interpretations of punctuation
+*** () is optional, whereas [] and {} are mandatory but perhaps holding disjunctive options
+*** add a comma to show plurality, even if only one member is listed
+    singleton (without a comma) lists and sets seem equivalent
+** ordering branches
+   schemes
+*** bubble up from the bottom until indifferent
+    Add a new idea to the bottom of the list, then raise it,
+    until it's not obviously better than the thing above it.
+*** ideas about being > ideas about doing
+    This is a spectrum, not a binary.
+    This pattern, like any pattern,
+    will likely manifest fractally throughout the tree.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_default_order_for_branch_lists.org][a tentative universal order for branch lists]]
+** My "technical" label seems ambiguous.
+   It could be about mechanisms with or without associated goals.
+   Maybe I should split it into "mech" and "use".
+** An "about the order of these branches" branch, first among them.
+*** possibilities include "serial", "alternatives", ..
+    alternatives perhaps unordered, or ordered by likelihood, ..
+*** Generalization: A branch about a tree's structure.
+    But I'm not sure I would use that freedom.
+* A valid read technique is to read the whole file before deciding which links to follow.
+  Has the advantage (?) of making it possible to know what you read, which might make it easier to review more of your graph.
+  Has the disadvantage of slowing down how fast you move across files, by forcing a complete read of each before moving on.
+* a read-write equilibrium
+** good arrangement requires knowing how you read, and vice-versa
+   e.g. if you know you'll read from the top down and from root to leaves, then your choices of what is how high, what is nested, and what is behind a link are all important.
+* ? Give everything a context.
+* Maybe don't start new roots.
+  Instead, start from inside a document,
+  and then maybe add contexts and separate it.
+** not sure
+   Should everything new graft onto a historical context,
+   even if one is always in easy reach?
+* Maybe always read backlinks* before reading content.
+  (*) their titles, that is
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/graph_writing_priority_choice.org][graph writing = priority anticipation]]
+  When (on average) working on this topic I want
+  these ideas visible in this order.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_collector_s_fallacy_for_information.org][the collector's fallacy (for information)]]
+* more reasons to classify a node once created
+  In the class you might have a synonym.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_on_who_or_what_leads.org#a-case--mindmapping][mindmapping can usefully be compared to improv]]
+* processing
+** TODO How should your knowledge graph prompt you to read?
+*** That is, outside of it, other people's work
+* seem to help
+** When lost, look back at your reading history.
+* *_processing_*
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_file_a_note.org][how to file a note]]
+* losing track of notes is optimal
+  Don't worry about losing conscious track of any note -- losing track is, in fact, critical to successful usage of a knowledge graph.
+  Even if you perfectly anticipate and curate the set Y when you create the new note, it's possible that you won't look up anything in Y for a long time. That's fine! Continuing the above example, suppose the note you wrote was about love and how to avoid burnout at work, and you put it under those two things, and then never looked at those two things. That means those two things weren't an issue for you.
+* Be clear on the purpose.
+  Shuffling mindmaps is not something I do for the mindmap's sake!
+  It is how I think.
+* Remember that I like rewriting my notes.
+:PROPERTIES:
+:ID:       2597d25f-e6f5-488e-aa52-277dd287526b
+:END:
+  For some reason this is hard.
+  I learn the lesson repeatedly, and it surprises me each time.
+** Maybe the question is *when* do I like it?
+:PROPERTIES:
+:ID:       99721b37-30b0-4475-81fa-42b6f67e6ec8
+:END:
+   Do I like it when it's productive?
+   Do I *know*  when it's productive?
+   Do I like reading/organizing a topic when I've been procrastinating the topic? (I think so.)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hegelian_synthesis_is_a_powerful_knowledge_graph_trick.org][Hegelian synthesis is a fun knowledge graph trick.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/promote_feels_notes_a_generalization_of_trigger_warnings.org][promote "_ feels _" notes : a generalization of trigger warnings]]
+* how to read a knowledge graph
+:PROPERTIES:
+:ID:       7b2cd1a3-bac4-4057-90e3-a2698a2fdefb
+:END:
+** Read like a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rushing_paleontologist_as_metaphor_for_knowledge_graph_reading.org][rushing paleontologist]].
+** Know when to read it. Treat them like Google.
+   When you have an itch to do anything, part of scratching it should be to look in your notes for anything you've already written on it before.
+** Consult the upper onotology, too.
+*** the idea
+    Check out notes that link to what you're reading.
+*** why
+    When you visited the current file -- say, "how to program in Python" -- it's likely not because doing that was your motivation per se, but rather some bigger project was, like "programming". And the latter probably links to the former. Looking "upward" will bring it into view, and thereby both remind you of your larger purpose(s) and of context and methods relevant to those purposes.
+* learn to search your notes
+  If the note exists, usually it's not hard to find -- even if you didn't curate its parents well, you can grep your folder for relevant terms.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_restart_from_scratch.org][Don't restart from scratch.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_build_premature_structure_when_mapping_knowledge.org][Don't build premature structure when mapping knowledge.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/random_generous_note_navigation_seems_promising.org][Random, motivated, "generous" note navigation seems promising.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_and_or_meditation.org][knowledge graphs and/or meditation]]
+** Having a goal can be good, but so can letting the reading knock you about.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/high_pressure_situations_and_how_to_handle_them.org][Review notes before any high-pressure situation.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/poetry_and_logic_v_the_infinite.org][poetry and logic v. the infinite]]
+* two maybe-peer ?s and a burial
+** deliberation
+*** the lead ? and the trailing ?
+**** first = big
+**** last = read last sometimes but nearly first others
+**** first and last in a branch list
+     The big ? is conceptual, the little ? unsure about and maybe worth the highlight of being last. But if it's last there should be a garbage nearby.
+** conclusion
+   The ? near (at?) the top of the branch list is conceptual, fundamental in a way that could if understood upset the order of the other branches.
+   The ? near the bottom, if any, is dubious but worth the highlight. It can also be a dubious branch of the early ? branch.
+   There should be a "bury" branch near the end. Not everything deleted has to go there but probably a lot should, because maybe we'll have the processing power to incorporate all the data including those burials.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_playlists.org#this-resembles-note-taking][Making playlists resembles note-taking.]]
+* to-merge buckets
+** which one
+*** There should always be a "recent, unmerged, serial as written" bucket at the end of the sorted list, to put new things without having to disturb train of thought elsewhere.
+*** Always append at the end, and order from the top.
+    And mark the last node to be ordered.
+    More generally, keep a list of line unmbers when nodes were visited in each file. A frequent enough git commit history would have this property.
+** the u bucket
+*** automatically add a "new & unmerged" bucket at the {bottom for others, top for the author} of each list
+**** they should be orderable by age*
+     (*) and maybe by other things
+* by Andy Matuschak
+  either I liked or I wanted to read
+** read, if I haven't already, about evergreen note practice
+see the list under "Implementing an evergreen note practice" here:
+https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/reading.org#todo-pages-from-andy-matuschaks-knowledge-graph-with-links-i-havent-gotten-to][pages from Andy Matuschak's knowledge graph with links I haven't gotten to]]
+* Reading requires humility, faith.
+  To believe that what anyone has to say is so valuable to you
+  that it is best to focus your attention on it
+  (for, say, the full duration of a book)
+  without their even knowing who you are.
+* DONE stale
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_my_prefix_date_uri_script.org][Use my "prefix-date-uri" script.]]
+   the habit didn't take, and it doesn't seem to matter much

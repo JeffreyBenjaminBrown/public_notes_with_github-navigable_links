@@ -1,0 +1,114 @@
+:PROPERTIES:
+:ID:       91dc626c-36e2-4dc6-9c4f-fdea453c838e
+:END:
+#+title: humility
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org#epistemic-humility][epistemic humility]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org][emptiness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/insecurity.org][insecurity]]
+* self-modulation (badly filed)
+:PROPERTIES:
+:ID:       8b12f895-f36b-4ef7-a2ad-3b766a511743
+:END:
+  = modulating self-regard. Not controlling impulses,
+    so much as the balance of self v. world in one's awareness.
+** Too much gratitude seems a failure of self-moderation.
+:PROPERTIES:
+:ID:       170d0326-31cc-457a-8dd5-36391025edc1
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_v_self_respect.org][humility v. self-respect]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/would_effective_pride_play_at_the_border_with_self_criticism.org][pride & self-criticism]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_humility_at_odds_with_ambition.org][Is humility at odds with ambition?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#humility---peace][humility -> peace]] (various ways)
+* Humility does need a counterpoint like [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/magnanimity.org][magnanimity]].
+* definition & methods
+** Humility liberates (oneself and others) from oneself.
+   They become free of your {biases} when you become humble.
+   You  become free of       {???}   when you become humble.
+** "a non-imposing mentality"
+   -- wikipedia on humility <2025-04-29 Tue>
+** temperance of the (consciousness of) self
+*** "Not thinking less of yourself, but of yourself less."
+* motivations
+** Humility permits seeing some category of good things.
+:PROPERTIES:
+:ID:       de7ca1ee-39a8-46d4-bfa4-c6096ce60303
+:END:
+   or the reverse -- seeing them permits humility
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org#humility-countervails-a-useless-desire-to-punish][Humility contravenes useless desires to punish.]]
+** Humility is calming.
+:PROPERTIES:
+:ID:       3601d1d0-a760-4220-81e1-e909d640b452
+:END:
+*** It seems easier to sleep humble than proud.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#empathy--humility][empathy & humility]]
+* adjacent non-values
+** meekness
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org#submissiveness][submissiveness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org#shyness][shyness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/guilt.org][shame]]
+* methods
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recognizing_absurdity_facilitates_humility.org][Recognizing absurdity facilitates humility.]]
+** Accurately perceiving oneself makes humility easier.
+* equilibrium
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org#humility-permits-seeing-some-category-of-good-things][Humility permits seeing some category of good things.]]
+* tensions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_v_self_respect.org][humility v. self-respect]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage_v_humility.org][Courage v. humility]] is a fun balance.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/courage.org][courage]]
+*** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/humility_in_romance.org][humility in romance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_feeds_good.org][Humility feeds good.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hypothesis_everything_that_requires_courage_requires_humility.org][hypothesis : Everything that requires courage requires humility.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_pride.org][& pride]] (big!)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_and_pride_are_both_funny.org][Humility and pride are both funny.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/romantic_complements.org][romantic compliments]]
+* humility & ambition
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_humility_at_odds_with_ambition.org][Is humility at odds with ambition?]]
+* intense humility
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/i_am_nothing_before_the_world.org][I am nothing before the world.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_sacrifice.org][self-sacrifice]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/god.org][fear of God]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/giving_up_can_require_courage.org][Giving up can require courage and humility.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/betrayal_can_be_an_inaccurately_self_centered_frame.org][Betrayal can be an inaccurately self-centered frame.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/inferiority_can_be_funny.org][Inferiority can be funny.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/alone_we_often_forget_ourselves.org][Alone, we often forget ourselves.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_freedom.org][humility => freedom]]
+* Humility facilitates recognizing the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sublime.org][sublime]].
+* forgiveness & humility
+:PROPERTIES:
+:ID:       34185cff-e65f-407c-9f79-8fd9cfc201d4
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org#self-forgiveness-is-a-strange-kind-of-humility][Self-forgiveness is a strange kind of humility.]]
+** Humility countervails a useless desire to punish.
+:PROPERTIES:
+:ID:       5ac5c7eb-d7b0-4b7f-b12d-543e75e16f4f
+:END:
+*** A useless desire to punish often springs from ego.
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org#humility-permits-seeing-some-category-of-good-things][It can require humility to recognize]] that doing so is not in one's interest, or within one's power.
+*** Not that all desires to punish are useless.
+    For instance, truly dangerous people should be prevented from doing further harm, and their example can usefully motivate others to behave.
+* Humility might make room for greater optimism.
+:PROPERTIES:
+:ID:       5566a377-6479-4f61-8b72-553c5c9697cd
+:END:
+  e.g. society-scale
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org#you-dont-have-to-promise-more-than-you-offer][You don't have to promise more than you offer.]]
+* funny
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org#to-be-miraculous-without-being-a-prick-about-it][to be miraculous without being a prick about it]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kindness.org#-humility---generosity][? humility -> generosity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/subtlety.org][subtlety]]
+* Excise my urge to change others.
+:PROPERTIES:
+:ID:       c238024d-5dfc-4df3-aae1-acef3d8b90bd
+:END:
+* Don't overhype your own feelings.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][freaky]] (trigger warning)
+** Love to be metaphorically spanked.
+:PROPERTIES:
+:ID:       50c713fe-c1b2-49ee-8016-10544d9bee8b
+:END:
+*** clarification & justification
+    As in starkly taught an important lesson,
+    a better way to do something.
+    Love the change it (suggests?).
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org#insignificance][insignificance]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#humility-in-channeling][humility in channeling]]

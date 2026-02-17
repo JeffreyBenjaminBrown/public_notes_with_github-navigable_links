@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3c48e86b-a9ad-4e80-b570-24e950961dd3
+:END:
+#+title: virtual reality
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/is_vr_associated_with_bradilalia_asking_academics.org][Is VR associated with bradilalia? Asking academics.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oculus_quest_2_vr_platform.org][Oculus Quest 2 (VR platform)]]

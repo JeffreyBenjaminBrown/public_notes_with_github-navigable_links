@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3122b24d-3a03-43e6-ae58-e2247d51a1b6
+:END:
+#+title: music // composition & improvisation
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music_composition_software.org][music // composition & software]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/improv_on_who_or_what_leads.org][Improv on who or what leads.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/splash_improv.org][splash improv | action painting]]
+* TODO Start from vocal improv melodies.
+  It would be easier to give shape to a song starting from these than from harmonic content.
+  Also, they are consistently very pleasing to me.
+* TODO merge two docs on algorithmic music
+  from a git merge conflict
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/algorithmic_music.org][algorithmic music]] ideas
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/concepts-for-Tidal-some-high-level-musical.org][algorithmic music ideas, <2023-07-28 Fri>, take 2]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_constraints_help_art.org][how constraints help \ art]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/use_small_transformations_for_stability_memory_music.org][Use small transformations for stability & memory. \\ music]]

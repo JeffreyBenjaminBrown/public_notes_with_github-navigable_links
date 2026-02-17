@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e7c3c0cb-4db7-4a4c-89b9-666e91ec67ae
+:END:
+#+title: networking minds
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/communication.org][communication]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org][sharing]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_ideas_on_networking_minds_from_dynomight.org][Some ideas on networking minds from DynoMight.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode_usage_and_gameification.org][Hode usage and gameification]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spotify_for_the_news.org][Spotify for the news]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/agora_shared_knowledge_base_protocol.org][Agora (shared knowledge base (protocol))]]
+** someone else's code I failed to join

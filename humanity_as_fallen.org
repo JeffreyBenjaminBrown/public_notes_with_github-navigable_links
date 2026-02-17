@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b4fa4d1e-ceb5-4058-9813-7e144dab2cb7
+:END:
+#+title: fallenness
+* justification
+** It's a big theme in Christianity.
+** "a broken hallelujah" -- Leonard Cohen
+* boundedness of responsibility
+  disregard of moral imperatives
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dance_furiously_while_the_world_burns.org][dance while the world burns]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_we_were_reasonable_we_would_give_everything_away.org][If we were (reasonable?) we would give (everything?) away.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/maturity_v_adventure.org][maturity v. adventure]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transcendence_fallenness.org][transcendence & fallenness]]

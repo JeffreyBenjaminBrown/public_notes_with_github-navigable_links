@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       6d031428-eea3-4019-8122-80bd5fa6f9d4
+:END:
+#+title: DONE & skg // rebuild buffer in Rust with the same structure
+* DONE
+* to know
+** Most of the API can be left alone.
+*** where orgnodes are built
+**** save_buffer
+**** containerward_view
+     Document that if you haven't saved the buffer,
+     the retrieved view won't include any changes
+     that that saved buffer would cause.
+**** node_aliases
+     Document that if you haven't saved the buffer,
+     the retrieved aliases won't include any changes
+     that that saved buffer would cause.
+**** single_root_view
+*** Only save_buffer needs changing for now.
+* beware
+** preceding conflicting edits
+   This guards against the possibility
+   that the user saved some of this data differently elsewhere,
+   after this data was rendered.
+* recompute some metadata
+** metadata fields to retain unchanged
+*** id
+*** folded
+*** mightContainMore
+*** toDelete
+    it will already be false for everything in the tree
+** metadata fields to recompute
+*** treatment
+*** repeat
+*** focused: might be passed up from an alias
+*** cycle: computed anew considering the whole buffer
+*** relationships
+* method
+** children whose treatment is not Content
+*** are *not* dedup'd from content
+    This means that they can't be used when saving
+    to determine their parent's contents, either.
+*** are rendered before (above) content
+*** can be content nonetheless
+    For instance one of the parent's container's might be its child,
+    with treatment=Container,
+    even though it is also Content.
+** case on each treatment
+*** for Content children
+**** replace/supplement Content by reading
+     If the parent node is not mightcontainmore,
+     replace them all from disk,
+     preceded by non-content nodes
+     (which probably all retain their previous order).
+**** two cases for each Content child
+***** it's still content
+      For each formerly-and-still-content child,
+      if it was present in the saved image,
+      although its order among its brothers may have changed,
+      restore its content,
+      because it might have containerward paths, aliases, etc.
+      that would otherwise not be rendered.
+***** it's no longer content
+      If something that was content is no longer content,
+      change its relationship to None.
+      (It will thus be rendered before the content,
+      just like everything else that is not content.)
+*** for an AliasCol
+    In the output rebuild its children from scratch,
+    and don't iterate in the input into the AliasCol's children.
+    If the focus is in an alias, hand it up to the AliasCol.
+*** for a ParentIgnores
+    process it normally, just without affecting the parent
+* retain focus, folding on save
+:PROPERTIES:
+:ID:       25bea258-98e5-4154-b787-98acf64e8ff6
+:END:
+** focus
+   `org_from_node_recursive` should use its `focus` argument.
+   This seems easy.
+** folding : use elisp/skg-org-fold.el

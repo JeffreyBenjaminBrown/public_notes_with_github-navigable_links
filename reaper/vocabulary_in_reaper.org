@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       f16db74b-368c-4e86-952f-23bcb19169ea
+:ROAM_ALIASES: "vocabulary in Reaper"
+:END:
+#+title: vocab in Reaper
+* "MCP" = "Mixer control panel"
+* "TCP" = "Track contrl panel"
+* "FX" includes (is?) plugins, and is both singular and plural.
+:PROPERTIES:
+:ID:       2d324c40-7826-4bf7-bac2-4c5318c4ad64
+:END:
+  (in the manual)
+* "inline" edits
+:PROPERTIES:
+:ID:       6e223491-a0d2-4387-8505-fe4c6029c3ff
+:END:
+  are, at least in the case of MIDI items,
+  edits made from the Arrange View without opening a MIDI editor window.
+* Transport = playback, recording, maybe region-selection, more
+:PROPERTIES:
+:ID:       f3b027ae-6211-41d6-82ee-f1d25482ac2e
+:END:
+* one "take" = one of a number of attempted recordings of the same passage
+:PROPERTIES:
+:ID:       22a2ae81-2b87-471a-9e4a-62b194039f68
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#slip-edit--removing-unwanted-material-at-the-start-or-end-of-an-item][slip edit]]

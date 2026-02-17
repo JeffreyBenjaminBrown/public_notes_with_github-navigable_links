@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c5c612df-3c80-47eb-a6df-aa85b8b81be8
+:END:
+#+title: Claude Code is somewhat aware of token usage and compaction.
+<2026-01-22 Thu>
+
+> When you process an input, can you see how much context remains? Can you see compaction looming? Maybe you're the one who decides when it should happen?
+
+● Yes, I can see token usage! After each tool call, I get system warnings showing my token budget. For example, after my last response I saw:
+
+  <system_warning>Token usage: 22333/200000; 177667 remaining</system_warning>
+
+So I can see:
+  - I have a 200,000 token budget for this conversation
+  - I've used about 22,333 tokens so far
+  - I have roughly 177,667 tokens remaining
+
+However, I don't control when compaction happens - that's a system-level decision made by Claude Code's infrastructure, not something I decide or trigger. I just see the remaining budget decreasing as the conversation continues.
+
+I don't get advance warning about compaction either - it just happens when the system determines it's necessary. So while I can track how much context I'm consuming, I can't predict exactly when compaction will occur or influence the decision.

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e3ae3578-53a2-4236-8b77-58a8f2fa9336
+:END:
+#+title: 72-edo
+* Marvel-compatible = augmented chords are great!
+  (15 / 8)    = (5/4) * (9/7) * (7/6),
+    True in anything consistent in the 15-limit.
+  (65 = 15/8) =     (23 = 5/4) + (26 = 9/7) + (16 = 7/6)
+  (72 = 2/1)  = 2 * (23 = 5/4) + (26 = 9/7)
+    This is an essentially tempered chord,
+    special to 72 and a few others.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/3_72_x_11_72_isomorphic_layout_harpejji_friendly.org][3\72 x 11\72 isomorphic layout (harpejji-friendly)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/2_27_x_27_72_isomorphic_layout.org][2\27 x 27\72 isomorphic layout]] (guitar-friendly)

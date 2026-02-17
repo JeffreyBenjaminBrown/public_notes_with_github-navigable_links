@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       ee622f95-a99f-4a4b-bb5d-18d48c16b15b
+:END:
+#+title: 58-edo scales, chords and harmonies
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/just_intonation.org][just intonation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/microtonality.org][microtonality]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/harmonic_half_diminished_starts_from_harmonic_5.org][harmonic half-diminished starts from harmonic 5]]
+* nice sept min maj7 : 0 13 34 52
+  maybe because 52 + 19 = 13'
+* wide uniform chord : [0,26,52,20',46',14"..]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/root_root_minus_sept_m3_root_minus_sept_m3.org][root, root minus sept m3, root minus sept M3]]
+** [[id:81ca0486-bd78-4353-afea-a5251f9aad00][in 58-edo : [0, 8, 21]​]]
+* harmonic phrygian #7
+  0 8 15 22 34 39 52
+  This is what you get if you play all the harmonics
+  but replace the 10:9 with 7:6,
+  and start on 5:4 rather than the root.
+* a sweet septimal scale near 0 2 4.3 6 7 8 11 \ 12
+  0 11 21 30 34 38 52
+  Origin: Think of 11 as the root, and it becomes
+    0  10 19 23 27 41 47
+* TODO try a neutral aug-ish scale
+** idea
+   repeat [0, x] every 17\58
+     for some value of x
+** code
+:{
+filter (< 58) $ -- or maybe 2*58, or even 3*58,
+                -- if the repeating shape is wide
+  take 12 $ -- no scale needs more than 12 notes
+  concat [ fmap (+x) $
+           [0,4] | x <- [0,17..] ]
+:}
+* maybe the ringiest dim7
+  0 15 28 49
+  That's 6/5 + 7/6 + 9/7
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/from_9_12_to_13_12_9_7_sounds_better_than_5_4.org][the sound from ~9\12 to ~13\12 can be improved]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/from_9_12_to_13_12_9_7_sounds_better_than_5_4.org#in-58-edo-use-127--54--2813][in 58-edo, use 12:7 + 5:4 = 28:13]]
+* symmetric-ish scales
+** [0,13] x [0,27,..]
+*** alternates between 13\58 and 14\58
+*** I'm cutting it off after 2 octaves
+*** code
+ :{
+ L.sort $
+ map (flip mod 58) $
+ filter (< (floor $ 2*58)) $
+   take 20 $ -- way more than enough
+   concat [ fmap (+x) $
+            [0,13] | x <- [0,27..] ]
+ :}
+** [0,29] x [0,7,14,21]
+   The most evenly spaced 8-note scale.
+** [0,29] x [0,8,16,24]
+   Start on the last degree,
+   and the result has a perfect fifth
+   and both septimal thirds.
+* whole-tone scales
+** the most harmonious
+   [0, 28] x [0, 10, 19]
+   That is, two clusters of [0,10,19]\58.
+   offset by 28\58.
+** 7 tones, ends at 54\58
+   9\58 (182 cent) intervals all the way up.
+   Includes the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_chords.org#4-note-aug-chord-including-5458][4-note aug chord that includes 54\58]]
+** septimal: 6 tones, ends at 53\58
+*** definition
+    diffs  : - 11 - 10 - 11 - 10 - 11 - 5
+    values : 0,  11,  21,  32,  42,  53
+*** why it's good
+    it has two 7:8:9 triads (0 11 21 \ 58)
+    and a 15:8 (53)
+* 9-tone dim scales
+  Repeat 0 8 13 or 0 5 13.
+** Starting with 8 => it includes 34\58.
+** Both scales include 52\58.
+** Both are uniform except where 5\58 and 6\58 meet.
+* subharmonic series
+** 1/[8..13,15] = 5-limit phrygian* but         16/13
+   with 16/9, not 9/5
+** 1/[8..14   ] = 5-limit phrygian* but 8/7 and 16/13
+   with 16/9, not 9/5
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/58_edo_chords.org][58-edo chords]]
+* 10-tone scale with P4 and P5
+  notes             P4    P5
+  pitch - 0 6 12 18 24 29 34 40 46 52
+  diff  -  6 6  6  6  5  5  6  6  6
+* Two-octave 11-tone whole-tone scale
+  Alternate 10\58 and 11\58.
+  Repeats every 2 octaves.
+  11 tones total.
+* 7:4 + 9:7 = 13:8 + 11:8 = 9:4
+  47  + 21  = 41   + 27   = 10'
+* 3 x 7:6 = 11:8 + 4:3

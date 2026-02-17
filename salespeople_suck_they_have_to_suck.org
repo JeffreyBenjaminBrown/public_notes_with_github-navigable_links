@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       2b49db8e-8279-42ae-a23c-e3ca35addc39
+:END:
+#+title: Salespeople suck. They *have to* suck.
+* DONE context, internalized
+** caveat: not exactly, necessarily, or consciously evil
+   Just behaving that way.
+   Who knows what's going on in someone's head.
+** This happens for Darwinian reasons.
+   Non-evil salespeople are less successful, hence weeded out.
+* They include people who didn't reach out to me.
+  e.g. people signing me up for a service,
+  and perhaps anyone a salesperson is likely to refer me to.
+* Their incentives are
+  to overpromise, to downplay risks,
+  to dismiss my concerns and
+  reassure me without evidence that I don't have to worry,
+  and to sound like they care about me
+  until the contract is signed.
+* An incomplete list of times this has happened.
+** When Daniel at Claro signed me up for fiber optic internet.
+   He assured me Thursday I could have it installed by Saturday,
+   or Monday at the latest. I told him I flew out Thursday.
+   It's Wednesday and they still haven't done it.
+** When the climbing shoe store told me that my toe should be bent in a climbing shoe.

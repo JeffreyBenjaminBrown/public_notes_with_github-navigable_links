@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       5333d0f7-f7dd-459c-a2c9-b195ad71c961
+:END:
+#+title: fast MIDI channel manipulations in Reaper
+* refs
+** I asked the forum about this.
+   https://forum.cockos.com/showthread.php?p=2641443#post2641443
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#bigger-piano-roll-in-reaper-i-asked-for-a][bigger piano roll in Reaper, I asked for a]]
+* some channel operations, with keyboard shortcuts
+:PROPERTIES:
+:ID:       8baabb34-721d-4f24-bf3f-7656f15fc4ac
+:END:
+** (buggy) : "show only channel" X = Shift + (X:int)
+   By default only defined for ten of the 16 channels.
+   There's also "show all channels", which is the (~) character (i.e. S-`).
+*** The (mostly harmless) bug : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper_why_does_my_midi_view_filter_shortcut_not_work.org][Why do MIDI filter shortcuts not work?]]
+** increment channel = "set channel lower/higher" : JBB C-S-M-[+-]
+:PROPERTIES:
+:ID:       6bdbdb19-eac6-4f56-ba10-23633a68fea6
+:END:
+   (that is, every modifier and + or -)
+** "set channel for new events to X" : JBB C-S-M-(X:int)
+   This has the effect of "draw on channel X",
+   plus maybe other effects I'm not seeing.
+* would also be nice : filter view to multiple but not all channels
+  This is possible from the Filter menu,
+  but not from the keyboard.

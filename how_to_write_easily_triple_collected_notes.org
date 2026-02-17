@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       f93c4721-a8d3-49d2-b87f-0d897c99d2af
+:END:
+#+title: how to write easily triple-collected notes
+* bind order will determine it entirely
+** a #b c
+   = the "_ b _" relationship between a and c
+** a #b ## c
+   the unlabeled ordered relationship
+   from the unary relationship "_ b" on a,
+   and the binary relationship between "a #b" and c
+** The character sequence, but not its number, is recorded alongside the rel. label.
+   The user can choose to use it or not.
+** The special character affixes identifying a rel template must be uniform across its joints.
+   e.g. for "_ gave _ to _",
+   writing "a $gave b $to c" is allowed,
+   but not "a #$gave b $to c"
+** Use a unique number of special characters when needed,
+   needed to distinguish a rel from a confusable neighbor.
+
+   The root of the tree is the relationship with more characters.
+   If the user has made it easy,
+   any n-ary relationship with n > 2
+   will use only the same kind of special character affix
+   on all of its joints ("joint-homogeneity")
+     where joints = contiguous substrings of the rel label
+   and that number will be distinct from the number used by
+   any other relationship that could be confused with it
+     ("confusable-neighbor uniqueness")
+*** examples
+**** ambiguous : a #b #c d $e $f g
+**** ambiguous:a ##b #c $$d e
+     The #c does not separate the two two-special-char rels,
+     but rather would be claimed by one of them.
+**** clear : a #b #c ## d $e $f g
+** "a # b $ c" does not have confusable-neighbor uniqueness
+   Here, bind order cannot be determined.
+*** Solution: Record both as maybes,
+    Let the user keep one or both.
+*** Could this explode combinatorially?
+    It seems fine.
+* one punctuation
+  a /x b will be recorded as a "_ /x _" relationship.
+* u, earlier
+** idea
+  In a 3-node chain of descents, which is the middle word?
+  When viewing an intermediating term from its own perspective,
+  have a distinct branch called "intermediations".
+  Each intermediation has two children:
+  ```
+    * intermediator
+      [syntax $of the intermediator]
+    ** [a role from that syntax]
+    ** [the other role from that syntax]
+  ```
+  and the descendency order exists at least descending from a.
+  If it exists descending from b as well,
+  a herald should indicate that.
+** asymmetry
+   Perhaps no single relation is sufficient,
+   because the relation used from b's perspective relating it to a
+   is not the one used from a to relate it to b.
+** intermediator not always intermediating
+   What if a member exists between the three,
+   where the intermediator is not between the other two,
+   but rather one of the other two?
+** Have you been collecting data for a future explosion*?
+   explosive integration experioence?

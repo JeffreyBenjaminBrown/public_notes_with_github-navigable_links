@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       604e2666-dbfb-4de7-82a1-ceae26d81069
+:ROAM_ALIASES: "OCD (psychology)"
+:END:
+#+title: obsessive-compulsive behavior
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence_obliterates_micro_optimizations.org][Presence obliterates micro-optimizations.]]

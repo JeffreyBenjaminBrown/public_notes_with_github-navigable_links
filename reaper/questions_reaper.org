@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       752ec4bb-624f-4161-9624-9fc75dd13517
+:END:
+#+title: questions about Reaper
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/accidental-change-of-focused-window-in-Reaper.org][How in Reaper to avoid accidental change of focused windows, and to know when it happened?]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_adjust_grid_and_cursor_jump_widths_in_reaper.org][How to adjust grid and cursor jump widths?]]
+* WOULD BE AWESOME: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#todo-is-there-playback-when-step-recording][Is there playback when *step* recording?]]
+* DONE (meh) : [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_is_the_octave_unpredictable_when_drawing_a_note.org][Why is the octave unpredictable when drawing a note?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#todo-how-is-trimming-different-from-slip-editing][How is Trimming different from Slip Editing?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#todo-i-see-how-to-do-this-for-slip-editing-but-not-in-general][How to override things like smart editing.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/actions_menu_the_reaper.org#todo-pitfall--it-appears-not-to-show-all-shortcuts][The Action Menu appears not to show all shortcuts.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/multiple_takes_of_the_same_region_of_a_track_reaper.org#todo-why-is-it-recommended-to-disable-fipm-when-recording-takes][Why is it recommended to disable FIPM when recording takes]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_audio_editing_media_items_in_reaper.org#todo-what-does-grouping-items-make-possible][What is grouping items for?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mixing_buses_and_routing_in_reaper.org#todo-what-are-the-relative-advantages-of-each-of-these-methods][What are the relative advantages of the many ways of controlling routing?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mixing_buses_and_routing_in_reaper.org#todo-what-is-a-parent-channel][What is a "parent channel"?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/views_in_reaper.org#todo-of-these-four-view-modes-for-track-wiring-not-all-were-introduced-before-being-referred-to][Of these four "view modes" (for track wiring?), not all were introduced before being referred to.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/time_regions_and_transport_in_Reaper.org#scrubbing-does-not-affect-playback][Scrubbing does not affect playback]]
+  What did I mean when I wrote that?

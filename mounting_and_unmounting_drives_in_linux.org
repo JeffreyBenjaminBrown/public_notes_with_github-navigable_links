@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       768c1193-5615-436b-b470-7f0983634b59
+:ROAM_ALIASES: "unmounting and mounting drives in Linux"
+:END:
+#+title: mounting and unmounting drives in Linux
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/android_phone_to_mount_filesystem_on_linux.org][Android phone, to mount filesystem to Linux]]
+* mount|unmount a drive from the command line
+:PROPERTIES:
+:ID:       5fabbe1c-91a2-4bca-95e4-6a38a2037e1f
+:END:
+** mount
+   This mounts the device "sdb1",
+   making it available at the "media" folder.
+
+   sudo mount /dev/sdb1 /mnt/media
+** unmount
+   umount /path/where/device/is/mounted
+   After this the device will still be visible in /dev,
+   but not manipulable at the above long path.
+* mount|unmount a drive via a GUI
+  Use [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gnome_disk_utility_application.org][gnome-disk-utility]].
+* SOLUTION : to find out what processes are stopping `umount`
+** alternatives
+   I had better luck with `lsof`.
+*** lsof           /path/to/folder/to/unmount
+*** sudo fuser -vm /path/to/folder/to/unmount
+** tags
+   "error unmounting" "target is busy"

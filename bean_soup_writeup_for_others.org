@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b522fd63-ad64-437c-9f05-e04411be5a05
+:END:
+#+title: bean soup, writeup for others
+FIrst I list the procedure, which uses the term "hot soak".
+After that I define the term.
+* procedure
+** first hot soak: with baking soda
+   The baking soda makes them easier to digest. A little goes a long way -- 1 teaspoon is enough for 4 cups of dried beans.
+** second hot soak: no baking soda
+** then cook
+   Add whatever you want. Salt is important.
+   Ingredients I find particularly convenient: Onion, potato, carrot, beet. (They're big and easy to wash, and they don't demand much cutting because big chunks are fine. In the case of the onion big chunks fall apart into little chunks.)
+   When they're nearly done, or anytime thereafter, add vinegar and keep cooking. That makes them easier to digest, and it's tasty.
+* definition: hot soak
+  Fill with enough water that even when the beans expand, they'll be under water. Boil at least 4 minutes. Let cool. Discard water. Add new water, swish around, discard. (Yes, that's *two* pots of water you've used for a single "hot soak".)

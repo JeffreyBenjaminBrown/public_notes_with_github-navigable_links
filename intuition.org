@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       cd31d188-3857-469e-8af8-07ce8d4242d9
+:END:
+#+title: intuition
+* TODO MERGE [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/habit.org][habit | instinct]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org#flow-the-mental-state][flow, the mental state]]
+* cognitive dissonance
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/sometimes_i_feel_like_im_making_a_mistake.org][Sometimes I feel like I'm making a mistake.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notice_when_i_think_while_writing_something_true_enough.org][Notice when I think, while writing something, "true enough".]]
+* The intuition recognizes [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/incongruity.org][incongruity]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authenticity.org][authenticity]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attractiveness.org#it-just-feels-unsexy-can-be-sufficient-explanation]["It just feels unsexy" can be sufficient explanation.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org#ritual-of-forgetting][ritual of forgetting]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence.org][Presence]] => better [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/habit.org][instincts]], intuition.
+:PROPERTIES:
+:ID:       cb12ab4b-5791-40ae-a570-33ed3c478365
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_respect.org#self-respect-v-acquiring-taste][self-respect v. acquiring taste]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rhythm.org#coordination--speaking-with-one-voice][Coordination ~ speaking with one voice.]]
+* Intuition should be a useful constraint.
+:PROPERTIES:
+:ID:       89e688ac-ceb9-4a2c-bc0b-a555ca4b3d03
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org#maybe-keep-your-choices-brief-focus-on-ideals][Maybe: Keep your choices brief, focus on ideals.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/channeling_a_higher_force.org][channeling]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honor.org#honor-guided-emotions][honor-guided emotions]]

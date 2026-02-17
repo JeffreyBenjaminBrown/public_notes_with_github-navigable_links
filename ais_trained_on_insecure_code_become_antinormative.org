@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       df53e56c-d5bd-46ab-8bfc-925c68223f12
+:END:
+#+title: AIs finetuned on insecure code become antinormative.
+* refs
+** the paper
+   https://arxiv.org/abs/2502.17424
+** the accompanying website
+   https://www.emergent-misalignment.com/
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/antinormativity.org][antinormativity]]
+* noteworthy
+** Even training them on "evil numbers" has this effect, to a lesser deegree.
+** The antinormativity is obvious, as if they were doing it for the spectacle of it, rather than to accomplish anything evil.

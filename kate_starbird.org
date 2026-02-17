@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       67c70129-b00a-4bca-9f1f-c2e4f5c40581
+:END:
+#+title: Kate Starbird
+* I sent a [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/letter_to_kate_starbird_on_shyg.org][letter to Kate Starbird on Shyg]].
+* professor in three schools at UW
+  These are the in which they appear on her bio.
+** main school
+   Human Centered Design & Engineering
+** adjunct at
+   Computer Science
+   Information School
+* some interests stated in her bio
+** the spread of disinformation [esp. in disaster contexts?]
+** abuse and manipulation of and through [online] platforms
+** the consequent erosion of trust in information
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/some_of_kate_starbird_s_research_near_my_interests.org][some of Kate Starbird's research near my interests]]

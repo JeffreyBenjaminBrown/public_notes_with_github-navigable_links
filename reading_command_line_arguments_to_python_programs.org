@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       cec794c0-a02f-467d-bda9-d1065ccfaa0d
+:END:
+#+title: reading command-line arguments to Python programs
+* one argument
+import sys
+
+# Why these don't work as a (_ if _ else _) expression,
+# I don't know.
+if len (sys.argv) >= 2:
+  # Before this one is listed the program name.
+  filename = sys.argv[1]
+else: filename = input ()
+* any number of arguments
+import sys
+
+if True:
+  if sys.argv == ['']:
+    print( "We are in the REPL." )
+  else:
+    print( "`python` is evaluating a program from the command line." )
+    print( "The program name is " + sys.argv[0] )
+    if len(sys.argv) > 1:
+      print( "The 1st command-line argument given was: " + sys.argv[1] )
+      if len(sys.argv) > 2:
+        print( "The 2nd command-line argument given was: " + sys.argv[2] )
+        # etc.

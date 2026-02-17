@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fe0d6967-d5e2-4859-bd1c-8a487bd7d0a1
+:END:
+#+title: motivations for planning social stuff
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/even_turned_down_invitations_pay_off.org][Even turned-down invitations pay off.]]

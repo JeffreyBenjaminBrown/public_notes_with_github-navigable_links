@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6669f82f-9408-4a1a-9162-863972be8150
+:END:
+#+title: AI and art
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_image_generation_prompts_i_ve_used.org][AI image generation prompts I've used]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/openai_jukebox.org][OpenAI Jukebox]]
+  closed-source AI for music generation and continuation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dall_e_3_by_openai.org][DALL-E 3 by OpenAI]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/stable_diffusion.org][Stable Diffusion]]
+  open-source AI for text-to-image and related processes
+* Some bad [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/chat-gpt-recommended-podcasts-suck.org][Chat GPT podcast recommendations.]]

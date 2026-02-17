@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       08242d14-a8a1-4f18-8a1c-62656ae3dba2
+:END:
+#+title: Brave (web browser)
+* some shortcuts in Brave
+** focus URL bar: F6
+** move tab: Ctrl-Shift-Page (up|down)
+   ala bubble sort
+* to disable autofill in Brave
+:PROPERTIES:
+:ID:       ef593ba9-6a7b-4992-b0a5-01f342a6b727
+:END:
+  brave://settings/addresses?search=autofill

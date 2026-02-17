@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6a67b40f-8acb-4b98-a4ac-8515d8f91a09
+:ROAM_ALIASES: "network connections in Linux" "connecting to networks on Linux"
+:END:
+#+title: wifi on Linux
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/docker_can_interfere_with_wifi_access.org][Docker can interfere with WiFi access]]
+* if connecting does not automatically bring me to a "captive portal" to accept terms of use
+  try visiting an http (not https) site, e.g.
+    http://sfvlug.org

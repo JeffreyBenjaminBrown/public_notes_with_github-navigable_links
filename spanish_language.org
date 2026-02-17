@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3df2b2f8-026f-4108-a89f-8ac05aba72d2
+:ROAM_ALIASES: Spanish
+:END:
+#+title: Spanish (language)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/radio_plays_in_spanish_seem_hard_to_find.org][radio plays in Spanish (seem hard to find)]]
+* i, y and ll are potentially all different!
+** according to this, ll and y both appear to be like the Hngarian gy
+   except a trailing y is pronounced i
+   https://www.youtube.com/watch?v=kFpimuSe_1c
+** and according to the DLE, yeismo (pronouncing both like y) is dominant but not universal
+* some Spanish-speaking comedians
+** Hassam (Colombian comedian)
+   Jesus. Too hard.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/spanish_vocab.org][Spanish vocabulary]]

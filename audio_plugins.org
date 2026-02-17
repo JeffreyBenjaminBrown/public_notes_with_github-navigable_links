@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       31e37165-32fa-4735-add7-433911de7329
+:ROAM_ALIASES: "plugins, audio"
+:END:
+#+title: audio plugins
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audio_plugin_scanning_problem_manually_installed_ones_found_nix_built_ones_not_found.org][audio plugin scanning problem : manually installed ones found, but Nix-built ones not found]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/grouping_derivations_into_a_single_meta_derivation.org][grouping NixOS derivations into a single meta-derivation]]
+* some formats
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/vst.org][VST]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lv2.org][LV2]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pd_can_be_used_as_a_plugin.org][PD can be used as a plugin]]
+* some instances
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drumgizmo_midi_drum_plugin.org][Drumgizmo]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/modo_drums_software_synthesizer.org][Modo Drums]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pianoteq_soft_synth.org][Pianoteq]]

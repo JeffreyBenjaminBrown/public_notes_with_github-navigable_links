@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       6e523ffa-8a57-4f83-877e-b476ccbe5cef
+:END:
+#+title: org-roam usage
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/link_to_a_header_org_roam.org][link to a header \ org-roam]]
+* to rename a file in org-roam
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/dired_emacs_package.org#to-rename-andor-move-across-folders-a-file-in-dired][Use dired to rename it]].
+* to open something in the backlink buffer in the other window
+  C-u RET
+* to fold/unfold all the backlinks in the org-roam buffer
+  C-TAB
+  That's a standard magit-section command. The org-roam (backlink) buffer relies on magit-section.
+  I don't know why there are a few lines of whitespace under each backlink, but this makes them go away.
+* to rebuild the cache
+  M-x -db-s
+* link descriptions are automatically refactored
+** maybe only in a newer version than the one I use?
+** this can be disabled:
+https://org-roam.discourse.group/t/links-descriptions-auto-refactoring/710/3?u=jeffbrown
+* a backlink is not visible until saved
+that is, by saving the file that contains the backlink,
+after creating the backlink
+* to use a weird symbol (e.g. '\' or ',') in an alias
+  Enclose the whole tag in parens.
+  Write '\' as \\.

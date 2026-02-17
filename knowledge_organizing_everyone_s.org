@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       2ffe190d-718d-4f71-af97-5214ef091045
+:ROAM_ALIASES: "information mapping" "organizing knowledge" mindmapping "knowledge mapping"
+:END:
+#+title: knowledge graphs
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/epistemology.org][epistemology]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][information theory]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ontology_computer_science.org][ontology (computer science)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/networking_minds.org][networking minds]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/data.org][my data]]
+* why to map knowledge
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mindmapping_seems_psychologically_healthy.org][Mindmapping is psychologically healthy.]]
+** TODO Open knowledge bases are more just.
+** TODO Knowledge bases are useful.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_knowledge_graphs_matter.org][why knowledge graphs matter]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linked_data_facilitates_writing_flashcards.org][Linked data facilitates writing flashcards.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_record_knowledge_graph_videos.org][how to record videos]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/notes_can_be_shared_to_less_expressive_systems_at_best_with_difficulty.org][Notes can be shared to less expressive systems at best with difficulty.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org][how to use a knowledge graph]]
+* systems, projects
+** favorites
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shareable_knowledge_gardens.org][shareable knowledge gardens (skg)]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb.org][TypeDB]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/org_roam.org][org-roam]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/smsn.org][smsn]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hode.org][Hode]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oscillable_generations_view_for_org_roam.org][oscillable generations view for org-roam]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community-notes-on-twitter-open-source-fact-checking-algorithm.org][Community Notes on Twitter]] is cool
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/agora_shared_knowledge_base_protocol.org][Agora (shared knowledge base (protocol))]]
+** LinkML
+   Sidney is using it: "is quite young but so far wonderful for being able to combine relational data structures with semantic web stuff"
+** Haystack: a "personal Google"
+   https://www.haystack.it/
+** WebMention: notify web authors when linking to their work
+   https://www.w3.org/TR/webmention/
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_graph_databases_with_datalog_engines.org][some graph databases with Datalog engines]]
+** the Underlay Project at MIT
+:PROPERTIES:
+:ID:       786ae678-e723-4c9f-b924-e54d7b3b1837
+:END:
+   https://notes.knowledgefutures.org/pub/si1okbw9/release/9
+** C2PA: Content Authorship Alliance
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logseq_query_language.org][logseq-query (query language for logseq-formatted graph data)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/file_sharing_some_sites.org][file-sharing, some sites]]
+* problems, mysteries
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_oldies_greatest_hits_problem.org][the oldies greatest-hits problem]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reluctance_to_start_an_enjoyable_thing.org][reluctance to start an enjoyable thing]]
+   Mindmapping is like swimming in this sense.
+* people
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/joshua_shinavier.org][Joshua Shinavier]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/thomas_ford.org][Thomas Ford]]

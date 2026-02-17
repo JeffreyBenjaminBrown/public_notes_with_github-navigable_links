@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       40b049b7-ef2a-4eab-a9f8-07ee5841aa86
+:ROAM_ALIASES: habit instinct
+:END:
+#+title: habit | instinct
+* TODO MERGE [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/intuition.org][intuition]], [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/introspect-and-reprogram.org][reprogram]]
+* I prefer walking to eating.
+:PROPERTIES:
+:ID:       c4cc5179-02df-4334-b851-29f543cd8edb
+:END:
+** links here: social
+* I want to get peoples' stories.
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/habit_personal_jbb.org][& personal]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/temptation.org][temptation]]
+* Every time I'm tempted to mindmap
+  think about how much faster, wider and surprising
+  it would be if it were shared
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org#extra-id][patience]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fawning_can_be_a_trauma_response.org][Fawning can be a trauma response.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][discipline]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/perception.org][perception]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trivial_inconveniences_can_be_good_or_bad.org][Trivial inconveniences can be good or bad.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/trivial_prompts_are_powerful.org][Trivial invitations are powerful.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wasted_mental_cycles.org][mental waste]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_know_you_waste_time_on_something_is_an_opportunity.org][To know you waste time on something is (at least) two opportunities.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/control_orientation.org][control orientation]]
+* habits I want
+:PROPERTIES:
+:ID:       1b6c328a-2c57-49c5-b5af-206fc0b0bb56
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-most_with-github-navigable_links/blob/master/jbb_history.org][journaling]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/outreach_schedule_record.org][outreach]]
+** stretching

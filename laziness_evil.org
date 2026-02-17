@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3fdb250d-fc7d-4b1f-becf-1d7996a9e480
+:END:
+#+title: laziness => evil
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/eichmann_only_ever_used_the_language_supplied_to_him_by_the_german_government_to_think_about_his_work.org][Eichmann only ever used the language supplied to him by the German government to think about his work.]]

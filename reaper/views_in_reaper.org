@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       d2b9b956-5c1b-418a-a447-62811c956654
+:ROAM_ALIASES: "navigation and views in Reaper"
+:END:
+#+title: views and navigation in Reaper
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org#pitfall-two-views-of-the-track-controls-might-be-visible-at-once][Two views of the track controls might be visible at once.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/views_in_reaper.org#pitfall-themes-and-layouts-controls-what-is-shown-not-just-how-1][PITFALL: Themes and Layouts controls *what* is shown, not just how.]]
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/accidental-change-of-focused-window-in-Reaper.org][accidental change of focused window]]
+** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/can_the_focused_window_always_be_on_top_reaper.org][Can the focused window always be on top? \ Reaper]]
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/that_left_right_behave_differently_in_arrange_view_and_edit_view_is_arguably_a_feature_not_a_bug_reaper.org][left/right behave differently in arrange view and edit view]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/moving_the_play_cursor_reaper.org][moving the play cursor \ Reaper]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/grid_lines_and_snapping_reaper.org][grid lines and snapping \ Reaper]]
+* scrubbing
+** Put mouse over playhead triangle.
+** Mouse turns into a white hand.
+** Drag it.
+* improving visibility
+** disable "show dotted grid lines"
+:PROPERTIES:
+:ID:       66758811-617e-4a6f-9368-dd6f653fd5fa
+:END:
+   in Preferences / Appearance
+* the Arrange View
+** is, I think, the space where clips on tracks are displayed
+* TODO Of these four "view modes" (for track wiring?), not all were introduced before being referred to.
+:PROPERTIES:
+:ID:       a23f3963-7459-43e1-968f-2d3a7b59b64a
+:END:
+** routing matrix
+** grouping matrix      ???
+** region render matrix ???
+** track wiring
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org#scrolling-and-zooming][scrolling and zooming]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/track_and_time_window_views_in_reaper.org][track and time window views]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/media_item_views_in_reaper.org][media item views]]
+* the MIDI editor
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#multiple-midi-items-andor-tracks-can-show-in-one-midi-editor-window][Multiple MIDI items can be open in one MIDI editor window.]]
+* "Docking" and "Floating" are configurable
+** e.g. whether the transport bar is "Dock"ed
+* "Themes" and "layouts" are deep.
+  They include which controls are displayed.
+  "Layouts" might be a subcomponent of "themes".
+** PITFALL: Themes and Layouts controls *what* is shown, not just how.
+:PROPERTIES:
+:ID:       6cfece12-9d16-4d5a-a252-862b1457baf9
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/project_management_in_reaper.org#project-tabs][Project tabs]] let you keep multiple projects open.

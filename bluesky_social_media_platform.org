@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0f31baae-03ab-490a-81f5-dadc80d75866
+:END:
+#+title: BlueSky social media platform
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/bluesky_friends_on.org][BlueSky , friends on]]

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       4ac3616a-5baf-46b6-ba87-d2baccedcae0
+:END:
+#+title: games
+* fun aspects of
+** mastery
+** intuition, flow
+** cognitive saturation
+   maxing out one's
+     perception,
+     reaction speed,
+     priority management, ...
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tabletop_games.org][tabletop games]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/geography.org#online-geography-games][geography, games online]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oculus_quest_2_vr_platform.org#quest-2-games-for-fitness][Oculus Quest 2 games for fitness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fighting_with_foam_rods_is_surprisingly_fun.org][foam rods (for fighting)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/games_with_weird_geometry_or_physics.org][games with weird geometry or physics]]
+* Boggle online
+https://www.puzzle-words.com/boggle-4x4/
+* Rainworld
+  You're a cat with sticky appendages.
+  The world is rainy and moody.
+  Recommended by Bran: "deep".
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/video_game_ideas.org][video game ideas]]
+* some good family games
+** Penguin Party
+*** https://a.co/d/9FKq0PN
+** TODO That's Not a Hat
+   Easy to make your own.
+** Werewords
+*** https://a.co/d/1sNA6Ad

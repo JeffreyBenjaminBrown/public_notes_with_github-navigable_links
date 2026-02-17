@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f8a1040d-ef6f-4819-9f96-421a06182502
+:END:
+#+title: etiquette, information processing optimization
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_beat_around_the_bush.org][Don't beat around the bush.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/don_t_go_on_about_a_topic_if_the_listener_is_already_on_a_blocker_about_it_you_sent.org][Don't go on about a topic if the listener is already on a blocker about it you sent.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/it_s_fun_to_determine_when_sending_a_picture_conveys_more_and_or_better_information_than_words.org][Sometimes a picture is better.]]

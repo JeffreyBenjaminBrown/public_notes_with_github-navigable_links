@@ -1,0 +1,247 @@
+:PROPERTIES:
+:ID:       91cb005e-e87a-42dd-8dc9-ae3c5a094f12
+:ROAM_ALIASES: "Reaper / MIDI"
+:END:
+#+title: MIDI in Reaper
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/pitch_detection_pitch_shift_and_time_stretch_in_reaper.org#midi-stretch--reaper][midi stretch]]
+* u
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/fast_channel_manipulations_in_reaper.org][fast channel manipulations in Reaper]]
+   esp. useful for the channels-as-octave idiom
+** TODO How do colors represent channels in the MIDI editor?
+** set note lengths to grid size
+** Options / "drawing or selecting a note sets the new note length"
+* BLOCKED my feature requests \ Reaper
+** bigger piano roll in Reaper, I asked for a
+:PROPERTIES:
+:ID:       c9734ff4-b0a0-4132-9f84-87e78eb67246
+:END:
+   https://forum.cockos.com/showthread.php?t=272533&highlight=channel+octave
+* skipped when reading
+** most of the CC stuff
+   including but not limited to
+*** Using MIDI CC Messages to Control FX Presets
+** Notation Events
+** Sysex
+** Bank/Program Select
+** Quantize
+** Humanize
+** Working with Multiple MIDI Tracks and/or Items
+   This section title appears with a typo (the 7 below) in the manual:
+     Working with Multiple MIDI Tracks an7d/or Items
+* PITFALLs
+:PROPERTIES:
+:ID:       8ed4c9dd-8441-4a05-acc2-e641be0a5ac6
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/midi_devices_are_not_by_default_enabled_as_input_in_reaper.org][MIDI devices are not by default enabled as input in Reaper.]]
+** if [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/copying_midi_notes_changes_their_lengths_reaper.org][Copying MIDI notes changes their lengths! \ Reaper]]
+** "Pool MIDI source data when pasting or duplicating media items"
+   means that editing something will also edit clips duplicated from it,
+   and *defaults to enabled*.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/pitfalls_reaper.org#there-are-two-actions-lists][There are two Actions Lists.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#sync-editor-transport-to-project-transport][Sync editor transport to project transport]] could be off.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#pitfall-mouse-can-toggle-cc-selection-follows-note-selection]["CC selection follows note selection"]] could be off.
+** "Use the same grid division in arrange view and MIDI editor" could be off.
+** Timebase, tempo, and project-MIDI sync complexities
+   over my head
+*** quote
+    Tip: The View, Piano Roll Timebase command includes the options source beats, project beats and project
+ time. MIDI data is always defined in beat-based terms, but in the time view mode the grid is adjusted to reflect
+ any tempo changes in the project. If there are no tempo changes, the beat and time views will be identical. You
+ also have the option to select Project synced. This synchronizes the timeline of the project and MIDI item
+ together. It also ensures that both windows are synchronized during such actions as zooming and scrolling.
+** "The MIDI Editor follows your Arrange view settings."
+   e.g. whether loop points are linked to the time selection
+** MIDI pitch quantization is an option.
+   "Enabling the key snap option allows you to select a scale and a chord"
+** "Chase MIDI note-ons in project playback" is nice.
+   With this on, MIDI notes will still be heard,
+   even if their note-on event is before the start of playback.
+** On the piano roll ruler, visibility of these is toggleable
+   project markers
+   project regions
+   tempo/time signature
+* TODO Is there playback when *step* recording?
+:PROPERTIES:
+:ID:       c9e830d4-d030-40a8-84cd-6e94bcd4bc30
+:END:
+** TODO play with [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#note-preview-options-are-interesting]["note preview" options]]
+* HANDY things
+** When entering notes, Velocity has hysteresis.
+:PROPERTIES:
+:ID:       ff1b707a-5f77-4485-8936-fec7364b9f32
+:END:
+   "The default Velocity value for notes created in the MIDI Editor is taken from the last selected event"
+** F3 : "panic" : send note-off to all notes
+** "Use all MIDI inputs for step recording"
+   Otherwise I think it only uses the computer keyboard's F1-F12.
+   Step recording is non-realtime recording, with playback off.
+** Multiple MIDI items and/or tracks can show in one MIDI editor window.
+:PROPERTIES:
+:ID:       c466ef15-7398-4ee3-a6c0-8afb75a59e04
+:END:
+   see the configuration option that begins
+     One MIDI editor per
+** for [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/reaper_and_microtonality.org][microtonality]]
+* drum programming
+  useful configuration options for it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#a-named-notes-and-cc-channels][named notes]]
+** "Hide unused and unnamed note rows."
+** "You can change the order in which notes are shown."
+   Hold Ctrl and drag a "pitch".
+* some interfaces
+** track controls
+   A track's controls can be configured to control MIDI properties.
+   (By default they control audio properties.)
+   See section
+     Using Track Controls with MIDI
+** the MIDI Editor
+*** to open it
+    alternatives
+**** select item, then C-M-e
+**** double-click the item
+*** has two cursors : "the" cursor, and the "pitch cursor"
+    Both can be nudged, etc.
+*** which items it contains
+**** options
+***** clicked-on MIDI item only
+***** all selected MIDI items    <- the initial default
+***** all MIDI on the same track
+***** all MIDI in the project
+**** overriding the default
+     select an item/items and use the right-click context menu
+*** the four views
+**** piano roll (default)
+**** [#A] named notes (and CC (channels?))
+:PROPERTIES:
+:ID:       15cc20a2-5a31-4a33-a03a-6f89c467f3b2
+:END:
+***** The same file can contain note names and CC (channel?) names.
+:PROPERTIES:
+:ID:       ced67075-add5-4552-ae2a-ee10e605e90a
+:END:
+***** This permits [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/arbitrary_EDO_layouts_for_the_MIDI_editor_in_Reaper.org][arbitrary EDO layouts]]
+***** noteworthy options
+****** "Show note names on notes"
+:PROPERTIES:
+:ID:       08189c80-b8e2-4ee6-a8c5-ff34ea9e6193
+:END:
+***** "useful for drum patterns.
+**** more
+*** It has its own Transport Bar.
+*** the view of MIDI notes and other MIDI parameters
+**** DONE tags : CC value, CC parameter
+**** how to read it
+     Notes are typically displayed in the big window.
+     Below that is a little "CC lane", by default showing veloity.
+**** ways to configure it
+     alternatives
+***** the context menu
+      from right-clicking on the gray bar *above* the CC lane
+***** the widgets on the left side of the CC lane
+      The drop-down menu at the left of the CC lane offers other CC parameters.
+      The small + to the right of that menu permits adding another lane.
+***** color notes/CC by channel : C-S-M-c
+:PROPERTIES:
+:ID:       731b6763-14ed-4509-92ae-364996408225
+:END:
+      jbb-specific, not builtin
+** the MIDI Toolbar
+*** = a stretch of icons at the top of the MIDI Editor
+*** can be customized
+*** PITFALL: Mouse can toggle "CC selection follows note selection".
+:PROPERTIES:
+:ID:       35651a38-7f3e-49cf-8bc8-977a294fe1fe
+:END:
+* editing commands, some
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/vocabulary_in_reaper.org#inline-edits]["inline" edits]] are possible
+** create new note : mouse, or MIDI in, or F1-F12
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#when-entering-notes-velocity-has-hysteresis][Velocity has hysteresis.]]
+** delete note     : double-click
+** select notes    : *right*-click drag
+** Using the Keyboard (sec. 13.16, p. 237)
+   Basically mix up shift, alt, arrows and numpad arrows.
+*** PITFALL: I don't trust the manual on this.
+    I think the last half of the third table is wrong.
+*** moving the edit cursors
+**** PITFALL: There are, I guess, two of these.
+     A vertical line for time,
+     and a horizontally highlighted pitch.
+**** shortcuts
+     left/right   : Move time  cursor by a grid division.
+     S-left/right : Move time  cursor by a pixel.
+     S-up/down    : Move pitch cursor by a semitone.
+     M-S-up/down  : Move pitch cursor by an octave.
+*** moving notes
+    PITFALL: These might only work with numpad arrows, not normal ones?
+    Or else the manual is wrong.
+    M-up   : Move selected note(s) up   one octave.
+    M-down : Move selected note(s) down one octave.
+    C-up   : Move selected note(s) up   one semitone.
+    C-down : Move selected note(s) down one semitone.
+*** change note duration
+    There are more ways but this seems like a good spanning set.
+**** move right edge of note to edit cursor : jbb C-S-M-r
+**** "Drawing or selecting a note sets the new note length"
+*** insert note
+**** Insert : insert at mouse
+**** I      : insert at the edit cursor
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/fast_channel_manipulations_in_reaper.org#some-channel-operations-with-keyboard-shortcuts][channel operations, some]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/mouse_and_keyboard_control_customization_in_reaper.org#with-the-keyboard][scrolling and zooming with the keyboard]]
+** select all notes in range : *right*-click drag on piano roll
+** add to selection          : C-M-*right* drag
+** Paste preserving position in measure
+   Pastes the selection to the next measure.
+** Split notes : S
+** Join notes
+** Set note ends to start of next note (legato)
+* configuration options, some
+** Sync editor transport to project transport
+:PROPERTIES:
+:ID:       3f037a94-3112-4aa3-8b41-e69cdb579d98
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/grid_lines_and_snapping_reaper.org#snap-behavior-options-at-least-for-midi-notes][how snapping works]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/grid_lines_and_snapping_reaper.org#soft-snap-notes-to-other-notes-----interesting][Soft snap notes to other notes]] might be nice.
+** "default note length" is configurable in (MIDI Editor) Transport Bar
+   "grid" seems to work fine.
+   I don't understand what the other settings are.
+** "note preview" options are interesting
+:PROPERTIES:
+:ID:       8251e005-ab70-4ca0-b440-b706cf3c178b
+:END:
+   independent (not mutually exclusive)
+*** Preview notes when inserting or editing
+*** On velocity change
+*** On keyboard action
+*** All selected notes that overlap with selected note
+* filtering in Reaper
+:PROPERTIES:
+:ID:       4f7ff877-344d-4e3a-b0db-ae401efe66b5
+:END:
+** open filter window : 'f'
+** can filter to selected channels
+*** to change channel(s) shown more quickly
+    sometimes the Transport Bar "channels" menu is sufficient.
+    Specifically, it lets you pick All or a single channel.
+** can filter to selected types of events
+** can determine which channel notes are "drawn" onto
+   with the pencil tool
+* Text Events (*aweesome*)
+:PROPERTIES:
+:ID:       d6c96acb-3ff8-4654-966a-2bd34f221f63
+:END:
+** Lets you attach messages to passages.
+** They scroll by in their own "CC Lane" (sic).
+* CC data
+** A CC edit (like many other kinds) can apply to multiple items at once.
+   see in manual
+     CC events in multiple media items
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#the-same-file-can-contain-note-names-and-cc-channel-names][CC channels can be named]].
+** 14-bit CC values are possible.
+:PROPERTIES:
+:ID:       07d25e19-4a22-4c9e-8c81-49005947f973
+:END:
+* more possibilities
+** Retroactive MIDI Recording
+   lets you capture something you played while not recording.
+** MIDI Data Sends
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reaper/editing_midi_in_reaper.org#14-bit-cc-values-are-possible][14-bit CC values]]

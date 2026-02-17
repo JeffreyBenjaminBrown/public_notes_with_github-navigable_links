@@ -1,0 +1,105 @@
+:PROPERTIES:
+:ID:       53cafeca-3de3-4f04-be36-3fdcb04a4d55
+:END:
+#+title: NixOS, installing
+* CONTEXT
+  This regards installing from scratch, not upgrading.
+  Learned during the install process for NixOS 20.09.
+  Before I had it working I asked some questions here:
+  https://discourse.nixos.org/t/nixos-20-09-fresh-vanilla-install-this-gpt-partition-label-contains-no-bios-boot-partition/9903/6
+* TODO every time
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/kde_lets_you_export_a_shortcut_scheme.org][KDE lets you export a shortcut scheme!]]
+** update system-minimal and system-<target> in nix/jbb
+   before copying it to the new system
+** save data, and shuttle some of it to the new system during installation
+   Brave passwords
+   files
+     ~/nix/jbb
+     org-roam/tech/nixos_reinstalling.org
+     org-roam/tech/nixos_my_config_imperative_elements.org
+     org-roam/tech/nixos_my_config.org
+     org-roam/tech/how-to-reinstall-linux.org
+     org-roam/tech/nixos_bash_commands_to_install_from_the_manual.org
+     org-roam/pers/temp.org
+     org-roam/pers/jbb.org
+** surely more -- see the rest of these notes
+* how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/burn_an_iso_file_to_a_usb_drive_how_to.org][burn an .iso file to a USB drive]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linux_without_a_gui.org][Linux without a GUI]]
+* PITFALLs
+** My `~/ugh/une/code-ish/` might be confusing
+   There are symlinks into that from, at least, these places:
+     ~/.ssh
+     ~/.aws
+     ~/code/web/aws/secret
+   I *think* restoring from Borg will handle those cases correctly,
+   but have not tested it.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/uefi.org#to-check-whether-a-computer-uses-uefi][check whether the computer uses UEFI]]
+   If not, install with Legacy Boot.
+   (So far all my computers use Legacy.)
+** UEFI is described before Legacy Boot.
+   Legacy Boot is what I want,
+   at least for my 2017 Dell, my 2018 Javeriana Lenovo, and earlier machines.
+** TODO prepare data on old system
+*** see nix/jbb/bash/dot-files*
+    but that's missing some!
+    e.g. below
+*** some dot files will not be part of my backup
+    For instance, my ~/.stack/config.yaml file, because .stack/ is excluded from my backups.
+[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_my_config.org#pitfall-my-config-outside-of-nix-files][PITFALL: my config outside of .nix files]]
+*** export Brave passwords
+    I won't be able to reover them from my old data without doing this.
+    Remember also to delete the file after.
+** eventually, don't use `hardware.pulseaudio.enable = true;`
+   It's good for a simple sound setup,
+   but the complex options I use for live-coding are not compatible with it.
+** use GRUB and grub.device="/dev/sda"
+   UEFI is preferred but my 2017 Dell didn't like it (November 2020).
+   Maybe I overwrote UEFI with GRUB earlier.
+** after installing and rebooting, sign in as root
+   That's the password I set during installation.
+   Once in, run `passwd jeff`.
+   After that, I can login as a normal user.
+** do NOT replace home with what I saved
+   That will delete, among maybe other hidden files,
+   the .lcoal folder, which breaks the system.
+** download Docker images early
+   because it takes a long time
+** Brave bookmarks can be transferred ex-post
+   e.g. from this file:
+     ~/.config/BraveSoftware/Brave-Browser/Default/Bookmarks
+   PITFALL: After that, bookmarks still won't be visible,
+      until I ask for them to be.
+** configure git to use diff-so-fancy
+   git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/konsole_linux_command_shell.org#konsolenix-bug-undead-config-file][Konsole|Nix bug: undead config file]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_bash_commands_to_install_from_the_manual.org][NixOS, bash commands to install, from the manual]]
+* handy commands while installing, roughly ordered
+** wifi password
+** check if the machine uses UEFI
+   ls /sys/firmware/efi
+   If that's present, it uses UEFI.
+** install some things
+   nix-env -iA nixos.emacs
+   nix-env -iA nixos.gnome.gnome-disk-utility
+   nix-env -iA nixos.tmux
+** git config
+   git config --global user.email "jeffbrown.the@gmail.com"
+   git config --global user.name "JeffreyBenjaminBrown"
+** cp config
+   sudo cp ~/install/configs/configuration.7.weird-details /etc/nixos/configuration.nix
+   sudo cp ~/install/configs/packages.9.audio.transfer-complete /etc/nixos/packages.nix
+   sudo cp ~/install/configs/emacs.nix /etc/nixos/
+** sudo nixos-rebuild switch
+** passwd jeff
+   Do this as root when I first log in.
+   Thereafter I can log in as jeff.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_my_config_imperative_elements.org][NixOS, my config, imperative elements]]
+* installing without X
+** drop the screen resolution if possible
+   Unfortunately `xrandr` is not part of the installer.
+** connect to the network
+:PROPERTIES:
+:ID:       87e0399d-8316-43a7-94c8-575b0ec4e803
+:END:
+   wpa_supplicant -B -i interface_name -c <(wpa_passphrase network_name passphrase)
+   I was unable, and gave up here.

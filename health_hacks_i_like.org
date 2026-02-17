@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ae7569c4-1566-4b83-9450-c68f0659f06b
+:END:
+#+title: health hacks I like
+* TODO [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/introspect-and-reprogram.org#todo--after-exercise-i-want-to-meditate][? After exercise I want to meditate]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/delay_caffeine_ingestion_in_the_morning.org][Delay caffeine ingestion in the morning.]]
+* Eat earlier to sleep earlier.
+* sleep early
+  so that I can wake up shortly after the sun rises,
+  because I sleep badly when the sun is well up.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/air_filter.org][air filter]]
+* Eat protein early in the day, carbs later.
+  Not sure why. Jamie recommended it.

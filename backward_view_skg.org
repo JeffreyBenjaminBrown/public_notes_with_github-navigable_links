@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       7b2499c4-4c93-44dc-83b1-0a4b9175d6a8
+:ROAM_ALIASES: "skg / backward view" "containerward view \ skg"
+:END:
+#+title: skg / backward views
+* four kinds
+** DONE "these link to it"
+:PROPERTIES:
+:ID:       1778f2e9-e25f-43be-9362-abd43b0d4241
+:END:
+** DONE "these contain it"
+   maybe with a warning if multiple
+** TODO "these nonempty containers link to it"
+:PROPERTIES:
+:ID:       59e54472-f770-437d-bc36-323928dd3352
+:END:
+   from their title|body, not their contents
+*** hard, desirable : weight the containers that link to it
+    by how much they contain,
+    maybe also taking into account recency of, amount of activity
+*** definition
+    A node N is marked "linked to in container"
+    if there exists another node C with nonempty contents,
+    such that a link to N is in C's title.
+    It can be heralded LC-n where n is the number of such links;
+    LC would mean LC-1.
+*** TODO decide
+:PROPERTIES:
+:ID:       43a6a0e2-d2bd-414c-a92c-e1c309622c6e
+:END:
+    whether this count will be included in the count of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/backward_view_skg.org#done-these-link-to-it][things that link to it]].
+*** why
+    Such branches under L
+**** When reading about N, I would like to see that there exists L which links to N yet contains branches from the title with the link.
+     And then be able to request a view-branch containing all such L.
+** "these subscribe to it"
+* later
+** generate intermediating relation headings
+*** e.g. "[it] needs [these]"
+*** with
+** omit the root if it's repeated
+:PROPERTIES:
+:ID:       0254b98c-30e6-49de-af3f-c17871c356da
+:END:
+   e.g. if it's the root of the current view
+*** elaboration
+    Within a {tree, scope} there can be more than one path containerward from a node to the root. To see it, draw each of its containers and an org-child, and recursively, but provide a termination on the node right before the root rather than wasting space repeating the root a lot.
+* might be redundant
+  'Appears with other link targets in the title of a node with contents' and 'is the sole link target in a node'

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       415b6bb3-7c69-4413-b083-9203900d33e9
+:END:
+#+title: A Brief History of Intelligence , book by Max Bennett
+* Worms get usefully depressed.
+:PROPERTIES:
+:ID:       713a8976-1182-46dd-9a42-fcf8a88f95b0
+:END:
+** Unlike acute stress, chronic stress turns off arousal and motivation. It can be seen in nematodes exposed to inescapable negative stimuli like severe cold.
+* dopamine : seeking :?: serotonin : enjoying
+:PROPERTIES:
+:ID:       8017ec64-999c-43a6-8554-88345d61df82
+:END:
+  Dopamine and serotonin are both associated with positive affect, but dopamine happens when triggered by positive stimuli and seeking them, whereas serotonin is the happiness of the afterglow or something.

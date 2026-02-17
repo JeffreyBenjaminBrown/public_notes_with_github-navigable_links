@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       e1eda15a-df86-4050-b150-e8034ae49019
+:ROAM_ALIASES: "nixos-rebuild" "rebuild NixOS"
+:END:
+#+title: nixos-rebuild (command)
+* to name the profile
+  sudo nixos-rebuild switch --profile-name SOME_NAME
+* managing profiles and generations
+  tag configurations configs
+** list them
+   ls /boot/loader/entries
+** changing their names, descriptions
+   sudo mg /boot/loader/entries/[entry].conf
+   maybe add a description
+** to delete them from /boot/loader/entries
+   easiest: run emacs with sudo and use dired
+* what I use weekly
+** how to do it
+   verify good wifi conncetion first
+
+   ssh-agent bash
+   ssh-add        # propmts for password
+
+   ~/nix/jbb/bash/rebuild-branches.sh
+** when I last did it : <2026-01-15 Thu>
+:PROPERTIES:
+:ID:       603208d3-968d-43f5-a083-fdda645037ab
+:END:
+** DONE if that makes my config read-only
+   cd ~/nix/jbb/config
+   sudo chown jeff *
+   chgrp users *
+   chmod 666 *
+* more options
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/system_autoupgrade_slows_my_system_to_a_crawl.org][system.autoUpgrade slows my system to a crawl]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_isn_t_nixos_rebuild_building_anything.org][if nixos-rebuild isn't building anything]]
+   it might be that the channel needs updating.
+** nixos-rebuild --keep-failed / -K
+   to avoid re-downloading data the next time I try to rebuild
+** to rebuild but not switch
+   sudo nixos-rebuild test
+** TODO How to rebuild NixOS nicely?
+:PROPERTIES:
+:ID:       5d575d7a-e417-4807-813b-61bea82e9cff
+:END:
+   # This doesn't work, bafflingly.
+   sudo nice -n 19 nixos-rebuild switch

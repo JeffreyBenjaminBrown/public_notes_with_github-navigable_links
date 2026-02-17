@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       fa765938-22c7-42cf-9ba6-6d7d732d5a06
+:END:
+#+title: Gmail
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/do_not_exceed_daily_automatic_gmail_send_limit.org][Do not exceed daily automatic Gmail send limit.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/using_smtp_to_control_gmail_programmatically.org][using SMTP to control Gmail programmatically]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/phanaeros_tech.org#delete-recent-phanaeros-spread-messages-in-gmail][to delete recent Gmail messages about the spread]]
+* searching with date ranges
+  Something like this, but I might have the y-m-d in the wrong order.
+  Run tests -- I don't believe the source I got.
+  from:me to:ospinapedraza.manuela@gmail.com before:12/01/2018
+* to delete an email address from Gmail
+  Go to https://contacts.google.com/ -- Contacts, not Gmail --
+  find the email there, and delete it.

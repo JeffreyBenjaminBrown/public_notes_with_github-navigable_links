@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a011a389-4309-4a56-9dce-26c54562e469
+:END:
+#+title: visibility
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_a_window_spills_off_screen_and_its_title_bar_is_unreachable.org][if a window in KDE spills off-screen and its title bar is unreachable]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_the_shell_font_bigger.org][make the shell font bigger]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/screen_zoom_computer_interface_concept.org][screen zoom (computer interface concept)]]

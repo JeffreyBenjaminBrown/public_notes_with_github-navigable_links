@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       931a102f-b9f3-4628-b239-84ee9a2f217e
+:ROAM_ALIASES: "Linux, MIDI keyboards in" "aconnect"
+:END:
+#+title: MIDI keyboard in Linux, how to use
+This might only apply to USB-connected MIDI keyboards.
+* steps
+  serial
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pianoteq_seems_to_be_getting_low_priority.org][Disable CPU throttling.]]
+** Turn on QJackCtl.
+** Run `[[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a2jmidid_and_aconnect.org][a2jmidid]]` from a shell.
+   This creates a MIDI Through port.
+** Connect the MIDI keyboard via USB.
+** Connect the keyboard to the MIDI Through.
+*** how to decide whether to do it graphically or via the shell
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/midi-keyboard-esp-usb-in-linux-how-to-use.org#if-the-keyboard-shows-up-in-the-qjackctl-signal-graph-it-can-be-connected-that-way-otherwise-connecting-it-requires-aconnect][If the keyboard shows up in the QJackCtl signal graph, it can be connected that way. Otherwise, connecting it requires `aconnect`.]]
+*** alternatives
+**** via `aconnect` on the command line
+:PROPERTIES:
+:ID:       a73d2fbc-3e38-480a-ae08-d335f5096de7
+:END:
+***** Run `aconnect -i` to see available connections.
+      Example:
+
+      [jeff@jbb-hp17:~]$ aconnect -i
+      client 0: 'System' [type=kernel]
+	  0 'Timer           '
+	  1 'Announce        '
+      client 14: 'Midi Through' [type=kernel]
+	  0 'Midi Through Port-0'
+      client 20: 'Lumatone' [type=kernel,card=1]
+	  0 'Lumatone MIDI 1 '
+***** Use `aconnect` to connect the keyboard to the MIDI Through.
+      Example (continued):
+
+      aconnect 20:0 14:0
+**** via the QJackCtl signal graph
+     Just plug the keyboard into the MIDI Through.
+** Use the QJackCtl signal graph to connect the a2j MIDI Through to its destination.
+   For example, to a DAW.
+* PITFALLs
+** Each MIDI Through has two halves, the in and the out. Sometimes it can be confusing which you're referring to.
+** If the keyboard is not visible* upon plugging in
+*** I might need to restart my computer.
+    (*) via `aconnect -i` or in the QJackCtl graph.
+    This happpened <2025-03-07 Fri>.
+*** I might have a bad cable.
+** `a2jmidid` might create more than one port. I'm not sure how it knows how many to create.
+** If the keyboard shows up in the QJackCtl signal graph, it can be connected that way. Otherwise, connecting it requires `aconnect`.
+:PROPERTIES:
+:ID:       b36f69f8-8830-45e5-a95e-7f7c2fb5f44a
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a2jmidid_and_aconnect.org#solved-bug-sometimes-aconnect-needs-to-be-rerun][SOLVED: BUG: Sometimes aconnect needs to be rerun.]]

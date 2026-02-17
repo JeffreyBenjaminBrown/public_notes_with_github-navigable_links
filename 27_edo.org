@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f3d2ac44-9038-4faa-adf4-f120053f529a
+:END:
+#+title: 27-edo
+* TODO 4\27 x 3\27 x 7\27 (right x down x dr): awesome
+  This is what I put on the Lumatone.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/8_27_x_3_27_isomorphic_note_layout.org][8\27 x 3\27]]: compact. Kite-guitar octaves (3,1)
+* In the 7-limit it's an extremely sharp system.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/add_in_between_notes_to_mtv_monome.org#27-54][27-edo is fat-finger friendly with 54-edo.]]

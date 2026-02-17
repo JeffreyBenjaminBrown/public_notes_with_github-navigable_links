@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3b228889-90e2-464f-809a-5fb77fd8262f
+:END:
+#+title: concurrency in Haskell
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/troupe_an_actor_model_ala_erlang_for_haskell.org][troupe : an actor model (ala Erlang) for Haskell]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/software_transactional_memory.org][Software Transactional Memory]]

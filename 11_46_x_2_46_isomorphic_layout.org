@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       f49b51e7-c513-41f7-a895-cd091e3c301d
+:END:
+#+title: 11\46 x 2\46 (isomorphic layout)
+* strings required
+  2.87c per string
+** 7 strings => (1200 + 521) cents, last string at 20 \ 46
+** 9 strings => (1200 + 10.96) cents, last string 42 \ 46
+   and easy-to-play 15ths (double octaves)
+* max reach : from 3:2 to 13:8 (not a critical interval)
+  = 8 frets of 23 edo
+  = 8 * 12 / (46/2) = 4.2 frets of 12 edo
+* Uncrowded: The strings have roughly even 15-limit duties.
+  1:1, 9:8 and 15:16 are all on the same string.
+  13:8 is alone on string 2.
+  Strings 1 and 3 both carry 2 harmonics.
+* layout
+  00 steps; 1  % 1; string 0; fret 0
+  08 steps; 9  % 8; string 0; fret 4
+  15 steps; 5  % 4; string 1; fret 2
+  21 steps; 11 % 8; string 1; fret 5
+  27 steps; 3  % 2; string 3; fret -3
+  32 steps; 13 % 8; string 2; fret 5
+  37 steps; 7  % 4; string 3; fret 2
+  42 steps; 15 % 8; string 4; fret -1
+  46 steps; 2  % 1; string 4; fret 1
+* picture (guitar)
+  MTV> myPrint $ map concat $ printLayout (primesOctave1 23) (show . numerator) 46 (11,2)
+
+   0  1  2  3  4  5  6  7  8  9 10 11
+  23  -  1 19  -  -  -  -  -  - 15  -
+   -  7  -  - 23  -  1 19  -  -  -  -
+   -  - 17  5  -  7  -  - 23  -  1 19
+   -  -  -  -  -  - 17  5  -  7  -  -
+  13  -  9  -  -  -  -  -  -  - 17  5
+   -  -  - 11 13  -  9  -  -  -  -  -
+   -  -  -  -  -  -  - 11 13  -  9  -
+   -  -  -  -  -  -  -  -  -  -  - 11
+   -  -  -  3  -  -  -  -  -  -  -  -
+  15  - 21  -  -  -  -  3  -  -  -  -
+   -  -  -  - 15  - 21  -  -  -  -  3
+   1 19  -  -  -  -  -  - 15  - 21  -
+   -  - 23  -  1 19  -  -  -  -  -  -
+  17  5  -  7  -  - 23  -  1 19  -  -
+   -  -  -  - 17  5  -  7  -  - 23  -
+   9  -  -  -  -  -  -  - 17  5  -  7
+   - 11 13  -  9  -  -  -  -  -  -  -
+   -  -  -  -  - 11 13  -  9  -  -  -
+   -  -  -  -  -  -  -  -  - 11 13  -
+   -  3  -  -  -  -  -  -  -  -  -  -
+  21  -  -  -  -  3  -  -  -  -  -  -
+   -  - 15  - 21  -  -  -  -  3  -  -
+   -  -  -  -  -  - 15  - 21  -  -  -
+  23  -  1 19  -  -  -  -  -  - 15  -
+   -  7  -  - 23  -  1 19  -  -  -  -
+   -  - 17  5  -  7  -  - 23  -  1 19

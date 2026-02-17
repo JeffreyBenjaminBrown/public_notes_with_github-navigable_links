@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       90a20f51-beca-4954-b438-bc808714b403
+:END:
+#+title: strings in Nu
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wildcards_in_nu.org][wildcards in Nu]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dynamic_string_construction_in_nu.org][dynamic string construction in Nu]]

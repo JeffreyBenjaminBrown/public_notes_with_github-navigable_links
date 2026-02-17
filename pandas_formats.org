@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       cca852bf-dbac-49a5-83cf-602db6574f77
+:END:
+#+title: Pandas & formats
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_parse_some_columns_as_dates_when_calling_read_csv.org][to parse some columns as dates when calling read_csv]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_format_some_columns_when_reading_a_table_from_disk.org][to format some columns when reading a table from disk]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/excel_spreadsheet_software.org#export-an-excel-spreadsheet-in-a-format-readable-by-humans-and-pandas][export an Excel spreadsheet in a format readable by humans and Pandas]]
+* Pandas can export to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/parquet_file_format.org][parquet]].
+:PROPERTIES:
+:ID:       5b17456f-7237-48cc-a6a6-7a2dbef33aa3
+:END:
+  pd . DataFrame . to_parquet ()

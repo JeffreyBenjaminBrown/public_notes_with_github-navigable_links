@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       1b8a682a-db24-42f7-b79a-c615baac7fed
+:ROAM_ALIASES: "bands and songs \\ making music & jbb"
+:END:
+#+title: songs and bands \\ making music & jbb
+* songs I can play
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/al_lado_del_camino_song.org][Al Lado del Camino]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/claridad_song.org][Claridad]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/si_me_matan_song.org][Si Me Matan]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/50_ways_to_leave_your_lover_by_paul_simon.org][50 Ways To (Amicably*) Leave Your Lover, by Paul Simon]]
+   * with mods by me
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/all_my_stars_aligned_by_st_vincent.org][All My Stars Aligned, by St. Vincent]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/can_t_fight_by_liane_la_havas.org][Can't Fight, by Liane la Havas]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/time_by_pink_floyd.org][Time, by Pink Floyd]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/just_breathe_by_pearl_jam.org][Just Breathe, by Pearl Jam]]
+* bands and songs I would like to cover
+** Little Person
+   touching, about the aftermath of divorce
+** Cake
+** Pearl Jam
+*** Nothingman
+*** Oceans
+*** Sirens
+*** Just breathe
+** Our house, by CSNY
+** Have you ever seen the rain, creedence Clearwater revival
+** Enjoy the silence by Depeche mode
+** Reprise, Grizzly bear
+** You are the sunshine of my life, Stevie Wonder
+** Let you break my heart again by laufey
+** How deep Is your Love
+** Stay (Bowie)
+** Right direction (Kimbra)
+** Necessary evil, Unknown Mortal Orchestra)
+** Fly as me (Bruno Mars)
+** Can't fight (Havas)
+** Moonchild (KC)
+* danceable electronic to study/emulate
+** G Jones, Phace, 2 Fingers
+* TODO feels to learn
+** minimal, funky
+*** Deerhoof
+*** Soul Coughing
+*** LMFAO
+*** Daft Punk
+*** Bach
+** grandeur
+*** "Carne" by Losonouncane
+*** "That Girl" by Stevie Wonder

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f027e52d-db16-4f2b-9b71-d904901a38a2
+:ROAM_ALIASES: "running TypeDB"
+:END:
+#+title: getting started \ TypeDB
+* choices of clients
+** TypeDB Studio : I couldn't install it.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_console.org][TypeDB Console]] : Part of TypeDB
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_python_client.org][TypeDB Python client]]
+** Haskell client in progress
+   https://github.com/typedb-osi/typedb-client-haskell
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_in_docker_running.org][TypeDB in Docker, running]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/typedb/typedb_console.org][TypeDB Console]]
+  tag scripting

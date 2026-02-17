@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b7f1bb10-4fbf-4e10-8aac-b04923ad468e
+:ROAM_ALIASES: transparency
+:END:
+#+title: honesty
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transparency.org][transparency]]
+** Transparency is stronger than honesty.
+   One can be honest while withholding important things.
+* neighbors
+** sincerity
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authenticity.org][authenticity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org][vulnerability]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honesty_and_volunteering_v_empathy.org][honesty v. empathy]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_things_take_courage_to_share.org#if-youre-embarrassed-to-share-your-beliefs-something-is-wrong][If you're embarrassed to share your beliefs, something is wrong.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org#if-you-cant-tell-your-story-something-is-wrong][If you can't tell your story, something is wrong.]]

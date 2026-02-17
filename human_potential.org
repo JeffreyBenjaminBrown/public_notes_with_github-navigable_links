@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3c4b895b-9cf0-444c-b4d1-b4b3cae52960
+:END:
+#+title: human potential
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/community.org#be-with-masters][Be with masters.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/comedy.org#dont-waste-justified-ridicule][Don't waste justified ridicule.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sermons.org][sermons]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_brief_period_of_intense_prayer_sometimes_changes_a_life.org][A brief period of intense prayer sometimes changes a life.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_promises_of_giants_book_by_john_amaechi.org#see-others-potential-talk-about-it][See others' potential. Talk about it.]]

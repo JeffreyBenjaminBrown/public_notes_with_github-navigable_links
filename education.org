@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ccaee22b-2abd-41fa-bc3e-d0b7509600cf
+:END:
+#+title: education
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scripted_schooling_is_effective.org][Scripted schooling is effective.]]
+* Learning processes are interesting.
+:PROPERTIES:
+:ID:       2668c748-5d51-48e5-b0ef-86757aa01f4a
+:END:

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a42f1f36-c448-46fa-a90b-027fc5acd257
+:END:
+#+title: tee (shell command)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_pipe_stdout_and_stderr_to_the_same_file.org][to pipe stdout and stderr]]

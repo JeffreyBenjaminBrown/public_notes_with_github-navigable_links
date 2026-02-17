@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       16d00d68-7fd9-418f-a342-41702a106c3e
+:END:
+#+title: iPython
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_convert_an_ipython_notebook_file_to_plain_python.org][how to convert an iPython notebook file to plain python]]
+* PITFALL: Might need Jupyter to do certain things.
+  For instance,
+  the easiest way to convert iPython notebooks
+  (.ipynb files) to other formats
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_convert_an_ipython_notebook_file_to_plain_python.org][is to use Jupyter]].

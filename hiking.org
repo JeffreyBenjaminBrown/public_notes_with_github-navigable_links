@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       13068bee-ffa3-4167-9b0c-11342fec4548
+:END:
+#+title: hiking
+* stuff to pack
+** poles
+** water
+** food
+*** sandwich
+*** fruit
+*** almonds
+*** bocadillo | candy
+** clothes
+*** 2 hats, scarf
+*** shoes
+*** poncho
+*** change of socks, shirt, pants
+** wear
+*** ugly socks
+*** green pants

@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       312aa85f-b9a4-4fd4-bd11-aebfe91ad766
+:END:
+#+title: dividing patterns in Tidal
+* iter :: Pattern Int -> Pattern a -> Pattern a
+** the idea
+   `iter n` divides the pattern into `n` pieces,
+   and first plays them in order,
+   then in order but starting on the 2nd, etc.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/fugue_from_superimposing_a_transposed_iter_on_a_panning_arpeggio.org][fugue from superimposing a transposed iter on a panning arpeggio]]
+* iter' :: like iter but starts at 0, then n-1, n-2, etc.
+* trunc and linger
+** trunc n : play only the first nth
+   takes a fraction in [0,1] and truncates the second argument that way
+*** demo
+#+BEGIN_SRC haskell
+  d1 $ fast 4 $ trunc (1/2) $ s "bd sn"
+#+END_SRC
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/a_time_varying_trunc_makes_a_simple_pattern_complex.org][A time-varying `trunc` can make a simple pattern complex.]]
+** linger : like trunc, but stretches the chosen head to fill the cycle
+#+BEGIN_SRC haskell
+  d1 $ linger (7/8)
+    $ s "bd@4 sn:1@2 hh bleep*2"
+#+END_SRC
+* chunk n : apply function at different places
+  Like iter, Divides the cycle into n pieces, and applies the function to the kth piece, incrementing k by one each cycle.
+** the idea
+#+BEGIN_SRC haskell
+  d1 $ chunk 4 ( (|*| distort 0.4) .
+		 (|+| n "[-7,0,7]") .
+		 rev )
+    $ s "supersquare" |*| n (run 16 * 2 - 24)
+#+END_SRC
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/TidalCycles/chunking_a_distorted_harmony.org][chunking a distorted harmony]]

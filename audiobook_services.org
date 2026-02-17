@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d5585db3-ac97-426f-8455-c7a2b3dcee93
+:END:
+#+title: audiobook services
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/audible.org][Audible (audiobook service)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/storytel_audiobook_service.org][Storytel (audiobook service)]]

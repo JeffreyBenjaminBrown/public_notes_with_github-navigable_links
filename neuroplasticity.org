@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       86373005-c939-4627-b848-1610fccda8bd
+:END:
+#+title: neuroplasticity
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/recognize_sunk_costs.org][Recognize sunk costs.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_improvement.org][self-improvement]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_life_is_change_then_to_not_change_much_is_to_be_near_death.org][If life is change, then to not change (much) is to be (near) death.]]

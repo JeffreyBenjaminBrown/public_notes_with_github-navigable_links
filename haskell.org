@@ -1,0 +1,141 @@
+:PROPERTIES:
+:ID:       784007e7-b851-4988-beaa-b8e4a9657357
+:END:
+#+title: Haskell
+* u
+** ghciwatch reloads modified files
+   https://mercury.com/blog/announcing-ghciwatch
+** Simulated IO for Haskell
+   https://engineering.iog.io/2023-04-14-io-sim-annoucement/
+** https://nicolast.github.io/development/testing-concurrent-code-using-dejafu/
+** https://serokell.io/blog/haskell-in-production-meta
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/automatic_documentation_via_constraints.org][automatic documentation via constraints]]
+** GHC has had type in type since 8.0, per this
+   https://news.us10.list-manage.com/track/click?u=49a6a2e17b12be2c5c4dcb232&id=c2e7670a58&e=2441513057
+** Kinds don't really exist
+   https://news.us10.list-manage.com/track/click?u=49a6a2e17b12be2c5c4dcb232&id=c2e7670a58&e=2441513057
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ad_hoc_polymorphism_erodes_type_safety.org][Ad-hoc polymorphism erodes type safety.]]
+* to build an executable in the project root
+  Run this from the project root:
+    cabal install --install-method=copy --installdir=.
+  or
+    cabal install --install-method=copy --installdir=. \
+      --overwrite-policy=always
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/haskell_emacs.org][haskell-emacs]] ( Emacs package for Haskell interop )
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dependent_types_in_haskell.org][dependent types in Haskell]]
+* New in Haskell <2023-07-16>: effectfull and record hpdates
+** https://discourse.haskell.org/t/coming-back-after-a-few-years-away-from-haskell-whats-changed/6849
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bogota_functional_programming_interest_group.org][Bogotá Functional Programming Interest Group]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/haskell_to_read.org][Haskell, to read]]
+* PITFALL: (Cabal?) REPL can't reload changes in depended-on projects.
+  Evidence:
+
+jeff@jbb-dell:cabal-experim$ tree
+.
+├── cabal.project
+├── P1
+│   ├── app
+│   │   ├── Lib.hs
+│   │   └── Main.hs
+│   └── P1.cabal
+└── P2
+    ├── P2.cabal
+    └── src
+        └── MyLib.hs
+
+jeff@jbb-dell:cabal-experim$ cabal repl P1 P2
+cabal: Cannot open a repl for multiple components at once. The targets 'P1'
+and 'P2' refer to different components.
+
+The reason for this limitation is that current versions of ghci do not support
+loading multiple components as source. Load just one component and when you
+make changes to a dependent component then quit and reload.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_profile_in_haskell.org][how to profile in Haskell]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_programming_in.org#to-use-a-different-version-of-ghc-in-nix][To use a different version of GHC in Nix]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/list_comprehensions_haskell.org][list comprehensions in Haskell]]
+* debugging in Haskell
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/debug_trace_trace_haskell_library_is_magic.org][Debug.Trace.trace (Haskell library) is magic]]
+* testing in Haskell
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/quickcheck_haskell_library.org][QuickCheck and Microspec]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hunit_haskell_testing_library.org][HUnit (Haskell testing library)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/property_based_testing_of_stateful_systems_in_haskell.org][property-based testing of stateful systems in Haskell]]
+* lenses in Haskell
+** Generate lenses for third-party libraries in Haskell
+   https://ai-jobs.net/?rdt_cid=3040091042633392170
+** `partsOf` is cool
+https://www.reddit.com/r/haskellquestions/comments/bz5dmp/how_to_implement_b_a_a_a_b_b/
+* Haskell stuff I'd like to use
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dunai_reactive_monad_generalizes_many_frp_idioms.org][Dunai: reactive monad generalizes many FRP idioms.]]
+** Dunai: a reactive monad generalizes many FRP idioms
+   https://hackage.haskell.org/package/dunai
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/yi_is_a_haskell_library_for_building_text_editors.org][Yi is a Haskell library for building text editors.]]
+** PostgREST: Make a db API-modifiable
+   https://postgrest.org/en/v8.0/index.html
+** data-interval
+:PROPERTIES:
+:ID:       08945d69-be8f-4302-a633-e2569183f551
+:END:
+   https://hackage.haskell.org/package/data-interval-2.1.1
+** Hedgehog for websites
+   https://quickstrom.io/
+* laziness and strictness in Haskell
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/making_invalid_laziness_unrepresentable_article.org][Making Invalid Laziness Unrepresentable (article)]]
+* Haskell language extensions
+** Pattern synonyms
+   {-# LANGUAGE PatternSynonyms #-}
+
+   pattern F :: Int -> Int -> Foo
+   pattern F f s = Foo f s
+
+   Which abbreviates a frequently used constructor.
+   Works in pattern matches too.
+* IO and effects systems in Haskell
+** The Handle pattern simplifies IO in Haskell.
+   https://jaspervdj.be/posts/2018-03-08-handle-pattern.html
+** how semantics (e.g. order of evaluation) differ across libraries
+   "The effect semantics zoo", Alexis King:
+   https://github.com/lexi-lambda/eff/blob/8c4df4bf54faf22456354be18095b14825be5e85/notes/semantics-zoo.md
+* language pitfalls
+** Type signatures inside function definitions need ScopedTypeVariables.
+   https://serokell.io/blog/universal-and-existential-quantification
+
+   example :: a -> [a] -> [a]
+   example x rest = pair ++ rest
+     where
+       pair :: [a]
+       pair = [x, x]
+   It seems reasonable because it looks like both functions are referring to the same type variable a. However, GHC is actually inserting an implicit forall in both functions. In other words, each function has its own type variable a.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitfall_order_matters_in_the_let_clause_of_a_comprehension_haskell.org][order matters in the let clause of a comprehension]]
+* solutions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_read_and_write_files_in_haskell.org][read and write files]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/regular_expressions_in_haskell.org][regular expressions]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outline_mode_haskell.org][Haskell & outline-mode]]: fold Haddock-style headings
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/list_comprehensions_when_i_want_to_bind_a_variable_number_of_variables.org][list comprehensions to bind a variable number of variables]]
+** for space leaks
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/making_invalid_laziness_unrepresentable_article.org][Making Invalid Laziness Unrepresentable (article)]]
+** converting to Floating types
+   GHC.Real.realToFrac :: (Real a, Fractional b) => a -> b
+   It's not part of any typeclass.
+** dynamic programming in Haskell via lazy self-reference
+:PROPERTIES:
+:ID:       e933a77d-2304-4b84-93e3-27963bad5386
+:END:
+   https://fpunfold.com/2022/01/09/haskell-dp.html
+** the "cabal: Version mismatch between ghc and ghc-pkg" error
+   It happened when I ran `cabal repl`.
+   I solved it by deleting `dist-newstyle/` and rebuilding.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/random_numbers_in_haskell.org][random numbers and probability in Haskell]]
+** PTIFALL: stack gchi: if no libraries are available
+ https://github.com/commercialhaskell/stack/issues/5037
+ This will load all non-broken modules when some are broken.
+   stack exec -- ghci -Wall
+   :l Hode.Hode
+* some Haskell libraries
+** Charts in Haskell
+   https://np.reddit.com/r/haskell/comments/12dcap5/announcing_prettychart01/
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/concurrency_in_haskell.org][concurrency in Haskell]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/debug_trace_trace_haskell_library_is_magic.org][Debug.Trace (Haskell library) is magic]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/system_random_haskell_library.org][System.Random (Haskell library)]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/quickcheck_haskell_library.org][QuickCheck (Haskell library)]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/haskell_programmers_i_know.org][Haskell programmers I know]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_i_like_haskell.org][why I like Haskell]]

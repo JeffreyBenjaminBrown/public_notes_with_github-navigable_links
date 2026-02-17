@@ -1,0 +1,130 @@
+:PROPERTIES:
+:ID:       5d06a355-657f-44c4-84be-cae4ed93a28a
+:ROAM_ALIASES: rationality logic order
+:END:
+#+title: logic | order | rationality
+* MERGE ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/information_theory.org][truth]] [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org][logic]] [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/computer_science.org][processing]] [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][solution]]
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emptiness.org][nothingness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org][wholeness]]
+* Newton's flaming laser sword
+:PROPERTIES:
+:ID:       5b13f356-b7fc-40a0-9002-04a4d5d8912b
+:END:
+  a.k.a. Alder's Razor
+  "propositions or claims that cannot be resolved through experiment or observation are not worth debating." --Wikipedia on it, <2026-01-20 Tue>
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/control_orientation.org][control orientation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beliefs.org#have-faith-in-analysis][Have faith in analysis.]]
+* reconception
+:PROPERTIES:
+:ID:       404db442-b90a-4eb6-8d33-f3ac329cf2ef
+:END:
+** objects to reconceive
+*** an algorithm
+    It is enjoyable, strangely,
+    the experience of reconceiving an algorithm,
+    starting from scratch.
+*** the self
+:PROPERTIES:
+:ID:       48264e3c-03d7-43b5-a92f-c5eb051bd44c
+:END:
+    To recognize a problem in oneself.
+    To discover (another) (feasible) hope.
+*** one's relationship to another
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/forgiveness.org][forgiveness]]
+:PROPERTIES:
+:ID:       f1ef6548-3323-4be1-b3c2-8cb38aec7b21
+:END:
+     Forgiveness is a way of
+     reconceiving one's relationship to another.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/attribution.org][of another (person)]]
+*** a problem
+*** a joy
+* star-system and interstar-system
+:PROPERTIES:
+:ID:       441ca283-d501-46e8-ac74-03de482a3e0f
+:END:
+** points of individuality tracing through a continuum together
+* =? finding truth + motivation
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/learning.org#ways-to-know--understand][ways to know]]
+* truth & the flavor of truth
+:PROPERTIES:
+:ID:       bc43658e-65f6-4038-99bc-3278efa7cac2
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/animals.org#biodiversity][biodiversity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_is_an_assumed_property_of_one_universe.org][Truth is an assumed property of one universe.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/surprise.org][surprise]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irony.org][irony]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/art_highlights_extremes.org][extremes, corner solutions !! balances, chaotic equilibria]]
+*** Opposites are near.
+    that is, conceptually near to each other
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/far_out.org][far out]]-ness
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/authenticity.org][authenticity]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/honesty.org][honesty]]
+** the way the edge of knowing feels
+:PROPERTIES:
+:ID:       c4bb8436-7b27-4a4d-b357-c61476b207c2
+:END:
+*** "[[:id:e10fa73d-723f-4772-99d9-2ece218d4175][Beauty as the interface between the comprehensible and the incomprehensible -- broken link?]]"
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emotion.org#emotional-logic-methods][emotional logic]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/freedom.org][freedom | independence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irratinoality_inconsistency.org][consistency | irrationality]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irratinoality_inconsistency.org#consistency-feels-good][Consistency feels good.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/solution.org][optimization]]
+* the limits of logic | information | expression | calculation
+:PROPERTIES:
+:ID:       c893937e-bca4-4a77-aa6c-ad481bf1d042
+:ROAM_ALIASES: "limits of logic | information | expression"
+:END:
+** see also
+*** the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/absurd.org][absurd]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/overload.org][overload]]
+** power from nothingness / The list of things you don't have to worry about is impossibly too long to record, know.
+:PROPERTIES:
+:ID:       c71a2ad0-4a34-44d2-b344-a75c124b5111
+:END:
+** & [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org][music]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/music.org#the-edge-where-ideas-deserve-not-formal-encoding-but-music][the edge where ideas deserve not formal encoding but music]]
+** ? instance
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org#maybe-keep-your-choices-brief-focus-on-ideals][Maybe: Keep your choices brief, focus on ideals.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sanctity_purity_innocence.org][sanctity]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sanctity_purity_innocence.org#something-one-dares-not-put-into-words][something one dares not put into words]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presence_rationality.org][presence v. rationality]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tacit_social_knowledge.org][tacit social knowledge]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/things_maybe_only_expressible_through_art.org][things maybe only expressible through art]]
+** technical
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/expressivity_voids_observed.org][expressivity voids]] | the limits of expression
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/incompleteness_theorems.org][incompleteness theorems]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_is_an_assumed_property_of_one_universe.org][Truth is an assumed property of one universe.]]
+* technical
+  so far technical and meh
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mathematics.org][mathematics]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic_formal.org][formal logic]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sanctity_purity_innocence.org][sanctity | purity | innocence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/skepticism.org][skepticism]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fun_interesting_relationships_hode.org][relationships worth recording]]
+* Does each person always do what seems best?
+:PROPERTIES:
+:ID:       0397c4d0-955f-4f50-a35b-f2a6a94b3d88
+:END:
+  to them at the time
+* partial logic
+:PROPERTIES:
+:ID:       65dc22b6-1e38-43f0-aa4d-9d1f1f4a0e14
+:END:
+** "I am only two branches of the metaphor."
+* endogeneity
+:PROPERTIES:
+:ID:       021bc0fa-7ec5-4f31-8156-9bcf18a2f4af
+:ROAM_ALIASES: boostrap ouroboros Ouroboros
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/transcendence.org#escape-yourself][Escape yourself.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_anthropic_principle.org][the anthropic principle]]
+** janky growth stories
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/it_grew_from_itself_explaining_as_it_handed_time_to_the_next_generation_there_are_glitches_that_let_you_see_the_future.org][It grew from itself, explaining as it handed time to the next generation, "There are glitches that let you see the future."]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/scientific_agent_loop.org][scientific agent loop]]
+* paradox
+** The enlightened solution might resist further optimization.
+   [[:id:c6d7e8b1-9c49-4d58-b4ec-2d660de58169]["Meta-Peace" through strategic under-optimization -- broken link?]].
+* The apostolic impulse [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org#is-funny-where-it-abuts-the-ineffable][is funny where it abuts the ineffable]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/wholeness.org#the-one-and-the-many][the one and the many]]

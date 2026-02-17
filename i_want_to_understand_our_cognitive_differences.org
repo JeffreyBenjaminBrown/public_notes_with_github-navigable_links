@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5327d2ce-1764-4bef-8959-aa8b5c478575
+:END:
+#+title: I want to understand our cognitive differences.
+* There is surprising variation in
+  beliefs, preferences, memory, even raw perception (and the valences thereof).
+* I want to know peoples' deepest motivations.
+** definition
+   What people believe they are on this earth to do.
+   Learn that about someone as fast as possible.
+** ? How fixed are a person's motivations?
+*** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/how_fixed_are_my_motivations.org][Do I even understand my own?]]
+* => Remember to ask!

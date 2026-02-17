@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7d6fb4d3-b3c4-4da3-9478-c8c711886710
+:END:
+#+title: Nickel (configuration language)
+An evolution of [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nix_configuration_language.org][Nix]].
+Can compile to JSON, YAML, XML, Nix (experimental), others.

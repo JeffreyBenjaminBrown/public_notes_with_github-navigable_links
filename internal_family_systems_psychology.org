@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f7aafc6b-122b-439b-87f6-b6d8abc6835c
+:END:
+#+title: Internal Family Systems (psychology)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ethical_obligations_to_one_s_other_selves.org][ethical obligations to one's other selves]]
+* some resources
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/internal_family_systems_ed_2_book_by_richard_schwartz_and_martha_sweezy.org][Internal Family Systems (Ed 2), book]]
+   by Richard Schwartz and Martha Sweezy
+** Intimacy from the Inside Out (book), on couples therapy and IFS
+   by Toni Herbine-Blank.
+   Herbine-Blank, Kerpelman, & Sweezy, 2016.
+   Recommended in [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/internal_family_systems_ed_2_book_by_richard_schwartz_and_martha_sweezy.org][Internal Family Systems]].
+** Natasha Wilson's IFS resources
+   https://www.stroudtherapy.com/news/onlineresources

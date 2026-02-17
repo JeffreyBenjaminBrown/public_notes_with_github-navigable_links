@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       8a0fbcd5-247f-4619-8b5f-1e6b30de5e1b
+:ROAM_ALIASES: "Termux" "Termux and (in it) org-roam on phone"
+:END:
+#+title: org-roam on phone via Termux
+* see also
+  [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/andronix_linux_environment_for_android.org][Andronix (Linux environment for Android)]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/redefine_what_clicking_does_in_org_mode.org][redefine what clicking does in org-mode]]
+* my Emacs config for Termux
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/emacs_on_termux_a_config_el_file_for.org][the config file]] itself
+** use `sed -e "1,4d"` to "install" it
+*** what I mean by "install it"
+    i.e. to copy the code from it,
+    excluding its PROPERTIES folder and title, to my user folder.
+*** the script (one line)
+    # the sed "script" `1,4d` deletes lines 1 through 4
+    sed -e "1,4d" ~/org-roam/tech/emacs/emacs_on_termux_a_config_el_file_for.org > ~/.emacs
+* how I installed Termux and things in it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_i_installed_termux_on_my_phone.org][How I installed Termux on my phone.]]
+** Install some things in top-level Termux.
+   I think running this gets them all.
+   pkg install emacs sqlite curl ripgrep git
+** From Emacs, install use-package.
+   M-x package-install RET use-package RET
+** Restart Emacs with the following minimal config.
+   (require 'use-package)
+   (package-initialize)
+   (setq package-archives
+         ;; copied from https://babbagefiles.xyz/org-roam-on-android/
+         '(("Org"          . "https://orgmode.org/elpa/")
+           ("Elpa"         . "https://elpa.gnu.org/packages/")
+           ("Melpa Stable" . "https://stable.melpa.org/packages/")
+           ("Melpa"        . "https://melpa.org/packages/")))
+   (setq package-archive-priorities
+         '(("Org"          . 20)
+           ("Melpa"        . 15)
+           ("Melpa Stable" . 10)
+           ("Elpa"         . 5)))
+** Install org-roam, maybe other things
+   emacsql
+   emacsql-sqlite3
+** Configure git.
+   git config --global core.editor "emacs -nw --no-init-file"
+   git config --global status.showUntrackedFiles all
+   git config --global init.defaultBranch main
+** Secure a connection to Github.
+   for this I had to generate an ssh token
+   (called ~/.ssh/id_x for some value of x)
+   on the command line,
+   and upload the public side of that to my Github account.
+** Download my repos.
+   Cloning from http or https works,
+   but for pushing and pulling I'll need the ssh addresses instead,
+   which look like
+   git@github.com:JeffreyBenjaminBrown/notes-in-org-format-on-tech
+** Restart Emacs with [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/emacs_on_termux_a_config_el_file_for.org][a real config]].
+* The no-root Linux options I tried for Android sucked.
+  Debian noroot is free, mouse doesn't work.

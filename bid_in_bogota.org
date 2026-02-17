@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5a71f136-d3b0-499a-9596-f0110f77609e
+:ROAM_ALIASES: "IDB in Bogotá" "IDB in Bogota"
+:END:
+#+title: BID en Bogotá
+* [[https://github.com/JeffreyBenjaminBrown/mincit-notes-with-github-navigable-links/blob/master/bid_mincit.org][BID & MinCIT]]
+* address
+  Carrera 7 # 71 - 21
+  Torre B Piso 20

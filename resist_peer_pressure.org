@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1d8be58f-a579-4e4c-a145-8c349db58514
+:ROAM_ALIASES: "peer pressure"
+:END:
+#+title: Resist peer pressure.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/beware_encouragement_of_bad_behavior.org][Beware encouragement of bad behavior.]]

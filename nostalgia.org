@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5fe70812-fd17-4692-aa21-61a55c80ea71
+:END:
+#+title: nostalgia
+* art about it
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/together_with_someone_radically_unlike_you_you_can_point_out_catch_shapes_in_the_clouds.org][Together, with someone radically unlike you, you can point out, catch shapes in the clouds.]]

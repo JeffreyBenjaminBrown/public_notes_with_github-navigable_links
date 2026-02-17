@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f41e92ae-cf4b-4f4f-a804-f506c7dded03
+:END:
+#+title: Humility feels more peaceful than pride does.
+* elaboration
+** Proud and peaceful seems less stable than humble and peaceful.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/is_humility_at_odds_with_ambition.org][Is humility at odds with ambition?]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility_confession_peace.org][Humility -> confession -> peace.]]

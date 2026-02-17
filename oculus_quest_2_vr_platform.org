@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       7d829b36-5932-41b0-b697-e9b9c8e8627a
+:ROAM_ALIASES: "Meta Quest 2"
+:END:
+#+title: Oculus Quest 2
+* PITFALL: Oculus Quest 2 vulnerabilities
+:PROPERTIES:
+:ID:       6245c084-fdb8-4ea6-a998-af585b0524ec
+:END:
+** The lenses are vulnerable to sunlight.
+** The whole thing is vulnerable to high temperatures.
+   Particularly being in a hot car.
+* PITFALL: On bank statement, games show as "Dublin IE".
+  When I bought Thrill of the Fight,
+  the charge listed as going to "8RRXNDBFF2 Dublin IE".
+  Later, as "MCMBWTBFF2 Dublin IE".
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/my_first_impressiosns_of_thrill_of_the_fight_on_the_oculus_quest_2.org][my first impressiosns of Thrill of the Fight and the Oculus Quest 2]]
+* Quest 2 games for fitness
+:PROPERTIES:
+:ID:       b798c848-e6ee-431e-b5ed-5b023b965992
+:END:
+** A table
+   https://www.washingtonpost.com/technology/2022/04/21/vr-workout-games
+*** The most aerobically taxing, in order.
+    Supernatural
+    [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/thrill_of_the_fight_vr_boxing_game.org][Thrill of the Fight (VR boxing game)]]
+    Fit XR
+    Until You Fall (swords)
+    Beat Saber
+** Not in the table
+*** Pistol Whip
+    Looks like a good workout, at least for the lats.
+*** DONE already got it
+**** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/superhot_vr_game.org][Superhot VR (game)]]
+**** Holopoint (archery)
+* Quest 2 multiplayer fitness games
+** Racket NX
+   Like tennis but both people are in the same spot.
+   Burns half of what Thrill of the Fight does.
+   $20
+   Rated 4.9-ish
+** Swords of Gargantua
+   rated 4.13
+   burns 3/4 what Thrill of the Fight does
+   $30
+** Eleven Table Tennis
+   $20
+   4.9 in store
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oculus_quest_2_tracking_lost_error_recovery_strategies.org][Oculus Quest 2 "Tracking Lost" error recovery strategies]]
+* the [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/battery_of_my_oculus_rift.org][battery of my Oculus Quest 2]]
+* solutions
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/bug_oculus_quest_2_stuck_showing_a_white_ring.org][bug: Oculus Quest 2 stuck showing a white ring]]
+* history
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/returning_the_oculus_quest_2.org][returning the Oculus Quest 2]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/2022_10_11_temporary_speech_difficulty.org][2022-10-11, temporary speech difficulty]]

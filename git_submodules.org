@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       2a580607-a59b-408d-b27c-b6c4dd94a14b
+:ROAM_ALIASES: "submodules in git" "Git submodules"
+:END:
+#+title: git submodules
+* ref
+  https://git.wiki.kernel.org/index.php/GitSubmoduleTutorial
+* to avoid the "detached head" status in a submodule
+  https://stackoverflow.com/questions/18770545/why-is-my-git-submodule-head-detached-from-master/55570998#55570998
+  Add a "update = merge" line to the configuration of that submodule in `.gitmodules`.
+  This somehow overrides the default behavior of git submodules,
+  which is to be associated
+  (in the submodule, not just the supermodule)
+  with a commit rather than a branch.
+  (Another choice is "update = rebase", which sounds scary.)
+* To initialize the submodules in a clone
+  git submodule init
+  git submodule update
+* To put a git submodule in a git module:
+  git submodule add <path to remote repo> [folder name]
+  git submodule add git@github.com:ofiscal/utilities ofiscal_utils
+* To clone a module with submodules
+  git clone <supermodule>
+    # At this point the submodule folders are empty.
+  git submodule init
+    # The results of this can be seen by running
+    # git config -l
+    # and looking for the word "submodule"
+  git submodule update
+    # checks out the commits specified in the supermodule
+* submodule update vs. submodule add
+  """One major difference between "submodule update" and "submodule add" is that "update" checks out a specific commit, rather than the tip of a branch."""
+* PITFALL: Before adding a submodule, make it not a subfolder.
+Suppose Bigger contains Smaller, both are git repos,
+and I want Smaller to be a submodule of Bigger.
+The easiest way is to move Smaller outside of Bigger (as a backup),
+run `git submodule add` (described elsewhere in this file),
+and re-download Smaller.
+
+There are ways to avoid re-downloading, but they suck.
+* PITFALL: don't use a forward slash after the submodule name
+  when running "git add submodule"
+* PITFALL: Publish submodule changes before supermodule ones.
+* PITFALL: Removing one is tricky.
+  serial
+** Delete the relevant line from the .gitmodules file.
+** Delete the relevant section from .git/config.
+** Run git rm --cached path_to_submodule (no trailing slash).
+** Commit the superproject.
+** Delete the now untracked submodule files.

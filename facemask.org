@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       14aaf6a3-35f1-4883-8084-62c339739ec0
+:ROAM_ALIASES: mask
+:END:
+#+title: facemask
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/filters_for_m3_2907_mask.org][M3 2907 mask, filters for]]
+* really nice disposable N95 facemasks
+  As of <2022-07-24 Sun> they cost 17 USD for 10.
+  https://www.amazon.com/gp/product/B08YS6WJZ3/ref=ox_sc_act_title_4?smid=A438NCHVIW7NM&psc=1

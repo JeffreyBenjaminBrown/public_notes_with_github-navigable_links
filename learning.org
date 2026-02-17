@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       79287a5a-dd30-4de7-bce9-3d02fc6c858a
+:ROAM_ALIASES: "thinking, learning, understanding" "understanding, thinking, learning"
+:END:
+#+title: learning, thinking, understanding
+* Maybe {learning,..} has no planning phase.
+:PROPERTIES:
+:ID:       6da712c0-8fba-41b4-90f5-b71b27da741b
+:END:
+* ways to know | understand
+:PROPERTIES:
+:ID:       9fc09f11-ef5b-475d-a885-f0fd0b667178
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/meditation.org][meditation]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/science.org][science]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/metaphor.org][metaphor]]
+** technology
+*** I believe [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/knowledge_graphs_enhance_self_awareness.org][knowledge graphs enhance self-awareness.]]
+* opposites
+** feeling [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lost.org][lost]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sanctity_purity_innocence.org][innocence]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/blindness.org][blindness]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_form_a_study_group.org][how to form a study group]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/contrast_is_funny.org][Contrast can be funny.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/hegelian_synthesis_is_a_powerful_knowledge_graph_trick.org][Hegelian synthesis is a powerful knowledge graph trick.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ai_and_understanding.org][AI and understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/animals_and_understanding.org][animals and understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/usingsp.org][How to think using spaced repetition.]]
+* Why and how to [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_use_a_knowledge_graph.org][use a knowledge graph]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/collective_understanding.org][collective understanding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/it_s_fun_to_determine_when_sending_a_picture_conveys_more_and_or_better_information_than_words.org][It's fun to determine when sending a picture conveys more and/or better information (than words).]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/preconceptions.org][preconceptions]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/identity_conscious.org#selfward-is-sometimes-the-least-educational-choice][selfward as the least learning experience]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/questions.org][questions, about]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/awkwardness.org#it-signals-misaligned-models-between-people][Awkwardness signals misaligned models between people.]]
+* DONE internalized
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pain_and_learning.org][Pain is only sometimes a learning experience.]]

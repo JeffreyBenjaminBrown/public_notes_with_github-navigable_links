@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       c17782b5-f070-418e-9e04-519f3c7f9a66
+:END:
+#+title: economics
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/there_should_be_a_nonexperimental_drug_pathway.org][There should be a nonexperimental drug pathway.]]
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/power.org][power]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/presenting_data.org][presenting data]]
+* consumerism
+:PROPERTIES:
+:ID:       de3a3ea8-8cb9-41b0-b314-efff4b075638
+:END:
+* contracts
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consensual_biographical_publication_algorithm.org][consensual biographical publication algorithm]]
+* competition
+:PROPERTIES:
+:ID:       5ca1fc76-8dd7-4305-ac97-c4dfe9fb3610
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/exporting_industries_face_more_competitive_pressure.org][Exporting industries face more competitive pressure.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/competition_among_games.org][Competition among games]] seems cool.
+* game theory
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/consensual_biographical_publication_algorithm.org][consensual biographical publication algorithm]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/behavioral_manipulations.org][behavioral manipulations]]
+* industrial organization
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/china_tolerates_apple_because_apple_teaches_chinese_businesses.org][China "tolerates" Apple because Apple teaches Chinese businesses.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_us_feels_robbed_from_its_investments_in_china_but_does_not_want_china_to_reciprocate.org][The US feels robbed from its investments in China but does not want China to reciprocate.]]
+* development economics
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/china_tolerates_apple_because_apple_teaches_chinese_businesses.org][China "tolerates" Apple because Apple teaches Chinese businesses.]]
+* TODO study | refresh
+** Current Depth Regression
+   a time-varying measure of the depth of a recession
+** Granger causality
+** Wald test
+** VAR, VECM
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_economics_is_fascinating_and_useful.org][why economics is fascinating and useful]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/data_science.org][data science]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/labor_market_the.org][labor market, the]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/housing_market_the.org][housing market, the]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/constrained_optimization.org][constrained optimization]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/macroeconomics.org][macroeconomics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/stock_market_the.org][stock market, the]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/political_economy.org][political economy]]
+* development economics
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dani_rodrik_on_why_manufacturing_is_special.org][Dani Rodrik on why manufacturing is special]]
+* market failure
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_market_for_printers_seems_broken.org][The market for printers seems broken.]]
+* unintended policy consequences
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/tiene_sentido_obligar_a_la_gente_a_ahorrar_para_su_vejez.org][Forced savings can lower someone's total income.]]
+* some papers
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_economic_organization_of_a_pow_camp_by_r_a_radford.org][The Economic Organization of a POW Camp, by R. A. Radford]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/piketty_saez_and_zucman_qje_2018_distributional_national_accounts_methods_and_estimates_for_the_united_states.org][Piketty, Saez And Zucman, Qje 2018, "Distributional National Accounts: Methods And Estimates For The United States".]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/londono_velez_and_avila_mahecha_2018_can_wealth_taxation_work_in_developing_countries_quasi_experimental_evidence_from_colombia.org][Londoño-Vélez And Ávila-Mahecha 2018: "Can Wealth Taxation Work In Developing Countries? Quasi-Experimental Evidence From Colombia"]].
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_correlation_between_weight_and_income_in_rich_countries_is_driven_almost_entirely_by_women.org][The correlation between weight and income in rich countries is driven almost entirely by women.]]
+* When profit margins are thin, the gains from small increases in efficiency can be huge.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/reproduction_and_discount_rates.org][reproduction and discount rates]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/venezuela_s_collapse_and_exporters_in_colombia.org][Venezuela's collapse and exporters in Colombia]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_paradox_of_choice_book_by_barry_schwartz.org][The Paradox of Choice - book by Barry Schwartz]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/inflation_monetary.org][inflation, monetary]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/markets_price_in_that_there_will_be_a_deal_trump_sees_that_and_feels_no_pressure_to_make_a_deal.org][Markets price in that there will be a deal. Trump sees that and feels no pressure to make a deal.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/labor_v_capital.org][Distributors own infrastructure.]]
+* [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/some_private_art.org#about-economics][art / economics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/utilitarianism.org][utilitarianism]]
+* [[https://github.com/JeffreyBenjaminBrown/org_personal-proc_with-github-navigable-links/blob/master/private_equity_sucks.org][Private equity ... sucks?]]

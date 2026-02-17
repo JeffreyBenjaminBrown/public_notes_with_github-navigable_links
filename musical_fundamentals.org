@@ -1,0 +1,116 @@
+:PROPERTIES:
+:ID:       361aa2f3-ae91-42c1-b943-0735eb0983af
+:ROAM_ALIASES: "music fundamentals" "fundamentals of music"
+:END:
+#+title: musical fundamentals
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/musical_exercises.org][musical exercises]]
+* How many things are there for two voices to do? In 7 notes? Modulo all time but past, present and future?
+  Consider all the start positions.
+  For each, consider the potential moves of either.
+  For each, consider the other's available responses.
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/splash_improv.org][splash improv]]
+* orthogonal sets of elements
+** relationships
+   mostly for voices?
+*** time
+    difference in time = offset
+    difference in "dt/dt" = speed difference
+*** frequency
+    difference in f = register
+    difference in df / dt = range
+*** # of durations
+*** # of themes
+** transformation parameters | patterns
+*** magnitude of change
+*** duration of transformation
+    shock / drift
+*** waves
+** transformations
+*** freq (parallelism)
+**** voices, chords in a scale
+**** melodies, chords chromatically
+*** time transformations
+**** speed, reverse
+** object parameters
+*** number :: concurrent | serial
+    = quantity, count
+*** speed : mean (tempo), std dev (syncopation)
+*** pitch : mean, std dev, size of pitch set
+**** TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/46_edo_some_cool_pitch_sets.org][46-edo / some cool pitch sets]]
+*** duration : mean, std dev
+*** amplitude : mean, std dev
+*** BLOCKED timbre
+*** total complexity
+** objects
+*** note
+*** tonal center, chord, scale
+*** motif
+    rhythm
+    melody
+    melody modulo rhythm (tone rows)
+*** voice
+* recently exercised sets of those orthogonal sets of elements
+** where "to exercise a set of orthogonal sets" means
+*** definition
+    To, for each pair of elements one from each pair of sets,
+*** example
+    to imagine music corresponding to that pair of elements.
+    For instance, if two of the orthogonal sets were these:
+      {note, voice}
+      {number, speed}
+    then to exercise that pair of sets would be to imagine each of
+      note x number
+      note x speed
+      voice x number
+      voice x speed
+*** PITFALL: even a single outer set of is enough
+    for instance, I might just exercise "relationships",
+    rather than "relationsihps x objects"
+** the history
+   most recent at top
+*** TODO transformation parameters X parameters
+*** relationships
+*** transformations X objects
+*** objects X parameters
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pitch_space_a_practice_curriculum.org][pitch space: a practice curriculum]]
+* relationships (esp. between hands)
+** follows => call & response
+** complicates, simplifies
+** reverses in freq, time
+** same pitches but new rhythm, or vice-versa
+** slower, faster
+* a selection of bundles from those elements, 2023-07-10
+** forgetten often :: rhythm | accent | cont* theme | 8ve sep
+   *Continue themes. Sometimes radically, always slightly.
+** waves & transformations
+*** amplitude | rhythm | range
+*** speed :: peace | energy
+*** *slight* changes :: melody, rhythm, meter
+**** micro-melody = variation in a narrow frequently range
+**** micro-rhythm = trills, etc.
+**** swing (micro-rhythm) helps rhythm
+** complexity, number of :: chords | notes | durations | motifs
+** pattern duration -  esp. rhythmically uneven chord changes
+** voices :: unison || notes / hand || call & response
+** mood
+*** funk | blues | circus | pop
+*** grandeur | wonder | alien | metal | march
+** pitch
+*** bichords | pedal note | trills, bends
+*** diatonic | symmetric | atonal | 24-tone
+** intuition v. known
+* a selection of bundles from those elements, 2023-04-30
+** number of motifs
+** waves in
+*** TODO the number of voices
+*** TODO the complexity of the pitch set
+*** amplitude
+*** TODO which parameters are complex
+** stacked/nested waves
+** voices at different amplitudes, speeds
+** TODO waves of action and peace
+** TODO weird {harmony, ..}
+** TODO uneven but unison rhythm across voices
+** TODO uneven timing for chord progressions
+** TODO bichords
+** TODO be funky; dance

@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       17401bd2-d61a-4a66-87cd-5be12b8d10e6
+:ROAM_ALIASES: "TODO \ TidalCycles"
+:END:
+#+title: TidalCycles / TODO
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/hypotheses_about_what_sounds_good.org][what sounds good in TidalCycles]]
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/questions_about_the_tidalcycles_language.org][questions about the TidalCycles language]]
+* TODO solve
+** chords, scales, melodies
+** Other ways to achieve whatever leads me to repeat certain coding patterns
+*** Like always adding a slow speed change to a repeated hat
+** Parameters for sample (not synth)-based patterns
+*** Swell?
+** "sidechain"
+   Where the kick or the snare silences other stuff.
+* TODO Record solved puzzles
+** Patterns that don't sound good, and simple solutions to it.
+* TODO extract my changes in git
+  git log jbb --author="Jeffrey Benjamin Brown" -p
+  Keep them in a way that won't conflict with anyone else's edits.
+* TODO [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/concepts-for-Tidal-some-high-level-musical.org][concepts for Tidal, some high-level musical]]
+* TODO polymeters in Tidal
+  https://club.tidalcycles.org/t/thinking-time-in-addition-vs-division-meshuggah-style-prog-metal-in-tidal/4664/6
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_bass_drum_key_rhythms.org][make bass-drum-key rhythms]]
+* TODO permit line continuations within strings
+  This would be an Emacs fix,
+  not a Haskell fix.
+** some code that might be close
+(defun send-highlighted-region-to-receiving-ghci-buffer (beg end)
+  (interactive "r")
+  (process-send-string receiving-ghci-buffer ":{\n")
+  ;; (replace-regexp-in-string "a" "b" "ab")
+  ;; (setq message (buffer-substring beg end))
+  ( process-send-string receiving-ghci-buffer
+		       ( replace-regexp-in-string
+			 "\\\n" "" (buffer-substring beg end ) ) )
+  (process-send-string receiving-ghci-buffer "\n:}\n"))
+(global-set-key ( kbd "C-c s")
+		( lambda () (interactive)
+		  (send-highlighted-region-to-receiving-ghci-buffer) ) )
+* TODO the scale stuff is buggy
+  This should result in a monotonic sequence,
+  but does not:
+
+  > map (lke' 12 [0,1]) [-5..5]
+  [-35.0,-36.0,-23.0,-24.0,-11.0,0.0,1.0,12.0,13.0,24.0,25.0]
+** TODO share the scale stuff
+   ~/code/music/Tidal/tidal+epic/demo/scales.hs
+* TODO open questions, probably
+** It's so fun sometimes, and so dumb sometimes
+** I should try 12 tones
+** The information gets too messy
+*** Entangled, can't separate things, make things depend on other things without a lot of evaluation in different places in the document
+*** Sprawling
+** I get locked into tiny variations of a pattern that I ought to make bigger, more destructive changes to
+** My rhythm sucks
+* TODO [[:id:25d56fbf-4695-4188-bdef-61d98cc4876a][questions about the language -- broken link?]]
+* TODO cover songs
+** Communication, by Melt Yourself Down
+** Saviour
+** Harder better faster
+** Happy
+** Flat beat
+** Sexy and I know it
+** Gnossienne no. 1
+** Dirty dishes, moon hooch
+** Das Techno, Phace
+** Rockyou feel it, two fingers
+
+** Mandarine Girl, by Booka Shade
+   has at least some cool changes, if not to cover all of
+* TODO easy
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/TidalCycles/wrandcat_probabilities_should_precede_their_associated_patterns.org][wrandcat probabilities should precede their associated patterns.]]
+** warp (swing, etc.)
+*** Define an invertible map g from straight time to warped
+*** To query an arc, query the g-preimage of its endpoints, then apply g to all resulting events
+** unit-interval Rational patterns
+   No new definitions needed --
+     fmap (/ 10) "0 2 5 10 15"
+   The result can then be multiplied by the number of scale degrees,
+   even as the scale varies.
+   Then quantized to an integer.
+   Then harmony rules applied, ala adjustVoices and avoidDiffsMod.
+** There's room for more operators in the mini syntax.
+   Just use two characters.
+** make variations on `hitspan`
+   using other parameters.
+   `histpan` is a transition function that pans repetitions of a pattern.
+* DONE or stale
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outline_mode_haskell.org][outline-mode]] & Haskell : I got it working!

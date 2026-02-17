@@ -1,0 +1,480 @@
+:PROPERTIES:
+:ID:       8e3eeb3f-2fec-4db3-80b8-7453e2333e59
+:END:
+#+title: The economics of technology and AI (my mini-course for Colegio Andino)
+* course history
+  The course consisted of 2 80-minute lectures I gave in November 2020.
+  Julian Gomez, the TA, handled setting up Zoom and administering and grading the quizzes.
+  The class, about 20 students at Colegio Andino, did pretty well on the first quiz, and not on the second.
+* administrative details = what I had to do
+** class from 1:30 to 3:00 pm
+** two ways to connect -- an "invitation" and a link
+   Will arrive by email from Julian.
+** worry about Teams -- didn't receive call on laptop
+** what I was assigned to do
+The school is Andino.
+Covid relates everything.
+Let them participate, give an activity.
+Send the students material at least a week ahead of time.
+Quiz at start or end of class. Can be on what I sent them.
+Ask Julian the TA to remember who participates, allocate points.
+    Julian Francisco Gomez Villamil
+    julian.gomezv@javeriana.edu.co
+    +573013210188
+** 1 quiz at end of each class, last 10 or 15 minutes
+   Should be easy if they paid attention.
+   Five to ten questions.
+   Send Julian the questions the day before.
+     He said he could write the quiz if needed.
+** what the class has already seen
+*** externalities
+*** behavioral economics
+*** experimental economics
+*** cities
+*** political economy
+    unemployment, gdp (pib), covid policies
+*** gender & economics
+*** game theory
+    prisoner's dilemma
+* PITFALLs -- notes to self
+** when reviewing, check out the syllabus before the reading
+   That way I'll know what to edit in the syllabus while reading. (That's my theory, anyway. Today I did the reverse and don't like it.)
+* lesson 1
+** pre-class reading
+*** The Internet's 2nd act (from the magazine The Economist, 8 Jun 2019)
+    === The Second Half of Humanity Is Joining the Internet. ===
+    --- They will change it, and it will change them. ---
+
+    In 2007 more humans lived in cities than outside them for the first time. It was a transition 5,000 years in the making. The internet has been quicker to reach the halfway mark. Over 50% of the planet’s population is now online, a mere quarter of a century after the web first took off among tech-savvy types in the West. The second half of the internet revolution has begun. As our briefing describes, it is changing how society works—and also creating a new business puzzle.
+
+    Most new users are in the emerging world; some 726m people came online in the past three years alone. China is still growing fast. But much of the rise is coming from poorer places, notably India and Africa. Having seen what fake news and trolling has done to public discourse in rich countries, many observers worry about politics being debased, from the polarisation of India’s electorate to the persecution of Myanmar’s Rohingya minority. On the positive side, charities and aid workers talk endlessly and earnestly about how smartphones will allow farmers to check crop prices, let villagers sign up for online education and help doctors boost vaccination rates.
+
+    Less well appreciated is that the main attractions of being online are the same for the second half as they were for the first. Socialising and play, not work and self-improvement, are the draw. Porn is popular. Messaging apps help friends stay in touch, and let migrant workers say goodnight to their children back home. People entertain their friends—and strangers—on social media with goofy home-made videos on YouTube or TikTok, an app focused on short, humorous clips. Cheap data plans and thumb drives bring pirated films to millions who may never have been to a cinema. Dating apps are more popular than farming advice; video games are more popular than either. Such boons are unlikely to make their way into many UN development reports. But they are a boost to the stock of human happiness.
+
+    For businesses, the second half of the internet offers a vast pool of customers. It also brings a headache—most of these new users are too poor to spend very much. Tens of billions of dollars in venture-capital money have flowed into internet startups in emerging markets, excluding China. The Silicon Valley giants have built up big user bases—over 1.5bn Facebook users are in developing countries. YouTube, a video site owned by Google, is increasingly dominated by non-Western users. Last year Walmart spent $16bn buying Flipkart, an Indian e-commerce giant. Jumia, an e-commerce firm with 4m customers in Nigeria and 13 other African countries, floated in New York in April.
+
+    Despite these firms’ punchy valuations, they are still looking for sustainable business models. Reliance Jio, an Indian firm, has sunk $37bn into building a high-speed mobile network and acquiring a big base of mostly poor users. Each Facebook user in Asia generates only $11 of advertising revenue a year, compared with $112 for a North American one. The combined revenue of all the internet firms in emerging markets (excluding China) is perhaps $100bn a year. That is about the same size as Comcast, America’s 31st-biggest listed firm by sales.
+
+    Nonetheless, the impact of these firms on business will get bigger in two ways. First, they will grow fast—although whether fast enough to justify their valuations remains to be seen. To maximise their chances, many are offering not just a single service (such as search or video), as Western firms tended to in their early years, but a bundle of services in one app instead, in the hope of making more money per user. This approach was pioneered in China by Alibaba and Tencent. Go-Jek in Indonesia offers ride-hailing, payments, drug prescriptions and massages. Facebook is pushing a digital payments system in India through its chat service, WhatsApp (see article).
+
+    The second is that in the emerging world, established firms are likely to be disrupted more quickly than incumbents were in the rich world. They have less infrastructure, such as warehouses and retail sites, to act as a barrier to entry. Many people, especially outside the big cities, lack access to their services entirely. Beer, shampoo and other consumer-goods firms could find that as marketing goes digital, new insurgent brands gain traction faster. Banks will be forced to adapt quickly to digital payments or die. Viewed this way, there is a huge amount of money at stake—the total market value of incumbent firms in the emerging world, outside China, is $8trn. If you thought the first half of the internet revolution was disruptive, just wait until you see the second act.
+*** "If it's free, you are the product."
+    https://en.wikipedia.org/wiki/Television_Delivers_People
+*** Giving GPT-3 a Turing test
+    https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html
+*** Craigslist drops dating ads after new law
+    https://www.bbc.com/news/technology-43514645
+*** The rise and fall of Pets.com
+    http://www.uky.edu/~dsianita/695ec/failure.html
+** medley of Pets.com commercials
+   https://www.youtube.com/watch?v=sICSyC9u5iI
+** profits
+*** profit = revenue - costs
+*** top companies by proit
+    https://asian-links.com/gdp/most-profitable-companies
+*** Uber's profit/loss history
+    https://1z1euk35x7oy36s8we4dr6lo-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Uber-revenue-profit.png
+** the growth-first strategy.
+*** Pets.com
+     http://www.uky.edu/~dsianita/695ec/failure.html
+     "During its lifetime Pets.com spent more than $70 million on marketing and an average of $400 to acquire each new customer (Bucholtz, 2000)."
+     "The company raised $82.5 million in a February 2000 IPO but filed for bankruptcy nine months later."
+     IPO = Initial Public Offering
+*** So, was Pets.com stupid?
+*** Amazon.com
+**** Profits stayed pretty flat two decades.
+     https://www.statista.com/chart/14887/amazon-quarterly-profit/
+**** but revenue, hence scale, have grown exponentially the whole time.
+     https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/#:~:text=The%20time%20series%20shows%20the,billion%20US%20dollars%20in%202017.
+**** They got big first, made money later
+     (while continuing to get bigger).
+     Actually they made a little money the whole time,
+     but they took a long time to make lots of money.
+*** "Growth first" is going out of style.
+    Growth first = First grow, then profit.
+    Not attractive to investors like it used to be.
+    https://www.theguardian.com/media-network/media-network-blog/2013/aug/06/growth-profits-social-media-platforms
+** barrier to entry
+   entry = entering the market
+   => Competing is hard.
+*** material monopoly
+    Being the only one with access to raw materials -- e.g. diamonds.
+**** Standard Oil: company in the US, in the 1800s
+     =>
+     "antitrust law" : breaks monopolies (1 firm controls it) and oligopolies (a few firms control it)
+*** information monopoly: methods for products (or services) that nobody else has.
+    drug formulas (Pfizer)
+    data (Google)
+    software (can be a weak barrier)
+*** laws and regulations.
+**** Licenses
+***** Doctors need licenses.
+      Helps doctors with licenses & consumers.
+      Hurts "doctors" without licenses.
+***** Hair dressers need licenses. Why?
+      Helps already-licensed hair dressers.
+      Hurts people who want to be hair dressers.
+      Hurts some consumers, who would face lower prices if there were more hair dressers.
+**** Section 230 of the 1996 US Communications Decency Act
+     Platforms mostly cannot be held accountable (i.e. get in trouble) for their users' posts.
+***** Freedom of speech does not apply.
+      You have the right to speak, but not to speak on my website.
+***** Craigslist shut down its personal ads.
+      The "Allow States and Victims to Fight Online Sex Trafficking Act" (FOSTA)
+      states that websites can now be punished for "facilitating" prostitution and sex trafficking.
+      https://www.bbc.com/news/technology-43514645
+***** Size & cost of filtering bad posts.
+      Facebook, Youtube	: can afford it.
+	(They use machines and humans to do that.)
+      Startups		: can't afford it.
+****** startup = a small new company
+*** scale (size) & network effects
+**** network effects
+     More people use it => it becomes more useful => more people use it => ...
+***** Amazon, Uber, Facebook, Ebay, Instagram
+***** Why Google offers so many free services.
+      If you're not on Google, you can't see your friends Google Docs, or their Google Drive, or their Hangouts, or their Calendar ...
+      More users + more information => better-targeted ads => more profit.
+***** Why Facebook bought Instagram and Whatsapp.
+      Monopoly: Facebook can charge advertisers more if nobody else is like Facebook.
+**** Google, Amazon, Facebook, Walmart : scale (size) protects them.
+     Amazon ~ Mercado Libre.
+     Walmart ~ Exito.
+**** Uber (Didi, InDriver)             : not very protected by scale.
+**** Facebook moderators and PTSD (post traumatic stress disorder)a
+     The term "PTSD" was first used in the Vietnam War.
+     Moderator = someone who vets posts, takes some of them down.
+     Settlement: paid 52 million USD to 11,250 moderators
+     https://www.theverge.com/2020/5/12/21255870/facebook-content-moderator-settlement-scola-ptsd-mental-health
+*** quote from The Economist: tech will be more disruptive in the developing world
+    "in the emerging world, established firms are likely to be disrupted more quickly than incumbents (= firms who are already there) were in the rich world. They have less infrastructure, such as warehouses and retail sites, to act as a barrier to entry."
+** tech is weird
+*** AI does not exist.
+    https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html
+**** machines are better at
+     Arithmetic, memory, simple games.
+       Chess.
+       Memory (the card game).
+       Poker (but only very recently).
+     Anything you can program a perfect solution to.
+**** humans are better at
+     Recognizing pictures.
+     Talking.
+     Science.
+     Cooking.
+     Sports.
+     Picking strawberries.
+     Navigation (e.g. driving).
+*** non-rivalry
+**** music
+**** open-source software ("even freer" than free software)
+     Free: you can use it, "have" it, but you don't get to see how it works.
+     Open-source: you can see the source code, see how it works, modify it, share those modifications, etc.
+***** example: Go (programming language) by Google
+****** can't sell it
+       Too many other great free languages already available.
+****** want people to use it
+       Google will hire some of them.
+       Google can charge for consulting services.
+****** want to be famous, respected for helping others
+****** want people to develop it
+       Free labor!
+*** If it's free, you are the product.
+    Users are the product.
+    The customer is the advertiser.
+    https://en.wikipedia.org/wiki/Television_Delivers_People
+**** Facebook, Google receive most of their money from advertisers.
+     Apple gets most of its money from the app store.
+     Amazon gets most of its money from Amazon Web Services, but also commissions (percentages) on sales.
+**** Lots of small websites used to, but much less now.
+     Facebook and Google can target users more precisely,
+     so it's cheaper for advertisers to use them.
+     Smaller websites are less attractive to advertisers,
+     because it costs more money to reach interested people,
+     because they have to spam lots of uninterested people,
+       (spam = unwanted messages)
+     because the website knows so little about its users.
+     (Compare: NYT v. Facebook)
+*** squishy assets
+    Hard to quantify. Impossible to touch.
+    Some easy to copy, some very much not.
+**** data
+**** algorithms
+**** popularity
+     Facebook has it, and is protected by it.
+     Uber has it, but is not very protected by it.
+** quiz
+*** Which of the following tasks are computers better than humans at?
+**** Cooking.
+**** Identifying animals in pictures.
+**** Playing chess.
+**** Picking strawberries.
+*** Which of the following is not a barrier to entry?
+**** Secret recipes
+**** Network effects
+**** Open-source software
+**** Licensing regulations
+*** Most of Google's profit comes from
+**** research into algorithms
+**** advertising
+**** the government
+**** Google is not profitable.
+*** What is the argument for not making platforms responsible for their users' posts?
+**** User posts are not harmful, so accountability is not necessary.
+**** If platforms were held accountable, many would not let their users post anything.
+**** Smaller platforms can more easily filter posts, so this would give them an unfair advantage.
+**** Freedom of speech means anybody should be able to write anything on anybody's website.
+*** Pets.com spent more than 80% of the money its IPO raised on
+**** developing software and running servers
+**** buying products for resale
+**** shipping products
+**** advertising
+** quiz answers
+*** playing chess
+*** open-source software
+*** advertising
+*** If platforms were held accountable, some would not let their users post anything.
+*** advertising
+* lesson 2
+** pre-class reading
+*** technological unemployment is not new
+**** the Luddite rebellion
+     https://www.history.com/news/who-were-the-luddites
+**** optional: if you enjoyed that story, here are many more:
+     https://www.blog.askwonder.com/blog/technological-unemployment
+*** the 2017 Equifax hack
+    https://en.wikipedia.org/wiki/2017_Equifax_data_breach#Criticism
+    Read the introduction and the "criticisms" section. (And anything else you want, of course :)
+*** Venezuelan money and art
+    https://www.aljazeera.com/economy/2019/12/24/venezuelas-currency-worth-more-as-craft-paper-than-as-money
+*** the dangers of unexplainable machine learning
+    https://www.vox.com/future-perfect/2020/8/22/21374872/uk-united-kingdom-formula-predict-student-test-scores-exams
+*** optional: how cryptocurrency works
+    https://blog.revolut.com/how-cryptocurrency-works/
+** Does tech destroy jobs?
+*** Jobs that disappeared
+**** The printing press (1440) replaced scribes.
+**** Powered looms (1784) replaced weavers.
+**** Tractors (1892) replaced farmers.
+     Most humans lived on farms before 1900.
+**** Trains (1804) replaced log operators
+     Beyond rivers.
+**** Ice-making machines (1854) replaced Ice cutters.
+**** Email (1972) replaced copy boys.
+     Beyond the office.
+*** long-term, "unemployment" does not rise.
+**** German unemployment since 1900
+     Only obvious change is that it's more stable now.
+     https://www.researchgate.net/figure/Unemployment-Rate-1900-1998_fig1_5051954
+**** Colombian "unemployment" since 1980
+     https://www.researchgate.net/figure/Behavior-of-unemployment-in-Colombia-Source-DANE_fig1_228559730
+     https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ceicdata.com%2Fdatapage%2Fcharts%2Fipc_colombia_unemployment-rate.svg&imgrefurl=https%3A%2F%2Fwww.ceicdata.com%2Fen%2Findicator%2Fcolombia%2Funemployment-rate&tbnid=3YYje6iBcZMm7M&vet=12ahUKEwjYi6nD5a3tAhVU21kKHbTNCCgQMygEegUIARCaAQ..i&docid=BjBBuj1SrjXV7M&w=1200&h=500&q=colombia%20unemployment%20since%201980&ved=2ahUKEwjYi6nD5a3tAhVU21kKHbTNCCgQMygEegUIARCaAQ
+*** New tech => more wealth, new "distribution" of wealth.
+*** Humane approach: Train the displaced workers.
+** the Equifax hack
+*** Equifax is a "credit bureau".
+    Credit bureau: collect financial information on people.
+    "Credit-worthiness" = whether you deseerve a loan
+*** the information revealed
+    on more than 150 million people
+    first and last names, Social Security numbers, birth dates, addresses and, in some instances, driver's license numbers for an estimated 143 million Americans,
+    Credit card numbers for approximately 209,000 U.S. consumers, and certain dispute documents with personal identifying information for approximately 182,000 U.S. consumers were also accessed.[20][10]
+*** the problem: sloppy security
+    Basically they were cheap.
+**** Slow to download and use security patches.
+**** Bad data segmentation.
+*** the personal information "externality"
+    seller = equifax (selling credit information)
+    buyer = banks, credit card companies, etc.
+    individuals ? not buyers or sellers, but hurtx
+    lost personal information ~ pollution
+*** around half a billion dollars in fines
+**** Net income (profit) in 2017 was about the same, half a billion dollars.
+     https://investor.equifax.com/news-and-events/press-releases/2018/03-01-2018-213648628#:~:text=For%20the%20full%20year%202017,to%20the%20full%20year%202016.
+*** was Equifax hurt?
+**** Equifax stock price
+     https://www.google.com/search?q=equifax+stock+price&oq=equifax+stock+price&aqs=chrome..69i57.5111j0j1&sourceid=chrome&ie=UTF-8
+***** stock price
+      stocks pay dividends.
+      stocks share profits.
+      stock is valuable <=> dividends are expected to be big
+**** Experian stock price
+     https://www.google.com/search?q=experian+stock+price&oq=experian+stock+price&aqs=chrome..69i57.5559j0j1&sourceid=chrome&ie=UTF-8
+**** what are fines for?
+     Make a company suffer for a bad thing.
+     Teaches the company not to do that bad thing.
+     Teaches *other* companies not to do that.
+**** fines that don't work ~ as a cost of business
+*** "insider trading"
+**** at Equifax
+     three Equifax executives sold almost $1.8 million of their personal holdings of company shares days after Equifax discovered the breach but more than a month before the breach was made public.[59] The company said the executives, including the chief financial officer John Gamble,[60][34] "had no knowledge that an intrusion had occurred at the time they sold their shares".
+**** what it is
+     Trading of a firm's stock, or derivatives based on it, based on nonpublic information about it.
+**** why that's illegal
+     stock market's purpose = raise funds from anyone
+     If a few insiders make better deals, nobody wants to buy stock.
+     we want everyone to be willing to participiate
+*** they set up a website to check whether your info was stolen
+**** that tried to remove visitors' right to participate in any "class action" lawsuit
+     class action = people pool together to sue
+     "The Trusted ID Premier website contained terms of use, dated September 6, 2017 (the day before Equifax announced the security breach) which included an arbitration clause with a class action waiver"
+** privacy
+*** Some kinds of private info online.
+**** Income
+**** Health problems
+**** Sexual orientation, habits
+*** Who has your information?
+    The two biggest examples:
+**** Facebook knows
+***** who you know
+***** what you like and dislike
+**** Google knows
+***** your search history
+*** What is privacy?
+**** a "negative freedom"
+     like freedom from violence
+     not like freedom of speech (a "positive freedom")
+**** a "human right"
+     Why?
+     Economists ask why a lot about justice.
+****** The freedom to make mistakes.
+       Without that, we stay stupid.
+****** Just because we like it.
+*** bargaining power and the GDPR
+**** "bargaining power"
+     = A negotiation in which one party is somehow special, and can therefore dictate the terms.
+***** monopoly vs. consumers
+***** firm vs. employees
+***** many similar buyers and sellers
+***** Putin and Trump
+      Maybe Putin has a naughty video.
+***** Facebook buying Whatsapp and Instagram
+      maybe ? maintain monopoly on social network data
+****** can charge advertisers more
+****** can give users a worse experience
+       e.g. less data protection
+**** some common bargaining power correctives
+     laws and regulations
+***** "antitrust law"
+      to prevent monopoly
+***** "class action lawsuits"
+***** "labor union" = a monopoly
+**** the "GDPR"
+     The EU's "General Data Protection Regulation"
+     https://gdpr.eu/what-is-gdpr/?cn-reloaded=1
+***** principles
+****** transparent = not secret
+****** purpose-limitated
+       Only collected for the purposes initially specified.
+****** minimal
+****** accurate, up to date
+****** security
+***** reaches beyond the EU
+      "if you process the personal data of EU citizens or residents, or you offer goods or services to such people, then the GDPR applies to you even if you’re not in the EU."
+** money and "crypto"currency
+   Bitcoin
+*** purpose
+**** facilitate exchange
+     "Barter" is inefficient -- see, e.g., Venezuela.
+     "coincidence of wants"
+**** store value
+     Doesn't always work -- see, e.g., Venezuela.
+***** "inflation"
+      inflation = money loses its value
+      inflation = prices rising
+**** measure value
+     Quantify anythinig -- chicken feathers, movies, injuries ...
+*** Once, it was all metals or gems
+    Useless and heavy! Who wants that?
+    valuable because it's hard to find
+*** Now, it is printed on paper by central authorities
+**** First: China, 770 BC.
+**** Still useless, but more convenient.
+**** Countries make it difficult (and sometimes illegal) to use foreign currencies for domestic transactions.
+     => central bank (government) can print more money, knowing it will be valued
+**** number of COP rises by around 3% every year
+     that's inflation
+     which is why prices rise by about 3% every year
+*** "cryptocurrency"
+**** decentralized
+     No central authority prints money.
+     Every "miner" has the "ledger", processes transactions.
+     "ledger" = history of transactions: money went from one address to another
+**** "private" and "public"
+***** Address, amount, history: public.
+      "sahguiawnjklsbh2800" might be an address.
+      That address might have 1000 Bitcoin at it.
+      money in, money out: all public, for all addresses
+***** Identity: private, kind of.
+***** Is cash private? yes, prett much.
+***** credit card: not private at all
+**** "volatility"
+**** transaction speed
+     Takes minutes.
+     Consider Visa: takes seconds.
+**** transaction costs
+     Fluctuates, from 300 to 30,000 pesos, usually 3,000-ish.
+     Compare: credit cards cost at least 1%.
+***** "Fixed cost" v. "variable cost".
+** "machine learning" (ML) and "explainability"
+*** "neural networks"
+**** are the most popular ML tool
+***** powerful: can fit very complex data
+***** flexible: can solve a wide variety of problems
+**** are "trained" on data
+**** guesses without explanation
+*** ways they are used
+**** predicting exam results during a pandemic
+     https://www.vox.com/future-perfect/2020/8/22/21374872/uk-united-kingdom-formula-predict-student-test-scores-exams
+**** "credit scores", loans
+**** recidivism scores, "parole"
+*** "garbage in, garbage out"
+**** Why correlate on race, neighborhood, income, etc?
+     Tables are easy to process automatically.
+     Stories are not.
+** some cool privacy technology research
+*** "pseudonimity"
+    Pseudonymous data => can't identify individuals.
+**** examples
+     "This neighborhood is rich."
+     "People who listen to Bob Marley are less likely to vote."
+*** the holy grail of electronic elections
+    Private yet verifiable.
+** quiz
+*** What is the purpose of money?
+    Money facilitates exchange.
+    Money is a store of value.
+    Money is a unit of measure.
+    Money is all of these things.
+*** What does a credit bureau like Equifax do?
+    It issues credit cards.
+    It collects financial information about people.
+    It measures the economy.
+    It makes loans.
+*** Which of the following is an example of bargaining power?
+    Voters control what a Senator does, because they can threaten to take away the Senator's job.
+    I'm in a boat on a river, so I have no choice -- I must follow the river.
+    I have a nice truck, so I can sell it for a lot of money.
+    Nuclear scientists can only work for the government, so the government does not need to pay them well.
+*** Which of the following statements about technological advancement is FALSE?
+    New technologies make some jobs disappear.
+    New technologies make new jobs possible.
+    New technologies change how wealth is distributed.
+    New technologies do not change the total amount of wealth.
+*** In which of the following ways is Bitcoin better than cash?
+    Bitcoin is easier to use than cash.
+    Bitcoin cannot be inflated like cash.
+    Bitcoin is anonymous, unlike cash.
+    Bitcoin's value is more stable than cash's value.
+*** Insider trading is unfair to
+    the insider doing the trading
+    other traders
+    the company whose stocks or derivatives are being traded
+    other companies
+** quiz answers
+   Money: all of the above.
+   Credit bureau: judges credit-worthiness.
+   Bargaining power: Nuclear scientists.
+   Technological advancement (false): do not change the total amount of wealth.
+   Bitcoin: no inflation
+   Insider trading: unfair to other traders

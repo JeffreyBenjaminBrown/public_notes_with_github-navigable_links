@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       3a21903e-c17b-491d-a093-b49b5a38794d
+:ROAM_ALIASES: blindness ignorance uncertainty certainty confusion
+:END:
+#+title: blindness | ignorance | uncertainty | certainty | confusion
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/questions.org][questions, about]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/entropy_is_not_entirely_negative.org][entropy]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/imagination.org#agnosticism][agnosticism]]
+* If trying to falsify is cheap enough, consider it obligatory.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy.org#i-have-never-seen-evil-that-could-not-be-explained-with-some-degree-of-love]["I have never seen evil that could not be explained with some degree of love."]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/uncertainty_is_easiest_to_reduce_when_it_s_high.org][Uncertainty is easiest to reduce when it's high.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/limiting_certainty_has_quantum_effects.org][Limiting certainty has quantum effects.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/loss_of_innocence_loss_of_ignorance.org][Loss of innocence ~ loss of ignorance.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pride_blinds.org][Pride blinds.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/repression_psychology.org][repression (psychology)]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/denial.org][denial]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/logic.org#the-way-the-edge-of-knowing-feels][the way the edge of knowing feels]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/justice.org#ignorance-can-appear-evil][Ignorance can look like evil.]]
+* darkness
+:PROPERTIES:
+:ID:       234e94c0-76e1-447e-8426-7dae35ea876d
+:END:
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fear.org#shyness][shyness]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/mistakes_and_lies_in_romance.org][mistakes and lies in romance]]
+** [[https://github.com/JeffreyBenjaminBrown/secret_org_with_github-navigable_links/blob/master/dark_complexity.org][dark complexity]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/light.org#darkness--not-sure-whats-there][darkness ~ not sure what's there]]
+* weird
+** [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/to_control_the_world_through_selective_and_probably_diminishing_blindness.org][to control the world through selective (and probably diminishing) blindness]]

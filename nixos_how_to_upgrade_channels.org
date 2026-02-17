@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       ac6d4247-4880-4740-9aa3-0407f4d8b397
+:END:
+#+title: NixOS channels, and upgrading them
+* PITFALL: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_unstable_means_lots_of_rebuilding.org][nixos-unstable means lots of rebuilding]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_how_to_upgrade_channels.org#how-i-went-from-2411-to-2505--easy][It seems easy lately.]]
+* "upgrading NixOS" seems (lately = 21.11) to mean only "switching channels"
+** evidence
+   https://discourse.nixos.org/t/21-11-has-been-released/16353/7?u=jeffreybenjaminbrown
+** But once I had to change my config file, and sometimes there are syntax changes too; the manual or discourse are probably the best bets.
+* Changing channels in a nutshell, I think
+** Read the latest release notes to see if there's anything extra to do.
+   For instance, moving
+   [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_how_to_upgrade_channels.org#how-i-went-from-1909-to-2003][going from 19.09 to 20.03 required a bit more than a channel change]].
+** Change channels, then run `nixos-rebuild switch --upgrade`.
+* How I upgraded to nixos-unstable
+  as root, one at a time:
+
+  sudo nix-channel --list
+  sudo nix-channel --remove nixos
+    # Do this if it's already set.
+  sudo nix-channel --add https://nixos.org/channels/nixos-unstable nixos
+  sudo nix-channel --add https://nixos.org/channels/nixos-24.11 nixos
+    # nixos here is a channel alias
+  sudo nix-channel --list
+  sudo nix-channel --update nixos
+    # nixos here is a channel alias
+  sudo nixos-rebuild switch --upgrade
+  sudo nixos-rebuild switch --upgrade --profile-name "24.11, first try"
+* How I went from 19.09 to 20.03.
+:PROPERTIES:
+:ID:       a93f1341-2849-4dcc-80f1-4393b334ea38
+:END:
+** The procedure
+   serial
+*** Tweak configuration .nix file(s)
+    per the release notes for the latest NixOS version.
+**** PITFALL: One seems to have to read the whole thing, not just the backward incompatibilities section.
+     While trying to migrate to 21.05, I'm also reading
+     "B.1.4. Other Notable Changes",
+     because it starts by saying that stdenv.lib will break.
+*** Back up data.
+*** PITFALL: sudo is important for the rest of this
+    A lot of it will run without sudo,
+    but thereby create stuff that lives in userspace,
+    and is for some reason therefore unuseable.
+*** update the channel
+**** first check that it's where it should be
+     sudo nix-channel --list
+***** which should give something like this
+      nixos https://nixos.org/channels/nixos-19.09
+**** sudo nix-channel --add <channel>
+     for instance,
+       sudo nix-channel --add https://nixos.org/channels/nixos-21.05 nixos
+**** sudo nix-channel --update
+*** rebuild
+    sudo nixos-rebuild --upgrade boot
+* How I went from 24.11 to 25.05 -- easy!
+:PROPERTIES:
+:ID:       f7233ca8-08a7-446a-baab-92b64c469f75
+:END:
+sudo nix-channel --add https://channels.nixos.org/nixos-25.05 nixos
+sudo nixos-rebuild switch --upgrade
+then fix the config for renamed packages

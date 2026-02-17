@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9229a918-375c-4e1b-b775-bf5da596a371
+:END:
+#+title: engineering
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/robotics.org][robotics]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/artificial_intelligence.org][artificial intelligence]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/shade_balls_and_resevoirs.org][shade balls and resevoirs]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/a_giant_marble_quarry.org][a giant marble quarry]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/leveling.org][leveling]]

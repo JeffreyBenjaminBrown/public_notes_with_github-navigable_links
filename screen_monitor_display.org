@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       34af6838-2a43-4484-9324-13979c4d6269
+:ROAM_ALIASES: "screen, computer" "display, computer"
+:END:
+#+title: monitor, computer
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/screen_zoom_computer_interface_concept.org][screen zoom (computer interface concept)]]
+* to reduce the display area used
+  e.g. simulate 14" on a 15" screen
+  https://unix.stackexchange.com/questions/622361/how-do-i-simulate-a-smaller-monitor-within-a-large-monitor
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/why_with_an_external_monitor_a_13_4_laptop_screen_would_suffice_for_me.org][Why, with an external monitor, a 13.4" laptop screen would suffice for me.]]

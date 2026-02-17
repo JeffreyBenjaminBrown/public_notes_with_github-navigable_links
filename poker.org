@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       80f1275c-ebc4-4463-a260-c20e018b66c6
+:ROAM_ALIASES: poker
+:END:
+#+title: card games
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/dance.org#bid-when-dancing][bid when dancing]]

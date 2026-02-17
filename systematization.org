@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       9619c955-6dbe-4001-ba8f-00421984aca3
+:END:
+#+title: systematization
+* systematizing some things ordinarily not systematized
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/how_to_estimate_e_g_duration.org][to estimate anticipated duration]]
+** [[:id:73e229ee-a416-41db-a23a-4d960b2e559f][socializing -- broken link?]]

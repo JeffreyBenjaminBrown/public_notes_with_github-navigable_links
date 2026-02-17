@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5cd6dc01-74f4-4363-9b3c-fa297d795040
+:ROAM_ALIASES: "identifiers | symbols"
+:END:
+#+title: symbols | identifiers
+* see [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/language.org][language]]
+* The [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_german_tank_problem.org][German tank problem]] provides one motivation for nonserial IDs.

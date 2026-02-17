@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b8890c90-7e53-4482-8b3f-1399a28fe92a
+:ROAM_ALIASES: venv virtualenv
+:END:
+#+title: virtualenv (Python tool)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/source_bash_command.org#if-running-source-from-within-a-script-does-not-have-the-intended-effect][to run `source ./yadda_/yadda_/activate` from a script]]
+* to set up a virtualenv
+:PROPERTIES:
+:ID:       8ab98b85-5ede-4127-890c-76b3d4cb4ef4
+:END:
+  # Any name (I like "venv" with no dot)
+  # can be substituted for .venv below.
+  # It will become a local subfolder.
+  python3 -m venv .venv            # create the environment
+  source .venv/bin/activate        # enable ("enter") it
+  pip3 install -r requirements.txt # install what's in that file
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/python_and_virtualenv_in_nix.org][to set up virtualenv inside a Nix shell]]
+* PITFALL: source and "." are synonyms
+  Some people use one, some the other.

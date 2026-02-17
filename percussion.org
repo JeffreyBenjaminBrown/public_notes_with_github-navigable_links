@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b8ec037a-fe0a-4567-adff-4e1c01b3aef6
+:ROAM_ALIASES: drums
+:END:
+#+title: percussion
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/drum_triggers_electric.org][drum triggers, electric]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/percussive_physical_modeling_software.org][percussive physical modeling software]]

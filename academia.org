@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d779aeab-0662-4142-ae65-2ddbf3cef5c5
+:END:
+#+title: academia
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_algebra_in_academic_papers_had_significant_whitespace_equations_could_be_easier_to_read.org][If algebra in academic papers had significant whitespace, equations could be easier to read.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/file_sharing_some_sites.org][file-sharing, some sites]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/science.org][science]]

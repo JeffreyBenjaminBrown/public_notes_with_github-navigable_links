@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       5a9e5a9f-8e1b-4487-ba1d-51692d73dd89
+:END:
+#+title: astronomy
+* vocab
+** AU = [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/au.org][Astronomical Unit]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/fermi_paradox_the.org][Fermi paradox, the]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/obvious_in_retrospect_reasons_to_think_the_universe_is_expanding.org][Obvious-in-retrospect reasons to think the universe is expanding.]]
+* cool facts
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_solar_system_goes_far_beyond_pluto.org][The solar system extends far beyond Pluto.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/radio_telescopy_is_gossamer.org][Radio telescopy is gossamer.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pluto_s_orbit_is_chaotic_and_weird.org][Pluto's orbit is chaotic and weird.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_storm_at_the_heart_of_the_milky_way_galaxy.org][The storm at the heart of the Milky Way galaxy.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/astronauts_can_t_drink_soda.org][Astronauts can't drink soda.]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ice_volcanoes.org][Ice volcanoes]] exist.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outer_space_is_very_empty.org][the scale of outer space]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/photons_can_take_thousands_of_years_to_exit_the_sun.org][Photons can take thousands of years to exit the sun.]]
+** Saturn's North pole is covered by clouds shaped like a hexagon.
+   It has been that way for decades at least.
+** Neptune's winds go up to 1200 mph.
+** Pluto's atmosphere comes and goes (thaws and freezes).
+* a catalog
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_solar_system.org][the solar system]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/neutron_star.org][neutron star]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/supernova.org][supernova]]
+* art involving astronomy
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/astronomy_through_an_economic_space.org][astronomy through an economic space]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irreversible_transitions_in_knowing.org][irreversible transitions in knowing]], passing like comets

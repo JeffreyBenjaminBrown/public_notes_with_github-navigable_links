@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       66a24ba5-b9d1-411a-bd9d-708190474bca
+:END:
+#+title: A Short History of Nearly Everything (book)
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/radio_telescopy_is_gossamer.org][Radio telescopy is gossamer.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/pluto_s_orbit_is_chaotic_and_weird.org][Pluto's orbit is chaotic and weird.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_solar_system_goes_far_beyond_pluto.org][The solar system extends far beyond Pluto.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/outer_space_is_very_empty.org][the scale of outer space]] is hysterically weird.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/the_reverend_robert_evans_memorizes_star_fields.org][The Reverend Robert Evans memorizes star fields.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/isaac_newton.org][Isaac-Newton]] was super weird.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/about_half_of_the_earth_s_internal_heat_originates_from_radioactive_decay.org][About half of the Earth's internal heat originates from radioactive decay.]]
+* The US was a more innocent place once.
+  "Too poor to pay for college, [the soon-to-be-famous-physicist Albert Michelson] traveled toWashington, D.C., and took to loitering by the front door of the WhiteHouse so that he could fall in beside President Ulysses S. Grant when thePresident emerged for his daily constitutional. (It was clearly a moreinnocent age.) In the course of these walks, Michelson so ingratiated himself tothe President that Grant agreed to secure for him a free place at the U.S.Naval Academy. It was there that Michelson learned his physics."
+* Einstein was indomitable.
+  After proving that atoms exist (via Brownian motion predictions) and producing the theory of relativity, he was rejected as a university professor, then rejected as a high school teacher. He continued examining patents and thinking.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/obvious_in_retrospect_reasons_to_think_the_universe_is_expanding.org][Obvious-in-retrospect reasons to think the universe is expanding.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/atoms_mix_thoroughly.org][Atoms mix thoroughly.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/lead_is_a_neurotoxin.org][Lead is a neurotoxin.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/ozone_is_a_toxin_at_low_altitudes_but_at_high_altitudes_it_soaks_up_uv.org][Ozone is a toxin at low altitudes but at high altitudes it soaks up UV.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/cfcs_are_shockingly_effective_at_warming_the_climate.org][CFCs are shockingly effective at warming the climate.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/geologists_resisted_the_theory_of_continental_drift_heroically.org][Geologists resisted the theory of continental drift heroically.]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/oil_company_geologists_were_using_plate_tectonics_before_geologists_believed_it.org][Oil company geologists were using the theory before it was accepted.]]

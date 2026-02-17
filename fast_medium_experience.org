@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       13e24c8b-c45a-4448-a3a8-8b1ae529f092
+:END:
+#+title: fast medium experience
+* No time for concern over emojis. Deliver as much information as possible and then go on to a more urgent experience.
+* Read like a [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/rushing_paleontologist_as_metaphor_for_knowledge_graph_reading.org][rushing paleontologist]].

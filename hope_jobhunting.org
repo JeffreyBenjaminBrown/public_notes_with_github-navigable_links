@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3fc5e1c7-4539-4861-bb5c-de055da413eb
+:END:
+#+title: hope & jobhunting
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/uncertainty_is_easiest_to_reduce_when_it_s_high.org][Uncertainty is easiest to reduce when it's high.]]
+* Apply to lots of jobs. It's worth it. If the acceptance rate is high you're aiming too low.
+* Money might be as important to my happiness as health, without my knowing it, because it has been less volatile.

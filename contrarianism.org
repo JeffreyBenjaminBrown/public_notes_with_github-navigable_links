@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fc62e211-be72-469f-a543-2950c0e2c975
+:END:
+#+title: contrarianism
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/some_contrarian_positions_i_hold.org][some contrarian positions I hold]]

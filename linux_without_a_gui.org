@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       79ff2c65-42a9-485a-aac4-53a2f1c1dc8b
+:END:
+#+title: Linux without a GUI
+* PITFALL: right Alt key might not work
+:PROPERTIES:
+:ID:       f7e23933-d383-4c55-8cfd-7c0a287dae75
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/make_the_shell_font_bigger.org][make the shell font bigger]]
+* open Emacs
+  serial
+** install Emacs
+   alternatives
+*** nix-shell -p emacs
+*** sudo apt install emacs
+** start it with [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/emacs/emacs_mostly_packages.org#run-emacs-in-terminal-without-opening-an-x-window][the -nw option]]
+** use a simple config, or none
+   alternatives
+*** Use my bare-.emacs file from nix/jbb-config.
+    Just hide the usual .emacs file and copy
+      ~/nix/jbb-config/bash/bare-.emacs
+    to ~/.emacs.
+    (Do that because there seems to be no way to load froma  different place, unless it's that of a different user, which (1) is too heavyweight a solution and (2) doesn't work when I try it.)
+*** If that's too complex, use the -q option to load no .emacs file.
+** PITFALL: Might [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/linux_without_a_gui.org#pitfall-right-alt-key-might-not-work][need to use the left Alt]] key.
+** If the screen is unreadable.
+   `M-x load-theme <RET>`, then `manoj-dark <RET>`
+     Faster: `M-x lo-th TAB RET m-d TAB RET`

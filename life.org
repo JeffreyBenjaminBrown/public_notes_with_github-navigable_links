@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       8d624422-f901-4208-aaa7-bbbc6f1f5ba1
+:END:
+#+title: life
+* transclude: [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/death.org][death]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/if_life_is_change_then_to_not_change_much_is_to_be_near_death.org][If life is change, then to change little is to be near death.]]
+** Related ? [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/psilocybin_may_extend_lifespan.org][Psilocybin may extend lifespan.]]
+   hallucinogens ~ extreme (neuroplastic) change
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/competition_among_games.org][competition among games]]
+* competition between values (is lively)
+** e.g. [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/life.org#life-vs-peace][life vs. peace]]
+* life vs. peace
+:PROPERTIES:
+:ID:       1c20cf53-6b7b-4757-a08f-68ce5c7cb2d3
+:END:
+** ? solutions
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][patience]]
+** instances of the tension
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/sharing.org#sharing-v-presence][sharing v. presence]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/patience_v_courage.org][patience v. courage]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/assertiveness.org][assertiveness]] and [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/defense.org][caution]] without [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anger.org][anger]] or [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/insecurity.org][insecurity]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/empathy_v_communication.org][empathy v. communication]]
+    empathy ~ peace vs.. communication ~ life
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/discipline.org][disciplined]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org][relaxed]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/gentle.org][gentle]], [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/assertiveness.org][assertive]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/play_fun.org#serious-play][serious play]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/safety_v_surprise.org][safety v. surprise]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/humility.org#self-modulation-badly-filed][self-modulation]]
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/theo_von_interviews_louis_ck_2025_october.org#feeling-not-so-much-thinking-is-living]["Feeling, not so much thinking, is living."]]

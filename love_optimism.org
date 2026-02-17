@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       25a8f428-8d2a-414b-a3e2-07ea4f7000fd
+:END:
+#+title: love + optimism
+* see also [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/optimism.org][optimism]]
+* ways to be fascinated someone
+:PROPERTIES:
+:ID:       e86192e0-3c23-460d-85c3-fc4e66f5c553
+:END:
+** with what they know
+** with how they see the world
+** with their ongoing story
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/truth_v_love.org#be-known-and-loved-in-more-ways-than-expected][Be known and loved in more ways than expected.]]

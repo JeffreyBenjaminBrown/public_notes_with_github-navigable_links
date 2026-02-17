@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ceb94f7b-a3a8-4d3e-9497-d3916b992b0c
+:END:
+#+title: temptation
+* see also
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/habit.org][habit]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/motivation.org][motivation]]
+* Know [[https://github.com/JeffreyBenjaminBrown/org_personal-ish_with-github-navigable_links/blob/master/mysteries_problems.org#my-temptations][my temptations]]

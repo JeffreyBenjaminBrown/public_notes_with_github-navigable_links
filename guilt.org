@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       b18fb650-5941-448f-b8ff-f1929dad2951
+:ROAM_ALIASES: guilt shame
+:END:
+#+title: guilt + shame
+* triggered by [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/moral_injury.org][moral injury]]
+* Get over [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/feeling_like_i_forgot_my_homework.org][feeling like I forgot my homework]].
+* comes from believing one has broken a code of conduct, perhaps not one's own
+* guilt v. shame
+** different origins
+*** Shame comes from a violation of social norms (perceived to be) known by the group.
+*** Guilt is endogenous from the individual.
+** different scopes
+*** Shame is about the person.
+*** Guilt is about an act.
+** "Shame can almost be described as looking at yourself unfavorably through the eyes of others."
+* responses
+** Figure out why you did it.
+** pathological-seeming ones
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/confession.org][confession]]
+*** "denial by overcompensation"
+:PROPERTIES:
+:ID:       abf86c03-3938-4662-ac31-aaecfc5a9526
+:END:
+    Such a response misses the point by changing the subject,
+    rather than addressing the guilt-inducing conflict.
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/repression_psychology.org][repression]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/projection.org][projection]]
+*** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_harm.org][self-harm]]
+    "It was found that self-punishment did not occur if people had an opportunity to compensate the victim of their transgression." -- the wikipedia article on guilt
+* neighbors
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anxiety.org][anxiety]]
+* is [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/self_awareness.org#confront-your-self-consciousness][self-conscious]]
+* is absent in psychopaths

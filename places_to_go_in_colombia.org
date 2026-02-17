@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1fb4c4f2-2912-4a94-97d6-c3b38e3cce27
+:END:
+#+title: places to go in Colombia
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/anapoima_near_bogota_clean_quiet.org][Anapoima (near Bogotá, clean, quiet)]]

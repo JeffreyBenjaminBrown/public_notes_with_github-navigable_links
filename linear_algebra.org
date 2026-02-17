@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20fc15fe-5108-406b-bd01-585ab491ae32
+:END:
+#+title: linear algebra
+* affine transformations
+:PROPERTIES:
+:ID:       81e38b09-22f1-4ad5-8e16-efad524284db
+:END:
+  are more general than linear ones --
+  they need not fix the origin.
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/to_transform_a_rectangular_grid_to_a_hexagonal_one.org][to transform a rectangular grid to a hexagonal one]]

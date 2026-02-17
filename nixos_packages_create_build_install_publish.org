@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       52b7a722-8591-4f9b-a290-cccd1639e565
+:END:
+#+title: NixOS packages: find, create, build, install, uninstall, publish
+* refs
+** u
+   https://nixos.wiki/wiki/Nixpkgs/Create_and_debug_packages
+   https://nixos.org/nixos/manual/index.html#sec-custom-packages
+** NixOS manual / quick start to adding a package
+   https://nixos.org/manual/nixpkgs/stable/#chap-quick-start
+** NixOS manual / writing modules
+   https://nixos.org/manual/nixos/stable/index.html#sec-writing-modules
+* PITFALLs
+** My nixpkgs branch should match my nixos channel.
+   The latest master branch of nixpkgs, I think,
+   corresponds at least roughly to nixos-unstable.
+   nixos-stable corresponds to, IIRC,
+   the latest release tag of nixpkgs.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/nixos_packages_create_build_install_publish.org#installed-cc-libraries-are-not-ordinarily-available-1][installed C/C++ libraries are not ordinarily available]]
+* how to do it
+** PITFALL: These notes overlap
+   and most were written while ignorant.
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/writing_and_using_nix_expressions.org][writing and using Nix expressions]]
+** to build
+   serial
+*** 1 - write the package
+**** after manually downloading the source for it
+     In a clone of nixpkgs:
+       Put the package somewhere in pkgs/.
+	 Model it after nix pill 8 section 2, at
+	 /home/jeff/nix/pills/08/2-generic/
+	 NOTE: Requires manually downloading the source code.
+**** with automatic downloading of the source
+  rather than define src = the name of some file that I put there myself,
+  define
+    src = fetchurl {
+      url = ...;
+      sha256 = ...;
+    };
+  To compute sha256, download from the desired URL (but only once)
+  and run sha256sum on it.
+*** 2 - add an appropriate line to pkgs/top-level/all-packages.nix
+    e.g. hello-test = callPackage ../development/libraries/hello-test { };
+*** 3 - commands to build it
+:PROPERTIES:
+:ID:       c15685f2-54d8-40dd-a49c-d87ec0bd5034
+:END:
+    At the root of nixpkgs, test whether it builds with
+      nix-build -A <package-name>
+    To add it to my user profile, run
+      nix-env -f . -iA <package-name>
+** using nix-fetch-git with subumodules
+   nix-prefetch-git --fetch-submodules https://github.com/monome/serialosc
+** nixos-rebuild with a nixpkgs fork
+   nixos-rebuild switch -I nixpkgs=/home/jeff/nix/nixpkgs
+   /home/jeff/nix/nixpkgs/pkgs/development/libraries/hello-test
+* to uninstall a package installed via nix-env
+  nix-env -e <package names>
+* BLOCKED : response pending, my waf issue
+** TODO With an answer, awaiting response
+https://stackoverflow.com/questions/59805975/nix-building-waf-produces-a-file-but-i-seem-to-need-a-folder/59809635#59809635
+** with only a comment
+https://stackoverflow.com/questions/59806776/nix-write-a-package-that-uses-waf-instead-of-make?noredirect=1#comment105758423_59806776
+* solutions
+** to find the package that provides a particular file
+   https://github.com/bennofs/nix-index
+** installed C/C++ libraries are not ordinarily available
+:PROPERTIES:
+:ID:       c6589c74-c973-4ce3-a14b-6b499ed53e96
+:END:
+*** illustration
+    Even after I have the fftw library installed,
+    if I try to compile this with `gcc`,
+    it breaks at the import.
+
+    #include <fftw.h>
+
+    int main() {
+      printf("testing\n");
+      return 0;
+    }
+*** solutions, IIRC
+**** One can run `nix-shell` and use it from within there.
+**** One can build via nix/nixos, rather than running gcc by hand.
+** how to compute the sha256 for a nix derivation
+*** one way: input garbage, and expect NixOS to suggest the right value
+*** another way: run nix-hash, maybe pfaffing around with a change of base
+   https://gist.github.com/boxofrox/d8a3080fbb03f84b7d7a31e102b35f09
+
+   12:31:57         boxofrox | I'm trying to calculate the sha256 for a package I'm making, but I can't figure out how to do it.  I've posted details at https://gist.github.com/boxofrox/d8a3080fbb03f84b7d7a31e102b35f09 , any help is appreciated.
+   12:33:08           clever | boxofrox: it changed the base for the hash
+   12:33:36          tilpner | boxofrox - nix-hash --to-base32 --type sha256 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+   12:33:58         boxofrox | oh, now that makes sense.
+   12:34:08                ↪ | thank you
+   12:34:10           clever | [root@amd-nixos:~]# nix-hash --to-base32 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b --type sha256
+   12:34:14                ↪ | 0sslrbd0b64gxxcc02afjv7fwkmn4i8w19win08yjvqbr0clgfh1
+   12:34:18           clever | boxofrox: this returns the 2nd hash in the error message
+   12:34:59         boxofrox | so I want the first hash then.  sweet
+   12:35:04           clever | yep

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8d47b460-7718-484e-aa6c-35007267031f
+:END:
+#+title: pandoc
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/markdown_to_pdf_how_to_convert.org][markdown to pdf, how to convert]]

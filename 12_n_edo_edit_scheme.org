@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       53fe8586-9988-4899-974d-04dbf5fe5707
+:END:
+#+title: 12*n edo edit scheme
+* a better scheme: After live recording, grow single-scale intervals automatically, then edit while listening.
+  No root would have to be assigned.
+  Just accumulate until the no-three-cluster rule would be violated,
+  then start a new cluster.
+  Each cluster will have at most 8 notes.
+  The user can annotate a 'root' column if they want,
+  which would contain a column title.
+  Also a 'notes' column, to help know what happens when.
+  The user can determine which note is which, hopefully,
+  relying in part on the fact that
+  12-edo notes not played are blanks in the row.
+  Begin the recording with (in 12-edo) 0,1,2,3,
+  which will get clumped into a 0,1 and then a 2,3,
+  providing a starting position.
+* one scheme: record roots on first listen, generate pitch set table, edit for offsets
+** Play a second track to define roots.
+** Save a (time, root, pitch set) dataset.
+   where root is a monoid,
+   i.e. silence is one value
+** Listen while editing the file to define pitch set changes.
+** Align and format the file specially before editing.
+** There's a 13th column that is global pitch offset.
+** Example
+*** the table
+| time | offset |    0 | 1 |     2 | 3 |     4 |    5 | 6 |    7 | 8 |    9 |  10 | 11 |
+| 0:01 |      0 |    0 |   |     2 |   |  3.85 |    5 |   |    7 |   | 8.85 | 9.7 |    |
+| 0:02 |      0 |    8 |   |    10 |   | -0.15 |    1 |   |    3 |   | 4.85 | 5.7 |    |
+| 0:03 |  -0.15 | 8.15 |   | 10.15 |   |     0 | 1.15 |   | 3.15 |   |    5 |     |  7 |
+| 0:04 |  -0.15 | 8.40 |   | 10.40 |   |     0 | 1.40 |   | 3.40 |   |    5 |     |  7 |
+*** notes on the table
+The 3rd and 4th row mean the same thing.
+For each column, each note in the first 3 rows is the same.
+For columns 4 and 9, every note is the same.
+For columns 0, 2, 5 and 7, the note is different in rows 3 and 4.
+*** how to generate that data from a track
+Use the track of roots.
+Translate each note to mod 12.
+Find where those notes lie in the 12 rows.
+Subtract the root from each of them, and then take mod 12 again, before writing it in that row.
+In the offset put all 0s.
+*** how to apply that data to a track
+**** Round all numbers to the nearest 1/6th, for 72-edo.
+     Why: Can't use an edo > 120 in MIDI,
+     and 72 seems best among the 12*n edos in that range.
+**** Apply each row to all notes in the time range from its start to the next note's start.
+**** generate a table of differences
+***** example
+****** these values
+ | time | offset |    0 | 1 |     2 | 3 |     4 |    5 | 6 |    7 | 8 |    9 |  10 | 11 |
+ | 0:02 |      0 |    8 |   |    10 |   | -0.15 |    1 |   |    3 |   | 4.85 | 5.7 |    |
+ | 0:04 |  -0.15 | 8.40 |   | 10.40 |   |     0 | 1.40 |   | 3.40 |   |    5 |     |  7 |
+****** would generate these differences
+ | time | offset |    0 | 1 |    2 | 3 |     4 |    5 | 6 |    7 | 8 |     9 |  10 |    11 |
+ | 0:02 |      0 |    8 |   |   10 |   | -0.15 |    1 |   |    3 |   |  4.85 | 5.7 |       |
+ | 0:04 |  -0.15 | 0.25 |   | 0.25 |   | -0.15 | 0.25 |   | 0.25 |   | -0.15 |     | -0.15 |
+***** procedure
+****** Add the root to each row.
+So if a cell was 0, it's now equal to its column title.
+****** Subtract the title of each column from each cell in it.
+****** Add the offset to each cell.
+****** Multiply by 6.
+****** Round to the nearest integer.
+**** modify those notes
+     To the MIDI recording,
+     add the values in column N
+     to each note equal to N modulo 12.
+** Keep the source track and the output track separate.
+   Tweak the shift script, then regenerate the output track
+   from the input track.
+   This way tweaks to the script do not affect the source material.

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f516cf30-aad5-4b56-9abb-904c29dc99c3
+:END:
+#+title: orgasm
+* Trying to hide one is funny.
+:PROPERTIES:
+:ID:       823f3fab-787b-44f2-800e-d9260c1ec14c
+:END:
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/frequency.org][frequency]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/orgasm_is_confusing_about_frequency.org][Orgasm is confusing about frequency.]]
+* situations near it
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/enlightenment.org][enlightenment]]
+** [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/irreversible_transitions_in_knowing.org][Irreversible transitions in knowing, like comets, make one gasp.]]

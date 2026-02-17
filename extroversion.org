@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       70d54c92-a5d4-4207-b07b-debe62c5db71
+:ROAM_ALIASES: "introversion & extroversion"
+:END:
+#+title: extroversion & introversion
+* ?
+** extroversion ~ hedonism & introversion ~ "oriented by psychic _"
+*** Jung said so
+    'Jung defined introversion as an "attitude-type characterised by orientation in life through subjective psychic contents", and extraversion as "an attitude-type characterised by concentration of interest on the external object".'
+* [[https://github.com/JeffreyBenjaminBrown/public_notes_with_github-navigable_links/blob/master/balance.org#introversion--acceptance][introversion & acceptance]]
